@@ -1,0 +1,8 @@
+- Repeating tasks workflow
+    - Not pretty - but our goal is to make things POSSIBLE with a few building blocks, and if they work well as a recipe bake them into product as features later
+    - **[Example](<Example.md>):**
+        - Template block
+            - Take out the trash
+        - Each instance of the task (where you put the todo checkbox, and other notes like the assigned date) is a reference to that template 
+            - [ ] "Take out the trash" [March 3rd, 2020](<March 3rd, 2020.md>)
+            - [ ] "Take out the trash" [March 10th, 2020](<March 10th, 2020.md>)

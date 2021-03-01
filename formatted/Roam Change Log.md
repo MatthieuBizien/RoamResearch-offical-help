@@ -1,0 +1,1340 @@
+- [About Roam Updates](<About Roam Updates.md>) 
+- Not released as a version 
+    - Pending review
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - [roam](<roam.md>)/css
+                - [BEM](<BEM.md>) refactor for filters
+    - [February 23rd, 2021](<February 23rd, 2021.md>)
+        - [New Features](<New Features.md>)
+            - [Roam Alpha API](<Roam Alpha API.md>)
+                - New method to create / edit users
+                    - `window.roamAlphaAPI.data.upsertUser`
+                        - **[description](<description.md>):**
+                        - **[parameters](<parameters.md>):**
+                            - Object
+                                - Keys
+                                    - `user-uid`
+                                        - Required
+                                        - __string__
+                                    - `display-name`
+                                        - Optional
+                                        - __string__
+                        - **[usage](<usage.md>):**
+                - New methods to add and remove watches for changes to datalog pull paterns
+                    - `window.roamAlphaAPI.data.addPullWatch`
+                        - **[description](<description.md>):**
+                            - Watches for changes on pull patterns on blocks and pages and provides a callback to execute after changes are recorded, providing the before and after state to operate on
+                        - **[parameters](<parameters.md>):**
+                            - pull pattern
+                                - [ ] 
+                                - __string__
+                                - Required
+                            - entity-id
+                                - [ ] 
+                                - __string__
+                                - Required
+                            - callback function
+                                - Takes two arguments, before and after state of the pull
+                                - __function__
+                                - Required
+                        - **[usage](<usage.md>):**
+                            - ```javascript
+window
+  .roamAlphaAPI
+  .data
+  .addPullWatch(
+  	"[:block/children :block/string {:block/children ...}]",
+    '[:block/uid "02-21-2021"]',
+     function a(before, after) { console.log("before", before, "after", after);)```
+                    - `window.roamAlphaAPI.data.removePullWatch`
+                        - **[description](<description.md>):**
+                            - Removes pull watch
+                                - If no callback provided, clears all watches from pull pattern
+                                - If callback provided, only removes watch with that callback
+                        - **[parameters](<parameters.md>):**
+                            - pull pattern
+                                - [ ] 
+                                - __string__
+                                - Required
+                            - entity-id
+                                - [ ] 
+                                - __string__
+                                - Required
+                            - callback function
+                                - __function__
+                                - Optional
+                        - **[usage](<usage.md>):**
+                            - ```javascript
+window
+  .roamAlphaAPI
+  .data
+  .removePullWatch(
+  	"[:block/children :block/string {:block/children ...}]",
+    '[:block/uid "02-21-2021"]',
+     function a(before, after) { console.log("before", before, "after", after);)```
+                - New methods for undo and redo
+                    - `window.roamAlphaAPI.data.undo`
+                        - **[description](<description.md>):**
+                        - **[parameters](<parameters.md>):**
+                            - None
+                        - **[usage](<usage.md>):**
+                    - `window.roamAlphaAPI.data.redo`
+                        - **[description](<description.md>):**
+                        - **[parameters](<parameters.md>):**
+                            - None
+                        - **[usage](<usage.md>):**
+                - New util method for generating block-uids
+                    - `window.roamAlphaAPI.util.generateblockUID`
+                        - **[description](<description.md>):**
+                        - **[parameters](<parameters.md>):**
+                            - None
+                        - **[usage](<usage.md>):**
+                - Added `user-uid` an optional argument under "`block`" and "`page`" props for "`createBlock`" "`updateBlock`"
+"`createPage`" "`updatePage`" methods
+        - [Bug Fixes](<Bug Fixes.md>)
+            - [Roam Alpha API](<Roam Alpha API.md>)
+                - Fixed pulling on a lookup ref ('[:block/uid "xzy"]')
+                - Fixed adding `roamDatomicAPI` to the window object
+                - Fixed security vulnerability where you could use the `roamAlphaAPI` write-fns on a read-only graph
+                - Fixes bug where you could create a block that already exists
+            - Fixed typo in kanban instructions
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Added https://grain.co support to inline video component
+    - [February 22nd, 2021](<February 22nd, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Improved offline detection on slow connections
+            - Escape hatch for if/when drag n' drop dropzones take over the page and don't go away
+    - [February 21st, 2021](<February 21st, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Added `data-page-title` attribute to block HTML nodes to allow for block-level styling based on current page
+    - [February 20th, 2021](<February 20th, 2021.md>)
+        - [New Features](<New Features.md>)
+            - [Roam Alpha API](<Roam Alpha API.md>)
+                - New methods to interact with the [Right Sidebar](<Right Sidebar.md>):
+                    - **[action parameter schema](<action parameter schema.md>):**
+                        - `window`
+                            - `type`
+                                - View type of window to open in the sidebar
+                                - Can be one of:
+                                    - "mentions"
+                                    - "block"
+                                    - "outline"
+                                    - "graph"
+                                - __string__
+                            - `block-uid`
+                                - Unique identifier for block to open in the right sidebar
+                                - __string__
+                            - `order`
+                                - Order of the window from $$0$$ to $$n$$
+                                - __integer__
+                    - **[actions](<actions.md>):**
+                        - `window.roamAlphAPI.ui.rightSidebar`
+                            - `open`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - None
+                                - **[usage](<usage.md>):**
+                            - `close`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - None
+                                - **[usage](<usage.md>):**
+                            - `getWindows`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - None
+                                - **[usage](<usage.md>):**
+                            - `addWindow`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
+                                - **[usage](<usage.md>):**
+                            - `removeWindow`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
+                                - **[usage](<usage.md>):**
+                            - `expandWindow`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
+                                - **[usage](<usage.md>):**
+                            - `collapseWindow`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
+                                - **[usage](<usage.md>):**
+                            - `pinWindow`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
+                                - **[usage](<usage.md>):**
+                            - `unpinWindow`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
+                                - **[usage](<usage.md>):**
+                            - `setWindowOrder`
+                                - **[description](<description.md>):**
+                                - **[parameters](<parameters.md>):**
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
+                                        - "`order`"
+                                            - Required
+                                - **[usage](<usage.md>):**
+            - [roam/render](<roam/render.md>)
+                - 
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - New page delete modal showing a counter of the number of reference that will be lost upon page deletion
+                - ![](https://user-images.githubusercontent.com/25736/108563712-a61b9b80-72e0-11eb-9e3e-5df2ce08d497.png)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug where right sidebar re-rendered all windows on any change to the set of open windows
+    - [February 19th, 2021](<February 19th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug where page rename was failing to add brackets when adding a namespace tag
+            - Fixed bug in which a slider with no children wasn't rendering
+            - Put more validation on [Roam Alpha API](<Roam Alpha API.md>) write actions requiring that block uids provided are non-empty strings and only include URL-safe characters
+    - [February 18th, 2021](<February 18th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug with Kanban where clicking on title of column would open two identical windows in the right sidebar
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Changed action to open Kanban cards in right sidebar from `click` to `shift+click` to be consistent with existing conventions for opening content in the right sidebar
+            - Updated help database URL in ? menu to redirect to [Welcome to Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN) page instead of starting on Daily Notes
+            - Students, academics, researchers, and those with lower income can now apply for [Roam Scholars](<Roam Scholars.md>) through Intercom
+    - [February 17th, 2021](<February 17th, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Small improvement to the sorting of autocomplete dropdowns privileging string start
+                - A search for "foo" will privilege "foo bar" over "bar foo"
+            - If a page is open in the sidebar, clicking on the mentions will open mentions if not already open and close mentions if already open 
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Shift-clicking on refs now stops creating text or block selections
+    - [February 15th, 2021](<February 15th, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Top-right corner edit button is always visible on mobile and touch devices for the following components:
+                - Images
+                - Audio player
+                - Tables
+                - Videos
+                - iframes
+                - Drawing
+            - Date links in the `{{orphans}}`component link to the appropriate Daily Notes page
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Editing the page title in the sidebar does not cause the page title to get displaced vertically anymore
+            - Fixed bug where renaming a page in the sidebar while having a block containing a link to that page in the main page active forces the creation of another page with the original name rather than updating the page link in the main page
+            - Fixed issue of being unable to edit orphan blocks in `{{orphans}}` component
+    - [February 14th, 2021](<February 14th, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Key command chord for toggling document mode on a page changed from `Ctrl-c Ctrl-v` to `Ctrl-m Ctrl-d` to prevent conflicts with copy and paste on PC
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug where the help menu was shifting the page over
+            - Fixed bugs with code block dropdown and autocomplete overlaying on top of other elements inappropriately
+            - Fixed copy for File Too Large toast to reflect 100 MB limit on files
+            - Fixed copy for the key command for collapsing a block in the help menu
+            - Fixed bug in front-end [Roam Alpha API](<Roam Alpha API.md>) where block-uids generated were not in the same format as block-uids generated normally
+    - [February 13th, 2021](<February 13th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug where the help menu was shifting the page over in the browser window when opened after moving it
+            - Fixed bug with autocomplete and code block dropdowns were overlapping other components that should be rendered above them
+    - [February 11th, 2021](<February 11th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug where order of sidebar windows when loading pinned windows was not preserved
+    - [February 8th, 2021](<February 8th, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - [Help Menu](<Help Menu.md>)[V1](<V1.md>)
+                - Now featuring more keyboard shortcuts and improved styling
+                - Version number, link to help db, and getting started videos now included
+                - 
+    - [February 2nd, 2021](<February 2nd, 2021.md>)
+    - [February 1st, 2021](<February 1st, 2021.md>)
+        - [New Features](<New Features.md>)
+            - New [Help Menu](<Help Menu.md>) in top right of screen [MVP](<MVP.md>)
+                - {{embed: ((g981j_kvZ))}}
+            - Intercom live chat support for all users!
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - You can now follow a link to a page with `ctrl+o` and then focus on the first block to start writing with `cmd+enter` on Mac and `ctrl+enter` on PC without having to touch the cursor
+                - Before you had to click after pressing `ctrl+o` to allow you to focus on the first block with the aforementioned key commands
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Rolled back parser regex changes which were causing Roam to freeze up on Chromium-based browsers
+            - Fixed bug where Roam would crash if you exited User Settings with a `nil` display name
+    - [January 31st, 2021](<January 31st, 2021.md>)
+    - [January 30th, 2021](<January 30th, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>) [roam](<roam.md>)/css
+            - [BEM](<BEM.md>) refactor for top nav bar
+                - `.roam-topbar` -> `.rm-topbar`
+                    - `.rm-topbar__graph-view-btn`
+                    - `.rm-topbar__spacer-sm`
+                    - `.rm-topbar__left-spacer`
+                - `.rm-open-left-sidebar-btn`
+                    - `.rm-open-left-sidebar-btn--hover`
+                - `.rm-starred`
+                    - `.rm-starred--active`
+                    - `.rm-starred--inactive`
+                - `.rm-saving-icon` -> `.rm-sync`
+                    - `.rm-saving-inner-icon` -> `.rm-sync__icon`
+                    - `.rm-saving-local` -> `.rm-sync--saving-local`
+                    - `.rm-saving-remote` -> `.rm-sync--saving-remote`
+                    - `.rm-synced` -> `.rm-sync--synced`
+                - `.rm-sync-tooltip__content`
+                - `.rm-sync-tooltip__title`
+                - `.rm-sync-tooltip__text`
+                    - `.rm-sync-tooltip__text--local-pending`
+                - `.rm-sync-tooltip__last-sync-time`
+    - [January 27th, 2021](<January 27th, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>) [*](((9GPK-JEv8)))
+            - Expand and collapse all blocks at a certain depth by clicking on outliner lines
+            - {{[video](<video.md>): https://www.loom.com/share/f5c52cd86ce748f58c1b6bcc5d90c901}} [*](((7FoYYhlyE)))
+    - [January 26th, 2021](<January 26th, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - `Ctrl-o` and clicking on a bullet will now focus the block in the main window, rather than in context (inside references or the sidebar)
+            - {{[video](<video.md>): https://www.loom.com/share/a9df9e99bf7047bcbb1d06015eb86300}}
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug with web links that contained parentheses not parsing when inside a markdown alias
+    - [January 25th, 2021](<January 25th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed alignment issue with `{{POMO}}` and `{{TODO}}` / Headers in the same block
+    - [January 24th, 2021](<January 24th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug with image alt text containing newlines crashing Roam
+    - [January 23rd, 2021](<January 23rd, 2021.md>)
+        - [roam/css](<roam/css.md>) [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - New class selectors for open / closed blocks:
+                - `rm-block--open`
+                - `rm-block--closed`
+    - [January 22nd, 2021](<January 22nd, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>) [Roam Alpha API](<Roam Alpha API.md>)
+            - Raised rate limit from 50 to 300 blocks/minute
+        - [Bug Fixes](<Bug Fixes.md>)
+            - JSON Exports now include`page-uid`s
+            -  Page tag autocomplete no longer tries to include string after newline
+    - [January 21st, 2021](<January 21st, 2021.md>)
+        - [New Features](<New Features.md>)
+            - [Roam Alpha API](<Roam Alpha API.md>)
+                - Added new write methods to `window.roamAlphaAPI` (takes a single object as an argument) and `roam.block` and `roam.page` namespaces with write functions to the [roam/render](<roam/render.md>) cljs map as a single argument
+                    - **[action parameter schema](<action parameter schema.md>):**
+                        - `location`
+                            - `parent-uid`
+                                - Unique Identifier for block parent under which the block should be inserted.
+                                - __string__
+                            - `order`
+                                - Index where the block should be inserted under the parent.
+                                    - Starts at 0
+                                - __string__
+                        - `block`
+                            - `uid`
+                                - Unique identifier for the block.
+                                - __string__
+                            - `string`
+                                - Text content of the block.
+                                - __string__
+                            - `open`
+                                - Collapse state of the block.
+                                - __boolean__
+                        - `page`
+                            - `uid`
+                                - Unique identifier for the page.
+                                - __string__
+                            - `title`
+                                - Title of the page.
+                                - __string__
+                    - **[actions](<actions.md>):**
+                        - block
+                            - `createBlock`
+                                - **[description](<description.md>):**
+                                    - Creates a new block at a location
+                                - **[parameters](<parameters.md>):**
+                                    - "`location`"
+                                        - "`parent-uid`" **required**
+                                        - "`order`" **required**
+                                    - "`block`"
+                                        - "`string`" **required**
+                                        - "`uid`" **optional**
+                                - **[usage](<usage.md>):**
+                                    - js
+                                        - ```javascript
+window
+  .roamAlphaAPI
+  .createBlock(
+	{"location": 
+		{"parent-uid": "01-21-2021", 
+		 "order": 0}, 
+	 "block": 
+		{"string": "test"}})```
+                                            - Thank you [Tyler Wince](<Tyler Wince.md>) and [ccc](<ccc.md>) for catching the original mistake in the docs :D 
+                                    - cljs
+                                        - ```clojure
+(ns demo.usage
+  (:require
+   [reagent.core :as r]
+   [roam.block :as block]))
+
+(defn create-block-btn [_]
+  (fn [_]
+    [:button
+     {:draggable true
+      :on-click (fn [evt] (block/create 
+					{:location {:parent-uid "f8cXfDIRn"
+                                :order 0}
+					 :block {:string "Carthago delenda est"}}))}
+     "create block"]))```
+                                        - {{[roam/render](<roam/render.md>): ((ZA34Gp1hp))}}
+                            - `moveBlock`
+                                - **[description](<description.md>):**
+                                    - Move a block to a new location
+                                - **[parameters](<parameters.md>):**
+                                    - "`location`"
+                                        - "`parent-uid`" **required**
+                                        - "`order`" **required**
+                                    - "`block`"
+                                        - "`uid`" **required**
+                            - `updateBlock`
+                                - **[description](<description.md>):**
+                                    - Updates a block's text and/or collapsed state
+                                - **[parameters](<parameters.md>):**
+                                    - "`block`"
+                                        - "`uid`" **required**
+                                        - "`string`" **optional**
+                                        - "`open`" **optional**
+                            - `deleteBlock`
+                                - **[description](<description.md>):**
+                                    - Delete a block and all its children, and recalculates order of sibling blocks
+                                - **[parameters](<parameters.md>):**
+                                    - "`block`"
+                                        - "`uid`" **required**
+                        - page
+                            - `createPage`
+                                - **[description](<description.md>):**
+                                    - Creates a new page with a given title
+                                    - Pages with title in the format of `January 21st, 2021` will create a new daily note if it does not yet exist
+                                - **[parameters](<parameters.md>):**
+                                    - "`page`"
+                                        - "`title`" **required**
+                                        - "`uid`" **optional**
+                            - `updatePage`
+                                - **[description](<description.md>):**
+                                    - Updates a page's title
+                                - **[parameters](<parameters.md>):**
+                                    - "`page`"
+                                        - "`title`" **required**
+                                        - "`uid`" **required**
+                            - `deletePage`
+                                - **[description](<description.md>):**
+                                    - Delete a page and all its children blocks
+                                - **[parameters](<parameters.md>):**
+                                    - "`page`"
+                                        - "`uid`" **required**
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Read-Status for Block References
+                - **[Roam Demo Videos](<Roam Demo Videos.md>):**
+                    - {{[video](<video.md>): https://www.loom.com/share/05cd5a60341b46edb62cb5195db3d6f6}}
+            - Vimeo support for video embeds
+                - **[Demo](<Demo.md>):**
+                    - {{[video](<video.md>): https://vimeo.com/67076984}}
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug with numbered lists going into double and triple digits not having enough margin resulting in overlapping text
+            - Fixed bug with accented characters not working in Safari
+            - Fixed styling bug that resulted in weird bullet styling inside block embeds within block references
+    - [January 20th, 2021](<January 20th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed regression where selecting multiple blocks within a block embed with dragging the cursor didn't work
+            - `{{word-count}}` now counts Chinese and Arabic characters as words 
+    - [January 19th, 2021](<January 19th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed word wrapping for blockquotes
+            - Improved readability of links inside alias tooltips
+            - Fixed word wrapping for alias tooltips
+            - Removed extra bottom margin for blockquotes inside alias tooltips
+            - **[Before](<Before.md>):**
+                - ![](https://camo.githubusercontent.com/a463584da9496ab718479517ad784f590ebe7af627bb08c2289b9a95d21035e7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666972657363726970742d35373761322e61707073706f742e636f6d2f6f2f696d6773253246617070253246726f616d2d7465616d25324648464b763774427858432e706e673f616c743d6d6564696126746f6b656e3d63343862353536332d313964352d346238662d613565372d383234353338383138616633)
+                - 
+            - **[After](<After.md>):**
+                - ![](https://camo.githubusercontent.com/dfd2286022ab21626754b5d6cd8eae2fc4c1d12853fec5883da3a81c74164989/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666972657363726970742d35373761322e61707073706f742e636f6d2f6f2f696d6773253246617070253246726f616d2d7465616d25324647705f6530373934616d2e706e673f616c743d6d6564696126746f6b656e3d38363565363538612d356333322d343465312d396137322d303632376538323065626532)
+    - [January 18th, 2021](<January 18th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed styling bug that resulted in weird bullet styling inside queries within block references
+            - Fixed bug introduced [January 15th, 2021](<January 15th, 2021.md>) with typing before a block reference pulling up search
+    - [January 15th, 2021](<January 15th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed broken image markdown when there are parentheses in the title
+    - [January 13th, 2021](<January 13th, 2021.md>)
+        - [New Features](<New Features.md>)
+            - [Display names](<Display names.md>)
+                - You can now set a display name for each graph from the User Settings modal
+                    - Email addresses will not be shown by default, so if you didn't use Google Sign In, your display name will be __Anonymous__ until you set it
+                    - **[Demo](<Demo.md>):**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fg9OfzqH_3n.gif?alt=media&token=933caecf-386b-4aa5-a04a-35092c59ca28)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Video embed now supports full-screen mode 
+            - YouTube allows for picture-in-picture mode
+    - [January 10th, 2021](<January 10th, 2021.md>)
+        - [roam/css](<roam/css.md>) [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Style your blocks based on the tags you put in them
+                - **[Before](<Before.md>):**
+                    - To make the text in a block blue and hide the tag, you would have to tag a block with [blue](<blue.md>) and set rules like below in roam/css:
+`.rm-block[data-page-links*="blue"] > .rm-block__self {
+    color: blue;
+}
+.rm-block[data-page-links*="blue"] .rm-page-ref--tag[data-tag*="blue"] {
+    display: none;
+}`
+                - **[After](<After.md>):**
+                    - Now if you put a period at the beginning of the tag name, like `#.blue` Roam will parse it as a CSS class name, hide the tag within the block ((which you can still hover over to see)) and allow you define a class like so:
+`.blue {
+    color: blue;
+}`
+                - This also allows you to make use of the classes we use already from [Blueprint](https://blueprintjs.com/docs) and any we've defined in our stylesheets
+                - **[Demo](<Demo.md>):**
+                    - {{[video](<video.md>): https://www.loom.com/share/57f203e5047445a98985e807e6b79491}}
+    - [January 8th, 2021](<January 8th, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug with the height of the textarea not being updated when toggling block heading with keyboard shortcuts
+    - [January 6th, 2021](<January 6th, 2021.md>)
+        - [New Features](<New Features.md>)
+            - Responsive inline video embeds for Loom and YouTube videos
+                - If you paste a loom or YouTube link in Roam you will now see a video button to the right of it, which if you click, will convert it into an inline video embed
+                - **[Demo](<Demo.md>):**
+                    - https://www.youtube.com/watch?v=rJZNMZoqwNY
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed blockquote styling inside the tooltip for aliases
+                - ![](https://user-images.githubusercontent.com/24982590/103519314-8f091300-4e32-11eb-81fc-c61e9d93e9b5.png)
+    - [January 4th, 2021](<January 4th, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - You can now add the `[roam/templates](<roam/templates.md>)` tag to the current block in the Slash Command Menu, so you can make a template of the blocks nested beneath
+                - **[Demo](<Demo.md>):**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fap_7uaJQQC.gif?alt=media&token=0602242f-6c58-4a87-b43b-291cb6104375)
+    - [January 1st, 2021](<January 1st, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug with nested bullets in templates being applied out of order
+- [roam@0.8.2](<roam@0.8.2.md>)
+- [roam@0.8.1](<roam@0.8.1.md>)
+- [roam@0.8.0](<roam@0.8.0.md>)
+- [roam@0.7.9](<roam@0.7.9.md>)
+- [roam@0.7.8](<roam@0.7.8.md>)
+    - [December 30th, 2020](<December 30th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug with shift-clicking Daily Notes to open in sidebar before the current day has been created crashing Roam, now creates today's page before opening
+            - Fixed bug with user's plan being incorrectly shown as expired
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Update to `[roam/templates](<roam/templates.md>)`
+                - Only children of parent template block will be pasted where the trigger is called now
+                - Allows for more flexibility and flat templates
+                - Decouples the trigger name with the template
+    - [December 29th, 2020](<December 29th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - ~~Collapsable Parentheticals~~ -> [Expandable Parentheticals](<Expandable Parentheticals.md>)
+                - Parentheticals are closed by default now and can be used for [cloze deletion](<cloze deletion.md>) 
+    - [December 27th, 2020](<December 27th, 2020.md>)
+        - [New Features](<New Features.md>)
+            - MVP of `[roam/templates](<roam/templates.md>)`
+                - Create a "trigger" writing on the [roam/templates](<roam/templates.md>) page or by tagging block with [roam/templates](<roam/templates.md>)
+                - Fire the trigger by typing ;;
+                - A copy of the parent template block and its children will be inserted where the trigger was fired
+                - The internal reference structure of the blocks in the template is maintained
+                - **[Demo](<Demo.md>):**
+                    - {{iframe: https://www.loom.com/embed/9553be500a904724b0f0a7652fa707bc}}
+                - [The Ones Who Crossed The Rubicon](<The Ones Who Crossed The Rubicon.md>)
+                    - [RoamHacker](<RoamHacker.md>)
+                        - https://twitter.com/roamhacker/status/1332080789396262912?s=20
+                        - [SmartBlocks](<SmartBlocks.md>) were the inspiration for the templating feature and serve as a model for programmatic templating that we admire greatly
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - `{{or}}` block now renders the text within
+    - [December 22nd, 2020](<December 22nd, 2020.md>)
+        - [roam/css](<roam/css.md>) changes
+            - **[[[[Roam](<[[Roam.md>)](<[[[Roam](<[[Roam.md>).md>):**[BEM](<BEM.md>)]]
+                - .rm-page-ref
+                    - ".rm-page-ref"__brackets
+                    - ".rm-page-ref"--namespace
+                    - ".rm-page-ref"--link
+                    - ".rm-page-ref"--tag
+                - .rm-alias
+                    - ".rm-alias"--block
+                    - ".rm-alias"--page
+                    - ".rm-alias"--external
+                - .rm-attr-ref
+                - .rm-highlight
+                - .rm-bold
+                - .rm-italics
+                - .rm-strikethrough
+                - .rm-alias-tooltip__content
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Tooltip for aliases so you can see the underlying external link, block reference, or page reference
+                - ![CleanShot 2020-12-18 at 19 46 28](https://user-images.githubusercontent.com/24982590/102679387-c0b08780-416c-11eb-8647-4b397a49bc8c.gif)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Changed the [Unicode [[Astrolabe](<Unicode [[Astrolabe.md>)]] to the original [Astrolabe](<Astrolabe.md>) for [Expandable Parentheticals](<Expandable Parentheticals.md>) and overflow inside inline block references ((fixes issue with Windows users not being able to see the unicode icon))
+                - **Before**
+                    - ![CleanShot 2020-12-18 at 21 53 02@2x](https://user-images.githubusercontent.com/24982590/102681089-e5f8c200-417b-11eb-93e9-23bc07875153.png](https://user-images.githubusercontent.com/24982590/102681089-e5f8c200-417b-11eb-93e9-23bc07875153.png)
+                    - ![CleanShot 2020-12-18 at 23 49 35@2x](https://user-images.githubusercontent.com/24982590/102683102-c79ac280-418b-11eb-80b8-abe040ce4be7.png](https://user-images.githubusercontent.com/24982590/102683102-c79ac280-418b-11eb-80b8-abe040ce4be7.png)
+                - **After**
+                    - ![CleanShot 2020-12-18 at 21 52 55@2x](https://user-images.githubusercontent.com/24982590/102681091-e729ef00-417b-11eb-9105-38a8465bf357.png](https://user-images.githubusercontent.com/24982590/102681091-e729ef00-417b-11eb-9105-38a8465bf357.png)
+                    - ![CleanShot 2020-12-18 at 23 48 52@2x](https://user-images.githubusercontent.com/24982590/102683103-ca95b300-418b-11eb-9a1e-e5f21b450e2d.png](https://user-images.githubusercontent.com/24982590/102683103-ca95b300-418b-11eb-9a1e-e5f21b450e2d.png)
+            - Fixed regression which broke inline Spotify player
+    - [December 19th, 2020](<December 19th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Inline audio player works on Safari now and added an edit button to let users more easily focus on the block the player is in
+            - Fixed issue with backticks that would create inline code markdown with one backtick press by inserting a second one after the cursor, now that will only occur when wrapping selected text, so you can use a backtick without having to move forward one character and press backspace
+            - New iOS detection method that accurately identifies iPads on iPadOS 13 or higher
+    - [December 17th, 2020](<December 17th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Added a minimum width for page titles on All Pages page so they don't get cut off on smaller screens
+                - **Before**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2FYwjSwHS5aE.png?alt=media&token=0f88cb83-d832-4d96-9ffa-574552698e49)
+                - **[After](<After.md>):**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2FFR-gRVAjvO.png?alt=media&token=d23d2f75-9cca-446c-9b21-7a1b9a691ab2)
+    - [December 16th, 2020](<December 16th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Logic for when to show block inside inline refs is now correct
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Start of [BEM](<BEM.md>) refactor
+                - Removing inline styles
+                - New classes:
+                    - .rm-autocomplete__wrapper
+                    - .rm-block
+                        - ".rm-block"__input
+                            - "".rm-block"__input"--view
+                            - "".rm-block"__input"--active
+                        - ".rm-block"--ghost
+                        - ".rm-block"__self
+                        - ".rm-block"__controls
+                        - 
+    - [December 15th, 2020](<December 15th, 2020.md>)
+        - {{embed: ((Fy1iRmn_r))}}
+- [roam@0.7.7](<roam@0.7.7.md>)
+    - [December 14th, 2020](<December 14th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Right-to-left mode accessible through the User Settings panel
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKxJr6Aw0yT.png?alt=media&token=3853082a-47c2-4cbb-bd21-33427856a094)
+        - {{embed: ((cKLdI3z1Z))}}
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>) for [roam/css](<roam/css.md>)
+            - {{[embed](<embed.md>): ((MSF5nffgV))}}
+- [roam@0.7.6](<roam@0.7.6.md>)
+    - [December 8th, 2020](<December 8th, 2020.md>)
+        - [New Features](<New Features.md>)
+            - You can now embed Spotify tracks, albums and playlists inline like so: `{{spotify: https://open.spotify.com/album/5gqjdw7uY2SRwuindlWBi8}}`
+            - **[Demo](<Demo.md>):**
+                - {{spotify: https://spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7}}
+                - 
+    - [December 7th, 2020](<December 7th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Blockquotes
+                - Supports starting the blockquote with `[>](<>.md>)` and `#[>](<>.md>)` now
+                - Removes leading space from render
+                - `.rm-bq` now has `0 0 10px` margin
+    - [December 4th, 2020](<December 4th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Additional [Markdown](<Markdown.md>) support
+                - `hr` divider line by having `---` as the sole text of the block
+                - `blockquote` styling if you begin your block with `>`
+                - **[Demo](<Demo.md>):**
+                    - ---
+                    - > "__The genius of a composer is found in the notes of his music; but analyzing the notes will not reveal his genius. The poet's greatness is contained in his words; yet the study of his words will not disclose his inspiration. God reveals himself in creation; but scrutinize creation as minutely as you wish, you will not find God, any more than you will find the soul through careful examination of your body.__" [Anthony de Mello](<Anthony de Mello.md>) — [Awakening](<Awakening.md>)
+                    - ---
+    - [December 1st, 2020](<December 1st, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Nesting of blocks under headings on paste
+                - Before:
+                    - ![](https://user-images.githubusercontent.com/23647837/100734991-597d8f80-3385-11eb-8351-a735df5ba786.png)
+                - After:
+                    - ![](https://user-images.githubusercontent.com/23647837/100734953-4c60a080-3385-11eb-96b9-06e73f3c5857.png)
+            - For [Multiplayer Roam](<Multiplayer Roam.md>)
+                - Change to the display of which user most recently edited a block 
+                    - {{[table](<table.md>)}}
+                        - 
+                            - Old Style
+                                - New Style 
+                        - Icon 
+                            -  would display the user's profile image if signed in with google - or a [FillMurray](<FillMurray.md>) icon 
+                                - Generates a color based on hash of their email
+                        - Hovering over icon
+                            - Showed name of who edited last - and day
+                                - Shows name of who edited last - and time the edit happened, and day
+                        - **Image**  click for details 
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2F5UewMaPENW.png?alt=media&token=5f0da069-4d80-442c-9081-207f4c0c8edf)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2FawojGufVSR.png?alt=media&token=41c12f69-3442-4f66-bab1-32fb34b6a659)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - [Path Based Find or Create](<Path Based Find or Create.md>)
+                - Empty blocks now show display `(no text)`
+                - Differentiation between creating new blocks and blocks that already exist
+                - Removed the default `Create Under` option
+                - Tab and Enter will both now either add a block to the selected path or select the block and ref it in the focused block
+    - [November 21st, 2020](<November 21st, 2020.md>)
+        - [New Features](<New Features.md>) / [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - {{embed: [Path Based Find or Create](<Path Based Find or Create.md>)}}
+            - Added no click-through behaviour to attribute in block references to match behaviour of page references and tags in block references
+                - Clicking on the reference (even if there is an attribute underneath your mouse), brings on the block reference context menu instead of clicking through to open the attribute's page
+            - Image modal
+                - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2FiMQ5a8mmal.gif?alt=media&token=f1b6d5b5-ad70-4ff9-bd6c-5143a527811f)"
+                - You can now click on any image to open it in a full-size modal, check it out below:
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fjk-VBDxwip.jpg?alt=media&token=ac6307de-bc18-44c3-b3b8-af632352918b)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FbRHe9ObzAy.jpg?alt=media&token=16cb7c1c-5687-40d8-8255-207dbd2a3c62)
+    - [November 19th, 2020](<November 19th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Sync warning will not show up when the system is at least updating once a second
+                - Fixes issue when copying and pasting large number of blocks and sync warning would show up
+    - [November 17th, 2020](<November 17th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed issue with Google Sign In redirecting people back to sign in page before redirecting to logged in state
+    - [November 16th, 2020](<November 16th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed issue with mobile bar not showing up on some mobile devices
+    - [November 15th, 2020](<November 15th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed issue with users not being upgraded automatically to Believer plan on invoice payment 
+    - [November 13th, 2020](<November 13th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Reintroduction of use of iframes and javascript execution in `:hiccup` with warning label to allow them to run
+                - In combination with [roam/css](<roam/css.md>) and [roam/js](<roam/js.md>), it is much easier to make custom components in Roam now
+            - Initial load speed improvement
+    - [November 12th, 2020](<November 12th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - `stable.roamresearch.com`
+                - If you find the latest version of Roam to be unstable, go to https://stable.roamresearch.com/#/app
+            - Inline audio player and audio upload support
+                - Frank Ocean - Cayendo (Sango Remix){{audio: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fs7d01QkEWZ.mp3?alt=media&token=9747e94e-6732-435f-98a2-472503836c72}}
+                - **[Demo](<Demo.md>):**
+                    - {{iframe: https://www.loom.com/embed/5c6c03a96aec4a1ab62234a86209abb2}}
+            - Upload size limit increased from 10MB to 100MB
+            - Pomodoro counts down now instead of up and shows duration of timer when finished
+                - **[Demo](<Demo.md>):**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F9zC8jUIFBF.gif?alt=media&token=c0fd89d5-8225-42e4-97f9-3e5817aa3650)
+    - [November 6th, 2020](<November 6th, 2020.md>)
+        - [New Features](<New Features.md>)
+            - Global Filters
+                - You can now apply filters to your entire graph
+                - **[Demo](<Demo.md>):** ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FuSYn5hnR8P.gif?alt=media&token=e9e45dfb-5185-46ee-99fe-64cf4504f560)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - GIFs
+                - Can now be uploaded from the Image Uploader
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FAwAcaqMjWy.gif?alt=media&token=1f78794f-50a7-40c9-96ed-14f4b6576006)
+- [roam@0.7.5](<roam@0.7.5.md>)
+    - [November 5th, 2020](<November 5th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed bug where the filter component would disappear when hovering out of the component
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Expand all + Collapse all options for when multiple blocks are selected at once
+            - New keyboard shortcuts for navigating to next and previous Daily Notes pages
+                - `Ctrl-Alt-n` to go next Daily Notes page
+                - `Ctrl-Alt-p` to go to previous Daily Notes page
+            - **[Demo](<Demo.md>):**
+                - {{iframe: https://www.loom.com/embed/5c60be3979d94a4c98fbad922ee97e70}}
+    - [November 2nd, 2020](<November 2nd, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Allow open and close commands on immutable blocks
+            - Fixed issue with sidebar resizable dragging area not showing
+            - Mentions sorted by page title if log day
+            - Allow open and close key commands in other users' blocks with immutable blocks are turned on
+    - [October 31st, 2020](<October 31st, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Right sidebar redesign
+                - Full-screen
+                - Resizable
+                - Color change: light blue -> light gray
+                - Page titles are now editable
+                - New block outline view
+                    - Can now zoom out all the way to the page outline
+                    - Can now filter on block outline view
+                - New page outline view
+                - New block mentions view
+                - New linked references view
+                - New collapsed state view for block and page outlines
+                - **[Demo](<Demo.md>):**
+                    - {{iframe: https://www.loom.com/embed/0850e631274a49fdb045872300e5882a}}
+    - [October 30th, 2020](<October 30th, 2020.md>)
+        - Full graph restore from edn (accessible from the Graph Settings modal)
+    - [October 28th, 2020](<October 28th, 2020.md>)
+        - Option to allow users to only edit blocks they have created
+            - Can be found in the `Share` menu
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FUr7ak4w9Sb.png?alt=media&token=caefcd73-8426-4ee5-b511-4d7b16137c41)
+    - [October 22nd, 2020](<October 22nd, 2020.md>)
+        - Speed improvements to the [All Pages](https://roamresearch.com/#/app/help/search) view
+        - Julia, Kotlin, and TypeScript support inside code blocks
+    - [October 20th, 2020](<October 20th, 2020.md>)
+        - [New Features](<New Features.md>)
+            - [edn](https://github.com/edn-format/edn) export for lossless graph backups
+        - {{embed: ((jFk4dOrIP))}}
+    - [October 17th, 2020](<October 17th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Faster inline search for block and page references
+    - [October 14th, 2020](<October 14th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Faster graph search from `Find or Create Page` search bar
+            - Turned off parsing for bold, italics, references inside of inline code
+            - New multi-select options including `Replace with` options and `Cycle TODO State`
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FOqcmhx7lhz.png?alt=media&token=29a4d2dd-8dff-4d9c-a06c-750b2e6a40ad)
+            - When deleting blocks with references, the confirm window has now been removed and the deleted references will now be replaced with the text of the block 
+                - When merging a block that has references with the one above, the references get updated to the merged block
+                - {{iframe: https://www.loom.com/embed/166e6517b6d246de8ca1dc7348d34138?from_recorder=1}}
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed issue when deleting pages where it previously didn't remove tag or attribute references to the page, leaving broken links
+            - Fixed issue with code blocks failing to parse correctly if they contain URLs or images
+            - Fixed issue with pasting blocks with versions
+            - Fixed issue with trying to add a block reference in between two or more block references within the same block
+    - [October 9th, 2020](<October 9th, 2020.md>)
+        - [New Features](<New Features.md>)
+            - {{embed: ((ytTGX9fiw))}}
+    - [September 29th, 2020](<September 29th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            -  The Open/Close State of blocks is no longer shared across embeds and the sidebar
+                - **[Example](<Example.md>):**
+                    - A
+                        - B
+                            - C
+                    - Before this change
+                        -  if you closed A (or "B") in this Embed - it would also close the original block at "A" - and vice versa (closing original would close the embed)
+                            - {{[embed](<embed.md>): ((xRNnLDbci))}}
+                    - After the change
+                        - The Embed starts with the same Open/Close state as what it is embedding, but afterwords manages itself independently
+                    - The same difference is true in the Sidebar
+                        - Shift-click on the dot on any bullet point - and you will see that you can open and close the nested blocks without affecting main view.
+- [roam@0.7.4](<roam@0.7.4.md>)
+    - [September 17th, 2020](<September 17th, 2020.md>)
+        - [New Features](<New Features.md>)
+            - Shortcuts to toggle both sidebars
+                - Right sidebar `cmd-shift-\` (mac), `ctrl-shift-\` (PC)
+                - Left sidebar `cmd-\` (mac), `ctrl-\` (PC)
+            - Add multiple editors/readers to a graph at once
+        - [Improvements](<Improvements.md>)
+            - Disable roam/js and roam/css on page load
+                - Add `?disablejs=true` or `?disablecss=true` to the end of your graph's URL to stop them from running
+                    - Or you can combine them to disable both:
+                        - `https://roamresearch.com/#/app/help?disablejs=true&disablecss=true`
+            - Add more code block languages, default is now javascript
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FUNx0OY94yz.png?alt=media&token=e80b67f2-f06f-4f5a-b77d-3b5fdc48f6dc)
+            - Pomodoro bell + Toast
+                - ![CleanShot 2020-09-04 at 11 00 39@2x](https://user-images.githubusercontent.com/24982590/92247741-9ffe4380-ee95-11ea-9c23-e006089bae9d.png)
+                - [Meta](<Meta.md>)
+                    - Variable pomodoro timers will be released within a few days
+            - Add local caching of some state to speed up page load
+            - Add auto-wrap for latex ($) and inline code (`)
+            - Toggle markdown styling with shortcuts
+                - **Before**
+                    - ![CleanShot 2020-08-28 at 14 14 37](https://user-images.githubusercontent.com/24982590/91602156-d76e6c80-e938-11ea-9b6a-0151131b7423.gif)
+                - **After**
+                    - ![CleanShot 2020-08-28 at 14 13 14](https://user-images.githubusercontent.com/24982590/91602057-ac841880-e938-11ea-80d0-114259b98e0f.gif)
+            - Show query results count
+            - Fixed issue causing large graphs to freeze every once in a while for a second
+            - Added a file upload warning indicating images you upload are public, anyone with the link can view them
+            - Improvements to inline page search
+                - https://github.com/Roam-Research/issues/issues/504
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fix incorrect {} wrapping after clicking a todo
+                - Before (3 on left, 4 on right)
+                - ![Screenshot from 2020-09-15 15-07-48](https://user-images.githubusercontent.com/934683/93270356-d07f9080-f765-11ea-9540-fa98604756c6.png)
+                - After (2 on left, 2 on right)
+                - ![Screenshot from 2020-09-15 15-08-00](https://user-images.githubusercontent.com/934683/93270357-d2e1ea80-f765-11ea-94bf-7a2ea17c93dd.png)
+            - Fix the ephemeral graph warning toast (on this graph) to only show one at a time
+            - Fixed various issues introduced by "Debounce searching to prevent freezing while typing"
+                - [Roam-Research/issues[492](<492.md>)](https://github.com/Roam-Research/issues/issues/492)
+                - [Roam-Research/issues[498](<498.md>)](https://github.com/Roam-Research/issues/issues/498)
+                - [Roam-Research/issues[502](<502.md>)](https://github.com/Roam-Research/issues/issues/502)
+                - Enter not working after creating a link
+            - Various small issues from github
+                - [Roam-Research/issues[466](<466.md>)](https://github.com/Roam-Research/issues/issues/466)
+                - [Roam-Research/issues[479](<479.md>)](https://github.com/Roam-Research/issues/issues/479)
+            - Fix problem with pages being created from inside latex
+                - https://github.com/Roam-Research/issues/issues/471
+    - [September 3rd, 2020](<September 3rd, 2020.md>)
+        - {{embed: ((L5JPADtTc))}}
+- [roam@0.7.3](<roam@0.7.3.md>)
+    - [August 18th, 2020](<August 18th, 2020.md>)
+        - [Improvements](<Improvements.md>)
+            - Debounce searching to prevent freezing while typing
+            - Reduced the main code bundle size by 900kb (slightly faster load times)
+            - Limited undo to 50 actions
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed a bunch of bugs with undo/redo
+            - Stop mouse clicking on scrollbar inside table from focusing the block
+                - Before
+                    - ![CleanShot 2020-08-16 at 23 00 34](https://user-images.githubusercontent.com/24982590/90353483-5055f600-e014-11ea-804e-4c3997ad06f7.gif)
+                - After
+                    - ![CleanShot 2020-08-16 at 23 01 16](https://user-images.githubusercontent.com/24982590/90353519-6e235b00-e014-11ea-8bc5-5328839cb60b.gif)
+            - Fix small memory leak with the textarea
+            - Fix overflow on numbered lists
+                - Before
+                    - ![CleanShot 2020-08-11 at 01 50 02](https://user-images.githubusercontent.com/24982590/89862158-5ca20500-db75-11ea-83b1-84277f914408.png)
+                - After
+                    - ![CleanShot 2020-08-11 at 01 52 55](https://user-images.githubusercontent.com/24982590/89862167-6297e600-db75-11ea-970d-27ae84566f2d.png)
+            - Excel and one note pasting fix
+                - Before
+                    - OneNote
+                        - ![CleanShot 2020-07-31 at 10 12 11](https://user-images.githubusercontent.com/24982590/89043372-5ced0580-d316-11ea-980e-51a67466263f.gif)
+                    - Excel
+                        - ![CleanShot 2020-07-31 at 10 13 20](https://user-images.githubusercontent.com/24982590/89043487-90c82b00-d316-11ea-80a5-9a5a1168e0dd.gif)
+                    - ### Solution
+                - After
+                    - OneNote
+                        - ![CleanShot 2020-07-31 at 10 23 52](https://user-images.githubusercontent.com/24982590/89044451-fa950480-d317-11ea-9e58-1457cb4a66d3.gif)
+                    - Excel
+                        - ![CleanShot 2020-07-31 at 10 26 29](https://user-images.githubusercontent.com/24982590/89044814-7e4ef100-d318-11ea-8c62-13d03c58f04f.gif)
+            - Fix multiple checkboxes in one block
+                - Before
+                    - ![deepin-screen-recorder_Select area_20200719144345](https://user-images.githubusercontent.com/934683/87886354-0a841e80-c9d1-11ea-8911-e05fab709d93.gif)
+                - After
+                    - ![deepin-screen-recorder_Select area_20200719144416](https://user-images.githubusercontent.com/934683/87886359-12dc5980-c9d1-11ea-891a-ad3413303558.gif)]
+    - [August 15th, 2020](<August 15th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - `command-shift-click` (on [Mac](<Mac.md>)) on page links or tags will now open the mentions of the page in the sidebar
+                - on [PC](<PC.md>) `meta-shift-click` will do the same
+            - `alt-shift-click` on page links or tags will open the graph overview of a page in the sidebar
+    - [August 14th, 2020](<August 14th, 2020.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - shift click the daily notes will open up today's note in your sidebar
+                - https://twitter.com/Conaw/status/1294282448335822849?s=20
+            - search for finding filters
+                - https://twitter.com/Conaw/status/1294301952046559232?s=20
+    - [August 10th, 2020](<August 10th, 2020.md>)
+        - [Improvements](<Improvements.md>)
+            - [Block References](<Block References.md>)
+                - You can now replace block-references with text, embed, alias or with text + alias.  The most important of these is [text and alias](((7Zv5Vm1fO)))
+                    - **[Example](<Example.md>):**
+                        - from [Beating the Averages](<Beating the Averages.md>)
+                            - This is a block ref
+                                - "In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface."
+                                    - It is a window onto a block from somewhere else in your Roam Graph - changes to that block will be reflected here as well. 
+                            - If you click on this you will now see this menu
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FMXJp9DtIl0.png?alt=media&token=e32c1861-66ae-4c8e-8709-142824b10ba4)
+                            - [Jump to block](<Jump to block.md>) and [open in sidebar](<open in sidebar.md>) will do the same thing that clicking and shift-clicking (respectively) used to - they move either the focus of your main work area to that block - or open it in it's original context
+                                - You can also do these operations with Control-o and Control-shift-o (o standing for open) respectively. 
+                            - If you select [Replace With](<Replace With.md>) you will see this menu
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FANYfuprm6c.png?alt=media&token=109625d3-b64b-4beb-891a-4a070a7037dc)
+                            - If you choose `embed` you will get this
+                                - {{embed: ((0EEP-FcAj))}}
+                                    - This essentially gives you a portal to the original source material - if you edit text within the embed - it will change all the references
+                            - If you replace with text you will see this
+                                - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
+                                    - It is the same as copy-pasting the original text - there is no longer any connection between the text and the new block
+                            - If you choose `alias` you will see this
+                                - [*](((0EEP-FcAj)))
+                                    - This gives you a link to the original item - but in a hyperlinked alias
+                                        - The format for aliases is `[alias](((blockid))``)`
+                                            - We default to having the alias as the `*` footnote symbol, but you can edit this however you feel
+                                        - This is useful if you want to point to multiple ideas, but refer to them with another phrasing - like [Premise 1](((0EEP-FcAj))) and [Premise 2](((-FdvpO3U0)))
+                                            - you will see that if you hover over an alias you can see the text of the block you are pointing to as a preview
+                            - If you choose to replace with [text and alias](<text and alias.md>) you will get this:
+                                - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface. [*](((0EEP-FcAj)))
+                                    - This is useful for drafting - or making a modified version of the original text - you have an alias pointing to the source material - but the text is conveniently there for editing/rewording etc. 
+- [roam@0.7.2](<roam@0.7.2.md>)
+    - [July 14th, 2020](<July 14th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+            - **Fixed app updating problem** [important](<important.md>)!
+                - If you have difficulty updating and get a "Failed to Load" message
+                - Please [close all tabs and reopen them](((rPMPZCOsC)))
+            - Fix [Filter](<Filter.md>) with [kanban](<kanban.md>) boards
+            - Remove `c-c c-x` and fix `c-c c-s` to toggle your own icons
+            - [Mobile Quick Capture](<Mobile Quick Capture.md>)
+                - Fix synced blocks being stuck open
+                - Fix upload an image
+                - Fix "Yesterday" option creating a blank page
+            - Limited [Code Block](<Code Block.md>)s to a max size to help performance on [roam/css](<roam/css.md>) pages
+            - Fixed [Import](<Import.md>) error b.text is not a function
+    - [July 11th, 2020](<July 11th, 2020.md>)
+        - [Improvements](<Improvements.md>)
+            - Left sidebar redesign
+                - Before
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FUL-d-p48Tq.png?alt=media&token=962deeb3-eaf0-485b-aef8-b8e6e62ab893)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FVCGxsonqVu.png?alt=media&token=2957b979-8393-40c7-a325-6e84e40a8522)
+                - after
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FET7eTB22MI.png?alt=media&token=6a6b7640-3633-4870-9955-fa2fb7a44e62)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FNbymPFTvbG.png?alt=media&token=ed998725-5e12-42bf-a341-d38128f761b6)
+- [roam@0.7.1](<roam@0.7.1.md>)
+    - [July 10th, 2020](<July 10th, 2020.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed some possible syncing issues when using undo/redo
+    - [July 9th, 2020](<July 9th, 2020.md>)
+        - [New Features](<New Features.md>)
+            - #[Hidden Features](<Hidden Features.md>) [Mermaid Diagrams](<Mermaid Diagrams.md>) 
+    - [July 8th, 2020](<July 8th, 2020.md>)
+        - [New Features](<New Features.md>)
+            - Delete Graph
+                - Inside of the ... at the top right
+            - "Prefer full site" option for quick capture
+- [July 2nd, 2020](<July 2nd, 2020.md>), [roam@0.7.0](<roam@0.7.0.md>)
+    - [New Features](<New Features.md>)
+        - Switch graphs dropdown in the [left sidebar](<left sidebar.md>)
+        - Installing Roam on desktop and mobile is available
+            - on chromium browsers
+                - on desktop you can install using the three dot menu -> `Install Roam`
+                    - chrome extensions are can still be used with the installed version of Roam
+                - on mobile you should see a `Install` button next to `Full site` on que quick capture screen
+                - the install buttons might not be there the first time you load, they only show up after everything is downloaded in the background and ready to install
+                    - just wait a minute or so and then reload the page
+            - on safari browsers
+                - the `Install Roam` buttons will not appear inside Roam
+                - instead you have to add it to your Home Screen
+            - on mobile, Quick Capture has a few changes:
+                - loads you last graph by default
+                - has a graph switcher
+                - keeps content when switching graphs
+            - on desktop, going to `/#/quick-capture` will also load your last used graph
+            - `/#/quick-capture` works as a integration URL on both mobile and desktop
+                - it accepts 3 parameters with `application/x-www-form-urlencoded` encoding via GET
+                    - title
+                    - text
+                    - url
+                - you need to provide at least one parameter, and we recommend that to be `text`
+                    - these three parameters will be input into the box separated by newlines
+                    - you can still use newlines in their content regardless
+                - parameters must come before hash
+                    - e.g. `?title=title+one&text=text+two&url=url+three#/quick-capture`
+                    - the easiest way to construct the URL with parameters is by using the JavaScript `URL` class:
+                    - ```clojure
+var url = new URL('https://relemma-git-jfb-pwa.roamresearch.now.sh/#/quick-capture');
+url.searchParams.set('text', "text here with\nmultiple\nlines");
+console.log(url.href); // contains the URL to use```
+                - will always show quick capture interface when parameters are provided
+            - on Android mobile, you are able to share content to Roam via the `Share` menu, once Roam is installed
+                - sharing will open quick capture with the shared content
+    - [Improvements](<Improvements.md>) / [Bug Fixes](<Bug Fixes.md>)
+        - Fix support button showing up over the mobile bar on iOS
+        - Changed `c-c c-x` to `c-c c-s` to toggle showing your own icons
+        - Fixed [Multi-select](<Multi-select.md>) [delete](<delete.md>) on [Firefox](<Firefox.md>) [Mac](<Mac.md>) triggers back button
+        - [security](<security.md>) update to deny iframing of Roam from other websites
+        - Fixed various problems with payments
+- [June 20th, 2020](<June 20th, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>)
+        - [security](<security.md>) updates to `:hiccup`
+            - Fixes
+                - Disallow use of iframes
+                - Disallow executing javascript in urls
+            - Expect that we might remove this feature in the new future in favor of [roam/js](<roam/js.md>) and [roam/cljs](<roam/cljs.md>) plugins
+        - [security](<security.md>) updates to iframe, pdf, and youtube components
+            - "Disallow executing javascript in urls"
+- [June 18th, 2020](<June 18th, 2020.md>), [roam@0.6.3](<roam@0.6.3.md>)
+    - [New Features](<New Features.md>)
+        - [Experimental](<Experimental.md>) `ctrl-(` to reference a block on a particular page
+        - Added the ability to create blocks from (()) search
+        - Code blocks can format multiple languages now
+            - ```javascript
+console.log("hey!");```
+            - And, we have a color picker!
+                - ```css
+.rm-block {
+  background-color: blue;
+}```
+        - Added bulk delete and export to all pages
+            - Also filter out log days
+        - Find or create search shows recent pages and blocks when not searching
+        - Added `ctrl-j` and `ctrl-k` key commands to find or create search
+    - [Improvements](<Improvements.md>) / [Bug Fixes](<Bug Fixes.md>)
+        - Fixed marking checkboxes done inside of a block reference
+        - Fixed find or create search breaking when having spaces at the start
+        - Added `cmd-shift-comma` and `cmd-shift-period` shortcuts for zoom out and zoom in
+            - `cmd-comma` and `cmd-period` didn't work on safari and firefox on mac
+                - These shortcuts are still available for non mac safari/firefox users
+        - Added `cmd-shift-h` highlighting shortcut for mac safari/firefox
+            - `cmd-h` is still available for non mac safari/firefox users
+        - Fixed `cmd-[` and `ctrl-[` adding [] to the block
+        - Fixed sign in with google showing "sign in to firescript..". Now shows "Sign in to roamresearch.com"
+        - Sped up attribute search
+        - Save whether or not the [left sidebar](<left sidebar.md>) is open between sessions
+            - This setting is saved per device
+        - Design improvements to block embeds, so you can open and close the embedded block
+            - {{embed: ((wC_qKM-T7))}}
+        - Design improvements to [kanban boards](<kanban boards.md>)
+            - {{[kanban](<kanban.md>)}}
+                - [TODO](<TODO.md>)
+                    - Release the new version
+                - [Done](<Done.md>)
+                    - Write up the changelog
+        - Fixed starring pages when zoomed in
+- [June 10th, 2020](<June 10th, 2020.md>)
+    - [The Gates of Roam are Open](<The Gates of Roam are Open.md>) and the waitlist is now open
+    - [Pricing](<Pricing.md>) shipped
+    - [Roam Believers](<Roam Believers.md>) now have access to [Local Only [[Roam Graphs](<Local Only [[Roam Graphs.md>)]]
+    - All paid users can now create up to 3 [Hosted [[Roam Graphs](<Hosted [[Roam Graphs.md>)]]
+- [June 3rd, 2020](<June 3rd, 2020.md>)
+    - [Improvements](<Improvements.md>)
+        - css tag for code blocks - with color-picker
+            - ```css
+.thing {
+  background-color: [03A9F4](<03A9F4.md>)
+    
+}```
+        - [Roamcult Themes](<Roamcult Themes.md>)  https://twitter.com/Conaw/status/1268426724254945280?s=20
+- [May 26th, 2020](<May 26th, 2020.md>)
+    - [Improvements](<Improvements.md>)
+        - #[Pomodoro Technique](<Pomodoro Technique.md>) {{`POMO}}` renders a [Pomodoro](<Pomodoro.md>) timer- 25 minutes, and 5 minute break
+            - starts when you hit start
+            - Get's green check when pomo + break are done
+            - {{POMO}}
+            - {{POMO}}
+- [May 14th, 2020](<May 14th, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Fix copy/cut for IOS 13 devices
+        - Remove "Import Roam Data" from ... menu in top right
+            - Existed only to import Roam exports from a long time ago
+- [May 12th, 2020](<May 12th, 2020.md>)
+    - [Improvements](<Improvements.md>)
+        - Breadcrumbs in [Mentions](<Mentions.md>) component now render rich text
+        - [Queries](<Queries.md>) are now collapsable, and show you what the query rules are
+            - {{table}}
+                -  **Old Version**
+                    - **New Version**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FF09PVTQDs_.png?alt=media&token=5056f203-0b9b-470a-aa8e-6d56a1c5b896)
+                    -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FEE0H6N_Pwx.png?alt=media&token=50ee09fd-7c52-49f3-be41-897cddb4dc0a)
+            - {{query: {and: [TODO](<TODO.md>) [Meta](<Meta.md>)}}}
+            - 
+- [May 11th, 2020](<May 11th, 2020.md>)
+    - [Improvements](<Improvements.md>)
+        - Added "Focus on Block" option to block Context Menu
+            - With suggestion for the Keyboard Shortcut for Navigating to the block
+                - [Control-O](<Control-O.md>) Moves focus of the main window to one of the following[]
+                    - If inside `[` link `](<` link `.md>)`
+                        - Will move you to that page
+                    - if inside `((` Block Reference`))`
+                        - Will move you to that block
+                    - If after `#` will move you to that page
+                    - If not inside anything, will move focus to block your cursor is on.
+            - https://twitter.com/RoamResearch/status/1260075414300446723
+- [May 8th, 2020](<May 8th, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Removed user icons on white space blocks (for multiplayer dbs where edit icons are turned on)
+        - Assorted fixes for yesterday's "Shipped client change to reduce load on the database, roll out will start tonight and finish in the next few days"
+- [May 7th, 2020](<May 7th, 2020.md>)
+    - [New Features](<New Features.md>)
+        - Removed Meditation feature for most users -- pages should now load and sync quickly
+            - For users who miss the spinning astrolabe, shipped `\{\{TaoOfRoam}}`  
+                - {{TaoOfRoam}}
+                - Inspired by this tweet
+                    - https://twitter.com/TetraspaceAdmn/status/1258587814247235587?s=20
+                        - We aspire to not introduce changes that break your workflow without providing a better alternative. 
+        - Upload any File to Roam
+        - Progress bar for File Upload
+        - PDF Viewer
+            - **[example](<example.md>):**
+                - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FAo1ZWqQOkv.pdf?alt=media&token=45412c15-335a-4bfd-aff8-d903d897fbcb}}
+        - Resizable iframe component
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2Fy8PSA0hQUf.gif?alt=media&token=b8832e7f-c2f1-40c9-8c9c-5092b5fd3380)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Shipped client change to reduce load on the database, roll out will start tonight and finish in the next few days
+            - Once completed, load times should go down and yellow syncing issues should go away
+        - Fix numerous bugs around syncing issues, yellow dot issues
+        - Fixed clicking into the end of a title
+            - Previously the cursor was off by one character
+        - Fixed cursor position when clicking into a block with backticks in it
+            - **[example](<example.md>):**
+                - `this` used to cause the `cursor` to get placed in random locations
+        - Fixed duplicate pages with the same text containing accents
+        - Fixed pasting a link causing the ac to open
+        - Fixed the whitespace changing between the title and the content of the page when editing the title
+        - Fixed bug causing markdown links to a page to break
+        - Fixed code blocks being annoying to create
+            - Can just type triple ` at the beginning and it will create a code block and focus your cursor into it
+            - Hit `escape` to get out of the code block
+        - Fixed bug in firefox when deleting a block, it would cause the last character of the block above to also be deleted
+        - `Alt/option drag` in [Mac](<Mac.md>) [Firefox](<Firefox.md>) is broken, so added `cmd-drag` to copy block references
+        - Fixed attribute autocomplete in [Firefox](<Firefox.md>)
+        - Added confirmation message when trying to link more than 100 items in unlinked references
+        - Fixed clicking links in {\{attr-table}}
+- [May 6th, 2020](<May 6th, 2020.md>)
+    - [Improvements](<Improvements.md>)
+        - Additional info on syncing indicator, to show when last edit hit the server, and how many edits have yet to sync
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvU_P_PzfUD.png?alt=media&token=aa9bd806-8393-42f8-985d-c10bcff0673b)
+- [April 22nd, 2020](<April 22nd, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Searching normalizes accented characters
+        - Fix date picker replacing the whole string
+        - Fix loading the page before all updates are applied
+            - Used to cause flashes of changes when first loading roam
+        - Speed up new database creation
+        - Fixed bug with forwards delete removing the whole block below
+        - Fixed bug with import saying blocks already exist
+        - More changes to reduce load on servers
+- [April 17th, 2020](<April 17th, 2020.md>)
+    - [New Features](<New Features.md>)
+        - Sorting blocks alphabetically
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2F_L7SbhPVaI?alt=media&token=cfbd1f6c-042d-44f9-895a-5b20ed076a10)
+            - Clicking daily notes or navigating with the key command (alt-d) brings you to the top if you are already on daily notes
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Fixed bug with [Mobile Quick Capture](<Mobile Quick Capture.md>) that caused the nest under input to unfocus
+- [April 15th, 2020](<April 15th, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Save more data locally, to improve load speed and database issues
+        - Fix problem with aliases
+            - example of what broke
+                - [alias]([Aliases](<Aliases.md>)) [work]([Aliases](<Aliases.md>))
+- [April 11th, 2020](<April 11th, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>)
+        - More fixes for database issues, please upgrade
+- [April 10th, 2020](<April 10th, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>)
+        - Fixes for database problems yesterday
+- [March 8th, 2020](<March 8th, 2020.md>)
+    - [New Features](<New Features.md>)
+        - [Mobile Quick Capture](<Mobile Quick Capture.md>)
+- [February 9th, 2020](<February 9th, 2020.md>)
+    - [New Features](<New Features.md>)
+        - [Encryption](<Encryption.md>) blocks
+        - "Markdown links can be used as aliases for [Block References](<Block References.md>) and [Bidirectional Links](<Bidirectional Links.md>) #[New Features](<New Features.md>) "
+        - [Queries](<Queries.md>) "#[New Features](<New Features.md>) - [Query](<Query.md>) component"
+- [February 2nd, 2020](<February 2nd, 2020.md>)
+    - [New Features](<New Features.md>)
+        - Alpha kanban boards #[Example](<Example.md>)
+            - {{kanban}}
+                - [TODO](<TODO.md>)
+                - [IN PROGESS](<IN PROGESS.md>)
+                    - Internal analytics
+                - [DONE](<DONE.md>)
+                    - Kanban Board
+                    - Offline Mode
+                    - Better alias component
+                    - API
+                    - Electron App
+                    - Switch to [Zeit](<Zeit.md>) for hosting
+        - {\{orphans}}
+            - Component to find blocks lost in a merge conflict (probably from being offline)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Fix first starred page not being unstarrable
+        - Fix graph stackoverflow bug
+        - Fixed bugs relating to changing the title of a complex page
+        - Fixed bug with {\{attr-table}} that broke the page
+        - Fixed bug with emojis breaking the page
+        - Fixed a bug with single page sharing where users could see daily notes if they navigated to them through the url bar
+        - Fixed a {\{slider}} bug that broke the page
+        - Added more contrast to collapsed bullets in the sidebar
+        - Restyled the linked references component
+        - Fixed bug with latex rendering unicode caused it to break the page
+- [January 19th, 2020](<January 19th, 2020.md>)
+    - {{embed: ((qM2u4_oxY))}}
+- [January 15th, 2020](<January 15th, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Fixed the 10mb size limit on Roam databases
+        - Assorted code cleaning and tests
+- [January 9th, 2020](<January 9th, 2020.md>)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Fixed a bug with zooming where the text of a block got deleted
+            - "[x] [Warning](<Warning.md>) DATA LOSS RISK"
+        - Fixed a bug with find or create breaking
+        - Fixed typo on the landing page
+- [January 2nd, 2020](<January 2nd, 2020.md>)
+    - [New Features](<New Features.md>)
+        - Creating attributes from the children of the attribute
+            - Example
+                - [Josh](<Josh.md>)
+                    - **[Questions](<Questions.md>):**
+                        - How do attributes work?
+                        - What can I do with attributes?
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Fixed a bunch of bugs around creating attributes
+        - Fixed bug where merging pages did not rename links correctly
+        - Fixed code blocks being editable in read only
+        - Fixed a bug causing the find or create page search to freeze
+        - Added ^^markdown highlight^^ to the ? icon in the bottom right
+- [December 14th, 2019](<December 14th, 2019.md>)
+    - [New Features](<New Features.md>)
+        - Export JSON and markdown
+            - Note: we removed old export options
+                - We're keeping Import roam data option for the time being in case anyone had old data in that format, but we will remove this in the future.
+            - Export does not yet include a mentions option, we would like to add this in the future
+            - Export markdown will replace block references with their source text in quotes
+        - Import JSON
+            - [Schema for import](https://roamresearch.com/#/v8/help/page/RxZF78p60)
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Multiple word tags (#[John Doe](<John Doe.md>)) open by default in linked references section (replicating the behavior of single word tags)
+        - Remove `ctrl-b` `ctrl-i` and `ctrl-z` from mac key commands
+        - Fix `ctrl-d` on mac to have the same behavior as forward delete on windows
+        - Fix removing removing matching parenthesis on forward delete
+            - (|) -> forward delete = (
+        - Move `ctrl-drag` to `alt-drag` on mac for copy block references
+        - Added a link to our change log in the update warning toast
+        - Fix bug where typing in daily notes and then clicking the title to visit the page for that day resulted in the loss of the last sentence typed
+        - Reduced initial page load load bundle size by ~100kb
+        - Speed improvements to our key commands that will speed them all up by a few ms
+- [December 9th, 2019](<December 9th, 2019.md>)
+    - bard
+    - [New Features](<New Features.md>)
+        - Emoji reactions to blocks :) (right click on a bullet, click add reaction)
+
+        - `ctrl-drag` on Windows `alt-drag` on Mac copies the references of the dragged blocks
+    - [Bug Fixes](<Bug Fixes.md>) / [Improvements](<Improvements.md>)
+        - Sharing a single page no longer requires the user to be signed in to view
+        - Tags no longer include punctuation
+
+        - Changed ctrl-d shortcut to daily notes to ctrl-shift-d for mac
+
+        - Fixed the css of checkboxes on firefox
+
+        - Fixed ctrl-e and other cursor moving keycommands not moving the cursor while in autocomplete @Catherine Olsson
+        - Fixed bug with hitting enter in the top block that is zoomed in
+
+        - Fixed differences between backwards and forwards delete
+
+        - Moved some inline styles into css to make Malcolm's dark theme work with namespaced pages
+
+        - 
+        - speed improvements that should make roam 2-4x faster to load initially depending on the size of your database (and other minimal speed improvements)
+
+# Backlinks
+## [August 14th, 2020](<August 14th, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [Change Log](<Change Log.md>)
+- Looking for [Roam Change Log](<Roam Change Log.md>)
+
+## [December 14th, 2020](<December 14th, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [December 15th, 2020](<December 15th, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [December 24th, 2019](<December 24th, 2019.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [January 10th, 2021](<January 10th, 2021.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [January 19th, 2020](<January 19th, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [January 26th, 2021](<January 26th, 2021.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [January 27th, 2021](<January 27th, 2021.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [March 8th, 2020](<March 8th, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [November 21st, 2020](<November 21st, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [October 20th, 2020](<October 20th, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [October 9th, 2020](<October 9th, 2020.md>)
+- [New Features](<New Features.md>) #[Roam Change Log](<Roam Change Log.md>)
+
+## [September 29th, 2020](<September 29th, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [September 3rd, 2020](<September 3rd, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+
+## [September 5th, 2020](<September 5th, 2020.md>)
+- [Roam Change Log](<Roam Change Log.md>)
+

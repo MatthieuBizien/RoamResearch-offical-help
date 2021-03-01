@@ -1,0 +1,11 @@
+- [facts](<facts.md>)
+    - "For our purposes, all these trends have an important impact: the [Average Employee Tenure](<Average Employee Tenure.md>) is plummeting (to just 2.3 years for employees ages 20–34, as of a few years ago). I believe this means that the relative importance of “non-actionable information” is rising. We can now expect to spend only a few months to a few years with one organization, which means our ability to capture, organize, and retrieve our ideas, and transfer them effectively from project to project and company to company, becomes more important than ever."
+- 
+
+# Backlinks
+## [Average Employee Tenure](<Average Employee Tenure.md>)
+- "For our purposes, all these trends have an important impact: the [Average Employee Tenure](<Average Employee Tenure.md>)
+
+## [Getting Things Done + Personal Knowledge Management](<Getting Things Done + Personal Knowledge Management.md>)
+- For our purposes, all these trends have an important impact: the [Average Employee Tenure](<Average Employee Tenure.md>)
+

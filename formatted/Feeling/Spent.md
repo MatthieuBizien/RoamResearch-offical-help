@@ -1,0 +1,5 @@
+
+# Backlinks
+## [Feeling](<Feeling.md>)
+- {{query: {or: [Feeling/Fresh](<../Feeling/Fresh.md>) [Feeling/Spent](<../Feeling/Spent.md>)}
+

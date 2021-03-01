@@ -1,0 +1,28 @@
+- [Conor](<Conor.md>)
+    - 10:34 - 11:07
+        - [Interview](<Interview.md>) with [Dan Shipper](<Dan Shipper.md>) of [Superorganizers](<Superorganizers.md>)
+            - **[Questions](<Questions.md>):**
+                - How do I use Roam?
+                    - "1. Attention Management"
+                    - Breaking problems into component parts
+                        - **[Example](<Example.md>):**
+                            - [Onboarding Flow](<Onboarding Flow.md>)
+                            - "Building this [Onboarding Flow](<Onboarding Flow.md>)component out "
+                        - Watching a talk and taking notes on it
+                            - "[Watching](<Watching.md>) [Joe Armstrong](<Joe Armstrong.md>) [Forgotten Ideas in Computer Science](<Forgotten Ideas in Computer Science.md>)"
+                        - Reading something and taking notes on it
+                            - "Rules for Roam"
+                - What is the difference between a block and a page?
+                    - A page is a global idea 
+                        - Person, place, thing, abstract concept, repeated category/tag idea, phrase
+                    - A block is a specific node - on a page, in a hierarcy on that page
+                        - can be built of references to other pages and blocks
+                    - attributes
+                        - "Blocks and Pages in Roam can both have attributes" 
+            - **[Takeaways](<Takeaways.md>):**
+                - **[followup questions](<followup questions.md>):**
+                    - How to show off my Roam usage in a way that is not a demo / press release
+                        - A bit harder since have not been doing as much synthesis work on writing / research recently
+                        - Big area that will be be good is in product management type work
+                            - Starting to organize feature requests into our Roadmap / getting a sense for how the pieces are going to be fit together
+                - The todos that I have placed in this Roam haven't really been ones I've been going through and executing on -- in 2020 do want to go through these and clean them up a bit

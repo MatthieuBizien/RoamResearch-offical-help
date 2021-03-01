@@ -1,0 +1,3 @@
+- -- 15:07
+    - [OnDeck](<OnDeck.md>) demo
+        - [x] Show off [GTD](<GTD.md>) type system in Roam [April 25th, 2020](<April 25th, 2020.md>) [scheduled](<scheduled.md>) #[Highest Priority](<Highest Priority.md>) [Josh](<Josh.md>)

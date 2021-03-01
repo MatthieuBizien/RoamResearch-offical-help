@@ -1,0 +1,27 @@
+- ## Choice
+    - **[[ ] [Choice](<../Choice.md>) ...... "Decision](<../[ ] [Choice](<../Choice.md>) ...... "Decision.md>):** "A""
+        - **[Options](<../Options.md>):**
+            - A
+            - B
+            - C
+        - **[Decision](<../Decision.md>):** "A"
+- ## Option
+    - **[Advantages](<../Advantages.md>):**
+        -  
+        -  
+        - 
+    - **[Disadvantages](<../Disadvantages.md>):**
+        -  
+        -  
+- ? = Question
+    - [?]([Question](<../Question.md>))
+- ¬ = not
+    - [¬]([NOT](<../NOT.md>))
+- ≡ = definition
+    - [≡]([Definition](<../Definition.md>))
+- ! = Claim
+    - [!]([Claim](<../Claim.md>))
+- API docs
+    - **[description](<../description.md>):**
+    - **[parameters](<../parameters.md>):**
+    - **[usage](<../usage.md>):**

@@ -1,0 +1,11 @@
+- 
+- [December 11th, 2019](<December 11th, 2019.md>)
+    - **[glasses of water](<glasses of water.md>):** 4
+- [December 12th, 2019](<December 12th, 2019.md>)
+    - **[glasses of water](<glasses of water.md>):** 3
+- [December 13th, 2019](<December 13th, 2019.md>)
+    - **[glasses of water](<glasses of water.md>):** 3
+- --
+    - [December 14th, 2019](<December 14th, 2019.md>)
+        - **[glasses of water](<glasses of water.md>):** 0
+- {{chart: [glasses of water](<glasses of water.md>)}}

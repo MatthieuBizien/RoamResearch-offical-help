@@ -1,0 +1,168 @@
+- # [Design Challenges](<Design Challenges.md>)
+    - Roam is currently hiring one or more additional full time interaction/visual designers. 
+    - If you are interested in joining our team, below are a few examples of some of our open questions.  
+        - Some are highly speculative, some are smaller tasks on our immediate roadmap.
+    - If you think you have a good answer to any of these questions -- send us a public Roam page, or public Roam instance with screenshots of your mockups, wireframes or interaction gifs or videos and your commentary on the problem 
+        - If we agree that you've solved the problem and decided we want to implement it, we'll happily pay you a bounty for the work you've already done (between $100 and $2000) and have a phone screen and/or fly you out to San Francisco to interview with the team.
+    - ## Problems
+        - # [Programmable Attention](<Programmable Attention.md>)
+            - Many apps use sophisticated algorithms and psychological tricks to hijack user's attention to do things like maximize the amount of time they spend looking at apps.  We want to do the opposite.
+                - We want to empower users to use algorithms to schedule their attention in the future to better achieve their goals, live their values, and spend time the way they want to.  
+            - We have an intuition there is some abstraction over these kinds of challenges
+            - **[Specific Challenges](<Specific Challenges.md>):** 
+                - ## [Spaced Repetition](<Spaced Repetition.md>) and [Flashcards](<Flashcards.md>)
+                    - Tools like [Anki](<Anki.md>), [Supermemo](<Supermemo.md>)and [Remnote.io](<Remnote.io.md>) allow users to create flashcards which are scheduled for review at the optimal time for transferring knowledge from short term into long term memory
+                        - We've seen users generate pages of Flashcards in their Roam databases
+                            - In general they tend to put the "Front of the Card" on a block/bullet point, and the "Back of the Card" nested underneath it
+                                - They then toggle whether the card is open or closed by expanding or collapsing the bullet.
+                        - We've even seen some users hack together a basic Spaced Repetition System in Roam, using the [Datepicker](<Datepicker.md>) to schedule when they should review a card next
+                            - **[Example](<Example.md>):**
+                                - https://twitter.com/RoamResearch/status/1194402386078396416
+                                - [Roam Demo Videos](<Roam Demo Videos.md>)
+                                    - {{youtube: https://www.youtube.com/watch?v=FVkw-qitudI&feature=emb_title}}
+                    - We think we can do much better though - and that supporting Memory is an important problem to solve for building a really powerful tool for thought.
+                    - **[Key Questions](<Key Questions.md>):**
+                        - How does a user decide what is going into their "flashcard stack"?
+                            - Is it a particular tag that we set by default-- like [SRS](<SRS.md>) or [Memory](<Memory.md>)  
+                            - Do users chose to "Remember" all the mentions of a page or pages they select, and all the blocks linking to or tagged with that are placed in their deck?
+                                - What would that interaction look like?
+                            - Does each block need to be tagged individually, or would all blocks nested under a [Remember](<Remember.md>) tag be turned into flashcards and placed in a deck
+                        - Should users have multiple "decks" of cards
+                            - What happens if they just want to study their Spanish vocab one day
+                                - How do they filter their "review deck" to just cover that topic.
+                            - What if they want to just generally review all of the things they are trying to remember
+                        - How should this activity fit into our planned [Mobile](<Mobile.md>) apps
+                            - Mobile is a pretty optimal use case for this sort of review
+                                - Should this be a core offering
+                                - Should it be a stand alone app we build
+                                - Should it be something we leave 3rd party developers to build off of the upcoming [Roam API](<Roam API.md>)
+                        - How should we store the information about previous answers - or the next day the note is scheduled for review?
+                            - SRS algorithms suggest you review an item a few times they first day, then every other day, then every third day and so on as long as you keep getting the note right -- along the [Forgetting Curve](<Forgetting Curve.md>)
+                            - Is the information about when you've gotten the card correct, and when you need to review it next visible to the user?
+                                - Is it stored in meta-data that Roam hides?
+                                - Is it stored in something like [Attributes in Roam](<Attributes in Roam.md>)?
+                        - What does the **Review** UI look like
+                            - How do you enter the **Review** state?
+                                - Is it a button on the top of the page, or a link in the left hand sidebar
+                            - Is it a modal covering the screen?
+                            - Is it a separate screen like [All Pages](<All Pages.md>) or [Graph Overview](<Graph Overview.md>)?
+                - ## [Incomplete Tasks](<Incomplete Tasks.md>) #[Example](<Example.md>)
+                    - Many people place their tasks on the [Daily Notes](<Daily Notes.md>) page, or on the page for a project that the task relates to
+                    - It is possible to use the [backlinks](<backlinks.md>)/[Mentions](<Mentions.md>) section of the [TODO](<TODO.md>) page as an inbox for all your incomplete tasks and as a place for scheduling notes to appear on future log days
+                        - **[Example](<Example.md>):**
+                            - "[Roam Demo Videos](<Roam Demo Videos.md>) using the TODO page as an inbox -- doing things that can be done immediately -- scheduling other things for a future day, and hiding all the todos that have been scheduled"
+                    - That said, it is easy for that inbox to be overwhelming, and sometimes it is nice to just see short tasks one at a time - and to either just do the task in front of you, or push it back a day.
+                    - **[Key Questions](<Key Questions.md>):**
+                        - Is there a place for incomplete tasks in a [Spaced Repetition](<Spaced Repetition.md>) deck that users review regularly?
+                        - What is the best way to remind users of tasks they haven't completed yet, without overwhelming them?
+                        - What happens when a user wants to "snooze" a task?
+                            - Relates to question in [Spaced Repetition](<Spaced Repetition.md>) of how cards get scheduled and ordered in deck after user action
+                        - What could we do to help users who keep pushing a task off day after day, to either help them make progress on the goal, or get rid of it, so that they aren't just beating themselves up and feeling guilty about it all the time?
+                - ## [Repeating Tasks](<Repeating Tasks.md>), [Daily Habit](<Daily Habit.md>), [Habit Tracking](<Habit Tracking.md>)
+                    - Many users have routines they want to follow
+                        - Questions they want to ask themselves every morning or night
+                        - Tasks that they want to complete on a daily, weekly, or monthly basis
+                        - Data they want to track regularly
+                            - Like exercise stats, or time spent meditating or doing creative work
+                    - Currently the workflow they go through is to create a page for the repeating habit "each day open it, and copy/paste the contents into your daily notes" 
+                        - as described in [Example Routine](<Example Routine.md>)
+                    - **[Key Questions](<Key Questions.md>):**
+                        - How could users set up repeating tasks or templates to pre-populate their daily notes with more structure?
+                            - What does it look like to create that template?
+                            - How does that template get applied?
+                            - Is daily notes the best way to handle this? What other options exist? 
+                - ## [Micro Organization](<Micro Organization.md>) / [Knowledge Gardening](<Knowledge Gardening.md>)
+                    - If you read [How to Take Smart Notes](<How to Take Smart Notes.md>), or google for articles about [Zettelkasten](<Zettelkasten.md>) you can get some idea of the workflow of
+                        - When you have a thought - write it down, then try and find other thoughts it relates to and connect those
+                    - It would be nice to have the ability to cycle through notes and have a prompt of - what else does this relate to
+                        - and then either search through notes to find a connection
+                        - or write a new note
+                    - **[Key Questions](<Key Questions.md>):**
+                        - What sort of [Knowledge Gardening](<Knowledge Gardening.md>) workflow could we enable WITHOUT using any machine learning to suggest related notes?
+                - ## [Incremental Reading](<Incremental Reading.md>)/ [Progressive Summarization](<Progressive Summarization.md>)
+                    - A lot of the really valuable things that we want to read and understand are [Long Reads](<Long Reads.md>), but it can be very hard to find the extended blocks of time to read these. 
+                        - and even when we have that time, it is easy to forget what we were excited about reading or watching or listening to in the past
+                    - It would be nice to be able to keep track of how far we are in an article / paper / longform blog post we've started that we were excited about, and to chip away at when we have a few minutes to spare - rather than just jumping to twitter.
+                    - To solve this problem you would probably need to solve these sub problems
+                        - Keeping track of your reading list
+                        - [Tracking Progress](<Tracking Progress.md>) of how far in an article you've currently read 
+                            - And quickly jumping to your current location on a piece when you have a spare moment
+                        - Getting a summary of what you've read to load the context in your mind, so you aren't completely lost when you jump into an article in the middle
+                            - One potential option for getting that summary would be if you followed a process of [Progressive Summarization](<Progressive Summarization.md>) as you read an article
+                                - as in -- bolding or highlighting sections of an article as you read through it
+                                - taking multiple passes through an article - each time condensing a bit further
+                                    - having ^^highlight^^ or **bold** as first stage
+                                        - but then ^^have the **bolded highlights** as the most important of the most important content^^
+                                            - And in the final stage synthesizing things in your own words
+                    - **[Key Questions](<Key Questions.md>):**
+                        - What is the best way to [Import](<Import.md>) long form content into Roam
+                            - What format should the content take?
+                                - When using a [Web Clipper](<Web Clipper.md>)
+                                - When copy/pasting web pages or articles
+                                - When importing [PDFs](<PDFs.md>)
+                                - When importing things from [twitter](<twitter.md>)
+                        - How do you track your place in external content that you're reading and marking up in Roam?
+                        - How do you add a section of Roam (a page or sub-bullet )to your [Incremental Reading](<Incremental Reading.md>) pipeline?
+                        - What does the pipeline look like?
+                            - is it showing you only a block at a time (like twitter), or does it look more like an article
+                        - How do you interact with the content -- particularly on [Mobile](<Mobile.md>) to signal the most important sections
+                        - How do you catch yourself up on a long article that you've already read 20%, 50%, 80% of?
+            - **[Overall Challenge](<Overall Challenge.md>):**
+                - **[Each of these "Specific Challenges](<Each of these "Specific Challenges.md>):** " could be solved individually - but there seems to be an overall theme to them, and it isn't clear that the solution to each need be completely separate
+                - In general, we're really not thrilled about introducing a huge number of stand alone features that only work for highly specific workflows - Roam is a tool for thought - we'd rather build the building blocks that users use to follow workflows that resonate with them
+                - **[Key Questions](<Key Questions.md>):**
+                    - What ties these together?
+                    - What shouldn't be combined?
+        - # [Date Ranges](<Date Ranges.md>) and [Calendar View](<Calendar View.md>)
+            - Many people want to be able to look at notes on a topic across 
+                - A week
+                - A month
+                - A year
+                - or even across every given Tuesday
+            - **[Key Questions](<Key Questions.md>):**
+                - Currently, dates in Roam are just the daily note pages which are attached to a particular day... how could we do better?
+        - # [Tables](<Tables.md>) and [Attributes in Roam](<Attributes in Roam.md>)
+            - Big picture stuff
+                - A table is one way to view a graph
+                    - Columns are on set of nodes
+                    - Rows are another set of nodes
+                    - Cells are the edges between those nodes
+                - But in Roam, even edges of a graph can be treated as nodes, how could we dramatically expand on what people can do with respect to tables
+                - Another way to think about it is
+                    - If a knowledge graph is an N dimensional matrix - a table is just a two dimensional slice on that matrix -- what new sort of UIs could we build on top of tables to make them more expressive and more powerful?
+                    - How could pivot tables in Excel be something that a child could use?
+            - Basic stuff
+                - Filtering a table
+                - Doing aggregates on a table
+            - Key Questions:
+                - What are [Coda.io](<Coda.io.md>), [Notion](<Notion.md>), and [Airtable](<Airtable.md>) doing right -- what are they doing wrong?
+                - "If a knowledge graph is an N dimensional matrix - a table is just a two dimensional slice on that matrix -- what new sort of UIs could we build on top of tables to make them more expressive and more powerful?"
+                - "How could pivot tables in Excel be something that a child could use?"
+        - # [Multi-User](<Multi-User.md>) [Knowledge Graphs](<Knowledge Graphs.md>), [Sync](<Sync.md>), [Subscription](<Subscription.md>)
+            - Many of our most active users maintain multiple Roam "workspaces" or "databases" each of which are currently completely silo'd
+                - you can create additional databases for yourself by going to http://roamresearch.com/#/secretinvite 
+            - We very very regularly hear requests from users to create nodes that can by synched across those databases
+                - A person wants to reference a page from their private notes on a database they share with their romantic partner or folks from their team at work
+                - A user wants to subscribe to another user's list of favorite quotes and pull those into their database
+            - **[Key Questions](<Key Questions.md>):**
+                - How should Roam look different when you're exploring someone elses graph versus you're own?
+                    - How do we help you keep track of what you've seen, and what you haven't, and was has changed since your last visit?
+        - # [Notifications](<Notifications.md>)
+            - When teams use Roam together - it can be hard for people to keep track of what is new
+                - especially if the other people on the team haven't kept their notes in the daily log nested under their name
+            - **[Key Questions](<Key Questions.md>):**
+                - How would a notification feed in a shared Roam look?
+                - How would that notification feed look different if it was based on "[Multi-User](<Multi-User.md>) [Knowledge Graphs](<Knowledge Graphs.md>), [Sync](<Sync.md>), [Subscription](<Subscription.md>)"?
+        - # [Onboarding Flow](<Onboarding Flow.md>)
+            - **[Key Questions](<Key Questions.md>):**
+                - What is the best way to teach new users the features of Roam, and to show them the workflows they can use to get the most power out of the tool?
+        - # [Synonyms](<Synonyms.md>)
+            - Many users want links to multiple different words to point to the same page
+                - Some might want [German](<German.md>) to point to the [Germany](<Germany.md>) page
+                    - temporarily solved with 
+                        - "Markdown links can be used as aliases for [Block References](<Block References.md>) and [Bidirectional Links](<Bidirectional Links.md>) #[New Features](<New Features.md>) "
+                - The same user might not want [Writing](<Writing.md>) to point to a [Writers](<Writers.md>) page though
+            - **[Key Questions](<Key Questions.md>):**
+                - What should the UI look like for allowing a single page to collect links to many different words?
+        - # [Types](<Types.md>)
+            - relates to [Templates](<Templates.md>)

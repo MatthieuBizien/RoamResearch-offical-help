@@ -1,0 +1,3 @@
+- [Welcome Message](<Welcome Message.md>)
+- 15:52 - 16:47
+    - [x] Move [Roam White Paper](<Roam White Paper.md>) here and place link on landing page

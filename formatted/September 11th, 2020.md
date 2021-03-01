@@ -1,0 +1,12 @@
+- Quality of Life improvements I was shipping last night
+    - Copying a closed set of block refs now creates a template
+        - {{[calc](<calc.md>): ((-Lyi0T8uD)) + ((qQGYP7B4_))}}
+            - 3
+            - 2
+        - {{[calc](<calc.md>): ((-Lyi0T8uD)) + ((qQGYP7B4_))}}
+            - 3
+            - 2
+        - {{[calc](<calc.md>): ((ZzHITpCev)) + ((j1ElUUvXA))}}
+            - 3
+            - 22
+        - "{{[calc](<calc.md>): ((-Lyi0T8uD)) + ((qQGYP7B4_))}}" "3" "2" "{{[calc](<calc.md>): ((-Lyi0T8uD)) + ((qQGYP7B4_))}}" "{{[calc](<calc.md>): ((-Lyi0T8uD)) + ((qQGYP7B4_))}}" "{{[calc](<calc.md>): ((ZzHITpCev)) + ((j1ElUUvXA))}}"

@@ -1,0 +1,38 @@
+- 19:05
+    - [[[Patrick Collison](<[[Patrick Collison.md>) - [Questions](<Questions.md>)]] --- [What's the successor to the scientific paper and the scientific journal?](<What's the successor to the scientific paper and the scientific journal?.md>)
+        - {{embed: ((XXeVsqhLC))}}
+        - Related to [Laura Demming](<Laura Demming.md>)'s recent notes
+            - https://twitter.com/LauraDeming/status/1299745042458750977?s=20
+            - https://twitter.com/LauraDeming/status/1299743305899499522?s=20
+            -  [[[Laura Demming](<[[Laura Demming.md>): [Feature Request](<Feature Request.md>): [Roam](<Roam.md>) + [Mathematica](<Mathematica.md>) for [Probabilistic Graphical Model](<Probabilistic Graphical Model.md>)]]
+                - **[Context](<Context.md>):**
+                    - I often want to understand new fields. To do this, I need to both __build an idea graph __and __compile evidence __for nodes in the graph.
+                    - **[How I learn new fields](<How I learn new fields.md>):**
+                        - Build an idea graph (Roam, Google Sheets)
+                        - Capture key papers + databases for nodes on the graph (local folders, Google Drive)
+                        - Extract information from key papers + databases (Google Sheets, export to pandas or other programming)
+                        - Graph extracted information (Prism, Matplotlib, Google Sheets charts, Jupyter or Mathematica notebook)
+                - **Problem: **
+                    - It’s hard to link __idea graph __and __primary evidence __in a way that
+                        - Renders the primary source easily accessible
+                        - Allows for fluid data manipulation
+                        - Allows for easy data visualization
+                        - (Wishlist) propagates uncertainty in one concept to dependent nodes (make Roam an actual [PGM](<PGM.md>), or make PGMs more interpretable and editable)
+                            - [Probabilistic Graphical Model](<Probabilistic Graphical Model.md>)
+                    - There a few reasons for [this](((o05XqoXaz)))
+                        - PDFs are a terrible, noisy filter for the raw data (see below)
+                        - Solutions exist for 2+3 above (for example, Mathematica or Jupiter notebooks) but PDFs are such a terrible core source of information that it’s hard to easily add them to this stack
+                        - ^^Science is nuanced and any time you put things in spreadsheets it loses some important context. Papers capture some of this in an unstructured way.^^
+                - __My core issue with reason [3](<3.md>) is that you should be able to then add structure to your idea graph, and incorporate the primary evidence into the updated graph with notes on your uncertainties. This to me is the recursive cycle at the heart of this process. I think a more fluid tool would allow for many more layers of iteration here. __
+        - from [Roam White Paper](<Roam White Paper.md>)
+- 19:23
+    - MVP for [PGM](<PGM.md>) for [Laura Demming](<Laura Demming.md>)
+        - Claim 1
+            - **[probabilty](<probabilty.md>):** 0.5
+        - Claim 2
+            - **[probabilty](<probabilty.md>):** 0.25
+        - Claim 3
+            - **[probabilty](<probabilty.md>):** {{[calc](<calc.md>): ((KhbEIMKUj)) * ((ZbztzbjKZ))}}
+        - {{attr-table: [probabilty](<probabilty.md>)}}
+        - 
+        - 

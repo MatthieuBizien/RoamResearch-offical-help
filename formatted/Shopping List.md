@@ -1,0 +1,11 @@
+- [Home](<Home.md>)
+    - [Kitchen](<Kitchen.md>)
+        - Recycling bins
+        - Soap trays for sink
+        - Spice rack/shelf
+        - Bins for organizing snacks
+    - [Bedroom](<Bedroom.md>)
+        - Book shelves
+- [Kids](<Kids.md>)
+    - Bath toy organizer and storage
+- [Groceries](<Groceries.md>)

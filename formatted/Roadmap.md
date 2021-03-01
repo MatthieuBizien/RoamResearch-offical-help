@@ -1,0 +1,102 @@
+- {{table}}
+    - **Category**
+        - **Feature**
+            - **Importance**
+                - **Examples / More Info**
+                    - **Related Items**
+    - #[Mobile](<Mobile.md>)
+        - Expanded Keyboard for moving blocks without drag and drop
+            - {{[slider](<slider.md>)}}
+                - **[Example](<Example.md>):** ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2FWmUHI598NS?alt=media&token=77f70eec-4e62-4870-b0fc-e90617b74e60)
+        - Photo upload
+            - {{[slider](<slider.md>)}}
+                -  
+                    - 
+        - Audio Recording
+            - {{[slider](<slider.md>)}}
+                -  
+                    - 
+        - Mobile app that works without internet
+            - {{[slider](<slider.md>)}}
+    - #[Multi-User](<Multi-User.md>) #[Small Changes](<Small Changes.md>)
+        - Emoji Keyboard
+            - {{[slider](<slider.md>)}}
+        - Emoji Reactions to blocks
+            - {{[slider](<slider.md>)}}
+        - Comments on Blocks
+            - {{[slider](<slider.md>)}}
+                -  
+                    - 
+    - [Multi-User](<Multi-User.md>) Permissions
+        - Public Pages in Private Database
+            - {{[slider](<slider.md>)}}
+                - Which do not allow the user to follow links to elsewhere in database, and do not include references when they come from private pages
+                    - 
+        - Secret Pages in Shared Databases
+            - {{[slider](<slider.md>)}}
+                - When a page is marked secret all the subtrees that is included on are filtered from all the users except those who it has been shared with
+                    - 
+        - Shared pages between databases
+            - {{[slider](<slider.md>)}}
+                -  
+                    - 
+    - #[Tables](<Tables.md>) -- Lists transposed to tables
+        - Filtering a Page filters the table
+            - {{[slider](<slider.md>)}}
+        - Reordering blocks reorders tables
+            - {{[slider](<slider.md>)}}
+        - Filter Tables based on [slider](<slider.md>)
+            - {{[slider](<slider.md>)}}
+                - only show the items which have certain threshold
+                    - Probably mostly met at first via "Sortable Tables based on [slider](<slider.md>)"
+Would be pretty separate from "Filtering a Page filters the table"
+        - Sortable Tables based on numbers
+            - {{[slider](<slider.md>)}}
+        - Sortable Tables based on [slider](<slider.md>)
+            - {{[slider](<slider.md>)}}
+                - Could have option for Average rating, or aggregate score
+        - Copy / Paste from Spreadsheets
+            - {{[slider](<slider.md>)}}
+        - Style existing tables to be fullscreen
+            - {{[slider](<slider.md>)}}
+                -  
+                    - 
+        - Edit a table from the table UI
+            - {{[slider](<slider.md>)}}
+                -  
+                    - 
+        - Filter a table from table UI
+            - {{[slider](<slider.md>)}}
+                - Probably solved well enough by
+                    - "Filtering a Page filters the table"
+        - Tables appear in References
+            - {{[slider](<slider.md>)}}
+                -  If this worked, then just clicking on Tables would work
+                    - Could be solved by "Items in the Zoom Path are parsed" and "Filtering a Page filters the table"
+    - [Tables](<Tables.md>) based on attributes
+        - All features from "#[Tables](<Tables.md>) -- Lists transposed to tables"
+            - {{[slider](<slider.md>)}}
+                - Attributes allow you to add items to a table from anywhere in the Roam database and adjust their properties
+    - #[Small Changes](<Small Changes.md>)
+        - Items in the Zoom Path are parsed
+            - {{[slider](<slider.md>)}}
+                -  
+                    -   
+        - Resizable images
+            - {{[slider](<slider.md>)}}
+                -  
+                    - 
+        - Filters includes information about [Block References](<Block References.md>) and [Block Mentions](<Block Mentions.md>)
+            - {{[slider](<slider.md>)}}
+                -  
+                    -  
+- {{[slider](<slider.md>)}}
+- {{[slider](<slider.md>)}}
+
+# Backlinks
+## [October 18th, 2019](<October 18th, 2019.md>)
+- see [Roadmap](<Roadmap.md>)
+
+## [October 20th, 2019](<October 20th, 2019.md>)
+- Writing some things up in [Roadmap](<Roadmap.md>)
+

@@ -1,0 +1,10 @@
+- Showing off [Keyboard Shortcuts](<Keyboard Shortcuts.md>) to [David Perell](<David Perell.md>)
+    - Triggers for roam
+        - `[[` to open autocomplete for pages
+        - `/` for the "good shit command" 
+        - `((` for autocomplete for blocks
+        - for dragging thing
+            - hold the option key
+            - "We use the same ones you'll find in most text editing apps"
+- [Workflows](<Workflows.md>)
+    - Writing in Roam [Writers](<Writers.md>)

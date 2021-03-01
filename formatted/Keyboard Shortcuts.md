@@ -1,0 +1,255 @@
+- General Tips and [Productivity Hack](<Productivity Hack.md>)
+    - Most people don't use caps-lock (unless you're shouting on the web or in emails, which you shouldn't be), but caps lock has a really convenient placement on your keyboard
+        - We generally advise (or at least [Conor](<Conor.md>) advises) switching cap-lock to the Control key
+            - How to map Caps-Lock to Control
+                - On Mac -- open your system preferences -- see the keyboard option
+                    - :imghttps://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2FScreenshot%202019-08-05%2012.20.16.png?alt=media&token=e25783d7-d176-4563-8c76-595c902d965c
+                    - At the bottom right you'll see "Modifier Keys..." in there you get a dropdown for changing them
+                        - :imghttps://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2FScreenshot%202019-08-05%2012.21.44.png?alt=media&token=f39e1762-79a7-4fb6-83a7-61eee29c7c86
+                    - That's it!
+            - This is useful for Roam
+                - See "Roam has a lot of unlisted keyboard shortcuts using the Control-key"
+            - It also is useful for a lot of other apps you probably use
+                - For example -- in most text editing apps -- including gmail and Roam
+                    - Control-A will bring you to the beginning of a line of text
+                    - Control-E will bring you to the end of a line
+                    - Control-K will delete until the end of line most apps -- the exception in Roam being if you have an {{alias: ((1675)) Autocomplete Open}}
+                    - Control-Y will paste the last line you deleted with Control-K
+- Roam has a lot of unlisted keyboard shortcuts using the Control-key
+    - We use the same ones you'll find in most text editing apps
+        - See "For example -- in most text editing apps -- including gmail and Roam"
+    - The most significant is that you can use Control-j and Control-k to move through all of the [Autocomplete](<Autocomplete.md>) options
+        - J and K are used for Up and Down in the Vim text editor -- and they are particularly ergonomic
+        - this means that if you want to make something a todo, you can hit the slash command, write T, and then use Control-J to move down to select TODO without leaving the "home row" on your keyboard.
+            - We use this all the time, and once you're used to it, it makes referencing or embedding blocks -- or using any of the other advanced features of Roam a lot faster and more ergonomic
+- Key Chords
+    - We stole this idea from [Emacs](<Emacs.md>) -- chords happen when you keep holding down the control key, and then hit multiple other keys in succession
+        - Example 
+            - {{embed: ((2605))}}
+- Keyboard shortcuts
+    - **[Triggers](<Triggers.md>):**
+        - Page Reference Autocomplete
+            - [[]]
+        - Block Reference Autocomplete
+            - (())
+        - Slash Commands
+            - /
+                - /TODO
+                    - Creates a check box, when clicked becomes {{DONE}}
+                - /Current 
+                    - TimeCreates a time-stamp of the current time in 24h format
+                - /POMO
+                    - Creates a 25 min Pomodoro timer
+                    - __There is no alert once it finishes__
+                - /Date 
+                    - PickerAllows you to choose a date from a calendar
+                - /Today
+                    - Today's date
+                - /Tomorrow
+                    - Tomorrow's date
+                - /Yesterday
+                    - Yesterday's date
+                - /Bold
+                - /Italics
+                - /Highlight
+                - /Strikethrough
+                - /Code Inline
+                    - Creates a monospaced code inline of the block
+                - /Code Block
+                    - Creates a code block allowing snippets of code
+                    - __Clojure, css, html, and javascript__
+                - /Latex
+                    - Allows LaTeX stylized text inline of the block
+                - /Calc
+                    - Inline calculator
+                - /Upload
+                    - Upload an image or file
+                - /Slider
+                    - Creates a slider from 0 to 10
+                - /Encrypt
+                    - Encrypts a block of text with a passphrase
+                - /Diagaram
+                    - Insert a diagram
+                - /Table
+                    - Insert a table
+                - /Kanban
+                    - Insert a kanban board
+                - /YouTube
+                    - Embed a YouTube video
+                - /Mentions
+                    - Insert mentions of a Block or Page
+                - /Word Count
+                    - Insert word count for page
+                - /Query
+                    - Insert a query
+                    - __See Queries section above__
+                - ?disablejs
+                    - add this to the URL when starting Roam to disable roam/js [(YouTube Tutorial)](https://youtu.be/_fiWkFlEyPE)
+                - ?disablcss
+                    - add this to the URL when starting Roam to disable roam/css
+    - **[Markdown](<Markdown.md>):**
+        - # Heading 1
+            - # followed by space, or
+            - **[Windows](<Windows.md>):** Ctrl-Alt-1
+            - **[Mac](<Mac.md>):** CMD-Alt-1
+        - ## Heading 2
+            - ## followed by space, or
+            - **[Windows](<Windows.md>):** Ctrl-Alt-2
+            - **[Mac](<Mac.md>):** CMD-Alt-2
+        - ### Heading 3
+            - ### followed by space, or
+            - **[Windows](<Windows.md>):** Ctrl-Alt-3
+            - **[Mac](<Mac.md>):** CMD-Alt-3
+        - Heading 0 
+            - **[Windows](<Windows.md>):** Ctrl-Alt-0
+            - **[Mac](<Mac.md>):** CMD-Alt-0
+        - **Bold**
+            - **[Windows](<Windows.md>):** Ctrl+b
+            - **[Mac](<Mac.md>):** Cmd+b
+        - __Italics__
+            - **[Windows](<Windows.md>):** Ctrl+i 
+            - **[Mac](<Mac.md>):** Cmd+i
+        - ~~Strikethrough~~
+            - **[Mac](<Mac.md>):** Cmd+y
+        - ^^highlight^^
+            - **[Windows](<Windows.md>):** Ctrl+h 
+            - **[Mac](<Mac.md>):** Cmd+h or CMD+Shift+h
+        - Latex: $$E = mc^2$$
+            - **[Windows](<Windows.md>):** Alt-Shift+4
+        - `Code Inline`
+            - /Code Inline
+        - ```javascript
+Code Block```
+            - /Code Block
+        - [link](https://www.example.com)
+            - **[Windows](<Windows.md>):** Ctrl+k 
+            - **[Mac](<Mac.md>):** Cmd+k
+        - Images ![](https://www.fillmurray.com/50/50)
+            - /Upload Image, Audio, or File
+    - **[Search](<Search.md>):**
+        - Current page
+            - Search in current page
+                - **[Windows](<Windows.md>):** Ctrl-f
+                - **[Mac](<Mac.md>):** CMD-f
+            - Page & block search
+                - (must be editing a block)
+                - **[Windows](<Windows.md>):** Ctrl-Shift-9 
+                - **[Mac](<Mac.md>):** Ctrl-Shift-9
+        - Find or Create Page dropdown
+            - Search all pages in the dropdown
+                - **[Windows](<Windows.md>):** Ctrl-u 
+                - **[Mac](<Mac.md>):** CMD-u
+            - Navigate up & down in the dropdown
+                - **[Windows](<Windows.md>):** Ctrl-j or Ctrl-k 
+                - **[Mac](<Mac.md>):** Ctrl-j or Ctrl-k 
+    - **[Blocks](<Blocks.md>):**
+        - New block
+            - Enter
+        - Indent block
+            - Tab
+        - Un-indent block
+            - Shift-Tab
+        - Go to next block
+            - **[Windows](<Windows.md>):** Down Arrow
+            - **[Mac](<Mac.md>):** Down Arrow / Ctrl-N
+        - Go to previous block
+            - **[Windows](<Windows.md>):** Up Arrow
+            - **[Mac](<Mac.md>):** Shift-Tab / Ctrl-P
+        - Move block up
+            - **[Windows](<Windows.md>):** Alt-Shift-Up Arrow
+            - **[Mac](<Mac.md>):** CMD-Shift-Up Arrow
+        - Move block down
+            - **[Windows](<Windows.md>):** Alt-Shift-Down Arrow
+            - **[Mac](<Mac.md>):** CMD-Shift-Down Arrow
+        - New line within block
+            - Shift-Enter
+        - Character - move back
+            - **[Mac](<Mac.md>):** Ctrl-B
+        - Character - move forward
+            - **[Mac](<Mac.md>):** Ctrl-F
+        - Character - delete back
+            - **[Mac](<Mac.md>):** Ctrl-H
+        - Character - delete forward
+            - **[Mac](<Mac.md>):** Ctrl-D
+        - Move to beginning of block
+            - **[Mac](<Mac.md>):** Ctrl-A
+        - Move to end of block
+            - **[Mac](<Mac.md>):** Ctrl-E
+        - Zoom-in to block
+            - **[Windows](<Windows.md>):** Alt-Right Arrow
+            - **[Mac](<Mac.md>):** CMD-Period (.)
+                - __(Firefox/Safari)__
+                    - CMD-Shift-Period (.)
+        - Zoom-out of block
+            - **[Windows](<Windows.md>):** Alt-Left Arrow
+            - **[Mac](<Mac.md>):** CMD-Comma (,)
+                - __(Firefox/Safari)__
+                    - CMD-Shift-Comma (,)
+        - Expand block
+            - **[Windows](<Windows.md>):** Ctrl-Down Arrow
+            - **[Mac](<Mac.md>):** CMD-Down Arrow
+        - Collapse block
+            - **[Windows](<Windows.md>):** Ctrl-Up Arrow
+            - **[Mac](<Mac.md>):** CMD-Up Arrow
+        - Select text in current block
+            - **[Windows](<Windows.md>):** Ctrl-A
+            - **[Mac](<Mac.md>):** CMD-A
+        - Select current block
+            - Shift-Up-Up __or__ Shift-Down-Down
+        - Select current block & block above
+            - Shift-Up-Up-Up
+        - Select current block & block below
+            - Shift-Down-Down-Down
+        - Select all blocks on page
+            - **[Windows](<Windows.md>):** Ctrl-Shift-A
+            - **[Mac](<Mac.md>):** CMD-Shift-A
+        - Jump to start of block
+            - **[Windows](<Windows.md>):** Ctrl-Home
+            - **[Mac](<Mac.md>):** Ctrl-A
+        - Jump to end of block
+            - **[Windows](<Windows.md>):** Ctrl-End
+            - **[Mac](<Mac.md>):** Ctrl-E
+    - **[Advanced](<Advanced.md>):**
+        - Toggle [brackets](<brackets.md>)
+            - **[Windows](<Windows.md>):** Ctrl+c ⇒ Ctrl+b
+            - **[Mac](<Mac.md>):** Ctrl+c ⇒ Ctrl+b
+        - Toggle Block Reference expansion
+            - **[Windows](<Windows.md>):** Ctrl+c ⇒ Ctrl+r
+            - **[Mac](<Mac.md>):** Ctrl+c ⇒ Ctrl+r
+        - Toggle your icon
+            - **[Windows](<Windows.md>):** Ctrl+c ⇒ Ctrl+s
+            - **[Mac](<Mac.md>):** Ctrl+c ⇒ Ctrl+s
+        - Toggle edit icon
+            - **[Windows](<Windows.md>):** Ctrl+c ⇒ Ctrl+c ⇒ Ctrl+s
+            - **[Mac](<Mac.md>):** Ctrl+c ⇒ Ctrl+c ⇒ Ctrl+s
+        - Toggle block preview
+            - **[Windows](<Windows.md>):** Ctrl+c ⇒ Ctrl+p
+            - **[Mac](<Mac.md>):** Ctrl+c ⇒ Ctrl+p
+            - "You can use control-c control-p to get a preview of the block you're looking at"
+        - Cycle [name/spaces](<name/spaces.md>)
+            - **[Windows](<Windows.md>):** Ctrl+c ⇒ Ctrl+l 
+            - **[Mac](<Mac.md>):** Ctrl+c ⇒ Ctrl+l
+        - Cycle through node levels (slideshow mode) 
+            - Works at current node level 
+            - **[Windows](<Windows.md>):** Ctrl+c ⇒ Ctrl+m
+            - **[Mac](<Mac.md>):** Ctrl+c ⇒ Ctrl+m
+
+# Backlinks
+## [April 5th, 2020](<April 5th, 2020.md>)
+- Showing off [Keyboard Shortcuts](<Keyboard Shortcuts.md>)
+
+## [August 5th, 2019](<August 5th, 2019.md>)
+- [Keyboard Shortcuts](<Keyboard Shortcuts.md>)
+
+## [December 8th, 2019](<December 8th, 2019.md>)
+- [Keyboard Shortcuts](<Keyboard Shortcuts.md>)
+
+## [Disambiguations in Roam](<Disambiguations in Roam.md>)
+- (you can toggle how much of the prefix of you are showing at any time by hitting `control-c control-l`) -- see [Keyboard Shortcuts](<Keyboard Shortcuts.md>)
+
+## [March 15th, 2020](<March 15th, 2020.md>)
+- [Mac](<Mac.md>) [Keyboard Shortcuts](<Keyboard Shortcuts.md>)
+
+## [October 18th, 2019](<October 18th, 2019.md>)
+- [Keyboard Shortcuts](<Keyboard Shortcuts.md>)
+

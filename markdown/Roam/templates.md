@@ -1,0 +1,27 @@
+- ## Choice
+    - {{[[TODO]]}} [[Choice]] ...... "Decision:: "A""
+        - Options::
+            - A
+            - B
+            - C
+        - Decision:: "A"
+- ## Option
+    - Advantages::
+        -  
+        -  
+        - 
+    - Disadvantages::
+        -  
+        -  
+- ? = Question
+    - [?]([[Question]])
+- ¬ = not
+    - [¬]([[NOT]])
+- ≡ = definition
+    - [≡]([[Definition]])
+- ! = Claim
+    - [!]([[Claim]])
+- API docs
+    - description::
+    - parameters::
+    - usage::

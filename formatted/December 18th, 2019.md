@@ -1,0 +1,92 @@
+- 03:15
+    - Need to sleep, but thinking about creating some examples of using Roam to create a [Dependency Graph](<Dependency Graph.md>) of [Modular Lessons](<Modular Lessons.md>) for [Education](<Education.md>)
+    - Things to think about
+        - Interactive problem sets
+            - definitely the kind of thing you could build in through extensions once we open up the API
+        - Tracking how far through the course a student has moved
+            - both for [Instructor Analytics](<Instructor Analytics.md>) and for [Tracking Progress](<Tracking Progress.md>) so the student knows what to read or do next
+                - this could easily be factored into the [Graph Overview](<Graph Overview.md>)
+- Evening
+    - Mapping a knowledge graph
+        - Intro classes
+            - [1](<1.md>)
+            - [A](<A.md>)
+            - [X](<X.md>)
+    - Model map
+        - - 
+            - Nesting means it comes after 
+            - #[tags](<tags.md>) used to show additional dependencies from other parts of tree
+        - [1](<1.md>)
+            - [1.1](<1.1.md>)
+                - #[A](<A.md>)
+                    - [1.1.A](<1.1.A.md>)
+                - #[X](<X.md>)
+                    - [1.1X](<1.1X.md>)
+                        - [1.1.X1](<1.1.X1.md>)
+                            - #[1.1.A](<1.1.A.md>) #[1.2X](<1.2X.md>)
+                                - [1.1.X1-1.1.A-1.2X.1](<1.1.X1-1.1.A-1.2X.1.md>)
+            - [1.2](<1.2.md>)
+                - #[X](<X.md>)
+                    - [1.2X](<1.2X.md>)
+        - [A](<A.md>)
+        - [X](<X.md>)
+    - 
+    - This is a simpler problem than a truth graph
+        - Because
+            - In a knowledge graph there is only one sort of dependency 
+                - Is the thing required for the next thing
+                    - If it isnt, remove it as a dependency 
+                - Did the student complete the material?
+                    -  If they did, add it to the completed attribute for them and they select the next module. 
+        - This could work fractal-ly 
+            - Any problem broken down into sub components 
+                - Used as specifically ingredients for other problems 
+                - So you start w
+                    - A = Broad subject 
+                        - Geometry 
+                    - Or A = Subproblem 
+                        - Specific proof or axiom from Euclid 
+    - How to track students
+        - Student A
+            - **[Level](<Level.md>):** [1.1.A](<1.1.A.md>)
+            - **[Completed](<Completed.md>):** [A](<A.md>) [1](<1.md>) [1.1](<1.1.md>) 
+        - Student B
+            - **[Level](<Level.md>):** [1.2X](<1.2X.md>)
+            - **[Completed](<Completed.md>):** [1](<1.md>) [X](<X.md>) [1.2](<1.2.md>)
+    - 
+    - 
+    - 
+    - {{attr-table: [Level](<Level.md>)}} 
+    - 
+    - 
+    - Checking truth claims is more difficult 
+        - You still have a graph 
+            - however you also factor in
+                - X --> Y is itself a claim that can be evaluated - and differ for each person.
+                    - IF BOB SAW HIM SHOOT THE GUN HE SHOT the president 
+                        - I can think bob is lying 
+                            - If Bob says he saw him shoot the gun, then Bob saw him shoot the gun
+                                - Is possibly implied claim 
+                        - I can think the gun had blanks 
+                        - I can think there were multiple shooters, and Bob shot someone else.
+                - You want to map certainly of a claim, and certainty of relationships.
+                    - !X -> B
+                        - **[Certainty](<Certainty.md>):** {{[slider](<slider.md>)}}
+        - You want a way of deferring evaluations of expert level claims to people you trust on a topic.
+            - Evaluating claims is tricky work
+            - Arguing for claims is too
+            - There is no reason to do it if the things you're working through aren't reusable and worth the effort
+                - It makes sense to lay out a proof in
+                    - Mathematics 
+                        - Proofs are the game 
+                    - Highly consequential decisions
+                        - Legal arguments 
+                        - Big money decisions based on logical models of the world
+                            - Like hedge fund decisions.
+                            - Large expenses for an individual.
+                    - Places where convincing someone who is skeptical, but amenable to rational argument is worthwhile.
+                        - Crowdsourcing != wikipedia
+                            - More likely to be github 
+                                - You want canonical representation of a person or group's understanding of an argument.
+                                - Coming to agreement is like pull requests on another person's mind.
+                        - Important to know debate rarely changes minds, mostly to help the undecided onlookers
