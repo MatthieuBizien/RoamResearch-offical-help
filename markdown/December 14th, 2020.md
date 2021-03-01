@@ -79,6 +79,7 @@ span.rm-page-ref[data-tag*="rm"]
                         - C
                         - Another
                         - The last one
+                        -  #rm-col-span2 Spanning two columns
     - [[New Features]]
         - [[Expandable Parentheticals]]
             - How it works::
