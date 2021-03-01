@@ -308,3 +308,45 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEven
 
 (firefox:3231): GLib-GObject-CRITICAL **: 04:26:15.703: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614572777198	Marionette	INFO	Stopped listening on port 44815
+1614575961390	geckodriver	INFO	Listening on 127.0.0.1:48813
+1614575961986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet457OG"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575972102	Marionette	INFO	Listening on port 43605
+1614575972180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575972205	Marionette	ERROR	[18] No reply from Marionette:Register
+1614575973198	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2725): GLib-GObject-CRITICAL **: 05:20:00.556: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614576001527	Marionette	INFO	Stopped listening on port 43605
+1614576002199	geckodriver	INFO	Listening on 127.0.0.1:46177
+1614576002207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezAe9Hk"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614576003986	Marionette	INFO	Listening on port 36815
+1614576004056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614576004076	Marionette	ERROR	[18] No reply from Marionette:Register
+1614576004967	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2953): GLib-GObject-CRITICAL **: 05:20:42.597: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614576044364	Marionette	INFO	Stopped listening on port 36815
+1614576044953	geckodriver	INFO	Listening on 127.0.0.1:47095
+1614576044961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile68lvr3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614576046811	Marionette	INFO	Listening on port 42651
+1614576046888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614576046904	Marionette	ERROR	[15] No reply from Marionette:Register
+1614576047769	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:3160): GLib-GObject-CRITICAL **: 05:21:08.051: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614576069607	Marionette	INFO	Stopped listening on port 42651
