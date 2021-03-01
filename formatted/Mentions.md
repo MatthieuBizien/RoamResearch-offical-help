@@ -1,3 +1,4 @@
+- Included automatically at the bottom of every page, except for the ones in Daily Notes
 
 # Backlinks
 ## [August 19th, 2019](<August 19th, 2019.md>)

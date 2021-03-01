@@ -303,16 +303,6 @@
 ## [Roam for Zettlekasting](<Roam for Zettlekasting.md>)
 - {{[TODO](<TODO.md>)}
 
-## [Roam/render](<Roam/render.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- [ ] [TODO](<TODO.md>)
-
-## [Roam/templates](<Roam/templates.md>)
-- {{[TODO](<TODO.md>)}
-
 ## [Roamcult Themes](<Roamcult Themes.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -369,5 +359,15 @@
 
 - Note on "[ ] make some of those references explicit using tags" and "{{[TODO](<TODO.md>)}
 
+- {{[TODO](<TODO.md>)}
+
+## [roam/render](<roam/render.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- [ ] [TODO](<TODO.md>)
+
+## [roam/templates](<roam/templates.md>)
 - {{[TODO](<TODO.md>)}
 

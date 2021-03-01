@@ -52,7 +52,7 @@
 - "`uid`" **optional**
                                 - **[usage](<usage.md>):**
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - **[parameters](<parameters.md>):**
     - **[usage](<usage.md>):**
 

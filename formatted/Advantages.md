@@ -4,7 +4,7 @@
 - The way I use it for [Hammock Driven Development](<Hammock Driven Development.md>)?
             - **[Advantages](<Advantages.md>):**
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - ## Option
     - **[Advantages](<Advantages.md>):**
 

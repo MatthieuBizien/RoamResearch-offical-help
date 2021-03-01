@@ -8,7 +8,7 @@
 -  It's my main way of working in Roam
             - **[Disadvantages](<Disadvantages.md>):**
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - 
     - **[Disadvantages](<Disadvantages.md>):**
 

@@ -31,6 +31,6 @@
 ## [RR Team Templates](<RR Team Templates.md>)
 - [ ] #[Choice](<Choice.md>)
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - [ ] [Choice](<Choice.md>)
 

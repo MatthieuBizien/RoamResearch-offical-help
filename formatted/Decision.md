@@ -35,7 +35,7 @@
 - 
         - **[Decision](<Decision.md>):**
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - C
         - **[Decision](<Decision.md>):**
 

@@ -8,6 +8,6 @@
 ## [May 8th, 2020](<May 8th, 2020.md>)
 - Would that actually influence decisions[?]([Question](<Question.md>))
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - [?]([Question](<Question.md>))
 

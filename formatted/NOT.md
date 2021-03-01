@@ -1,5 +1,5 @@
 
 # Backlinks
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - [¬]([NOT](<NOT.md>))
 

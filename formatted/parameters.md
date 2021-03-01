@@ -70,7 +70,7 @@
 - Delete a page and all its children blocks
                                 - **[parameters](<parameters.md>):**
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - **[description](<description.md>):**
     - **[parameters](<parameters.md>):**
 

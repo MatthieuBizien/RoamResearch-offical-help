@@ -32,3 +32,8 @@ Worse still, for those who worry about these trends, the forces that were ^^push
 ## [Welcome to Roam](<Welcome to Roam.md>)
 - How to use Roam to help write a [Master's Thesis](<Master's Thesis.md>)
 
+## [v2](<v2.md>)
+- ""Worse still, for those who worry about these trends, the forces that were ^^pushing us **together** were an anomaly^^, a one-time combination of circumstances that's unlikely to be repeated — and indeed, that we would not want to repeat. #[Master's Thesis](<Master's Thesis.md>)"
+
+- ""as I write in it, in a free association style, I may think of some random thoughts that relate to [The Refragmentation](<The Refragmentation.md>) or [the Depression](<the Depression.md>) or [Master's Thesis](<Master's Thesis.md>),
+

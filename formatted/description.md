@@ -111,7 +111,7 @@
 - `deletePage`
                                 - **[description](<description.md>):**
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - API docs
     - **[description](<description.md>):**
 

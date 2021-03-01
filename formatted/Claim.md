@@ -31,6 +31,6 @@
 
 - "We fail to do anything because we're perplexed by complexity[!]([Claim](<Claim.md>))
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - [!]([Claim](<Claim.md>))
 

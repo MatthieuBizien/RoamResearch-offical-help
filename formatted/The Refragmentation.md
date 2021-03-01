@@ -147,3 +147,6 @@
 ## [Roam/Comments](<Roam/Comments.md>)
 - [The Refragmentation](<The Refragmentation.md>)
 
+## [v2](<v2.md>)
+- ""as I write in it, in a free association style, I may think of some random thoughts that relate to [The Refragmentation](<The Refragmentation.md>)
+

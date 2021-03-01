@@ -39,7 +39,7 @@
 - [ ] #[Choice](<Choice.md>) 
         - **[Options](<Options.md>):**
 
-## [Roam/templates](<Roam/templates.md>)
+## [roam/templates](<roam/templates.md>)
 - **[[ ] [Choice](<Choice.md>) ...... "Decision](<[ ] [Choice](<Choice.md>) ...... "Decision.md>):** "A""
         - **[Options](<Options.md>):**
 
