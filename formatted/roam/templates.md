@@ -41,6 +41,8 @@
 - Sample calculation [roam/templates](<../roam/templates.md>)
 
 ## [Roam Change Log](<Roam Change Log.md>)
+- Fixed a bug with `[roam/templates](<../roam/templates.md>)`
+
 - You can now add the `[roam/templates](<../roam/templates.md>)`
 
 - Update to `[roam/templates](<../roam/templates.md>)`

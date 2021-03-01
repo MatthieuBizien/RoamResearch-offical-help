@@ -4,6 +4,10 @@
         - [[Quality of Life Improvements]]
             - #roam/css
                 - [[BEM]] refactor for filters
+    - [[March 1st, 2021]]
+        - [[Quality of Life Improvements]]
+            - [[Multibar]] now will close blocks if ANY of the blocks are open - before it required every block was open
+            - Fixed a bug with `[[roam/templates]]` where template would sometimes overwrite the block you were editing
     - [[February 23rd, 2021]]
         - [[New Features]]
             - [[Roam Alpha API]]

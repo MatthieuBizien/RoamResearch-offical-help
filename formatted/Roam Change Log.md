@@ -4,6 +4,10 @@
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - [roam](<roam.md>)/css
                 - [BEM](<BEM.md>) refactor for filters
+    - [March 1st, 2021](<March 1st, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - [Multibar](<Multibar.md>) now will close blocks if ANY of the blocks are open - before it required every block was open
+            - Fixed a bug with `[roam/templates](<roam/templates.md>)` where template would sometimes overwrite the block you were editing
     - [February 23rd, 2021](<February 23rd, 2021.md>)
         - [New Features](<New Features.md>)
             - [Roam Alpha API](<Roam Alpha API.md>)
