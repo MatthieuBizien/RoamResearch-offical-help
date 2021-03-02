@@ -246,6 +246,10 @@ span.rm-page-ref[data-tag="rm-h"] {
   flex-direction: row;
 }
 ```
+        - Grid #rm-grid
+            - Grid 1
+            - Grid 2
+            - Gr
         - Grid `#rm-grid`
             - ```css
 

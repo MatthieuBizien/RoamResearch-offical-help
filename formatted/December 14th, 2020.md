@@ -27,7 +27,7 @@ display: flex;
                 - B
                 - C
             - # .rm-grid 
-                - Let's try a quick grid [rm-grid](<rm-grid.md>) "Grid `[rm-grid](<rm-grid.md>)`"
+                - Let's try a quick grid #.rm-grid "Grid `[rm-grid](<rm-grid.md>)`"
                     - A
                     - B
                     - C
