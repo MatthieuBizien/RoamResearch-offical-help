@@ -5,6 +5,6 @@
             - **[Tutorial Videos](<Tutorial Videos.md>):**
 
 ## [Help Resources](<Help Resources.md>)
-- [Roam YouTube](https://www.youtube.com/channel/UCw7Xjh150WTk6hefbiowLlw/playlists)
+- [Roam GitHub](https://github.com/Roam-Research)
 - **[Tutorial Videos](<Tutorial Videos.md>):**
 

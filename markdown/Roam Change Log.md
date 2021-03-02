@@ -8,6 +8,9 @@
         - [[Quality of Life Improvements]]
             - [[Multibar]] now will close blocks if ANY of the blocks are open - before it required every block was open
             - Fixed a bug with `[[roam/templates]]` where template would sometimes overwrite the block you were editing
+            - Block embeds now reference the other block, not themselves in circular manner to avoid confusion and clutter
+            - [[Roam Alpha API]]
+                - Update to "`window.roamAlphaAPI.data.addPullWatch`" to allow for watching entities that don't yet exist
     - [[February 23rd, 2021]]
         - [[New Features]]
             - [[Roam Alpha API]]

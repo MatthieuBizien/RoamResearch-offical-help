@@ -8,6 +8,9 @@
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - [Multibar](<Multibar.md>) now will close blocks if ANY of the blocks are open - before it required every block was open
             - Fixed a bug with `[roam/templates](<roam/templates.md>)` where template would sometimes overwrite the block you were editing
+            - Block embeds now reference the other block, not themselves in circular manner to avoid confusion and clutter
+            - [Roam Alpha API](<Roam Alpha API.md>)
+                - Update to "`window.roamAlphaAPI.data.addPullWatch`" to allow for watching entities that don't yet exist
     - [February 23rd, 2021](<February 23rd, 2021.md>)
         - [New Features](<New Features.md>)
             - [Roam Alpha API](<Roam Alpha API.md>)

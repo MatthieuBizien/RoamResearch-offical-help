@@ -3,8 +3,8 @@
     - [Conor White-Sullivan](https://twitter.com/Conaw) (our founder & CEO)
 - Roam Community::
     - [Roam Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-h695qjav-Rnlz8GFolVzFl8z3~U3tog)
-    - [Roam GitHub](https://github.com/Roam-Research)
     - [Roam YouTube](https://www.youtube.com/channel/UCw7Xjh150WTk6hefbiowLlw/playlists)
+    - [Roam GitHub](https://github.com/Roam-Research)
 - Tutorial Videos::
     - [A Beginner’s Guide to Roam Research by Drew Coffman](https://www.youtube.com/watch?v=X6OOos4met0&t)
         - {{[[youtube]]: https://www.youtube.com/watch?v=X6OOos4met0&t}}
