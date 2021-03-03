@@ -11,6 +11,7 @@
             - Block embeds now reference the other block, not themselves in circular manner to avoid confusion and clutter
             - [[Roam Alpha API]]
                 - Update to "`window.roamAlphaAPI.data.addPullWatch`" to allow for watching entities that don't yet exist
+- [[roam@0.8.2]]
     - [[February 23rd, 2021]]
         - [[New Features]]
             - [[Roam Alpha API]]
@@ -269,6 +270,7 @@ window
         - [[Bug Fixes]]
             - Fixed bug where the help menu was shifting the page over in the browser window when opened after moving it
             - Fixed bug with autocomplete and code block dropdowns were overlapping other components that should be rendered above them
+- [[roam@0.8.1]]
     - [[February 11th, 2021]]
         - [[Bug Fixes]]
             - Fixed bug where order of sidebar windows when loading pinned windows was not preserved
@@ -278,7 +280,6 @@ window
                 - Now featuring more keyboard shortcuts and improved styling
                 - Version number, link to help db, and getting started videos now included
                 - 
-    - [[February 2nd, 2021]]
     - [[February 1st, 2021]]
         - [[New Features]]
             - New [[Help Menu]] in top right of screen #MVP
@@ -290,7 +291,6 @@ window
         - [[Bug Fixes]]
             - Rolled back parser regex changes which were causing Roam to freeze up on Chromium-based browsers
             - Fixed bug where Roam would crash if you exited User Settings with a `nil` display name
-    - [[January 31st, 2021]]
     - [[January 30th, 2021]]
         - [[Quality of Life Improvements]] #roam/css
             - [[BEM]] refactor for top nav bar
@@ -313,6 +313,8 @@ window
                 - `.rm-sync-tooltip__text`
                     - `.rm-sync-tooltip__text--local-pending`
                 - `.rm-sync-tooltip__last-sync-time`
+- [[roam@0.8.0]]
+- [[roam@0.7.9]]
     - [[January 27th, 2021]]
         - [[Quality of Life Improvements]] [*](((9GPK-JEv8)))
             - Expand and collapse all blocks at a certain depth by clicking on outliner lines
@@ -538,10 +540,6 @@ window
     - [[January 1st, 2021]]
         - [[Bug Fixes]]
             - Fixed bug with nested bullets in templates being applied out of order
-- [[roam@0.8.2]]
-- [[roam@0.8.1]]
-- [[roam@0.8.0]]
-- [[roam@0.7.9]]
 - [[roam@0.7.8]]
     - [[December 30th, 2020]]
         - [[Bug Fixes]]

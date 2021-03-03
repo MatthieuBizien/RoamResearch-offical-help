@@ -62,8 +62,3 @@ var s = document.createElement('script');
   	s.async = true;
 document.body.appendChild(s);
 ``` [*](((nBoIvWqdh)))
-
-# Backlinks
-## [Roam Change Log](<Roam Change Log.md>)
-- [February 2nd, 2021](<February 2nd, 2021.md>)
-
