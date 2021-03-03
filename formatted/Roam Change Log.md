@@ -4,6 +4,11 @@
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - [roam](<roam.md>)/css
                 - [BEM](<BEM.md>) refactor for filters
+    - [March 2nd, 2021](<March 2nd, 2021.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed security vulnerability where users were able to edit code blocks on read-only graphs
+            - Fixed bug with global filters where the page being globally filtered out would not show in the filters component on that page and the content on that page would be removed 
+                - Content on a page which is being globally filtered out will still show on that page, only blocks referencing the page will be filtered out
     - [March 1st, 2021](<March 1st, 2021.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - [Multibar](<Multibar.md>) now will close blocks if ANY of the blocks are open - before it required every block was open

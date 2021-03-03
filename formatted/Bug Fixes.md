@@ -85,6 +85,8 @@
 
 - [Bug Fixes](<Bug Fixes.md>)
 
+- [Bug Fixes](<Bug Fixes.md>)
+
 - [Improvements](<Improvements.md>) / [Bug Fixes](<Bug Fixes.md>)
 
 - [Bug Fixes](<Bug Fixes.md>)
