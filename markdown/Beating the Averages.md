@@ -1,7 +1,4 @@
 - [[Paul Graham]] #[[Essay]]
-    - ![Beating the Averages](http://ep.yimg.com/ca/I/paulgraham_2202_12771109)
-    - ![](http://www.virtumundo.com/images/spacer.gif) **Want to start a startup?** Get funded by [Y Combinator](http://ycombinator.com/apply.html).
-    - ![](http://www.virtumundo.com/images/spacer.gif)
     - April 2001, rev. April 2003
     - __(This article is derived from a talk given at the 2001 Franz Developer Symposium.)__
     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
