@@ -170,7 +170,9 @@ opacity: 1;
   margin: 12px 4px;
   padding: 8px 0px;
  
-}```
+}
+
+```
         - ```css
 
 .mindmap .rm-block__children .rm-block__children .rm-multibar {
