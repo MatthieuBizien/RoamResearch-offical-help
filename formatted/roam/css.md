@@ -1,4 +1,28 @@
 - [Conor](<../Conor.md>)
+    - Spacer 
+        - ```css
+ 
+.rm-block__self  .rm-block-separator {
+  min-width: 100px ;
+  min-height: 10px;
+  background-color: [4CAF50](<../4CAF50.md>);
+  flex: 1 0 100px;
+}
+
+.rm-block__self > .rm-block-separator {
+  min-width: 100px;
+/  min-height: 10px;
+  background-color: [4CAF50](<../4CAF50.md>);
+  flex: 1 0 100px;
+}
+
+.rm-embed-container  .rm-embed-inner-block-hide  
+.rm-block > .rm-block__self > .rm-block-separator {
+  min-width: 0px;
+  min-height: 10px;
+  background-color: blue;
+}
+```
     - New Document Mode
         - 
             - ```css
