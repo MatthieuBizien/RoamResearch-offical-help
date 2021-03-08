@@ -1,14 +1,16 @@
 - 
-- 
 - {{[kanban](<kanban.md>)}}
     - A
     - B
+        - D
     - C
+        - B
     - D
+        - C
 - #.spacer
     - {{[embed](<embed.md>): ((uKOhUK3wu))}}
     - {{[embed](<embed.md>): ((aE3hf2Ytu))}}
-- # [As A Man Thinketh](<As A Man Thinketh.md>)  #.spacer
+- # [As A Man Thinketh](<As A Man Thinketh.md>)  #.spacer #.doc-mode #.rm-spacing--small #.rm-article-wrapper
     - __using css from__ "New Document Mode"
     - ## THOUGHT AND CHARACTER 
         - THE aphorism, "As a man thinketh in his heart so is he," not only embraces the whole of a man's being, but is so comprehensive as to reach out to every condition and circumstance of his life. A man is literally __what he thinks,__ his character being the complete sum of all his thoughts.

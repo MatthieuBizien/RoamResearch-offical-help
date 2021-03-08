@@ -1,26 +1,26 @@
 - [Conor](<../Conor.md>)
     - Spacer 
-        - ```css
+        - ```clojure
  
-.rm-block__self  .rm-block-separator {
-  min-width: 100px ;
-  min-height: 10px;
-  background-color: [4CAF50](<../4CAF50.md>);
-  flex: 1 0 100px;
+.rm-block__self > .rm-block-separator {
+  min-width: 140px ;
+
 }
 
-.rm-block__self > .rm-block-separator {
-  min-width: 100px;
-/  min-height: 10px;
-  background-color: [4CAF50](<../4CAF50.md>);
-  flex: 1 0 100px;
+
+
+.rm-embed-container {
+  margin-right: -110px;
+}
+.rm-full-width {
+  margin-right: -140px;
 }
 
 .rm-embed-container  .rm-embed-inner-block-hide  
 .rm-block > .rm-block__self > .rm-block-separator {
-  min-width: 0px;
-  min-height: 10px;
-  background-color: blue;
+  min-width: 140px;
+  min-height: 0px;
+ / background-color: blue;
 }
 ```
     - New Document Mode
