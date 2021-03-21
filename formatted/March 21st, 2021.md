@@ -60,14 +60,36 @@
 - 08:57
     - #.thread #.wrap 
         - Man's 
-        - #.rm-g 
-            -  
+        - + #.and
             - population and 
             - gross product
         -  are increasing 
             - at a considerable rate, 
         - but the __complexity__ 
         - of his problems grows still faster, 
-    - and the __urgency__ with which solutions must be found becomes steadily greater in response to the increased rate of activity and the increasingly global nature of that activity. Augmenting man's intellect, in the sense defined above, would warrant full pursuit by an enlightened society if there could be shown a reasonable approach and some plausible benefits.**[1a2](https://www.dougengelbart.org/content/view/138/[1a2](<1a2.md>))**
-    - [🔗]()
-    - [🔗]()This report covers the first phase of a program aimed at developing means to augment the human intellect. These "means" can include many things—all of which appear to be but extensions of means developed and used in the past to help man apply his native sensory, mental, and motor capabilities—and we consider the whole system of a human and his augmentation means as a proper field of search for practical possibilities. It is a very important system to our society, and like most systems its performance can best be improved by considering the whole as a set of interacting components rather than by considering the components in isolation.
+    - and the __urgency__ #.rm-h
+        - with which solutions must be found 
+        - becomes steadily greater
+            -  in response to #.l40
+                - the increased rate of activity #.l40
+                    -  #.l40 the increasingly global nature of that activity. 
+    - Augmenting man's intellect, 
+        - in the sense defined above, 
+        - would warrant full pursuit by an enlightened society
+            -  if there could be shown a reasonable approach and some plausible benefits.**[1a2](https://www.dougengelbart.org/content/view/138/[1a2](<1a2.md>))**
+    - This report covers the first phase of a program aimed at developing means to augment the human intellect. 
+    - These "means" can include many things
+        - —all of which appear to be but extensions of 
+        - means 
+            - #.rm-g #.rm-d —-
+                - #.rm-g —-
+                    - developed 
+                    - try
+                    - used 
+                - in the past
+                    - gg 
+        -  to help man
+            -  apply his 
+                - native sensory, 
+                - mental, and motor capabilities—
+        - and we consider the whole system of a human and his augmentation means as a proper field of search for practical possibilities. It is a very important system to our society, and like most systems its performance can best be improved by considering the whole as a set of interacting components rather than by considering the components in isolation.

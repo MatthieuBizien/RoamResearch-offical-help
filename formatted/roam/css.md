@@ -1,4 +1,31 @@
 - [Conor](<../Conor.md>)
+    - {{[embed](<../embed.md>): ((UlnOVltlm))}}
+    - ```css
+.rm-d.rm-block--open >
+.rm-block__children > .rm-block:nth-child(3) > div:first-child > div:first-child {
+  background-color: blue !important;
+  min-width: 60px;
+  max-height: 4px;
+  align-self: center;
+  display: flex;
+  flex: 1 0 50px;
+  overflow:scroll;
+   margin-right: 18px;
+}```
+    - ```css
+.rm-d >
+.rm-block__children > .rm-block:nth-child(2) > .rm-block__children  {
+\\ background-color: green !important;
+ border-bottom: 3px solid green;
+  margin-left: 8px;
+ \\ margin-top: -18px;
+
+}``` 
+    - 
+    - ```css
+.l40 {
+margin-left: -40px;
+}```
     - ```css
 .wrap >div:last-child { 
 border: 1px solid grey;

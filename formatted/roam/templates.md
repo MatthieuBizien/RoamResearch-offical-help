@@ -1,3 +1,5 @@
+- —- 
+    - ---
 - ## Choice
     - **[[ ] [Choice](<../Choice.md>) ...... "Decision](<../[ ] [Choice](<../Choice.md>) ...... "Decision.md>):** "A""
         - **[Options](<../Options.md>):**
