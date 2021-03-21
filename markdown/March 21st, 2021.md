@@ -4,11 +4,61 @@
     - #rm-grid
         - By "augmenting human intellect" #rm-col-span-1
             - we mean 
-                - increasing the capability 
+                - increasing the capability #.contents
                     - of a man #.contents
-                    - to approach a complex problem situation, 
-                    - to gain comprehension
-                        -  to suit his particular needs, 
-                        - and to derive solutions to problems. 
-                    - Increased capability in this respect is taken to mean a mixture of the following: more-rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble. And by "complex situations" we include the professional problems of diplomats, executives, social scientists, life scientists, physical scientists, attorneys, designers—whether the problem situation exists for twenty minutes or twenty years. We do not speak of isolated clever tricks that help in particular situations. We refer to a way of life in an integrated domain where hunches, cut-and-try, intangibles, and the human "feel for a situation" usefully co-exist with powerful concepts, streamlined terminology and notation, sophisticated methods, and high-powered electronic aids.
+                        - to approach a complex problem situation, 
+                        - xyz
+                    - to gain  in:
+                        - #.contents comprehension
+                            -  to suit his particular needs, 
+                            - and to derive solutions to problems. 
+                    - Increased capability in this respect
+                    -  is taken to mean a mixture of the following: 
+                        - #.rm-g
+                            - more-rapid comprehension, 
+                            - better comprehension, 
+                            - the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, 
+                            - speedier solutions, 
+                            - better solutions, 
+                            - and the possibility of finding solutions to problems that before seemed insoluble.
+                    - {{[[embed]]: ((Xm-Axy5a6))}}
+                    -  And by "complex situations" 
+                        - we include
+                            - #.rm-g
+                                -  #[[rm-h]] #.center #.rm-g
+                                    -  the professional problems of 
+                                    - #.rm-g ——-
+                                        - diplomats, 
+                                        - executives, 
+                                        - #.rm-g
+                                            - life scientists, 
+                                            - physical scientists, 
+                                            - social scientists, 
+                                        -  attorneys, 
+                                        - designers
+                                -  #rm-h #.rm-g
+                                    - whether the problem situation exists for 
+                                        - #.rm-g
+                                    - — #.rm-g —-
+                                        - twenty minutes 
+                                        - or twenty years. 
+                                            - FYI 
+                                            - 20 years 
+                        - We do not speak of 
+                            - isolated clever tricks 
+                                - that help in particular situations. 
+                        - We refer to a way of life in an integrated domain 
+                            - where #rm-h #.center
+                                - #.rm-g approach 
+                                    - hunches, 
+                                    - cut-and-try, 
+                                    - intangibles,
+                                    -  and the human "feel for a situation" 
+                                - usefully co-exist with 
+                                - #.rm-g 
+                                    - powerful concepts, 
+                                    - streamlined terminology and notation, 
+                                    - sophisticated methods
+                                    - and
+                                    -  high-powered electronic aids
 - #.
