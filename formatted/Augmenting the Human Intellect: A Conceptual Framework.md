@@ -83,6 +83,9 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - For a Great Demo of this - see [Roam White Paper](<Roam White Paper.md>), [It's Time To Build](<It's Time To Build.md>), or [Augmenting the Human Intellect: A Conceptual Framework](<Augmenting the Human Intellect: A Conceptual Framework.md>)
 
+## [March 21st, 2021](<March 21st, 2021.md>)
+- [Augmenting the Human Intellect: A Conceptual Framework](<Augmenting the Human Intellect: A Conceptual Framework.md>)
+
 ## [October 7th, 2019](<October 7th, 2019.md>)
 - [Augmenting the Human Intellect: A Conceptual Framework](<Augmenting the Human Intellect: A Conceptual Framework.md>)
 

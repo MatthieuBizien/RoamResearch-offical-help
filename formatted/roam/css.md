@@ -323,6 +323,18 @@ span.rm-page-ref[data-tag*="rm"]
   
   transform: scale(0.8);
 }```
+- .semantic 
+    - ```css
+.semantic .rm-block-separator{
+  display: none;
+}
+
+.semantic .rm-block__input{
+
+background-color: blue;
+}
+
+```
 - [Evergreens](<../Evergreens.md>)
 - Live Editor for playing with custom tags {{[table](<../table.md>)}}
     - ```css
