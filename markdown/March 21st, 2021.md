@@ -57,7 +57,7 @@
                                 - sophisticated methods
                                 - and
                                 -  high-powered electronic aids
-- 08:57
+- 08:57 - 10:44 2 hours
     - #.thread #.wrap 
         - Man's 
         - + #.and
@@ -81,15 +81,18 @@
     - These "means" can include many things
         - —all of which appear to be but extensions of 
         - means 
-            - #.rm-g #.rm-d —-
-                - #.rm-g —-
+            - #.rm-g #.rm-d
+                - #.rm-g #rm-h
                     - developed 
-                    - try
+                    - tried
                     - used 
                 - in the past
-                    - gg 
-        -  to help man
-            -  apply his 
-                - native sensory, 
-                - mental, and motor capabilities—
-        - and we consider the whole system of a human and his augmentation means as a proper field of search for practical possibilities. It is a very important system to our society, and like most systems its performance can best be improved by considering the whole as a set of interacting components rather than by considering the components in isolation.
+                -  to help man
+                    -  apply his 
+                        - #.rm-g
+                            - native sensory, 
+                            - mental, 
+                            - and motor capabilities—
+        - 
+        - and we consider the whole system of a human and his augmentation means as a proper field of search for practical possibilities.
+        -  It is a very important system to our society, and like most systems its performance can best be improved by considering the whole as a set of interacting components rather than by considering the components in isolation.

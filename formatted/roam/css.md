@@ -14,10 +14,10 @@
 }```
     - ```css
 .rm-d >
-.rm-block__children > .rm-block:nth-child(2) > .rm-block__children  {
+.rm-block__children > .rm-block:nth-child(2) > .rm-block__children > div:last-child {
 \\ background-color: green !important;
- border-bottom: 3px solid green;
-  margin-left: 8px;
+ \\ border-bottom: 3px solid green;
+ \\ margin-left: 8px;
  \\ margin-top: -18px;
 
 }``` 
