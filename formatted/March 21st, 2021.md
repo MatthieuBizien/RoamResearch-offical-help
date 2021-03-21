@@ -1,15 +1,12 @@
 - [Augmenting the Human Intellect: A Conceptual Framework](<Augmenting the Human Intellect: A Conceptual Framework.md>)
-    - [rm-col-span2](<rm-col-span2.md>)
-    - {{iframe: https://www.dougengelbart.org/content/view/138}}
-    - [rm-grid](<rm-grid.md>)
-        - By "augmenting human intellect" [rm-col-span-1](<rm-col-span-1.md>)
+    - {{iframe: https://www.dougengelbart.org/content/view/138 }}
+        - By "augmenting human intellect" 
             - we mean 
-                - increasing the capability #.contents
-                    - of a man #.contents
+                - increasing the capability 
+                    - of a man 
                         - to approach a complex problem situation, 
-                        - xyz
                     - to gain  in:
-                        - #.contents comprehension
+                        - comprehension
                             -  to suit his particular needs, 
                             - and to derive solutions to problems. 
                     - Increased capability in this respect
@@ -22,15 +19,16 @@
                             - better solutions, 
                             - and the possibility of finding solutions to problems that before seemed insoluble.
                     - {{[embed](<embed.md>): ((Xm-Axy5a6))}}
-                    -  And by "complex situations" 
+                -  And by "complex situations" 
+                    - We do not speak of 
                         - we include
-                            - #.rm-g
+                            - #.rm-g #.center
                                 -  #[rm-h](<rm-h.md>) #.center #.rm-g
                                     -  the professional problems of 
                                     - #.rm-g ——-
                                         - diplomats, 
                                         - executives, 
-                                        - #.rm-g
+                                        - #.rmg #.rm-h —-
                                             - life scientists, 
                                             - physical scientists, 
                                             - social scientists, 
@@ -42,23 +40,34 @@
                                     - — #.rm-g —-
                                         - twenty minutes 
                                         - or twenty years. 
-                                            - FYI 
                                             - 20 years 
-                        - We do not speak of 
-                            - isolated clever tricks 
-                                - that help in particular situations. 
-                        - We refer to a way of life in an integrated domain 
-                            - where [rm-h](<rm-h.md>) #.center
-                                - #.rm-g approach 
-                                    - hunches, 
-                                    - cut-and-try, 
-                                    - intangibles,
-                                    -  and the human "feel for a situation" 
-                                - usefully co-exist with 
-                                - #.rm-g 
-                                    - powerful concepts, 
-                                    - streamlined terminology and notation, 
-                                    - sophisticated methods
-                                    - and
-                                    -  high-powered electronic aids
-- #.
+                        - isolated clever tricks 
+                            - that help in particular situations. 
+                    - We refer to a way of life in an integrated domain 
+                        - where [rm-h](<rm-h.md>) #.center  #.ac 
+                            - #.rm-g approach 
+                                - hunches, 
+                                - cut-and-try, 
+                                - intangibles,
+                                -  and the human "feel for a situation" 
+                            - usefully co-exist with 
+                            - #.rm-g 
+                                - powerful concepts, 
+                                - streamlined terminology and notation, 
+                                - sophisticated methods
+                                - and
+                                -  high-powered electronic aids
+- 08:57
+    - #.thread #.wrap 
+        - Man's 
+        - #.rm-g 
+            -  
+            - population and 
+            - gross product
+        -  are increasing 
+            - at a considerable rate, 
+        - but the __complexity__ 
+        - of his problems grows still faster, 
+    - and the __urgency__ with which solutions must be found becomes steadily greater in response to the increased rate of activity and the increasingly global nature of that activity. Augmenting man's intellect, in the sense defined above, would warrant full pursuit by an enlightened society if there could be shown a reasonable approach and some plausible benefits.**[1a2](https://www.dougengelbart.org/content/view/138/[1a2](<1a2.md>))**
+    - [🔗]()
+    - [🔗]()This report covers the first phase of a program aimed at developing means to augment the human intellect. These "means" can include many things—all of which appear to be but extensions of means developed and used in the past to help man apply his native sensory, mental, and motor capabilities—and we consider the whole system of a human and his augmentation means as a proper field of search for practical possibilities. It is a very important system to our society, and like most systems its performance can best be improved by considering the whole as a set of interacting components rather than by considering the components in isolation.

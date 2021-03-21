@@ -1,13 +1,35 @@
 - [[Conor]]
-    - thread #.thread
-        - #.thread a
+    - ```css
+.wrap >div:last-child { 
+border: 1px solid grey;
+}
+.wrap .rm-block__children {
+flex-wrap: wrap;
+}```
+    - thread #.thread #.wrap 
+        - a
+            - take it further 
+                - c d e f g
+            - see how far vertically
             - b
+                - this is not clear where it fits... but what off we mage I’ve muscle trying t runs r just got off a few times and I have a couple of things going to work for me and then you’ll be back to work for you to 
             - c
     - ```css
-.thread .rm-block,.rm-block__children
-{display: contents;
+.thread .rm-block, .thread .rm-block__children
+{
+  display: contents;
+  border:2px solid blue;
 }
-```
+.thread > .rm-block__children {
+  display: flex;
+  overflow-x:scroll;
+  overflow-y: hidden;
+ 
+  flex-direction: row;}
+
+.thread div{ 
+  word-break: none;
+  min-width: 40px};```
     - ```css
 .rm-block {
 max-width: 100vw !important;
@@ -16,14 +38,16 @@ max-width: 100vw !important;
     - ```css
 .contents {
   color:blue;
-display: contents;}
+display: contents;
+}
 
 .center > .rm-block__children {
-  justify: content:center;
-align-items:  center;}
+  justify-content: center;
+
+}
 ```
     - Spacer 
-        - ```clojure
+        - ```typescript
  
 .rm-block__self > .rm-block-separator {
   min-width: 140px ;
@@ -299,7 +323,8 @@ span.rm-page-ref[data-tag="rm-h"] {
 flex-wrap: wrap;
 
 }
-```
+.ac > .rm-block__children {
+align-items: center ;}```
         - Grid #rm-grid
             - Grid 1
             - Grid 2
