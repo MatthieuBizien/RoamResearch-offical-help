@@ -1,9 +1,9 @@
 - [[About Roam Updates]] 
+- Pending review
+    - [[Quality of Life Improvements]]
+        - #roam/css
+            - [[BEM]] refactor for filters
 - Not released as a version 
-    - Pending review
-        - [[Quality of Life Improvements]]
-            - #roam/css
-                - [[BEM]] refactor for filters
     - [[March 2nd, 2021]]
         - [[Bug Fixes]]
             - Fixed security vulnerability where users were able to edit code blocks on read-only graphs
@@ -16,6 +16,8 @@
             - Block embeds now reference the other block, not themselves in circular manner to avoid confusion and clutter
             - [[Roam Alpha API]]
                 - Update to "`window.roamAlphaAPI.data.addPullWatch`" to allow for watching entities that don't yet exist
+- [[roam@0.8.4]]
+- [[roam@0.8.3]]
 - [[roam@0.8.2]]
     - [[February 23rd, 2021]]
         - [[New Features]]
