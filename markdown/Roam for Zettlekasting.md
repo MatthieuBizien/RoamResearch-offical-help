@@ -7,7 +7,7 @@ The [[Zettelkasten]] is basically the [[GTD]] for Intellectual Progress
         - Actually has a lot in common with [[Just in Time Project Management]] from [[Tiago Forte]]
             - Particularly the idea of [[Intermediate Packets]]
                 - "Instead of delivering one big lump of value at the very end, you stage your progress in a series of short, intense sprints, ending each one with a tangible, intermediate deliverable, like a set of notes, a brainstorm, a series of examples, an outline, a prototype, or a draft." 
-                - "![](https://i1.wp.com/praxis.fortelabs.co/wp-content/uploads/2018/05/168-175.001.jpeg?resize=1024%2C576&ssl=1) "
+                - "![](https://i1.wp.com/praxis.fortelabs.co/wp-content/uploads/2018/05/168-175.001.jpeg?resize=1024%2C576&ssl=1)"
                 - The core idea in the [[Zettelkasten]] is that every time you read something worthwhile, you write up each idea in your own words -- and link those ideas to the other notes that are related
                 - When you're writing research papers or blog-posts you should never be starting with a blank page -- you instead want to just pull on a "thread" and have a whole stream of thoughts -- already written in complete sentences, in your own words, to build off of
                     - {{[[TODO]]}} Include link on threads from [[Visakan V]]'s twitter
