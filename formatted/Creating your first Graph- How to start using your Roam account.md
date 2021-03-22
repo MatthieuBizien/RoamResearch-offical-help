@@ -1,5 +1,5 @@
 Awesome! Thanks for signing up to Roam.
-The first page you will see is the graph overview page.  A graph is another name for a database. Inside a graph is where you will do all the work in Roam, writing, making blocks and pages.  And to get there, you have to create your first graph.
+The first page you will see is the graph overview page. A graph is another name for a database. Inside a graph is where you will do all the work in Roam, writing, making blocks and pages.  And to get there, you have to create your first graph.
 **Create your first Graph**
 Click the + Create Graph button show below.
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64002584139/original/qSyN3z64CH9l-HKnazKUR0yb7iK0xF5s6w.png?1600055258)
