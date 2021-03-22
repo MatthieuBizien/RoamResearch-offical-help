@@ -14,3 +14,8 @@
         - "In my world, OPML support is not incidental. Each of my outliners is a church, but the religion is OPML. There is no lock-in in this world. You can use any other tool that can read or write OPML. So when I ask if Roam supports OPML, I'm asking if their product can play with products that are compatible with mine. This is like asking, imho, if a news reader can deal with RSS. With OPML the standard is rock solid. For some reason no one has screwed with it (thankful).[#](http://scripting.com/2021/03/15/144714.html?title=aboutRoamsProduct[a150634](<a150634.md>))"
             - We at least have copy/paste to other tools that use [OPML](<OPML.md>) pretty much perfect -- [Workflowy](<Workflowy.md>) - [Dynalist](<Dynalist.md>) #[Feature Requests](<Feature Requests.md>)
                 - "Can I use my own editing tools to get my ideas into their database? I don't know. I suspect a developer could create a bridge. Most of my writing is available in OPML. There are lots of examples in the [repository](https://github.com/scripting/Scripting-News/tree/master/blog) that holds my blog content starting in May 2017. The rest of it is on the web, and I can provide a zip archive for a developer who wants to try importing all 26-plus years of my blog. ;-)[#](http://scripting.com/2021/03/15/144714.html?title=aboutRoamsProduct[a145529](<a145529.md>))"
+
+# Backlinks
+## [Roam Change Log](<Roam Change Log.md>)
+- [March 15th, 2021](<March 15th, 2021.md>)
+

@@ -4,6 +4,60 @@
         - #roam/css
             - [[BEM]] refactor for filters
 - Not released as a version 
+    - 
+- [[roam@0.8.4]]
+    - [[March 19th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed bug where you could not open the mentions of a page or block in the sidebar if you had already clicked to open up the page or block in the sidebar, or vice versa
+    - [[March 18th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed bug where page would crash if you deleted a block whose mentions are open in the sidebar
+            - Roam can now handle pasting an `img` inside an `a` tag
+    - [[March 17th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed the width of block reference windows in the sidebar
+            - Adjusted the spacing between "References to: " and the mentions to be a little bit more similar to other sidebar windows
+    - [[March 16th, 2021]]
+        - [[Quality of Life Improvements]]
+            - Sometimes you might have both HTML and text on the clipboard, and the HTML might be too big to paste whereas the plain-text might be acceptable, so now when pasting,  Roam checks whether the plain-text is below max size, and if so, displays a message letting the user know that they can paste in plain text
+            - Minor improvements to [[Templates]]
+                - When the query string is empty the autocomplete dropdown for templates, it now shows the templates in the order they appear on the [[roam/templates]] page
+                    - This is overridden when the query string is not empty
+                - Templates now respect "View as Document" and "View as Numbered List" children types
+                - Templates now respect Block Heading view type, previously, they only respected nested headings, not top level headings
+        - [[Bug Fixes]]
+            - Adds better checks for the existence of the Sentry module before attempting to use it, which should fix one class of sign-in errors
+    - [[March 15th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed bug introduced by Chromium 0.89 which resulted in clicking into blocks on any Chromium-based browser on that version to insert the cursor in the textarea in the wrong place
+    - [[March 12th, 2021]]
+        - [[New Features]]
+            - Inline Figma embed, just paste a Figma link into `{{figma: FIGMA_LINK_HERE}}`
+                - Check out the interactive demo below:
+                    - {{figma: https://www.figma.com/file/LKQ4FJ4bTnCSjedbRpk931/Sample-File}}
+        - [[Quality of Life Improvements]]
+            - Tooltip for page reference count on hover in the sidebar
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDGNrRJyIAp.png?alt=media&token=b6b0f11a-f4eb-48fb-b7bc-22c7b0465a97)
+        - [[Bug Fixes]]
+            - Fixed capitalization in the "Paste too large" message from "Paste too Large" -> "Paste too large"
+    - [[March 11th, 2021]]
+        - [[Bug Fixes]]
+            - Fixes import freezing on large imports, also replaces the spinner with a progress bar
+- [[roam@0.8.3]]
+    - [[March 7th, 2021]]
+        - [[New Features]]
+            - Resizable width button to change the size of the horizontal padding surrounding the main page
+                - The button can be found in the top right of the navigation bar, in between the `...` menu button and the `?` menu popup button
+                - See the GIF below for a demo:
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FYX3Mw-_qsR.gif?alt=media&token=f52a8e19-51ad-4acf-b219-660894c1dc07)
+    - [[March 3rd, 2021]]
+        - [[New Features]]
+            - [[Command Palette]]
+                - Type `cmd+p` on Mac and `ctrl+p` on PC to bring up the command palette which you can use to type out commands to open up settings, copy a link to the current page to your clipboard, chat with our support team, and much more.
+            - [[Settings Menu]]
+                - New settings menu accessible through the [[Command Palette]]
+            - [[Auto-backups]]
+                - Schedule automatic backups of your graph through the new [[Settings Menu]]
     - [[March 2nd, 2021]]
         - [[Bug Fixes]]
             - Fixed security vulnerability where users were able to edit code blocks on read-only graphs
@@ -16,9 +70,6 @@
             - Block embeds now reference the other block, not themselves in circular manner to avoid confusion and clutter
             - [[Roam Alpha API]]
                 - Update to "`window.roamAlphaAPI.data.addPullWatch`" to allow for watching entities that don't yet exist
-- [[roam@0.8.4]]
-- [[roam@0.8.3]]
-- [[roam@0.8.2]]
     - [[February 23rd, 2021]]
         - [[New Features]]
             - [[Roam Alpha API]]
@@ -250,6 +301,7 @@ window
             - If a page is open in the sidebar, clicking on the mentions will open mentions if not already open and close mentions if already open 
         - [[Bug Fixes]]
             - Shift-clicking on refs now stops creating text or block selections
+- [[roam@0.8.2]]
     - [[February 15th, 2021]]
         - [[Quality of Life Improvements]]
             - Top-right corner edit button is always visible on mobile and touch devices for the following components:
@@ -277,7 +329,6 @@ window
         - [[Bug Fixes]]
             - Fixed bug where the help menu was shifting the page over in the browser window when opened after moving it
             - Fixed bug with autocomplete and code block dropdowns were overlapping other components that should be rendered above them
-- [[roam@0.8.1]]
     - [[February 11th, 2021]]
         - [[Bug Fixes]]
             - Fixed bug where order of sidebar windows when loading pinned windows was not preserved
@@ -320,7 +371,11 @@ window
                 - `.rm-sync-tooltip__text`
                     - `.rm-sync-tooltip__text--local-pending`
                 - `.rm-sync-tooltip__last-sync-time`
+- [[roam@0.8.1]]
 - [[roam@0.8.0]]
+    - [[January 28th, 2021]]
+        - Changes
+            - Migrates schema from using `:edit/email` and `:create/email` to `:edit/user` and `:create/user` (references to the user entity)
 - [[roam@0.7.9]]
     - [[January 27th, 2021]]
         - [[Quality of Life Improvements]] [*](((9GPK-JEv8)))

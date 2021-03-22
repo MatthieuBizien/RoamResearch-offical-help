@@ -59,6 +59,12 @@
 
 - [New Features](<New Features.md>)
 
+- [New Features](<New Features.md>)
+
+- [New Features](<New Features.md>)
+
+- [New Features](<New Features.md>)
+
 - "Markdown links can be used as aliases for [Block References](<Block References.md>) and [Bidirectional Links](<Bidirectional Links.md>) #[New Features](<New Features.md>)
 
 - [Queries](<Queries.md>) "#[New Features](<New Features.md>)

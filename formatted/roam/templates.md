@@ -43,6 +43,8 @@
 - Sample calculation [roam/templates](<../roam/templates.md>)
 
 ## [Roam Change Log](<Roam Change Log.md>)
+- When the query string is empty the autocomplete dropdown for templates, it now shows the templates in the order they appear on the [roam/templates](<../roam/templates.md>)
+
 - Fixed a bug with `[roam/templates](<../roam/templates.md>)`
 
 - You can now add the `[roam/templates](<../roam/templates.md>)`
