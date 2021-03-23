@@ -4,7 +4,49 @@
         - #roam/css
             - [[BEM]] refactor for filters
 - Not released as a version 
-    - 
+    - [[March 22nd, 2021]]
+        - [[Quality of Life Improvements]]
+            - Block embed expand/collapse state saved between re-renders
+        - [[New Features]]
+            - [[roam/render]]
+                - Exposed Markdown parser
+                    - Namespace:
+                        - `roam.util`
+                    - Function:
+                        - `parse`
+                    - Args:
+                        - 1
+                        - String
+                    - Returns:
+                        - Parsed Hiccup with Roam Markdown styling
+                    - Example:
+                        - Code:
+                            - ```clojure
+(ns md.example
+  (:require
+   [reagent.core :as r]
+   [roam.util :as u]))
+
+(defn parsed-text []
+  (u/parse "[[Page ref]] ((XT6nyeACa)) and [link](https://roamresearch.com)"))```
+                        - Rendered:
+                            - {{roam/render: ((FFwfsxVY1)) }}
+    - [[March 21st, 2021]]
+        - [[New Features]]
+            - Inline `{{[[roam/css]]}}` definitions
+            - Apply styles from around your graph and not just from the roam/css page
+            - Test it out below:
+                - {{[[roam/css]]}}
+                    - ```css
+.roam-article {
+  background: lightyellow;
+}```
+        - [[Quality of Life Improvements]]
+            - Infinite scroll for Find or Create Page search results
+        - [[Bug Fixes]]
+            - Change copy from Delete to Delete Page in ... menu
+            - Fixed bug where pressing enter after writing local graph name didn't work to create graph
+            - Fixed bug with user settings crashing when not signed in
 - [[roam@0.8.4]]
     - [[March 19th, 2021]]
         - [[Bug Fixes]]

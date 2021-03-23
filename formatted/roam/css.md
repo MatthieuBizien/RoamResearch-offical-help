@@ -581,6 +581,10 @@ span.rm-page-ref[data-tag="make:table-tight"] ~ div .roam-table .roam-table th, 
 - Proving that we can have a nested Table / Grid Structure using just [roam/css](<../roam/css.md>)
 
 ## [Roam Change Log](<Roam Change Log.md>)
+- Inline `{{[roam/css](<../roam/css.md>)}
+
+- {{[roam/css](<../roam/css.md>)}
+
 - [roam/css](<../roam/css.md>)
 
 - [roam/css](<../roam/css.md>)

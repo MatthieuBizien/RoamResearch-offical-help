@@ -4,7 +4,49 @@
         - [roam](<roam.md>)/css
             - [BEM](<BEM.md>) refactor for filters
 - Not released as a version 
-    - 
+    - [March 22nd, 2021](<March 22nd, 2021.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Block embed expand/collapse state saved between re-renders
+        - [New Features](<New Features.md>)
+            - [roam/render](<roam/render.md>)
+                - Exposed Markdown parser
+                    - Namespace:
+                        - `roam.util`
+                    - Function:
+                        - `parse`
+                    - Args:
+                        - 1
+                        - String
+                    - Returns:
+                        - Parsed Hiccup with Roam Markdown styling
+                    - Example:
+                        - Code:
+                            - ```clojure
+(ns md.example
+  (:require
+   [reagent.core :as r]
+   [roam.util :as u]))
+
+(defn parsed-text []
+  (u/parse "[Page ref](<Page ref.md>) ((XT6nyeACa)) and [link](https://roamresearch.com)"))```
+                        - Rendered:
+                            - {{roam/render: ((FFwfsxVY1)) }}
+    - [March 21st, 2021](<March 21st, 2021.md>)
+        - [New Features](<New Features.md>)
+            - Inline `{{[roam/css](<roam/css.md>)}}` definitions
+            - Apply styles from around your graph and not just from the roam/css page
+            - Test it out below:
+                - {{[roam/css](<roam/css.md>)}}
+                    - ```css
+.roam-article {
+  background: lightyellow;
+}```
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Infinite scroll for Find or Create Page search results
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Change copy from Delete to Delete Page in ... menu
+            - Fixed bug where pressing enter after writing local graph name didn't work to create graph
+            - Fixed bug with user settings crashing when not signed in
 - [roam@0.8.4](<roam@0.8.4.md>)
     - [March 19th, 2021](<March 19th, 2021.md>)
         - [Bug Fixes](<Bug Fixes.md>)
