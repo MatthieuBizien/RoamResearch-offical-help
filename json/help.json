@@ -42069,6 +42069,271 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "04-16-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "IdWJv42cv"
+                          },
+                          {
+                            ":block/uid": "5K19Sylm0"
+                          },
+                          {
+                            ":block/uid": "A1MxhqDRI"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1618559963860,
+                        "edit-time": 1618559990533,
+                        "refs": [
+                          {
+                            "uid": "IdWJv42cv"
+                          },
+                          {
+                            "uid": "5K19Sylm0"
+                          },
+                          {
+                            "uid": "A1MxhqDRI"
+                          }
+                        ],
+                        "string": "Brought to you by:: [[Wilker Lucio]] [[Joshua Brown]]",
+                        "uid": "0_vFUHxhi"
+                      }
+                    ],
+                    "create-time": 1618559533824,
+                    "edit-time": 1618559668970,
+                    "string": "Custom hotkeys! You can find them in `Settings > Hotkeys`",
+                    "uid": "X5G619r3J"
+                  }
+                ],
+                "create-time": 1618559307294,
+                "edit-time": 1618559400837,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80 ",
+                "uid": "gtJ6wd-1P"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "WQZs9Hal0"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1618559959363,
+                        "edit-time": 1618559960531,
+                        "refs": [
+                          {
+                            "uid": "WQZs9Hal0"
+                          }
+                        ],
+                        "string": "((WQZs9Hal0))",
+                        "uid": "5WNLa-s1n"
+                      }
+                    ],
+                    "create-time": 1618559412745,
+                    "edit-time": 1618559639062,
+                    "string": "You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.",
+                    "uid": "Dwb0uhapW"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "evJ14QpsV"
+                          },
+                          {
+                            ":block/uid": "5K19Sylm0"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1618559941494,
+                        "edit-time": 1618559951820,
+                        "refs": [
+                          {
+                            "uid": "evJ14QpsV"
+                          },
+                          {
+                            "uid": "5K19Sylm0"
+                          }
+                        ],
+                        "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                        "uid": "WQZs9Hal0"
+                      }
+                    ],
+                    "create-time": 1618559866624,
+                    "edit-time": 1618559894909,
+                    "string": "User Settings and Graph Settings have been unified into our new Settings modal.",
+                    "uid": "NYSVrmDt-"
+                  }
+                ],
+                "create-time": 1618559400823,
+                "edit-time": 1618559402061,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] \u2728",
+                "uid": "7AWNu5hi6"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "EJIFQrIL3"
+                          },
+                          {
+                            ":block/uid": "5K19Sylm0"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1618559927971,
+                        "edit-time": 1618559938100,
+                        "refs": [
+                          {
+                            "uid": "EJIFQrIL3"
+                          },
+                          {
+                            "uid": "5K19Sylm0"
+                          }
+                        ],
+                        "string": "Brought to you by:: [[Adam Sherwood]]",
+                        "uid": "Z0bNDOuAH"
+                      }
+                    ],
+                    "create-time": 1618559785273,
+                    "edit-time": 1618559798629,
+                    "string": "Empty link tags in pasted content will no longer be rendered.",
+                    "uid": "w4d72iBS-"
+                  }
+                ],
+                "create-time": 1618559402052,
+                "edit-time": 1618559785282,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] \ud83d\udee0 ",
+                "uid": "wYUr6zp5x"
+              }
+            ],
+            "create-time": 1618559299336,
+            "edit-time": 1618559307307,
+            "heading": 3,
+            "refs": [
+              {
+                "uid": "04-16-2021"
+              }
+            ],
+            "string": "[[April 16th, 2021]]",
+            "uid": "1fgnkotHP"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "04-15-2021"
               }
             ],
@@ -42104,6 +42369,42 @@
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "CV_O2qTlP"
+                          },
+                          {
+                            ":block/uid": "evJ14QpsV"
+                          },
+                          {
+                            ":block/uid": "5K19Sylm0"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1618559913846,
+                        "edit-time": 1618559923649,
+                        "refs": [
+                          {
+                            "uid": "CV_O2qTlP"
+                          },
+                          {
+                            "uid": "evJ14QpsV"
+                          },
+                          {
+                            "uid": "5K19Sylm0"
+                          }
+                        ],
+                        "string": "Brought to you by:: [[Bardia Pourvakil]] [[Conor White-Sullivan]]",
+                        "uid": "VzQCd0P_Q"
+                      }
+                    ],
                     "create-time": 1618469220277,
                     "edit-time": 1618472194187,
                     "refs": [
@@ -66069,14 +66370,26 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "create-time": 1618557778122,
-    "edit-time": 1618557778122,
+    "create-time": 1618559306790,
+    "edit-time": 1618559306790,
     "title": "April 16th, 2021",
     "uid": "04-16-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1618559982014,
+    "edit-time": 1618559982015,
+    "title": "Wilker Lucio",
+    "uid": "A1MxhqDRI"
   }
 ]

@@ -2,9 +2,22 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - ### [[April 16th, 2021]]
+        - [[New Features]] 🚀 
+            - Custom hotkeys! You can find them in `Settings > Hotkeys`
+                - Brought to you by:: [[Wilker Lucio]] [[Joshua Brown]]
+        - [[Quality of Life Improvements]] ✨
+            - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.
+                - Brought to you by:: [[Bardia Pourvakil]]
+            - User Settings and Graph Settings have been unified into our new Settings modal.
+                - Brought to you by:: [[Bardia Pourvakil]]
+        - [[Bug Fixes]] 🛠 
+            - Empty link tags in pasted content will no longer be rendered.
+                - Brought to you by:: [[Adam Sherwood]]
     - ### [[April 15th, 2021]]
         - [[New Features]] 🚀
             - Unlimited [local graphs]([[Local Graph]]) are now available for all Roam subscribers!
+                - Brought to you by:: [[Bardia Pourvakil]] [[Conor White-Sullivan]]
     - ### [[April 14th, 2021]]
         - [[Quality of Life Improvements]] ✨
             - Hitting tab while writing a page reference will autocomplete the first option

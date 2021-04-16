@@ -2,9 +2,22 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - ### [April 16th, 2021](<April 16th, 2021.md>)
+        - [New Features](<New Features.md>) 🚀 
+            - Custom hotkeys! You can find them in `Settings > Hotkeys`
+                - **[Brought to you by](<Brought to you by.md>):** [Wilker Lucio](<Wilker Lucio.md>) [Joshua Brown](<Joshua Brown.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.
+                - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
+            - User Settings and Graph Settings have been unified into our new Settings modal.
+                - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
+        - [Bug Fixes](<Bug Fixes.md>) 🛠 
+            - Empty link tags in pasted content will no longer be rendered.
+                - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
     - ### [April 15th, 2021](<April 15th, 2021.md>)
         - [New Features](<New Features.md>) 🚀
             - Unlimited [local graphs]([Local Graph](<Local Graph.md>)) are now available for all Roam subscribers!
+                - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>) [Conor White-Sullivan](<Conor White-Sullivan.md>)
     - ### [April 14th, 2021](<April 14th, 2021.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - Hitting tab while writing a page reference will autocomplete the first option
