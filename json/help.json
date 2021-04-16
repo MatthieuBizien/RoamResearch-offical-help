@@ -4164,33 +4164,6 @@
             "uid": "6UWzTCdaa"
           },
           {
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614650194453,
-                "edit-time": 1614794917350,
-                "string": "A Roaman Wall of Fame",
-                "uid": "tMdK8XeLy"
-              }
-            ],
-            "create-time": 1614650040255,
-            "edit-time": 1618445341395,
-            "heading": 1,
-            "string": "[Pillars of the Community](Pillars of the Community)",
-            "uid": "Vr2qjH51t"
-          },
-          {
             ":block/refs": [
               {
                 ":block/uid": "aSROJm17l"
@@ -36004,9 +35977,9 @@
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             "create-time": 1616602204564,
-            "edit-time": 1616602264346,
+            "edit-time": 1618598089610,
             "heading": 3,
-            "string": "[Request to be featured](https://roamresearch.typeform.com/to/g5W8uCqz)",
+            "string": "[Request to be vetted](https://roamresearch.typeform.com/to/g5W8uCqz)",
             "uid": "ukct66uOK"
           }
         ],

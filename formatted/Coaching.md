@@ -39,7 +39,7 @@
                 - Roam Coaching Packages starting at $150
                 - DM or message for custom coaching package needs
     - 
-    - ### [Request to be featured](https://roamresearch.typeform.com/to/g5W8uCqz)
+    - ### [Request to be vetted](https://roamresearch.typeform.com/to/g5W8uCqz)
 
 # Backlinks
 ## [Community](<Community.md>)
