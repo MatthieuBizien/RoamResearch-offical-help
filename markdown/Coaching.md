@@ -1,0 +1,42 @@
+#.doc-mode
+#.doc-mode
+    - ## Get specialized 1:1 help to master Roam from one of our vetted coaches
+    - #.rm-grid #.doc-mode
+        - # [R.J. Nestor]([[R.J. Nestor]])
+            - Info::
+                - Business & Executive Coach, Musician, Writer
+                - Helps you develop and optimize your Roam workflows
+                - Created courses [Your Road to Roam](https://courses.rjnestor.com/p/your-road-to-roam) and [Powerful Task Management in Roam Research](https://courses.rjnestor.com/p/powerful-task-management-in-roam-research)
+            - Website:: 
+                - [roamcoaching.rjnestor.com](https://roamcoaching.rjnestor.com) [rjnestor.com](https://rjnestor.com) [youtube.com/c/rjnestorcoach](https://youtube.com/c/rjnestorcoach)
+            - Areas of specialty::
+                - [[Roam fundamentals]] ⬅ for ANY Roam skill level
+                - [[Workflows]] [[Processes]]
+                - [[Productivity]] [[GTD]]
+                - [[Content creation]] [[Writing]] [[Creative writing]]
+            - Contact::
+                - DM on [Twitter](https://twitter.com/rjnestor)
+                - Message through [Facebook coaching page](https://m.me/rjnestorcoach)
+            - Price::
+                - [Roam coaching packages](https://roamcoaching.rjnestor.com) start at $150
+                - [DM](https://twitter.com/rjnestor) or [message](https://m.me/rjnestorcoach) for custom coaching package needs
+        - # [Cortex Futura]([[Cortex Futura]])
+            - Info::
+                - PhD Student, Data Analyst, Teacher, Writer
+                - Helps you
+                - Created courses [Cite to Write](https://t.co/Z95EFrEenY?amp=1) (using Roam in academia) and Galaxy Brain (Algorithms of Thought)
+            - Website::
+                - [Coaching Website](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph)
+            - Areas of specialty::
+                - [[Roam fundamentals]]
+                - [[Workflows]]
+                - [[Writing]], [[Publishing]]
+                - [[Academia]]
+            - Contact::
+                - [DM on Twitter](https://twitter.com/cortexfutura)
+                - coaching@cortexfutura.com
+            - Price::
+                - Roam Coaching Packages starting at $150
+                - DM or message for custom coaching package needs
+    - 
+    - ### [Request to be featured](https://roamresearch.typeform.com/to/g5W8uCqz)

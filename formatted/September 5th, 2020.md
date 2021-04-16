@@ -1,5 +1,0 @@
-- [Roam Change Log](<Roam Change Log.md>)
-    - ∆
-    - [Quality of Life Improvements](<Quality of Life Improvements.md>)
-        - C-p for up arrow
-        - C-n for down arrow

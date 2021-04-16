@@ -1,3 +1,0 @@
-- Super important link for anyone using [Roam for Research](<Roam for Research.md>)
-    - Convert [PDFs](<PDFs.md>) to [HTML](<HTML.md>)
-        - https://www.arxiv-vanity.com/

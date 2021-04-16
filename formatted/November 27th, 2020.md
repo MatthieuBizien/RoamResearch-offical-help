@@ -1,1 +1,0 @@
-- [The Ones Who Crossed The Rubicon](<The Ones Who Crossed The Rubicon.md>)

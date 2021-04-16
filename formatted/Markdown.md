@@ -1,12 +1,14 @@
 
 # Backlinks
-## [Keyboard Shortcuts](<Keyboard Shortcuts.md>)
-- add this to the URL when starting Roam to disable roam/css
-    - **[Markdown](<Markdown.md>):**
+## [Export](<Export.md>)
+- ### [Markdown](<Markdown.md>)
 
-## [Local Only [Roam Graphs](<Roam Graphs.md>)](<Local Only [Roam Graphs](<Roam Graphs.md>).md>)
-- You can export your data as [JSON](<JSON.md>) or [Markdown](<Markdown.md>),
+## [Import](<Import.md>)
+- ### Importing [Markdown](<Markdown.md>)
 
 ## [Roam Change Log](<Roam Change Log.md>)
-- Additional [Markdown](<Markdown.md>)
+1. Block embeds are now resolved to text in [Markdown](<Markdown.md>)
+
+## [Scripture Study](<Scripture Study.md>)
+- #[Graph Overview](<Graph Overview.md>) | #[Date picker](<Date picker.md>) | #[Upload Files](<Upload Files.md>) | #[Markdown](<Markdown.md>)
 

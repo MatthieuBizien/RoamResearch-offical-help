@@ -1,9 +1,0 @@
-- {{attr-table: [Event](<Event.md>)}}
-- Sunday, [December 13th, 2020](<December 13th, 2020.md>)
-    - **[Event](<Event.md>):** Roam Book Club 2
-    - **[Time](<Time.md>):** 15:30-17:30 ET
-    - **[Recording](<Recording.md>):** [Link](https://roamresearch.com/#/app/roam-book-club-2/page/MasUJzKjO)
-- Sunday, [December 6th, 2020](<December 6th, 2020.md>)
-    - **[Event](<Event.md>):** Roam Book Club 2
-    - **[Time](<Time.md>):** 15:30-17:30 ET
-    - **[Recording](<Recording.md>):** [Link](https://roamresearch.com/#/app/roam-book-club-2/page/MasUJzKjO)

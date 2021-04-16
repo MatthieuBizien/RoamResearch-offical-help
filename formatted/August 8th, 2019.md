@@ -1,2 +1,0 @@
-- 13:50  -- 15:38
-    - "[x] Write up [Roam for GTD](<Roam for GTD.md>) with examples [Conor](<Conor.md>) "

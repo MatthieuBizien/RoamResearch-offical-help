@@ -1,5 +1,8 @@
 
 # Backlinks
-## [Local Only [Roam Graphs](<Roam Graphs.md>)](<Local Only [Roam Graphs](<Roam Graphs.md>).md>)
-- You can export your data as [JSON](<JSON.md>)
+## [Export](<Export.md>)
+- ### [JSON](<JSON.md>)
+
+## [Import](<Import.md>)
+- ### Importing [JSON](<JSON.md>)
 

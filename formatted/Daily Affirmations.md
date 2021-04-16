@@ -1,5 +1,5 @@
 
 # Backlinks
-## [Templates](<Templates.md>)
+## [roam/templates](<roam/templates.md>)
 - [Daily Affirmations](<Daily Affirmations.md>)
 

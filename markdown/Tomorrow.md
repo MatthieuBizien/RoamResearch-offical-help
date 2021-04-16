@@ -1,0 +1,5 @@
+- The "tomorrow" function auto generates tomorrow's daily notes page, it will either give you a static result, or a variable result ("tomorrow" will always point to tomorrow's date, rather than a set date) when used in a [[Query]] 
+    - For example, a static result: tomorrow is [[March 9th, 2021]]
+    - A variable result: {{[[query]]: {and: [[today]] [[tomorrow]]} {not: [[query]]}}}
+- Key Commands::
+    - `/tomorrow`

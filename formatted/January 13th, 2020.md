@@ -1,2 +1,0 @@
-- Showing off [Calculator](<Calculator.md>) to build a [Simple Financial Model](<Simple Financial Model.md>)
-    - {{embed: ((wDLCSfnRM))}}

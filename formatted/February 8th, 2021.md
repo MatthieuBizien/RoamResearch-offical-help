@@ -1,10 +1,11 @@
+- 
 - [Hiring](<Hiring.md>) [Work at Roam](<Work at Roam.md>) [Clojure Engineer](<Clojure Engineer.md>) - [Backend Role](<Backend Role.md>) [Take Home Project](<Take Home Project.md>)
     - [ ] Given a map, or a [datascript](https://github.com/tonsky/datascript) database at two points in time
     - [ ] Generate a diff of the two structures
     - [ ] Generate the minimal transaction which will bring A -> B, and vice versa.
     - [Bonus](<Bonus.md>) 
         - [ ] Given a set of User-Events which map to certain transactions - find the sequence of user events which brought A -> B, or which would bring B -> A
-        - [ ] Take a roam outline tree, and create a datascript DB with just the data contained within it  - such as this one "This item"
+        - [ ] Take a roam outline tree, and create a datascript DB with just the data contained within it  - such as this one This item
         - [ ] Publish your code and the demo on a roam graph using `roam/render` and custom components
             - Roam allows you to write arbitrary CLJS code - and evaluate it in your graph - you can use this code - and the roam Alpha API to query your graph, and create mutations for it.
             - Submit your answer as a roam-graph
@@ -42,6 +43,12 @@
         - From: December 1st, 2020.json
 
 # Backlinks
-## [Roam Change Log](<Roam Change Log.md>)
+## [February 1st, 2021](<February 1st, 2021.md>)
+- [ ] Have a [meeting](<meeting.md>) with [John Smith](<John Smith.md>) about [Roam Research](<Roam Research.md>) on [February 8th, 2021](<February 8th, 2021.md>).
+
+## [March 27th, 2021](<March 27th, 2021.md>)
 - [February 8th, 2021](<February 8th, 2021.md>)
+
+## [Welcome to Roam v2](<Welcome to Roam v2.md>)
+- [ ] Have a [meeting](<meeting.md>) with [John Smith](<John Smith.md>) about [Roam Research](<Roam Research.md>) on [February 8th, 2021](<February 8th, 2021.md>).
 

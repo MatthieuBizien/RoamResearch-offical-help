@@ -1,3 +1,0 @@
-- [Dinner](<Dinner.md>): Jersey Mikes
-- [CCLNRV](<CCLNRV.md>)
-    - Meet with Pete at the library @ 2pm

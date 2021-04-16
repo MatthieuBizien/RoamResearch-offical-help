@@ -1,10 +1,11 @@
+- 
 - [[Hiring]] [[Work at Roam]] [[Clojure Engineer]] - [[Backend Role]] [[Take Home Project]]
     - {{[[TODO]]}} Given a map, or a [datascript](https://github.com/tonsky/datascript) database at two points in time
     - {{[[TODO]]}} Generate a diff of the two structures
     - {{[[TODO]]}} Generate the minimal transaction which will bring A -> B, and vice versa.
     - #Bonus 
         - {{[[TODO]]}} Given a set of User-Events which map to certain transactions - find the sequence of user events which brought A -> B, or which would bring B -> A
-        - {{[[TODO]]}} Take a roam outline tree, and create a datascript DB with just the data contained within it  - such as this one "This item"
+        - {{[[TODO]]}} Take a roam outline tree, and create a datascript DB with just the data contained within it  - such as this one This item
         - {{[[TODO]]}} Publish your code and the demo on a roam graph using `roam/render` and custom components
             - Roam allows you to write arbitrary CLJS code - and evaluate it in your graph - you can use this code - and the roam Alpha API to query your graph, and create mutations for it.
             - Submit your answer as a roam-graph

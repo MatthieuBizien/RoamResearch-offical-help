@@ -1,15 +1,38 @@
-- 
-- A [[CRM]] for your life
-    - "Roam is definitely the one true [[CRM]] for me forever for whatever the heck noun best describes my networking relationships
-
-Like omg I can finally learn everyone’s names and teams at work
-
-I can finally make my super unstructured lists of interesting people I’ve met at events AND KEEP UP WITH THEM
-
-omg omg omg
-
-My dossiers will pierce the heavens
-
-[[Anonymous User]]
-"
-- 
+# **Fundamentals** #.rm-grid
+    - ### [Bidirectional linking]([[Bidirectional linking]])
+    - ### [Navigation]([[Navigation]])
+    - ### [Formatting]([[Formatting]])
+    - ### [Search]([[Search]])
+    - ### [Key Commands]([[Key Commands]])
+# **Components** #.rm-grid
+    - ## Basic
+        - ### [Blocks]([[Blocks]])
+        - ### [Pages]([[Pages]])
+        - ### [Right Sidebar]([[Right Sidebar]])
+        - ### [/ Commands]([[/ Commands]])
+        - ### [Daily Notes]([[Daily Notes]])
+        - ### [TODO/DONE]([[TODO/DONE]])
+        - ### [Templates]([[Templates]])
+        - ### [Command Palette]([[Command Palette]])
+    - ## Advanced
+        - ### [Filter]([[Filter]])
+        - ### [Kanban]([[Kanban]])
+        - ### [Table]([[Table]])
+        - ### [Query]([[Query]])
+        - ### [Slider]([[Slider]])
+        - ### [Calculator]([[Calculator]])
+        - ### [Encryption]([[Encrypted Block]])
+    - ## Other
+        - ### [Left Sidebar]([[Left Sidebar]])
+        - ### [Reactions]([[Reactions]])
+        - ### [Graphs and Settings]([[Graphs and Settings]])
+        - ### [All Pages]([[All Pages]])
+        - ### [Graph Overview]([[Graph Overview]])
+        - ### [Sharing]([[Sharing]])
+        - ### [Import]([[Import]])
+        - ### [Export]([[Export]])
+# **Extend** #.rm-grid [🚧](((dmQooXFj9)))
+    - ### [[roam/js]] 
+    - ### [[roam/css]]
+    - ### [[roam/render]]
+    - 

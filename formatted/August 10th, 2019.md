@@ -1,5 +1,0 @@
-- 14:11
-    - [Questions](<Questions.md>)
-        - Is it worthwhile to put public thoughts in this help database?
-        - "Actually has a lot in common with [Just in Time Project Management](<Just in Time Project Management.md>) from [Tiago Forte](<Tiago Forte.md>)"
-        - 

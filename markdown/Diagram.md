@@ -1,0 +1,24 @@
+- Diagrams lets you represent content in a more visual manner (such as creating mindmaps and flow charts), there are a few diagrams you can create with Roam
+    - The default diagram
+        - {{[[diagram]]}}
+            - Hello
+                - How are you
+            - This is me
+    - The mermaid diagram
+        - {{mermaid}}
+- Roam Team Videos::
+    - Diagrams in Roam Research by [[Conor White-Sullivan]]
+        - {{[[video]]: https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
+#[[Diagram]]
+    - Mermaid diagrams combined with version control in Roam Research by [[Conor White-Sullivan]]
+        - {{[[video]]: https://www.youtube.com/watch?v=UF22iK8fX-A&t}}
+#[[Version Control]] | #[[Diagram]]
+- Articles::
+    - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [[Anne-Laure Le Cunff]]
+        - #Diagram
+- Community Videos::
+    - Drawing and Diagrams in Roam Research by [[Chester]]
+        - {{[[video]]: https://www.youtube.com/watch?v=-q5JRaZbcrA}}
+- Key Commands::
+    - `/diagram`
+    - `{{mermaid}}`

@@ -1,5 +1,0 @@
-- 
-- important::
-    - "In such a future working relationship between human problem-solver and computer 'clerk,' the capability of the computer for executing mathematical processes would be used whenever it was needed. However, the computer has many other capabilities for manipulating and displaying information that can be of significant benefit to the human in nonmathematical processes of planning, organizing, studying, etc. Every person who does his thinking with symbolized [[concepts]] (whether in the form of the English language, pictographs, formal logic, or mathematics) should be able to benefit significantly."
-        - this really maps well to this ideas
-            - ((MatHWfKo-))

@@ -1,59 +1,280 @@
-- —- 
-    - ---
-- ## Choice
-    - **[[ ] [Choice](<../Choice.md>) ...... "Decision](<../[ ] [Choice](<../Choice.md>) ...... "Decision.md>):** "A""
-        - **[Options](<../Options.md>):**
-            - A
-            - B
-            - C
-        - **[Decision](<../Decision.md>):** "A"
-- ## Option
-    - **[Advantages](<../Advantages.md>):**
-        -  
-        -  
-        - 
-    - **[Disadvantages](<../Disadvantages.md>):**
-        -  
-        -  
-- ? = Question
-    - [?]([Question](<../Question.md>))
-- ¬ = not
-    - [¬]([NOT](<../NOT.md>))
-- ≡ = definition
-    - [≡]([Definition](<../Definition.md>))
-- ! = Claim
-    - [!]([Claim](<../Claim.md>))
-- API docs
-    - **[description](<../description.md>):**
-    - **[parameters](<../parameters.md>):**
-    - **[usage](<../usage.md>):**
+- Dev docs #.hide
+    - **[Tutorials](<../Tutorials.md>):**
+    - **[How-to guides](<../How-to guides.md>):**
+    - [Reference](<../Reference.md>)
+    - [Examples](<../Examples.md>)
+- Course
+    - ### [Course name](course link) by `[Author Name](<../Author Name.md>)` __price__
+        - 2-3 sentence blurb describing the course
+- Theme
+    - `theme name`
+        - **[Screenshots](<../Screenshots.md>):**
+        - **[Last updated](<../Last updated.md>):**
+        - **[Designer](<../Designer.md>):** name
+            - **[Twitter](<../Twitter.md>):** [link to bio]()
+            - Love this theme? Say thanks via [PayPal]() (and/or other payment service)
+        - **[Special Features](<../Special Features.md>):**
+        - **[Code](<../Code.md>):**
+            - {{[roam/css](<../roam/css.md>)}}
+                - ```css
+```
+- Plugin
+    - `plugin_name`
+        - **[Info](<../Info.md>):**
+            - Must include GIF and/or video of usage
+        - **[Link](<../Link.md>):**
+        - **[Getting started](<../Getting started.md>):**
+            - Installation, activation and configuration 
+        - **[Tutorials](<../Tutorials.md>):**
+            - 
+        - **[Reference](<../Reference.md>):**
+        - **[Developer](<../Developer.md>):**
+            - **[Twitter](<../Twitter.md>):**
+            - Love this plugin? Say thanks via [Paypal]()
+        - **[Code](<../Code.md>):**
+- Browser Extension
+    - `browser_extension_name`
+        - **[Info](<../Info.md>):**
+            - Must include GIF and/or video of usage
+        - **[Link](<../Link.md>):**
+        - **[Getting started](<../Getting started.md>):**
+            - Installation, activation and configuration 
+        - **[Tutorials](<../Tutorials.md>):**
+            - 
+        - **[Reference](<../Reference.md>):**
+        - **[Developer](<../Developer.md>):**
+            - **[Twitter](<../Twitter.md>):**
+            - Love this plugin? Say thanks via [Paypal]()
+- Coaching
+    - `Course Author Name`
+        - **[Info](<../Info.md>):**
+        - **[Website](<../Website.md>):**
+        - **[Areas of specialty](<../Areas of specialty.md>):**
+        - **[Contact](<../Contact.md>):**
+        - **[Price](<../Price.md>):**
+- To submit a template to be featured here please fill out this typeform
+- [Community](<../Community.md>)
+    - Roam Daily Template
+        - **[Designer](<../Designer.md>):** [Jonathan Borichevskiy](<../Jonathan Borichevskiy.md>)
+        - **[Special Features](<../Special Features.md>):**
+            - [Slider](<../Slider.md>) | [Tags](<../Tags.md>) | [TODO](<../TODO.md>)/DONE
+        - **[Templates](<../Templates.md>):**
+            - **[Last updated](<../Last updated.md>):** [February 27th, 2021](<../February 27th, 2021.md>)
+            - Weekly Agenda (created on a different day, and embedded with /Block Reference)
+                - [Morning Questions](<../Morning Questions.md>)
+                    - {{[slider](<../slider.md>)}} How many hours of sleep did I get?
+                    - What's one thing top of mind today?
+                    - What's the one thing I need to get done today to make progress?
+                    - Review #[Index: Questions](<../Index: Questions.md>) [values](<../values.md>)
+                - Agenda
+                    - [ ] Morning walk [goal-health](<../goal-health.md>) [habit](<../habit.md>)
+                    - [ ] Check calendar for scheduled events
+                    - [ ] Morning focus hour
+                        - [ ] Read 30 minutes [goal-learning](<../goal-learning.md>) [habit](<../habit.md>)
+                    - [ ] Review Readwise.io
+                    - [ ] 10 minutes meditation [goal-health](<../goal-health.md>) [habit](<../habit.md>)
+                    - [ ] Workout or run [goal-health](<../goal-health.md>) [habit](<../habit.md>)
+                    - [ ] Evening focus hour
+                        - [ ] Do 7 - 30 - 90 review
+                    - [ ] read for pleasure, watch something, go for a walk
+                - [Evening Questions](<../Evening Questions.md>)
+                    - List three things I'm grateful for [habit](<../habit.md>) [gratitude](<../gratitude.md>)
+                    - What made me happy today?
+                    - What made me sad?
+                    - Where there any signs of my day going to shit that I could recognize?
+                    - What prevented me from reaching my goals today?
+                    - What am I looking forward to?
+    - Skeletons/Methods/Tags/Tools
+        - **[Designer](<../Designer.md>):** [Samuel Orion](<../Samuel Orion.md>)
+        - **[Special Features](<../Special Features.md>):**
+            - #[Attributes](<../Attributes.md>) | #[Kanban](<../Kanban.md>)
+        - **[Templates](<../Templates.md>):**
+            - **[Last updated](<../Last updated.md>):** [July 1st, 2020](<../July 1st, 2020.md>)
+            - **[### Article](<../### Article.md>):**
+                - **Topic:**
+                - **Tags: **
+                - **URL**:
+                - **Quotes / Summary:**
+                - **Comments / Questions:**
+            - **[### Book](<../### Book.md>):**
+                - **Quotes / Summary:**
+                - **Comments / Questions:**
+                - **Topic**:
+                - **Tags**:
+                - **URL**:
+            - Podcast
+                - Show:
+                - Speaker(s):
+                - Topic:
+                - Tags:
+                - URL:
+                - Summary:
+            - Videos
+                - Speaker:
+                - Tags:
+                - Summary:
+                - Link or Embed:
+            - Projects
+                - Due Date:
+                - Completed Date:
+                - Status:
+                - Related Goals:
+                - Success Criteria:
+                - Tags:
+            - Quarterly Preview
+                - Review [Yearly Planning](<../Yearly Planning.md>)
+                - My biggest wins
+                - Process on annual goals for this quarter (% successful)
+                - Overall, what worked and what didn’t?
+                - What will you keep doing?
+                - What will you start doing?
+                - What will you improve?
+                - What will you stop doing?
+            - [tools](<../tools.md>)
+                - [Find and replace](<../Find and replace.md>)
+                - [KANBAN BOX](<../KANBAN BOX.md>)
+                    - {{kanban}}
+                        - indent once for column title
+                            - and another item
+                            - this could be a great way to write an articles / thesis - very easy to read
+                            - clock on the block to open the side bar - and see furtherinfo
+                            - I was in column 2, now I am in column 1
+                        - This is a second collum
+                            - I was in column 1, now I am in column 2 - just click and drag
+                            - indent again for items to put in list (ps look at the next level)
+                                - stuff inside
+                        - A third column
+                            - more stuff
+    - Daily Log
+        - **[Designer](<../Designer.md>):** [Mark Robertson](<../Mark Robertson.md>)
+            - **[Twitter](<../Twitter.md>):** [@calhistorian](https://twitter.com/calhistorian)
+        - **[Special Features](<../Special Features.md>):**
+            - #[Attributes](<../Attributes.md>) | #[Query](<../Query.md>) | #[TODO/DONE](<../TODO/DONE.md>)
+            - ![Image](https://aws1.discourse-cdn.com/standard14/uploads/roamresearch/optimized/1X/bc5064932dfa087a1dd53f4edb31be63377b9346_2_690x400.jpeg)
+        - **[Code](<../Code.md>):**
+            - **[Last updated](<../Last updated.md>):** [July 1st, 2020](<../July 1st, 2020.md>)
+            - #[Morning Review](<../Morning Review.md>)
+                - #[Weather Report](<../Weather Report.md>)
+                    - **[Location](<../Location.md>):** [Home](<../Home.md>)
+                    - **[Weather Summary](<../Weather Summary.md>):** Weather Data (Summary)
+                    - **[Conditions](<../Conditions.md>):** Weather Data (Condition) with Weather Data (Precipitation Chance)
+                    - **[H/L Temp](<../H/L Temp.md>):** High - Weather Data (High), Low - Weather Data (Low)
+            - #[Sleep Log](<../Sleep Log.md>)
+                - **[Sleep Time](<../Sleep Time.md>):**
+                - **[Sleep Quality](<../Sleep Quality.md>):**
+                - #[Morning Pages](<../Morning Pages.md>)
+            - #[Morning Reflection](<../Morning Reflection.md>)
+                - {{[query](<../query.md>): {and: [-1 Day](<../-1 Day.md>) [Evening Pages](<../Evening Pages.md>) {not: [query](<../query.md>)}}}}
+                - [Who benefits from your work?](<../Who benefits from your work?.md>)
+                - [What am I grateful for?](<../What am I grateful for?.md>)
+                - [What do I want the day’s highlight to be?](<../What do I want the day’s highlight to be?.md>)
+                - [Daily Affirmations](<../Daily Affirmations.md>)
+                - [What am I think of?](<../What am I think of?.md>)
+            - #[Open Questions](<../Open Questions.md>)
+                - {{[query](<../query.md>): {and: [Question](<../Question.md>) [TODO](<../TODO.md>) {not: {or:[query](<../query.md>) [DONE](<../DONE.md>) [Templates](<../Templates.md>)}}}}}
+            - #[Calendar](<../Calendar.md>)
+                - [Family](<../Family.md>)
+                    - Family Events
+                - [Professional](<../Professional.md>)		
+                - #[Pedagogical Reflections](<../Pedagogical Reflections.md>)
+            - #[Daily Notes](<../Daily Notes.md>)
+                - #[Action List](<../Action List.md>)
+                    - [ ] Process Linked and Unlinked Mentions
+                    -  {{[query](<../query.md>): {and: [TODO](<../TODO.md>) [Action](<../Action.md>) {not: {or: [query](<../query.md>) [Subtask:](<../Subtask:.md>)}}}}}
+#[Upcoming](<../Upcoming.md>)
+                    - {{[query](<../query.md>): {and: [TODO](<../TODO.md>) [Scheduled](<../Scheduled.md>) {not: {or: [query](<../query.md>) [Action](<../Action.md>)}} {between: [Today's Date](<../Today's Date.md>) [+2 Weeks](<../+2 Weeks.md>)}}}}
+            - #[Evening Review](<../Evening Review.md>)
+                - [ ] #[Evening Pages](<../Evening Pages.md>)
+                - [Amazing things that happened](<../Amazing things that happened.md>)
+                - [What I have learned](<../What I have learned.md>)
+                - [What could I have done better?](<../What could I have done better?.md>)
+            - #[Capture Inbox](<../Capture Inbox.md>)
+- The Roam Team
+    - Contact
+        - **[Name](<../Name.md>):**
+        - **[Email](<../Email.md>):**
+        - **[Company](<../Company.md>):**
+        - **[Phone](<../Phone.md>):**
+    - Choice
+        - [ ] [Choice](<../Choice.md>) 
+            - **[Context](<../Context.md>):**
+            - **[Options](<../Options.md>):**
+            - **[Decision](<../Decision.md>):**  
+    - Daily agenda Updated
+        - [Daily agenda](<../Daily agenda.md>)
+            - {{[kanban](<../kanban.md>)}}
+                - All day
+                - 00:00
+                - 01:00
+                - 02:00
+                - 03:00
+                - 04:00
+                - 05:00
+                - 06:00
+                - 07:00
+                - 08:00
+                - 09:00
+                - 10:00
+                - 11:00
+                - 12:00
+                - 13:00
+                - 14:00
+                - 15:00
+                - 16:00
+                - 17:00
+                - 18:00
+                - 19:00
+                - 20:00
+                - 21:00
+                - 22:00
+                - 23:00
+                - [Need to plan](<../Need to plan.md>)
+    - An Engineering Problem Solving Process
+        - ^^An engineered, systematic approach to problem solving can be invaluable in solving problems, capturing knowledge, and discovering solutions.^^ An approach that I suggest involves starting with a simple outline consisting of the following sections (as appropriate - sometimes it makes sense to combine or eliminate certain sections). Feel free to delete this paragraph as you fill out the template.
+        - **[Problem Statement](<../Problem Statement.md>):** This should be a simple 1-2 sentence (no more!) statement of the problem. Do not describe symptoms. To the best of your ability, reduce the problem to its bare essence here. Over time this statement may be refined. A key principle is that ^^if you cannot state your problem concisely, you probably don't know what it is and you almost certainly cannot communicate it effectively to others^^.
+        - **[Description](<../Description.md>):** Here you provide a detailed description of the problem. 
+            - Describe why you want to solve this problem (if you do) and what, if anything, makes this problem particularly hard. This can be particularly valuable if you are considering writing new code. Sometimes after further evaluation you will realize it is better to use an alternative or take no action at present.
+            - Sometimes it is worth capturing the ideas but saving the solution for another time.
+        - **[Given](<../Given.md>):** List all things that have been provided to you, including facts, stories, etc.
+        - **[Required](<../Required.md>):** State all of the requirements to be met to provide a solution to the problem.
+            - Functional/User (Required): These are the things that a user must be able to do to solve the problem. They may be stated as user stories such as "As a user, I can do X so that Y." If you do not state who can do what and why, then the requirement is suspect.
+            - Nonfunctional/Technical: Technical requirements often revolve around criteria such as scaling, cost, operations, etc. I often recommend a different page for technical requirements as it is easy for problem solvers (especially developers) to move towards a technical solution (a form) prior to actually understanding the problem to be solved (the function).[1](((https://en.wikipedia.org/wiki/Form_follows_function)))
+        - **[Knowns](<../Knowns.md>):** State all the things you know about the problem. Provide links, references, citations, etc. as needed to trace the lineage of each known item.
+        - **[Unknowns](<../Unknowns.md>):** What don't you know about the problem. Here you will try to anticipate the questions that you need to answer to better understand the problem.
+            - Alternative presentations of knowns and unknowns could include a Johari Window[2](((https://en.wikipedia.org/wiki/Johari_window))) or a "Rumsfeld-esque"[3](((https://en.wikipedia.org/wiki/There_are_known_knowns))) categorization.
+            - {{[table](<../table.md>)}}
+                -  
+                    - Known to Self
+                        - Not Known to Self
+                - Known to Others
+                    - Arena
+                        - Blind Spot
+                - Not Known to Others
+                    - Facade
+                        - Unknown
+        - **[Assumptions](<../Assumptions.md>):** What do you believe to be true regarding this problem?
+        - **[Alternatives](<../Alternatives.md>):** What alternatives already exist to this problem? What do you do now to solve the problem? What happens if you do nothing? If this is a technical solution, can an existing solution be used?
+        - **[Solution](<../Solution.md>):** Based on all of the previous information, provide the solution to the problem. This could be a technical solution, process, new product, etc. Note that if multiple solutions are provided (suppose you provide multiple product offerings to solve the same problem) it is perfectly appropriate to have subpages for each solution.
+        - **[Recommendations](<../Recommendations.md>):** An alternative to (or something to be used in conjunction with) a solution is one or more recommendations. Again, if appropriate recommendations can merit their own subpages.
+- 
+- Docs #.hide
+    - [ ] Introduction (few bullets) and some GIFs
+    - **[Roam Team Videos](<../Roam Team Videos.md>):**
+        - [ ] 
+    - **[Articles](<../Articles.md>):**
+        - [ ] 
+    - **[Community Videos](<../Community Videos.md>):**
+        - [ ] 
+    - **[Key Commands](<../Key Commands.md>):**
+- Video/article #.hide
+    - [ ] [Article link]() or {{[video](<../video.md>): }}
+        - **[Features mentioned](<../Features mentioned.md>):**
+            - Page refs to features 
 
 # Backlinks
-## [December 27th, 2020](<December 27th, 2020.md>)
-- #[roam/templates](<../roam/templates.md>)
+## [FAQ](<FAQ.md>)
+- Check out some of our template collections here: [roam/templates](<../roam/templates.md>)
 
-## [Demo Videos on [roam/render](<../roam/render.md>)](<Demo Videos on [roam/render](<../roam/render.md>).md>)
-- [roam/render](<../roam/render.md>) Hello World #[roam/templates](<../roam/templates.md>)
-
-- [roam/render](<../roam/render.md>) Namespaces and useful functions #[roam/templates](<../roam/templates.md>)
-
-- [roam/render](<../roam/render.md>) Input + Reactive Datascript Query [roam/templates](<../roam/templates.md>)
-
-## [February 6th, 2021](<February 6th, 2021.md>)
-- Sample calculation [roam/templates](<../roam/templates.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- When the query string is empty the autocomplete dropdown for templates, it now shows the templates in the order they appear on the [roam/templates](<../roam/templates.md>)
-
-- Fixed a bug with `[roam/templates](<../roam/templates.md>)`
-
-- You can now add the `[roam/templates](<../roam/templates.md>)`
-
-- Update to `[roam/templates](<../roam/templates.md>)`
-
-- MVP of `[roam/templates](<../roam/templates.md>)`
-
-- Create a "trigger" writing on the [roam/templates](<../roam/templates.md>)
-
-- Create a "trigger" writing on the [roam/templates](<../roam/templates.md>) page or by tagging block with [roam/templates](<../roam/templates.md>)
+## [Templates](<Templates.md>)
+#[roam/templates](<../roam/templates.md>)
 

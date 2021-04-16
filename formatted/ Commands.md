@@ -1,0 +1,38 @@
+- #.doc-mode
+- The / Commands give you access to a variety of functions in Roam
+    - **[Key Commands](<Key Commands.md>):** 
+        - To access / Commands, type `/` + `any of the below keyword` + `enter` (in any block) to access each feature 
+    - **[Team GIFs](<Team GIFs.md>):**
+        - ![An example of accessing the TODO function via / Commands](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FoebmqUA8lT.gif?alt=media&token=0567d373-7f43-4934-9d92-c5f5030b6e42)
+
+- #.rm-grid #.doc-mode
+    - ### **Functions**
+        - [TODO](<TODO.md>)
+        - [Page References](<Page References.md>)
+        - [Block References](<Block References.md>)
+        - [Block Embed](<Block Embed.md>)
+        - [Table](<Table.md>)
+        - [Diagram](<Diagram.md>)
+        - [Upload Files](<Upload Files.md>)
+        - [Templates](<Templates.md>)
+        - [Video Embed](<Video Embed.md>)
+        - [Calculator](<Calculator.md>)
+        - [Mentions](<Mentions.md>)
+        - [Word count](<Word count.md>)
+        - [Character count](<Character count.md>)
+        - [Query](<Query.md>)
+    - ### **Time**
+        - [Current time](<Current time.md>)
+        - [Today](<Today.md>)
+        - [Tomorrow](<Tomorrow.md>)
+        - [Date picker](<Date picker.md>)
+        - [Pomodoro timer](<Pomodoro timer.md>)
+    - ### [Formatting]([Formatting](<Formatting.md>))
+        - [Links](<Links.md>)
+        - [Code Block](<Code Block.md>)
+        - [Inline Code](<Inline Code.md>)
+        - [Bold](<Bold.md>)
+        - [Italics](<Italics.md>)
+        - [KaTeX](<KaTeX.md>)
+        - [Strikethrough](<Strikethrough.md>)
+- #.doc-mode

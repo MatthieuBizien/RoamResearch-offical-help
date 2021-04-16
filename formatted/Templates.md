@@ -1,96 +1,77 @@
-- ### ️ [Morning Journal](<Morning Journal.md>)  {{[POMO](<POMO.md>)}} {{word-count}}
-    - [What are you grateful for?](<What are you grateful for?.md>)
-    - [What do you want the today's highlight to be?](<What do you want the today's highlight to be?.md>)
-    - [Daily Affirmations](<Daily Affirmations.md>)
-        - **[Life](<Life.md>):**
-            - [ ] Affirmations
-            - [ ] Exercise
-            - [ ] Stretch
-            - [ ] Meditation exercise from [Sadhana: A Way to God](<Sadhana: A Way to God.md>)
-                - [ ] Read daily meditation from [The Book of Life](<The Book of Life.md>) by [Jiddu Krishnamurti](<Jiddu Krishnamurti.md>)
-        - **[Family](<Family.md>):**
-        - **[Friends](<Friends.md>):**
-    - [What's on your mind?](<What's on your mind?.md>)
-- ### 📌 Tasks and Daily Log - more on [Why logging?](<Why logging?.md>)
-    - [Priorities for Week](<Priorities for Week.md>) (Items to complete for this week)
-        - **[High](<High.md>):**
-            - [ ] x
-                - [ ] x1
-                - [x] x2
-                - [ ] x3
-        - **[Medium](<Medium.md>):**
-            - [ ] y
-                - [ ] y1
-                - [ ] y2
-                - [x] y3
-        - **[Low](<Low.md>):**
-            - [ ] z
-                - [x] z1
-                - [ ] z2
-                - [ ] z3
-    - [Priorities for Day](<Priorities for Day.md>) (Items to complete for today, based on Priorities for Week)
-        - [Daily Log](<Daily Log.md>)
-            - `/time` Awake
-            - `/time`-`/time` "[x] z1"
-                - I had a great [idea](<idea.md>)
-            - `/time`-`/time` "[x] x2"
-                - I got [distracted](<distracted.md>) by my phone 
-                    - I need to [contact](<contact.md>) a for b 
-            - `/time`-`/time` "[x] y3"
-                - I feel [flow](<flow.md>) and it's caused by x
-            - `/time`-`/time` "[ ] Exercise"
-            - `/time` Asleep
-    - [Idea Tracker](<Idea Tracker.md>)
-        - {{[query](<query.md>): {and: [idea](<idea.md>) {not: [query](<query.md>)]}}}}
-    - [Distractions Tracker](<Distractions Tracker.md>)
-        - {{[query](<query.md>): {and: [idea](<idea.md>) {not: [query](<query.md>)]}}}}
-    - [Flow Tracker](<Flow Tracker.md>)
-        - {{[query](<query.md>): {and: [idea](<idea.md>) {not: [query](<query.md>)]}}}}
-    - [Contact Tracker](<Contact Tracker.md>)
-        - {{[query](<query.md>): {and: [contact](<contact.md>) {not: [query](<query.md>)]}}}}
-- ###  [Evening Reflection](<Evening Reflection.md>) {{[POMO](<POMO.md>)}} {{word-count}}
-    - [How are you feeling today?](<How are you feeling today?.md>) 
-    - [What could you have done better?](<What could you have done better?.md>)
-    - [Amazing things that happened](<Amazing things that happened.md>)
-    - [What did you learn today?](<What did you learn today?.md>)
-    - [Positivity Score](<Positivity Score.md>)
-- ### [Sleep Tracker](<Sleep Tracker.md>)
-    - **[Asleep](<Asleep.md>):** 
-        - `/time`
-    - **[Awake](<Awake.md>):** 
-        - `/time`
-    - **[Duration](<Duration.md>):** 
-        - 
-    - {{attr-table:[Asleep](<Asleep.md>)}}
-- ### [Spending](<Spending.md>)
-    - **[Transportation](<Transportation.md>):**
-        - **[Taxi](<Taxi.md>):** 50
-        - **[Public](<Public.md>):** 20
-    - **[Food](<Food.md>):**
-        - **[Dine](<Dine.md>):** 20
-        - **[Cooking](<Cooking.md>):** 5
-        - **[Snacks](<Snacks.md>):** 2
-    - **[Shopping](<Shopping.md>):**
-        - **[Clothes](<Clothes.md>):** 50
-    - **[Other](<Other.md>):**
-        - **[Leisure](<Leisure.md>):** 100
-    - **[Total](<Total.md>):**
-        - Calculator: {{[calc](<calc.md>): ((gwlADrdHm))+((Ido6t-OeR))+((ZrX3zfhyK))+((ljO6xhPoJ))+((YVQgi7okv))+((UK7VGhz29))+((WsvrSbY8w))}}
-    - {{attr-table:[Transportation](<Transportation.md>)}}
+- #.doc-mode
+    - **[## Team GIFS](<## Team GIFS.md>):**
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FGTJJMUaPJd.gif?alt=media&token=c47571e2-1ab0-4271-b6bd-10dc0764ebc9)
+#[roam/templates](<roam/templates.md>)
+    - **[## Community Videos](<## Community Videos.md>):**
+        - ### How to create templates in Roam Research by [Productivity Academy](<Productivity Academy.md>)
+            - {{[video](<video.md>): https://www.youtube.com/watch?v=O_-lhwprLXs}}
+#[Templates](<Templates.md>) | #[Attributes](<Attributes.md>) | #[Sidebar](<Sidebar.md>)
+        - ### Daily Templates in Roam Research by [Mickey Mellen](<Mickey Mellen.md>)
+            - {{[video](<video.md>): https://www.youtube.com/watch?v=mK7wa0UXzrk}}
+#[Templates](<Templates.md>) | #[Task Management](<Task Management.md>) | #[Current time](<Current time.md>) | #[Tags](<Tags.md>)
+        - ### Native Templates In Roam Research by [Praveen Anuraj](<Praveen Anuraj.md>)
+            - {{[video](<video.md>): https://www.youtube.com/watch?v=OxCgJaeUh90}}
+#[Attributes](<Attributes.md>) | #[Templates](<Templates.md>)
+    - **[## Articles](<## Articles.md>):**
+        - ### [How to use templates in Roam Research](https://nesslabs.com/roam-research-templates-tutorial) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>)
+        - ### [How to Create and Use Templates in Roam Research](https://www.appsntips.com/learn/create-use-templates-roam-research/) by [appsntips](<appsntips.md>)
+    - **[## Key Commands](<## Key Commands.md>):**
+        - Search for template to trigger `;;`
 
 # Backlinks
-## [December 19th, 2019](<December 19th, 2019.md>)
-- So, what I ended up doing was creating a sort of [Workflowy](<Workflowy.md>) [Templates](<Templates.md>)
+## [ Commands](< Commands.md>)
+- [Templates](<Templates.md>)
 
-## [January 5th, 2020](<January 5th, 2020.md>)
-- relates to [Templates](<Templates.md>)
+## [Attributes](<Attributes.md>)
+#[Templates](<Templates.md>)
 
-## [May 12th, 2020](<May 12th, 2020.md>)
-- So, what I ended up doing was creating a sort of [Workflowy](<Workflowy.md>) [Templates](<Templates.md>)
+## [Beginner's Guide](<Beginner's Guide.md>)
+- #[Daily Notes](<Daily Notes.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Linked References](<Linked References.md>) #[Book](<Book.md>) | #[Sidebar](<Sidebar.md>) | #[Tags](<Tags.md>) | #[Evergreen Notes](<Evergreen Notes.md>) | #[Block References](<Block References.md>) | #[Templates](<Templates.md>)
 
-## [Mind[BEM](<BEM.md>)ding - getting your head around Bem syntax](<Mind[BEM](<BEM.md>)ding - getting your head around Bem syntax.md>)
-- [exceptions](<exceptions.md>) for [BEM](<BEM.md>) [[[Skill Tree](<[[Skill Tree.md>) [Templates](<Templates.md>)]
+## [FAQ](<FAQ.md>)
+- ### **How to use templates and do you have some** [Templates](<Templates.md>)
 
-## [Roam Change Log](<Roam Change Log.md>)
-- Minor improvements to [Templates](<Templates.md>)
+- Check out how to use templates here: [Templates](<Templates.md>)
+
+## [Features](<Features.md>)
+- ### [Templates]([Templates](<Templates.md>))
+
+## [Journaling](<Journaling.md>)
+- #[Daily Notes](<Daily Notes.md>) | #[Templates](<Templates.md>)
+
+- #[Templates](<Templates.md>)
+
+## [Kanban](<Kanban.md>)
+#[Kanban](<Kanban.md>) | #[Templates](<Templates.md>)
+
+## [Kids](<Kids.md>)
+#[Daily Notes](<Daily Notes.md>) | #[Page References](<Page References.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Task Management](<Task Management.md>) | #[Table](<Table.md>) | #[Current time](<Current time.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Templates](<Templates.md>)
+
+## [Long Videos](<Long Videos.md>)
+- #[Daily Notes](<Daily Notes.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Linked References](<Linked References.md>) #[Book](<Book.md>) | #[Sidebar](<Sidebar.md>) | #[Tags](<Tags.md>) | #[Evergreen Notes](<Evergreen Notes.md>) | #[Block References](<Block References.md>) | #[Templates](<Templates.md>)
+
+## [Personal CRM](<Personal CRM.md>)
+- #[Page References](<Page References.md>) | #[Attributes](<Attributes.md>) | #[Templates](<Templates.md>)
+
+## [Task Management](<Task Management.md>)
+#[Templates](<Templates.md>)
+
+## [Templates](<Templates.md>)
+#[Templates](<Templates.md>)
+
+#[Templates](<Templates.md>)
+
+#[Attributes](<Attributes.md>) | #[Templates](<Templates.md>)
+
+## [roam/templates](<roam/templates.md>)
+- [Slider](<Slider.md>) | [Tags](<Tags.md>) | [TODO](<TODO.md>)/DONE
+        - **[Templates](<Templates.md>):**
+
+- #[Attributes](<Attributes.md>) | #[Kanban](<Kanban.md>)
+        - **[Templates](<Templates.md>):**
+
+- {{[query](<query.md>): {and: [Question](<Question.md>) [TODO](<TODO.md>) {not: {or:[query](<query.md>) [DONE](<DONE.md>) [Templates](<Templates.md>)}
+
+## [template](<template.md>)
+- see [Templates](<Templates.md>)
 

@@ -1,4 +1,0 @@
-- #[[Term of Art]]
-- coined by:: [[Andy Matuschak]]
-    - ((XjtoaRVEc))
-- 

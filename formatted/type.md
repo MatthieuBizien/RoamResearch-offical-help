@@ -1,9 +1,5 @@
 
 # Backlinks
-## [Design Composition and Performance](<Design Composition and Performance.md>)
-- **[time](<time.md>):** 51 minutes
-    - **[type](<type.md>):**
-
 ## [JSON Schema](<JSON Schema.md>)
 - **[description](<description.md>):** The title of a page. The string is unique across a user's database. If importing a title that is already used, it will merge with the already existing content.
         - **[type](<type.md>):**
@@ -20,9 +16,6 @@
 - **[description](<description.md>):** The time the object was created, measured in ms since unix epoch. If not supplied, the create-time of the object will be filled in by either the edit-time, or now.
         - **[type](<type.md>):**
 
-- **[description](<description.md>):** The email of the user who created the object. If not supplied, will be filled in by the edit-email or the user who uploaded the JSON.
-        - **[type](<type.md>):**
-
 - **[description](<description.md>):** The time the object was last edited, measured in ms since unix epoch. If not supplied, the edit-time of the object will be filled in by either the create-time, or now.
         - **[type](<type.md>):**
 
@@ -33,9 +26,5 @@
         - **[type](<type.md>):**
 
 - **[description](<description.md>):** The text-align style for a block
-        - **[type](<type.md>):**
-
-## [March 10th, 2020](<March 10th, 2020.md>)
-- What a stronger property UI looks like
         - **[type](<type.md>):**
 

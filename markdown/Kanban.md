@@ -1,0 +1,66 @@
+- #.doc-mode
+- ## Below is a [[Kanban]] in Roam. Play around with it to see how you can use it!
+    - Kanban example - [[Roam Canon]]
+        - {{[[kanban]]}}
+            - Must Read
+                - [[White Paper]]
+            - [[Books]]
+                - [[The Beginning of Infinity]]
+                - [[Good Strategy/Bad Strategy]]
+                - [[Principles]]
+                - [[Shape Up]]
+                - [[How to Take Smart Notes]]
+                - [[Reinventing Discovery]]
+                - [[The Design of Everyday Things]]
+                - [[Where Good Ideas Come From]]
+                - [[Antifragile]]
+                - [[How to Solve It]]
+                - [[How to Read a Book]]
+                - [[On Writing Well]]
+                - [[CFAR Handbook]]
+                - [[Nonviolent Communication]]
+            - [[Articles]]
+                - [[Learn to Learn: A manual to help you get the best results from the Awareness Through Movement lessons]]
+                - [[Thrust, Drag and the 10x effect]]
+                - [[Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm]]
+                - [[Speed as a Habit]]
+                - [[Early Work]]
+                - [[Products are Functions]]
+                - [[Augmenting Long-term Memory]]
+                - [[Analogy as the Core of Cognition]]
+                - [[Scholarship: How to Do It Efficiently]]
+                - [[Why education is so difficult and contentious]]
+                - [[A Codebase is an Organism]]
+                - [[Taste for Makers]]
+                - [[Writing, briefly]]
+                - [[Holding a Program in One's Head]]
+                - [[The Hardest Lessons for Startups to Learn]]
+                - [[How to Learn From Conversations]] [[LessWrong]]
+            - [[Talks]]
+                - [[Inventing on Principle]]
+                - [[The Multidisciplinary Approach to Thinking]]
+                - [[Hammock Driven Development]]
+                - [[Normal Considered Harmful]]
+                - [[Simple Made Easy]]
+                - [[You and Your Research]]
+            - [[Websites]]
+                - [[untools]]
+                - [[[[Andy Matuschak]]'s Notes]]
+                - [[[[Gordon Brander]]'s Patterns]]
+                - [[Explorable Explanations]]
+- ## Team GIFs::
+    - ### Creating a Kanban and drag and drop within it
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FSmU5tn9gdD.gif?alt=media&token=ea2d0bbb-8ef4-4359-a0de-b06f6cca74e3)
+    - ### Open Kanban in sidebar
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FuqWn53xv7q.gif?alt=media&token=111f7548-04db-4587-9005-e103ca2f6047)
+- ## Community Videos::
+    - ### Roam Research: Kanban Board by [[Les Kristofs]]
+        - {{[[video]]: https://www.youtube.com/watch?v=zZIBcCunK-I}}
+#[[Kanban]] | #[[Block References]]
+    - ### Roam Research: How to Plan Your Week in Roam by [[Shu Omi]]
+        - {{[[video]]: https://www.youtube.com/watch?v=p-hpOG6TmeM}}
+#[[Kanban]] | #[[Templates]]
+- ## Articles::
+    - ### [How to create a Kanban board on Roam](https://www.roamtips.com/home/roam-kanban-board) by [[Roam Tips]]
+
+- #.doc-mode

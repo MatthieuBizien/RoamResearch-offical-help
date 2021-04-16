@@ -1,3 +1,0 @@
-- [now](<now.md>)
-- [next](<next.md>)
-- [future](<future.md>)

@@ -1,9 +1,0 @@
-- [Change Log](<Change Log.md>)
-    - Added [slider](<slider.md>) component to / command
-        - this is particularly useful when getting feedback from a bunch of people on things like
-            - How important a task is
-                - see [Roadmap](<Roadmap.md>)
-            - How much certainty they have that something is true
-    - [Keyboard Shortcuts](<Keyboard Shortcuts.md>) for going back to Daily Notes
-        - Control-D on Mac
-        - Alt-D on PC

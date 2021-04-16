@@ -1,8 +1,0 @@
-- An example of using Roam for [Trigger Action Plans](<Trigger Action Plans.md>)
-    - comes from [Taylor R](<Taylor R.md>)
-    - Let's say that when you are [😴 Feeling Tired](<😴 Feeling Tired.md>) you want that to be a [Trigger](<Trigger.md>) for doing another action like [🏋️‍♀️ Short Exercise](<🏋️‍♀️ Short Exercise.md>)
-    - [[[😴 Feeling Tired](<[[😴 Feeling Tired.md>) [->](<->.md>) [🏋️‍♀️ Short Exercise](<🏋️‍♀️ Short Exercise.md>)]]
-        - [[[😴 Feeling Tired](<[[😴 Feeling Tired.md>) [->](<->.md>) [🚰 Drink Water](<🚰 Drink Water.md>)]]
-    - I'm starting to [[[😴 Feeling Tired](<[[😴 Feeling Tired.md>) [->](<->.md>) [🚰 Drink Water](<🚰 Drink Water.md>)]]
-        - 
-- [emoji](<emoji.md>)

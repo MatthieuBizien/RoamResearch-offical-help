@@ -15,6 +15,3 @@
 
 - [5] It is a bit misleading to treat [macros](<macros.md>)
 
-## [Lisp](<Lisp.md>)
-- A special property of lisp languages is their [macros](<macros.md>)
-

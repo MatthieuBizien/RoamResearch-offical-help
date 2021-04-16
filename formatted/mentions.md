@@ -1,7 +1,5 @@
 
 # Backlinks
-## [February 6th, 2021](<February 6th, 2021.md>)
-- "{{[mentions](<mentions.md>):
-
+## [Mentions](<Mentions.md>)
 - {{[mentions](<mentions.md>):
 

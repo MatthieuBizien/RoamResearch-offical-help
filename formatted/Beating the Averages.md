@@ -1,4 +1,4 @@
-- [Paul Graham](<Paul Graham.md>) #[Essay](<Essay.md>)
+[Paul Graham](<Paul Graham.md>) #[Essay](<Essay.md>)
     - April 2001, rev. April 2003
     - __(This article is derived from a talk given at the 2001 Franz Developer Symposium.)__
     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
@@ -67,9 +67,6 @@
     - [6] As a result, comparisons of programming languages either take the form of religious wars or undergraduate textbooks so determinedly neutral that they're really works of anthropology. People who value their peace, or want tenure, avoid the topic. But the question is only half a religious one; there is something there worth studying, especially if you want to design new languages.
 
 # Backlinks
-## [April 17th, 2020](<April 17th, 2020.md>)
-- [x] Pull in [Paul Graham](<Paul Graham.md>)'s [Beating the Averages](<Beating the Averages.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
+## [Block References](<Block References.md>)
 - from [Beating the Averages](<Beating the Averages.md>)
 

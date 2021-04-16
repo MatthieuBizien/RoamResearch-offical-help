@@ -1,2 +1,0 @@
-- **[aka](<aka.md>):** [Qur'an](<Qur'an.md>)
-- 

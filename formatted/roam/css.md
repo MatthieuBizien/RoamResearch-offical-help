@@ -1,108 +1,31 @@
-- [Conor](<../Conor.md>)
-    - {{[embed](<../embed.md>): ((UlnOVltlm))}}
+- #.doc-mode
+    - From having a dark theme to opening multiple panels, with a few clicks (and no coding skill required), roam/css helps you customize the look and feel of your Roam graph
+    - Check out our [community-built themes for inspiration]([Themes](<../Themes.md>))
+    - **[## Roam Team Videos](<../## Roam Team Videos.md>):**
+        - ### Applying Custom Themes for your RoamResearch Knowledge Graph by [Conor White-Sullivan](<../Conor White-Sullivan.md>)
+        - {{[video](<../video.md>): https://youtu.be/UY-sAC2eGyI }}
+    - **[## Articles](<../## Articles.md>):**
+        - ### [Painting Roam with Custom CSS](https://maggieappleton.com/paintingroam) by [Maggie Appleton](<../Maggie Appleton.md>)
+        - ### [Roam themes: how to style Roam Research with custom CSS](https://nesslabs.com/roam-research-themes-custom-styling-css) by [Anne-Laure Le Cunff](<../Anne-Laure Le Cunff.md>)
+    - **[## Community Videos](<../## Community Videos.md>):**
+        - ### How to do color tagging in Roam by [Zack Fan](<../Zack Fan.md>)
+            - {{[video](<../video.md>): https://www.youtube.com/watch?v=kUgAqyzwGzw}}
+        - ### How to Create and Edit Roam CSS: Interview with [Abhay Prasanna](<../Abhay Prasanna.md>) 
+            - {{[video](<../video.md>): https://www.youtube.com/watch?v=Cz07-oZlPzA&t=3s&ab_channel=MikeGiannulis}}
+- Doc mode #.hide
     - ```css
-.rm-d.rm-block--open >
-.rm-block__children > .rm-block:nth-child(3) > div:first-child > div:first-child {
-  background-color: blue !important;
-  min-width: 60px;
-  max-height: 4px;
-  align-self: center;
-  display: flex;
-  flex: 1 0 50px;
-  overflow:scroll;
-   margin-right: 18px;
-}```
-    - ```css
-.rm-d >
-.rm-block__children > .rm-block:nth-child(2) > .rm-block__children > div:last-child {
-\\ background-color: green !important;
- \\ border-bottom: 3px solid green;
- \\ margin-left: 8px;
- \\ margin-top: -18px;
-
-}``` 
-    - 
-    - ```css
-.l40 {
-margin-left: -40px;
-}```
-    - ```css
-.wrap >div:last-child { 
-border: 1px solid grey;
-}
-.wrap .rm-block__children {
-flex-wrap: wrap;
-}```
-    - thread #.thread #.wrap 
-        - a
-            - take it further 
-                - c d e f g
-            - see how far vertically
-            - b
-                - this is not clear where it fits... but what off we mage I’ve muscle trying t runs r just got off a few times and I have a couple of things going to work for me and then you’ll be back to work for you to 
-            - c
-    - ```css
-.thread .rm-block, .thread .rm-block__children
-{
-  display: contents;
-  border:2px solid blue;
-}
-.thread > .rm-block__children {
-  display: flex;
-  overflow-x:scroll;
-  overflow-y: hidden;
- 
-  flex-direction: row;}
-
-.thread div{ 
-  word-break: none;
-  min-width: 40px};```
-    - ```css
-.rm-block {
-max-width: 100vw !important;
-  min-width: 10px !important;
-}```
-    - ```css
-.contents {
-  color:blue;
-display: contents;
+.doc-mode > .rm-block__children:not(.rm-heading-level-1)  .rm-multibar {
+  border-color: transparent;
 }
 
-.center > .rm-block__children {
-  justify-content: center;
-
-}
-```
-    - Spacer 
-        - ```typescript
- 
-.rm-block__self > .rm-block-separator {
-  min-width: 140px ;
-
+.doc-mode > .rm-block__self {
+  display: none;
 }
 
-
-
-.rm-embed-container {
-  margin-right: -110px;
-}
-.rm-full-width {
-  margin-right: -140px;
-}
-
-.rm-embed-container  .rm-embed-inner-block-hide  
-.rm-block > .rm-block__self > .rm-block-separator {
-  min-width: 140px;
-  min-height: 0px;
- / background-color: blue;
-}
-```
-    - New Document Mode
-        - 
-            - ```css
 .doc-mode  .rm-block__self:not(:hover)  .rm-block__controls {
 opacity: 0.1;
 }
+
 
 
 .path-highlighted {
@@ -142,461 +65,159 @@ opacity: 1 !important;
   margin-left: 0px;
  
 }
-/*
 
-.rm-heading-level-1:hover > .rm-block__children {
+.doc-mode.rm-heading-level-1:hover > .rm-block__children {
   background-color: rgba(211,211,211,0.11);
   border-top: 1px solid grey;
   margin-left: 8px;
 }
 
-.rm-heading-level-2:hover > .rm-block__children {
+.doc-moderm-heading-level-2:hover > .rm-block__children {
   background-color: rgba(211,211,211,0.11);
   border-top: 1px solid grey;
   margin-left: 8px;
 }
 
-.rm-heading-level-3:hover > .rm-block__children {
+.doc-mode.rm-heading-level-3:hover > .rm-block__children {
   background-color: rgba(211,211,211,0.11);
   border-top: 1px solid grey;
   margin-left: 8px;
+}```
+- Graph-wide CSS #.hide
+    - roam/render
+        - ```css
+.rm-help-results {
+  height: 800px;
 }
+
+.rm-help {
+  margin-top: 20px;
+}```
+    - Hide things
+        - ```css
+
+.bp3-icon-help {
+  display: none;
+}```
+    - Full-width search c/o [Jeff Harris](<../Jeff Harris.md>) and [Daniel van der Merwe](<../Daniel van der Merwe.md>)
+        - ```plain text
+/* Full Width Search
+  Changes the search bar to be full screen width all the time, no animations
 */
-```
-                - ```css
-
-.doc-mode > .rm-block__children:not(.rm-heading-level-1)  .rm-multibar {
-  border-color: transparent;
+.rm-find-or-create-wrapper {
+  flex: 0 1 100% !important;
 }
-
-```
-    - Test Table
+.rm-find-or-create-wrapper .bp3-transition-container {
+  width: 100%;
+}
+.rm-find-or-create-wrapper .bp3-menu {
+  max-width: none;
+  max-height: 400px;
+}
+.rm-find-or-create-wrapper .rm-menu-item {
+  border-radius: 2px;
+  cursor: pointer;
+  padding: 6px;
+}
+.rm-find-or-create-wrapper .rm-menu-item .rm-search-title {
+  font-weight: bold;
+}
+.rm-find-or-create-wrapper .rm-menu-item .rm-search-title .rm-new-page {
+  color: var(--rm-search__color_new-page);
+}
+.rm-find-or-create-wrapper .rm-menu-item .rm-search-list-item {
+  color: var(--rm-search__color_body);
+  margin-left: -20px;
+  overflow-wrap: break-spaces;
+  word-break: break-word;
+}```
+    - Full-width text blocks
         - ```css
-.conor-table .rm-block__children {
-  display: contents;
-  
-}
-
-.conor-table > .rm-block__children .rm-block {
+```
+    - Grid
+        - ```css
+.roam-block-container[data-page-links*=".rm-grid"] .rm-block-children {
   display: grid;
-  grid-template-columns: repeat(6, 100px);
-  grid-template-rows: 40px;
+  margin-left: 0px;
+  grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) );
+  max-width: 550px;
 }
 
-.conor-table {
-  border: 2px solid grey;
-  width: 50vw;
+span[data-tag=".rm-grid"] {
+  display: none !important;
 }
 
-.conor-table .rm-block {
-  border: 0.5px solid grey;
-flex: 1 1 60px;
+.box .rm-block-text {
+  padding: 10px;
+  font-size: 13px !important;
+  border: 1px solid [5C7080](<../5C7080.md>) !important;
+  border-radius: 2px;
+  max-width: 80%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center;
 }
 
-.conor-table  .a > .rm-block__self {
-  background-color: blue;
-  opacity: 0.4;
-  color: white;
-}```
-    - ```css
-.test-full-width {	
-  position: fixed;
-  left: 0px;
-  right: 100px;
-  bottom: 0px;
-  z-index: -1;
-  opacity: 0.4;
-}```
-    - ```css
-.mindmap {
-  overflow: scroll;
-background-color: rgba(211,211,211,0.31);
- min-width: 70vw;
-  
-  margin: 0px !important;
-  padding: 8px !important;
+span[data-tag=".box"] {
+  display: none !important;
 }
 
-.mindmap > .rm-block__children {
-  min-width: 100%;
-}
-
-.mindmap .rm-block__children .rm-block {
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-}
-.mindmap .rm-block__children .rm-block__input {
-  border-left: 1px solid grey;
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
-  padding: 8px;
-}
-.mindmap .rm-block__children .rm-block__self {
-  flex-grow: 0.1;
-}
-.mindmap .rm-block__children .rm-block__children .rm-block__controls {
-opacity: 1;
-  position: relative;
-  align-self: center;
-}
-
-.mindmap .rm-block__children .rm-block__children .block-expand  {
-  opacity: 1;
-  background-color: green;
-  height: 4px;
-  align-self: center;
-  min-width: 80%;
-  margin-left: -4px;
-  position: relative;
-}
-
-.mindmap .rm-block__children .rm-block__children .block-expand span {
-  opacity: 1;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: green;
-  color: transparent;
-  transform: none !important;
-}
-
-.mindmap .rm-block__children .rm-block__children {
-   flex-grow: 1;
-  margin: 12px 4px;
-  padding: 8px 0px;
- 
-}
-
-```
-        - ```css
-
-.mindmap .rm-block__children .rm-block__children .rm-multibar {
-  opacity: 1;
-  top: 1em;
-  bottom: 1em;
-  background-color: green;
-  width: 4px;
-}```
-    - ```css
-.group {
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-}
-.group div {
-  border: none;
-}
-.group > .rm-block__self {
-  flex-grow: 0.1;
-}
-.group .rm-block__children .rm-block__controls {
-opacity: 0;
-}
-.group:hover .rm-block__children .rm-block__controls {
-opacity: 1;
-}
-
-.group > .rm-block__children {
-   flex-grow: 1;
-  margin: 12px 4px;
-  padding: 8px 0px;
-  border-top: 1px solid green;
-  border-bottom: 1px solid green;
-  border-left: 1px solid green;
-}```
-    - ```css
-.grey-hl .rm-highlight {
-  background-color: transparent;
-  color: gray;
-}
-```
-    - ```css
-.big .rm-highlight {
-  background-color: transparent;
-  font-size: 2em;
-}```
-    - ```css
-.Falsified {
-text-decoration: line-through;
-}```
-    - Old Block level styling
-        - ```css
-.roam-block-container[data-page-links*="horizontal"] 
-.rm-block-children {
-  display: flex;
-  flex-direction: row;
- 
-}
-.roam-block-container[data-page-links*="horizontal"] 
- .rm-block__controls {
-  display: none;
- 
-}```
-        - Hide the tag
-            - ```css
-span.rm-page-ref[data-tag="rm-h"] {
-    display: none;
-}
-
-.roam-block-container[data-page-links*="rm-h"]> .rm-block-children {
-  display: flex;
- 
-  flex-direction: row;
-}
-.wrap { 
-flex-wrap: wrap;
-
-}
-.ac > .rm-block__children {
-align-items: center ;}```
-        - Grid [rm-grid](<../rm-grid.md>)
-            - Grid 1
-            - Grid 2
-            - Gr
-        - Grid `[rm-grid](<../rm-grid.md>)`
-            - ```css
-
-.roam-block-container[data-page-links*="rm-grid"] .rm-block-children {
-  display: grid;
-  background-color: [F7F8F8](<../F7F8F8.md>);
-  
- grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) );
-}```
-        - Blue border for children
-            - ```css
-.rm-block[data-path-page-links*="rm-blue-border--children"]{
-  border: 1px solid blue;
-}```
-        - Span 2 columns
-            - ```css
-.roam-block-container[data-page-links*="rm-col-span2"] {
-  grid-column: span 2;
-}```
-        - Span 2 rows 
-            - ```css
-.roam-block-container[data-page-links*="rm-row-span2"] {
-  grid-row: span 2;
-}```
-        - Hide the `.rm` tags
-            - ```css
-.roam-block-container[data-page-links*="rm-hide"]
-span.rm-page-ref[data-tag*="rm"] 
-{
-  display: none;
-}```
-    - New block level styling
-        - ```css
-.bblue {
-  border: 2px solid blue !important;
-}```
-        - ```css
-.green  {
-  margin: 2px;
-  background-color: green;
-  color: white;
-}```
-    - ```css
-.conor-shrink {
-  
-  transform: scale(0.8);
-}```
-- .semantic 
-    - ```css
-.semantic .rm-block-separator{
+.roam-block-container[data-page-links*=".rm-grid"] .rm-multibar {
   display: none;
 }
-
-.semantic .rm-block__input{
-
-background-color: blue;
-}
-
 ```
-- [Evergreens](<../Evergreens.md>)
-- Live Editor for playing with custom tags {{[table](<../table.md>)}}
-    - ```css
-
-span.rm-page-ref[data-tag="Evergreens"] {
-    background: [FF5722](<../FF5722.md>) !important;
-    color: [fff](<../fff.md>) !important;
-    padding: 3px 8px;
-    line-height: 2em;
-    font-weight: 500;
-}
-```
-        - [Evergreens](<../Evergreens.md>)
-    - ```css
-span.rm-page-ref[data-tag="Seedling"] {
-    color: [4CAF50](<../4CAF50.md>) !important;
-    padding: 3px 3px;
-    font-weight: 600;
-    line-height: 1.4em;
-}
-```
-        - [Seedling](<../Seedling.md>) 
-    - ```css
-span.rm-page-ref[data-tag="Idea Bank"] {
-    color: [3C34EA](<../3C34EA.md>) !important;
-    padding: 3px 4px;
-    font-weight: 700;
-    line-height: 1.4em;
-}
-
-span.rm-page-ref[data-tag="Idea Bank"]:before {
-    content: '✦ '
-}
-```
-        -  #[Idea Bank](<../Idea Bank.md>)
-    - ```css
-span.rm-page-ref[data-tag="Essay"] {
-    background: [03A9F4](<../03A9F4.md>);
-    color: [fff](<../fff.md>);
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 500;
-}
-```
-        - [Essay](<../Essay.md>)
-- Make wide
-    - ```css
-[data-tag="make:wide"] ~ div {
-	width: 110% !important;
-}
-
-[data-tag="make:wide-x"] ~ div {
-	width: 120% !important;	
-}
-
-[data-tag="make:wide-xx"] ~ div {
-	width: 130% !important;	
-}
-
-[data-tag="make:wide-xxl"] ~ div {
-	width: 150% !important;
-}
-
-
-[data-tag="make:wide-on-hover"] ~ div:hover {
-  transform: scale(1.5); 
-}
-
-[data-tag*="make:wide"] ~ div div:nth-child(2){
-	width: 100% !important;
-}
-
-
-
-[data-tag="make:long"] ~ div {
-	height: 660px !important;
-}
-
-[data-tag="make:long-x"] ~ div {
-	height: 760px !important;
-}
-
-[data-tag="make:long-xx"] ~ div {
-	height: 860px !important;
-}
-
-[data-tag="make:long-xxl"] ~ div {
-	height: 960px !important;
-}
-
-
-[data-tag*="make:long"] ~ div div:nth-child(2){
-	height: 100% !important;
+    - Hide twitter stuff #.hide
+        - ```css
+.dont-focus-block > sub, .dont-focus-block > button {
+  display: none;
+  display: none;
 }```
-- Customizing Nested Tables and embeds
     - ```css
-/* don't limit the block width for tables */
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .rm-block-text {
-    max-width: none!important;
-}
-
-/* clean up tables embedded in tables and blocks within tables */
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .roam-table, .roam-table th, .roam-table td, .roam-table tr {
-    padding:0!important;
-    vertical-align: top;
-    min-width:auto!important;
-    overflow: hidden;
-}
-
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .roam-table .roam-table table {
-    width:100%;
-}
-
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .roam-table .rm-block-ref {
-    padding:0!important;
-}
-
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .roam-table .rm-embed-container {
-    background-color:transparent!important;
-    padding-bottom:20px;
-}
-
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .roam-table .rm-embed-edit, .roam-table .bp3-popover-wrapper {
-    display:none!important;
-}
-
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .roam-table .controls .block-expand .rm-caret {
-    transition:none!important;
-}
-
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .rm-embed-inner-block-hide:hover {
-    margin-left:-42px!important;
-}
-
-span.rm-page-ref[data-tag="make:table-tight"] ~ div .roam-table .roam-table th, .roam-table  .roam-table td, .roam-table  .roam-table tr {
-    border-bottom:0;
-    border-left:0;
-    border-top:0;
-}
-
-```
+.rm-sidebar-outline > div:nth-child(1) {
+  margin-bottom: 16px;
+}```
 
 # Backlinks
-## [Block Level CSS](<Block Level CSS.md>)
-- from [roam/css](<../roam/css.md>)
+## [Articles](<Articles.md>)
+- {{[roam/css](<../roam/css.md>)}
 
-## [December 14th, 2020](<December 14th, 2020.md>)
-- Put some code like this in a page called [roam/css](<../roam/css.md>)
+## [Features](<Features.md>)
+- ### [roam/css](<../roam/css.md>)
 
-## [Edge Case Bugs](<Edge Case Bugs.md>)
-- when this block is on [roam/css](<../roam/css.md>)
+## [Hacking and Coding](<Hacking and Coding.md>)
+- #[roam/css](<../roam/css.md>)
 
-## [February 19th, 2021](<February 19th, 2021.md>)
-- Quick example of custom block level tags using [roam/css](<../roam/css.md>)
+## [Long Videos](<Long Videos.md>)
+#[roam/css](<../roam/css.md>)
 
-- More Thorough Example [roam/css](<../roam/css.md>)
+## [TODO/DONE](<TODO/DONE.md>)
+#[roam/css](<../roam/css.md>)
 
-## [February 21st, 2021](<February 21st, 2021.md>)
-- Let's test mindmap via [roam/css](<../roam/css.md>)
-
-- {{[embed](<../embed.md>): [roam/css](<../roam/css.md>)}
-
-## [February 24th, 2021](<February 24th, 2021.md>)
-- Proving that we can have a nested Table / Grid Structure using just [roam/css](<../roam/css.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- Inline `{{[roam/css](<../roam/css.md>)}
+## [Themes](<Themes.md>)
+- {{[roam/css](<../roam/css.md>)}
 
 - {{[roam/css](<../roam/css.md>)}
 
-- [roam/css](<../roam/css.md>)
+- {{[roam/css](<../roam/css.md>)}
 
-- [roam/css](<../roam/css.md>)
+- {{[roam/css](<../roam/css.md>)}
 
-- [roam/css](<../roam/css.md>)
+- {{[roam/css](<../roam/css.md>)}
 
-- [Quality of Life Improvements](<../Quality of Life Improvements.md>) for [roam/css](<../roam/css.md>)
+- {{[roam/css](<../roam/css.md>)}
 
-- In combination with [roam/css](<../roam/css.md>)
+- {{[roam/css](<../roam/css.md>)}
 
-- Limited [Code Block](<../Code Block.md>)s to a max size to help performance on [roam/css](<../roam/css.md>)
+- {{[roam/css](<../roam/css.md>)}
 
-## [Roamcult Themes](<Roamcult Themes.md>)
-- [roam/css](<../roam/css.md>)
+- {{[roam/css](<../roam/css.md>)}
+
+- {{[roam/css](<../roam/css.md>)}
+
+- {{[roam/css](<../roam/css.md>)}
+
+- {{[roam/css](<../roam/css.md>)}
+
+## [roam/templates](<roam/templates.md>)
+- {{[roam/css](<../roam/css.md>)}
 

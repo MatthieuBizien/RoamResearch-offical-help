@@ -1,6 +1,0 @@
-- !!Choice [Conor](<Conor.md>)
-    - [ ] #[Choice](<Choice.md>) 
-        - **[Options](<Options.md>):**
-            - 
-            - 
-        - **[Decision](<Decision.md>):**
