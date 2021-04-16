@@ -4,7 +4,7 @@
     - ## **New Changes**
     - ### [[April 16th, 2021]]
         - [[New Features]] 🚀 
-            - Custom hotkeys! You can find them in `Settings > Hotkeys`
+            - Custom shortcuts! You can find them in `Settings > Hotkeys`
                 - Brought to you by:: [[Wilker Lucio]] [[Joshua Brown]]
         - [[Quality of Life Improvements]] ✨
             - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.

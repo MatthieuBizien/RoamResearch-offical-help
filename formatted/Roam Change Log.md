@@ -4,7 +4,7 @@
     - ## **New Changes**
     - ### [April 16th, 2021](<April 16th, 2021.md>)
         - [New Features](<New Features.md>) 🚀 
-            - Custom hotkeys! You can find them in `Settings > Hotkeys`
+            - Custom shortcuts! You can find them in `Settings > Hotkeys`
                 - **[Brought to you by](<Brought to you by.md>):** [Wilker Lucio](<Wilker Lucio.md>) [Joshua Brown](<Joshua Brown.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.

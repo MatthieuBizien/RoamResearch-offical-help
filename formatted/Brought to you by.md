@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
-- Custom hotkeys! You can find them in `Settings > Hotkeys`
+- Custom shortcuts! You can find them in `Settings > Hotkeys`
                 - **[Brought to you by](<Brought to you by.md>):**
 
 - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.
