@@ -42342,8 +42342,8 @@
                       }
                     ],
                     "create-time": 1618559866624,
-                    "edit-time": 1618559894909,
-                    "string": "User Settings and Graph Settings have been unified into our new Settings modal.",
+                    "edit-time": 1618572935465,
+                    "string": "User Settings and Graph Settings have been unified into the new Settings modal.",
                     "uid": "NYSVrmDt-"
                   }
                 ],
@@ -42408,8 +42408,8 @@
                       }
                     ],
                     "create-time": 1618559785273,
-                    "edit-time": 1618559798629,
-                    "string": "Empty link tags in pasted content will no longer be rendered.",
+                    "edit-time": 1618572971144,
+                    "string": "Empty `<a>` (link) tags in pasted content will no longer be rendered.",
                     "uid": "w4d72iBS-"
                   }
                 ],
@@ -66479,6 +66479,20 @@
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        "create-time": 1618573434166,
+        "edit-time": 1618573434166,
+        "string": "",
+        "uid": "IYMC2vP60"
+      }
+    ],
     "create-time": 1618559306790,
     "edit-time": 1618559306790,
     "title": "April 16th, 2021",

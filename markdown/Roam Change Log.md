@@ -9,10 +9,10 @@
         - [[Quality of Life Improvements]] ✨
             - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.
                 - Brought to you by:: [[Bardia Pourvakil]]
-            - User Settings and Graph Settings have been unified into our new Settings modal.
+            - User Settings and Graph Settings have been unified into the new Settings modal.
                 - Brought to you by:: [[Bardia Pourvakil]]
         - [[Bug Fixes]] 🛠 
-            - Empty link tags in pasted content will no longer be rendered.
+            - Empty `<a>` (link) tags in pasted content will no longer be rendered.
                 - Brought to you by:: [[Adam Sherwood]]
     - ### [[April 15th, 2021]]
         - [[New Features]] 🚀

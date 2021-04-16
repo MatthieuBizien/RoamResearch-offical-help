@@ -7,10 +7,10 @@
 - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.
                 - **[Brought to you by](<Brought to you by.md>):**
 
-- User Settings and Graph Settings have been unified into our new Settings modal.
+- User Settings and Graph Settings have been unified into the new Settings modal.
                 - **[Brought to you by](<Brought to you by.md>):**
 
-- Empty link tags in pasted content will no longer be rendered.
+- Empty `<a>` (link) tags in pasted content will no longer be rendered.
                 - **[Brought to you by](<Brought to you by.md>):**
 
 - Unlimited [local graphs]([Local Graph](<Local Graph.md>)) are now available for all Roam subscribers!
