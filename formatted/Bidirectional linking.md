@@ -40,3 +40,6 @@
 ## [Welcome to Roam](<Welcome to Roam.md>)
 - ### [How to link your notes]([Bidirectional linking](<Bidirectional linking.md>))
 
+## [Why Roam?](<Why Roam?.md>)
+#[Bidirectional linking](<Bidirectional linking.md>)
+

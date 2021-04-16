@@ -40323,7 +40323,6 @@
         },
         "create-time": 1616530269687,
         "edit-time": 1616530299666,
-        "heading": 3,
         "string": "This thread of threads on Twitter answers the question of \"Why Roam?\" pretty well, if not succinctly \ud83d\ude09",
         "uid": "HvlIIrjuN"
       },
@@ -40360,6 +40359,95 @@
         ],
         "string": "*Conor mentions the old help graph in this thread. If you are searching for the white paper, he mentioned, find it in this graph [here]([[White Paper]]).",
         "uid": "j8V2ciddn"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1618569423976,
+        "edit-time": 1618569423976,
+        "string": "",
+        "uid": "9I4Z-tT0d"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "3Ig0C8LkY"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "O-1UthcEA"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "2h9V-FtAO"
+                  },
+                  {
+                    ":block/uid": "fJITY2nwZ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "create-time": 1618569424921,
+                "edit-time": 1618569527280,
+                "refs": [
+                  {
+                    "uid": "2h9V-FtAO"
+                  },
+                  {
+                    "uid": "fJITY2nwZ"
+                  }
+                ],
+                "string": "{{[[video]]: https://www.youtube.com/watch?v=EqyJweIHaeg}}\n#[[Bidirectional linking]]",
+                "uid": "PZUeUgTFB"
+              }
+            ],
+            "create-time": 1618569424921,
+            "edit-time": 1618569538830,
+            "heading": 3,
+            "refs": [
+              {
+                "uid": "O-1UthcEA"
+              }
+            ],
+            "string": "Exploring Networked Thought: The Story of Roam Research by [[Futurism]]",
+            "uid": "UqIGo07kj"
+          }
+        ],
+        "create-time": 1618569424921,
+        "edit-time": 1618569498831,
+        "refs": [
+          {
+            "uid": "3Ig0C8LkY"
+          }
+        ],
+        "string": "Community Videos::",
+        "uid": "sHr-N-wbk"
       }
     ],
     "create-time": 1614687933399,
@@ -66407,5 +66495,17 @@
     "edit-time": 1618559982015,
     "title": "Wilker Lucio",
     "uid": "A1MxhqDRI"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "create-time": 1618569538833,
+    "edit-time": 1618569538834,
+    "title": "Futurism",
+    "uid": "O-1UthcEA"
   }
 ]
