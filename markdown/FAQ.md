@@ -284,7 +284,7 @@
     - ### **What's your security standards and** [[Privacy Policy]]**?**
         - Roam's data is hosted by Google, encrypted at rest, and encrypted over the wires.
         - ﻿We follow industry best practices for encryption - same as Evernote and Notion - but we make an additional guarantee in our [[Privacy Policy]] to not ever read your notes without your permission.
-        - If you want more thorough encryption, you can use [Encrypted Blocks](https://roamresearch.com/#/app/help/page/_KIKZibNb). For more details on how we treat our users data, you can see our [Privacy Policy](https://roamresearch.com/#/app/help/page/y7wOdeUpZ).
+        - If you want more thorough encryption, you can use the [[Encrypted Block]]. For more details on how we treat our users data, you can see our [[Privacy Policy]].
     - ### **Where do I find the newest feature updates and bug fixes?**
     - ### **How do I send console logs for debugging?**
         - If you ever run into a problem with Roam, your best bet is to first check [GitHub](https://github.com/Roam-Research/issues/issues) and see if other users have faced the same issue, and whether or not the issue has been solved yet. 

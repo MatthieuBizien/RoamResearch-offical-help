@@ -12,6 +12,8 @@
 ## [FAQ](<FAQ.md>)
 - If you need to make some blocks private, you can use our [Encrypted Block](<Encrypted Block.md>)
 
+- If you want more thorough encryption, you can use the [Encrypted Block](<Encrypted Block.md>).
+
 ## [Features](<Features.md>)
 - ### [Encryption]([Encrypted Block](<Encrypted Block.md>))
 

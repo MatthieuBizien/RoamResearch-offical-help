@@ -74,6 +74,8 @@
 
 - ﻿We follow industry best practices for encryption - same as Evernote and Notion - but we make an additional guarantee in our [Privacy Policy](<Privacy Policy.md>)
 
+- If you want more thorough encryption, you can use the [Encrypted Block](<Encrypted Block.md>). For more details on how we treat our users data, you can see our [Privacy Policy](<Privacy Policy.md>).
+
 ## [Terms and Conditions](<Terms and Conditions.md>)
 - These Terms and Conditions include the Roam User Agreement, the Roam Terms of Service, the Roam [Privacy Policy](<Privacy Policy.md>),
 
