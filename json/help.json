@@ -66494,5 +66494,17 @@
     "edit-time": 1618569538834,
     "title": "Futurism",
     "uid": "O-1UthcEA"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1618621489623,
+    "edit-time": 1618621489623,
+    "title": "April 17th, 2021",
+    "uid": "04-17-2021"
   }
 ]
