@@ -2,6 +2,15 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - ### [[April 18th, 2021]]
+        - [[Quality of Life Improvements]] ✨
+            - Improved dropdown menu 
+                - Brought to you by:: [[Kifah Meeran]] [[Bardia Pourvakil]]
+            - Moved Sharing settings into its own tab
+                - Brought to you by:: [[Kifah Meeran]] [[Bardia Pourvakil]]
+        - [[Bug Fixes]] 🛠 
+            - Redo now will work more than once
+                - Brought to you by:: [[Joshua Brown]]
     - ### [[April 16th, 2021]]
         - [[New Features]] 🚀 
             - Custom shortcuts! You can find them in `Settings > Hotkeys`

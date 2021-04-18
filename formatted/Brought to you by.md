@@ -1,6 +1,15 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- Improved dropdown menu 
+                - **[Brought to you by](<Brought to you by.md>):**
+
+- Moved Sharing settings into its own tab
+                - **[Brought to you by](<Brought to you by.md>):**
+
+- Redo now will work more than once
+                - **[Brought to you by](<Brought to you by.md>):**
+
 - Custom shortcuts! You can find them in `Settings > Hotkeys`
                 - **[Brought to you by](<Brought to you by.md>):**
 
