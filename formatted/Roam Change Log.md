@@ -2,15 +2,15 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
-    - ### [April 18th, 2021](<April 18th, 2021.md>)
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-            - Improved dropdown menu 
-                - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>) [Bardia Pourvakil](<Bardia Pourvakil.md>)
-            - Moved Sharing settings into its own tab
-                - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>) [Bardia Pourvakil](<Bardia Pourvakil.md>)
-        - [Bug Fixes](<Bug Fixes.md>) 🛠 
-            - Redo now will work more than once
-                - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
+        - ### [April 18th, 2021](<April 18th, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - Improved dropdown menu 
+                    - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>) [Bardia Pourvakil](<Bardia Pourvakil.md>)
+                - Moved Sharing settings into its own tab
+                    - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>) [Bardia Pourvakil](<Bardia Pourvakil.md>)
+            - [Bug Fixes](<Bug Fixes.md>) 🛠 
+                - Redo now will work more than once
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
     - ### [April 16th, 2021](<April 16th, 2021.md>)
         - [New Features](<New Features.md>) 🚀 
             - Custom shortcuts! You can find them in `Settings > Hotkeys`
