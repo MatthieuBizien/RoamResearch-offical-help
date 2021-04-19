@@ -256,7 +256,6 @@
         - **[Alternatives](<../Alternatives.md>):** What alternatives already exist to this problem? What do you do now to solve the problem? What happens if you do nothing? If this is a technical solution, can an existing solution be used?
         - **[Solution](<../Solution.md>):** Based on all of the previous information, provide the solution to the problem. This could be a technical solution, process, new product, etc. Note that if multiple solutions are provided (suppose you provide multiple product offerings to solve the same problem) it is perfectly appropriate to have subpages for each solution.
         - **[Recommendations](<../Recommendations.md>):** An alternative to (or something to be used in conjunction with) a solution is one or more recommendations. Again, if appropriate recommendations can merit their own subpages.
-- 
 - Docs #.hide
     - [ ] Introduction (few bullets) and some GIFs
     - **[Roam Team Videos](<../Roam Team Videos.md>):**

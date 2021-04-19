@@ -22576,18 +22576,6 @@
         "uid": "4ysx8_TBu"
       },
       {
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "create-time": 1616207622938,
-        "edit-time": 1616207622938,
-        "string": "",
-        "uid": "4u41rzgpN"
-      },
-      {
         ":block/refs": [
           {
             ":block/uid": "dpLdzMqar"
