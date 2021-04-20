@@ -42116,6 +42116,119 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "04-20-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "q9X-gs35m"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "evJ14QpsV"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1618931342691,
+                            "edit-time": 1618931357063,
+                            "refs": [
+                              {
+                                "uid": "evJ14QpsV"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "uid": "7erliNiTd"
+                          }
+                        ],
+                        "create-time": 1618931290902,
+                        "edit-time": 1618931428862,
+                        "refs": [
+                          {
+                            "uid": "q9X-gs35m"
+                          }
+                        ],
+                        "string": "Fixed Graph Settings not opening and removed sharing tab for [[Local Graph]]",
+                        "uid": "5FdTkob3X"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1618931316863,
+                        "edit-time": 1618931316863,
+                        "string": "",
+                        "uid": "ue4Gf_T-X"
+                      }
+                    ],
+                    "create-time": 1618931281596,
+                    "edit-time": 1618931290673,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] \ud83d\udee0 ",
+                    "uid": "ToA2mn254"
+                  }
+                ],
+                "create-time": 1618931259586,
+                "edit-time": 1618931276249,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "04-20-2021"
+                  }
+                ],
+                "string": "[[April 20th, 2021]]",
+                "uid": "QuxUwuxNe"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "04-18-2021"
                   }
                 ],

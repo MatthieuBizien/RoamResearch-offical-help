@@ -1,6 +1,9 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- Fixed Graph Settings not opening and removed sharing tab for [Local Graph](<Local Graph.md>)
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Improved dropdown menu 
                     - **[Brought to you by](<Brought to you by.md>):**
 

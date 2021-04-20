@@ -8,5 +8,7 @@
 - ### [Local Graph](<Local Graph.md>)
 
 ## [Roam Change Log](<Roam Change Log.md>)
+- Fixed Graph Settings not opening and removed sharing tab for [Local Graph](<Local Graph.md>)
+
 - Unlimited [local graphs]([Local Graph](<Local Graph.md>))
 

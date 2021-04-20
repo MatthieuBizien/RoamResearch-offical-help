@@ -2,6 +2,11 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - ### [April 20th, 2021](<April 20th, 2021.md>)
+            - [Bug Fixes](<Bug Fixes.md>) 🛠 
+                - Fixed Graph Settings not opening and removed sharing tab for [Local Graph](<Local Graph.md>)
+                    - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
+                - 
         - ### [April 18th, 2021](<April 18th, 2021.md>)
             - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - Improved dropdown menu 
