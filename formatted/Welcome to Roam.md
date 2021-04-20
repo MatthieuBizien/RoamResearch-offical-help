@@ -1,5 +1,4 @@
 #.doc-mode
-    - ## It's **super** easy to get started with Roam, but it takes time to master. Get a head-start by skimming these docs! 
     - 
     - # Getting started
         - ### ℹ️ (hint... shift-click the links in blue below 😉) #.box
