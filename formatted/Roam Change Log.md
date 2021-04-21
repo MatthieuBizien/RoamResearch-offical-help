@@ -2,11 +2,19 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - ### [April 21st, 2021](<April 21st, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - Added buttons for undo, redo, square+round brackets to the mobile menu bar!
+                    - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>) [Joshua Brown](<Joshua Brown.md>)
+            - [Bug Fixes](<Bug Fixes.md>) 🛠 
+                - Cursor will be placed correctly when adding TODO via the mobile menu bar
+                    - **[Brought to you by](<Brought to you by.md>):**[Kifah Meeran](<Kifah Meeran.md>)
+                - Multibar lines will no longer show over the mobile menu bar
+                    - **[Brought to you by](<Brought to you by.md>):**[Kifah Meeran](<Kifah Meeran.md>)
         - ### [April 20th, 2021](<April 20th, 2021.md>)
             - [Bug Fixes](<Bug Fixes.md>) 🛠 
                 - Fixed Graph Settings not opening and removed sharing tab for [Local Graph](<Local Graph.md>)
                     - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
-                - 
         - ### [April 18th, 2021](<April 18th, 2021.md>)
             - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - Improved dropdown menu 
@@ -16,147 +24,148 @@
             - [Bug Fixes](<Bug Fixes.md>) 🛠 
                 - Redo now will work more than once
                     - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
-    - ### [April 16th, 2021](<April 16th, 2021.md>)
-        - [New Features](<New Features.md>) 🚀 
-            - Custom shortcuts! You can find them in `Settings > Hotkeys`
-                - **[Brought to you by](<Brought to you by.md>):** [Wilker Lucio](<Wilker Lucio.md>) [Joshua Brown](<Joshua Brown.md>)
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-            - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.
-                - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
-            - User Settings and Graph Settings have been unified into the new Settings modal.
-                - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
-        - [Bug Fixes](<Bug Fixes.md>) 🛠 
-            - Empty `<a>` (link) tags in pasted content will no longer be rendered.
-                - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
-    - ### [April 15th, 2021](<April 15th, 2021.md>)
-        - [New Features](<New Features.md>) 🚀
-            - Unlimited [local graphs]([Local Graph](<Local Graph.md>)) are now available for all Roam subscribers!
-                - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>) [Conor White-Sullivan](<Conor White-Sullivan.md>)
-    - ### [April 14th, 2021](<April 14th, 2021.md>)
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-            - Hitting tab while writing a page reference will autocomplete the first option
-                - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
-        - [Bug Fixes](<Bug Fixes.md>) 🛠
-            - Fixed an embed styling issue
-    - ### [April 12th, 2021](<April 12th, 2021.md>)
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-            - Added [Elixir](<Elixir.md>) as a code block option
-                - **[Brought to you by](<Brought to you by.md>):** [Stian Håklev](<Stian Håklev.md>)
-    - ### [April 9th, 2021](<April 9th, 2021.md>)
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
-            - Page width is now persisted
-                - **[Brought to you by](<Brought to you by.md>):** [Filipe Silva](<Filipe Silva.md>)
-    - ### [April 7th, 2021](<April 7th, 2021.md>)
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-            - Improved mobile menu bar and replaced Drawing helper button with [TODO](<TODO.md>) button
-                - {{[kanban](<kanban.md>)}}
-                    - **[Before](<Before.md>):**
-                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Xk2JBlhBF.png?alt=media&token=4da2b9c2-37de-405d-98a9-212b0f5cdffe)
-                    - **[After](<After.md>):**
-                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Yjwj-4gvL.png?alt=media&token=ff977aec-d135-4caa-9f76-3edf05a9b570)
-            - **UI Updates**
-                - Cleaned up the [Left Sidebar](<Left Sidebar.md>)
-                    - {{[table](<table.md>)}}
-                        - **[Before](<Before.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FArTNrMYLgt.png?alt=media&token=c0a5d24c-b242-410c-a1a9-029a7638ac88)
-                        - **[After](<After.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FCMTzJVwz0x.png?alt=media&token=fc77ed41-c550-4859-a13b-791d0962132b)
-                - Cleaned up [Quick Capture](<Quick Capture.md>)
+        - ### [April 16th, 2021](<April 16th, 2021.md>)
+            - [New Features](<New Features.md>) 🚀 
+                - Custom shortcuts! You can find them in `Settings > Hotkeys`
+                    - **[Brought to you by](<Brought to you by.md>):** [Wilker Lucio](<Wilker Lucio.md>) [Joshua Brown](<Joshua Brown.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.
+                    - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
+                - User Settings and Graph Settings have been unified into the new Settings modal.
+                    - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
+            - [Bug Fixes](<Bug Fixes.md>) 🛠 
+                - Empty `<a>` (link) tags in pasted content will no longer be rendered.
+                    - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
+        - ### [April 15th, 2021](<April 15th, 2021.md>)
+            - [New Features](<New Features.md>) 🚀
+                - Unlimited [local graphs]([Local Graph](<Local Graph.md>)) are now available for all Roam subscribers!
+                    - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>) [Conor White-Sullivan](<Conor White-Sullivan.md>)
+        - ### [April 14th, 2021](<April 14th, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - Hitting tab while writing a page reference will autocomplete the first option
+                    - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
+            - [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Fixed an embed styling issue
+                    - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
+        - ### [April 12th, 2021](<April 12th, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - Added [Elixir](<Elixir.md>) as a code block option
+                    - **[Brought to you by](<Brought to you by.md>):** [Stian Håklev](<Stian Håklev.md>)
+        - ### [April 9th, 2021](<April 9th, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+                - Page width is now persisted
+                    - **[Brought to you by](<Brought to you by.md>):** [Filipe Silva](<Filipe Silva.md>)
+        - ### [April 7th, 2021](<April 7th, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - Improved mobile menu bar and replaced Drawing helper button with [TODO](<TODO.md>) button
                     - {{[kanban](<kanban.md>)}}
                         - **[Before](<Before.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FiY8WCjeeTO.png?alt=media&token=b2da9700-7c0b-42f6-8b07-4e3dd4e20f41)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Xk2JBlhBF.png?alt=media&token=4da2b9c2-37de-405d-98a9-212b0f5cdffe)
                         - **[After](<After.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2Feuu53BSFc4.png?alt=media&token=14a8ee81-8ea0-4439-ac74-2129804b2917)
-                - Revamped Import modal
-                    - {{[table](<table.md>)}}
-                        - **[Before](<Before.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FSX7k6To7rD.png?alt=media&token=4056c63d-e4ba-4bec-a978-dfcefac1dcc9)
-
-                        - **[After](<After.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkXpJm3dgXf.png?alt=media&token=7cd87887-93d4-4c41-8952-db82777e1117)
-                    - {{[table](<table.md>)}}
-                        - **[Before](<Before.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FbMLzO7q-5M.png?alt=media&token=d3fb0597-9eab-4c3d-a9f0-8ff72ab2f086)
-
-                        - **[After](<After.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FItNe6Dk54D.png?alt=media&token=116c8d07-837a-43f6-9020-a0e9b23f9fe1)
-                - Updated Sharing settings
-                    - {{[table](<table.md>)}}
-                        - **[Before](<Before.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FuWcVSPMzHQ.png?alt=media&token=fd0ca15c-03e6-49c6-91f4-3bc352450dbc)
-                        - **[After](<After.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6sPn5_q0gs.png?alt=media&token=74e2fa98-7488-4729-b0e8-7b664692aa79)
-                    - And with the page sharing security warning:
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Yjwj-4gvL.png?alt=media&token=ff977aec-d135-4caa-9f76-3edf05a9b570)
+                - **UI Updates**
+                    - Cleaned up the [Left Sidebar](<Left Sidebar.md>)
                         - {{[table](<table.md>)}}
                             - **[Before](<Before.md>):**
-                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5JbnowYACh.png?alt=media&token=886f3455-154f-4c9c-b5da-8ce127517675)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FArTNrMYLgt.png?alt=media&token=c0a5d24c-b242-410c-a1a9-029a7638ac88)
                             - **[After](<After.md>):**
-                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkzwI4ilx0f.png?alt=media&token=14985bc9-daaa-474d-91d1-8511632b8dbf)
-                    - The sharing options:
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FCMTzJVwz0x.png?alt=media&token=fc77ed41-c550-4859-a13b-791d0962132b)
+                    - Cleaned up [Quick Capture](<Quick Capture.md>)
+                        - {{[kanban](<kanban.md>)}}
+                            - **[Before](<Before.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FiY8WCjeeTO.png?alt=media&token=b2da9700-7c0b-42f6-8b07-4e3dd4e20f41)
+                            - **[After](<After.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2Feuu53BSFc4.png?alt=media&token=14a8ee81-8ea0-4439-ac74-2129804b2917)
+                    - Revamped Import modal
                         - {{[table](<table.md>)}}
                             - **[Before](<Before.md>):**
-                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F1Nz_WX-5rJ.png?alt=media&token=1e9f9b67-22b6-43c2-b244-beee49393e46)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FSX7k6To7rD.png?alt=media&token=4056c63d-e4ba-4bec-a978-dfcefac1dcc9)
+
                             - **[After](<After.md>):**
-                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FgKV0seo2nF.png?alt=media&token=61a7206b-6dd5-4ccd-b7c3-429e6dff7522)
-                - Lighter Roam bullets, slightly thinner bold text, and subtler multibar so you can focus on your content
-                    - {{[table](<table.md>)}}
-                        - **[Before](<Before.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6mUQuhMfeY.png?alt=media&token=3e46c965-ad22-45a5-ba51-4fce71a60283)
-                        - **[After](<After.md>):**
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)
-            - **[Brought to you by](<Brought to you by.md>):**
-                - [Kifah Meeran](<Kifah Meeran.md>) and [Bardia Pourvakil](<Bardia Pourvakil.md>)
-    - ### [April 6th, 2021](<April 6th, 2021.md>)
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-            1. **Kanbans are now directly editable**
-                - Navigate around with key commands (cmd-<arrow> on Mac)
-                - Relocate cards with key commands (cmd-shift-<arrow> on Mac)
-                - Reorder with drag n' drop
-                - Drag and drop blocks in and out of the kanban with more precise location control
-                - Edit cards in the kanban
-                - Enter adds a card below and focuses it
-                - Click in a column to add a card
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkXpJm3dgXf.png?alt=media&token=7cd87887-93d4-4c41-8952-db82777e1117)
+                        - {{[table](<table.md>)}}
+                            - **[Before](<Before.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FbMLzO7q-5M.png?alt=media&token=d3fb0597-9eab-4c3d-a9f0-8ff72ab2f086)
+
+                            - **[After](<After.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FItNe6Dk54D.png?alt=media&token=116c8d07-837a-43f6-9020-a0e9b23f9fe1)
+                    - Updated Sharing settings
+                        - {{[table](<table.md>)}}
+                            - **[Before](<Before.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FuWcVSPMzHQ.png?alt=media&token=fd0ca15c-03e6-49c6-91f4-3bc352450dbc)
+                            - **[After](<After.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6sPn5_q0gs.png?alt=media&token=74e2fa98-7488-4729-b0e8-7b664692aa79)
+                        - And with the page sharing security warning:
+                            - {{[table](<table.md>)}}
+                                - **[Before](<Before.md>):**
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5JbnowYACh.png?alt=media&token=886f3455-154f-4c9c-b5da-8ce127517675)
+                                - **[After](<After.md>):**
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkzwI4ilx0f.png?alt=media&token=14985bc9-daaa-474d-91d1-8511632b8dbf)
+                        - The sharing options:
+                            - {{[table](<table.md>)}}
+                                - **[Before](<Before.md>):**
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F1Nz_WX-5rJ.png?alt=media&token=1e9f9b67-22b6-43c2-b244-beee49393e46)
+                                - **[After](<After.md>):**
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FgKV0seo2nF.png?alt=media&token=61a7206b-6dd5-4ccd-b7c3-429e6dff7522)
+                    - Lighter Roam bullets, slightly thinner bold text, and subtler multibar so you can focus on your content
+                        - {{[table](<table.md>)}}
+                            - **[Before](<Before.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6mUQuhMfeY.png?alt=media&token=3e46c965-ad22-45a5-ba51-4fce71a60283)
+                            - **[After](<After.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)
                 - **[Brought to you by](<Brought to you by.md>):**
-                    - [Adam Sherwood](<Adam Sherwood.md>) and [Joshua Brown](<Joshua Brown.md>)
-        - [Bug Fixes](<Bug Fixes.md>) 🛠
-            - Minor performance improvements
-    - ### [April 5th, 2021](<April 5th, 2021.md>)
-        - [Bug Fixes](<Bug Fixes.md>) 🛠
-            - Fixed a memory leak and improved performance
-                - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>) and [Filipe Silva](<Filipe Silva.md>)
-    - ### [April 2nd, 2021](<April 2nd, 2021.md>)
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-            - Added shortcut hint in context menu for copying [Block References](<Block References.md>)
-            - Made it clearer that deleting a graph doesn't immediately allow using its name again
-                - {{[table](<table.md>)}}
-                    - **[Before](<Before.md>):**
-                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5j3PFaZ5Xz.png?alt=media&token=6d36fc43-b6bc-434d-98fa-22250b6416c9)
-                    - **[After](<After.md>):**
-                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkDgsAI3wOK.png?alt=media&token=07e6f288-00dd-4a03-ac21-1d10ea038f3d)
-        - [Bug Fixes](<Bug Fixes.md>) 🛠
-            - Update Changelog link in `Check for Updates` toast
-    - ### [March 30th, 2021](<March 30th, 2021.md>)
-        - [New Features](<New Features.md>) 🚀
-            1. You can now export the block you're zoomed into instead of the whole page
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-            1. Block embeds are now resolved to text in [Markdown](<Markdown.md>) exports
-            2. Added an icon to easily access the right sidebar
-                - The shorcuts icon has been turned into an option inside the ... dropdown menu
-            3. Added better visual feedback for adding/removing shortcuts
-        - [Bug Fixes](<Bug Fixes.md>) 🛠
-            - Strikethrough and redo shortcuts on Windows have been reverted to Win+Y and Ctrl+Y respectively following reports that users couldn't redo more than once.
-    - ### [March 28th, 2021](<March 28th, 2021.md>)
-        - [New Features](<New Features.md>)
-            - You can now export in [Flattened Markdown](<Flattened Markdown.md>), which removes all indentation and block formatting
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
-            1. [Block Embed](<Block Embed.md>)s will remember whether you closed or opened them between page reloads
-            2. When editing a page title, any preceding/trailing whitespaces will be automatically removed
-            3. When exporting a single [page]([Pages](<Pages.md>)), you'll directly receive the exported file instead of a zipped file.
-    - ### [March 24th, 2021](<March 24th, 2021.md>)
-        - [New Features](<New Features.md>)
-            - New Help Graph!
-        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
-            - Added warning banner to experimental graphs
+                    - [Kifah Meeran](<Kifah Meeran.md>) and [Bardia Pourvakil](<Bardia Pourvakil.md>)
+        - ### [April 6th, 2021](<April 6th, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                1. **Kanbans are now directly editable**
+                    - Navigate around with key commands (cmd-<arrow> on Mac)
+                    - Relocate cards with key commands (cmd-shift-<arrow> on Mac)
+                    - Reorder with drag n' drop
+                    - Drag and drop blocks in and out of the kanban with more precise location control
+                    - Edit cards in the kanban
+                    - Enter adds a card below and focuses it
+                    - Click in a column to add a card
+                    - **[Brought to you by](<Brought to you by.md>):**
+                        - [Adam Sherwood](<Adam Sherwood.md>) and [Joshua Brown](<Joshua Brown.md>)
+            - [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Minor performance improvements
+        - ### [April 5th, 2021](<April 5th, 2021.md>)
+            - [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Fixed a memory leak and improved performance
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>) and [Filipe Silva](<Filipe Silva.md>)
+        - ### [April 2nd, 2021](<April 2nd, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - Added shortcut hint in context menu for copying [Block References](<Block References.md>)
+                - Made it clearer that deleting a graph doesn't immediately allow using its name again
+                    - {{[table](<table.md>)}}
+                        - **[Before](<Before.md>):**
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5j3PFaZ5Xz.png?alt=media&token=6d36fc43-b6bc-434d-98fa-22250b6416c9)
+                        - **[After](<After.md>):**
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkDgsAI3wOK.png?alt=media&token=07e6f288-00dd-4a03-ac21-1d10ea038f3d)
+            - [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Update Changelog link in `Check for Updates` toast
+        - ### [March 30th, 2021](<March 30th, 2021.md>)
+            - [New Features](<New Features.md>) 🚀
+                1. You can now export the block you're zoomed into instead of the whole page
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                1. Block embeds are now resolved to text in [Markdown](<Markdown.md>) exports
+                2. Added an icon to easily access the right sidebar
+                    - The shorcuts icon has been turned into an option inside the ... dropdown menu
+                3. Added better visual feedback for adding/removing shortcuts
+            - [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Strikethrough and redo shortcuts on Windows have been reverted to Win+Y and Ctrl+Y respectively following reports that users couldn't redo more than once.
+        - ### [March 28th, 2021](<March 28th, 2021.md>)
+            - [New Features](<New Features.md>)
+                - You can now export in [Flattened Markdown](<Flattened Markdown.md>), which removes all indentation and block formatting
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+                1. [Block Embed](<Block Embed.md>)s will remember whether you closed or opened them between page reloads
+                2. When editing a page title, any preceding/trailing whitespaces will be automatically removed
+                3. When exporting a single [page]([Pages](<Pages.md>)), you'll directly receive the exported file instead of a zipped file.
+        - ### [March 24th, 2021](<March 24th, 2021.md>)
+            - [New Features](<New Features.md>)
+                - New Help Graph!
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+                - Added warning banner to experimental graphs
 
 # Backlinks
 ## [FAQ](<FAQ.md>)
