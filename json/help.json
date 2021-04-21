@@ -17975,6 +17975,340 @@
         "uid": "AAUU1wq9v"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "Dz5EfmkDa"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618871702058,
+                "edit-time": 1619046072108,
+                "string": "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers . While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.",
+                "uid": "FYEaECD1h"
+              }
+            ],
+            "create-time": 1618863572911,
+            "edit-time": 1619046120026,
+            "heading": 3,
+            "string": "**How secure are my uploaded files?**",
+            "uid": "OAnx61OUO"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618925130828,
+                "edit-time": 1619046072108,
+                "string": "Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you set up daily automatic backups.",
+                "uid": "CrrOo2ZSL"
+              }
+            ],
+            "create-time": 1618863629362,
+            "edit-time": 1619046121408,
+            "heading": 3,
+            "string": "**Where are local graphs stored?**",
+            "uid": "3fmrz3XwY"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618925176715,
+                "edit-time": 1619046072108,
+                "string": "Right now, the only way to store data is in your browser's local storage. We will soon be offering a local file storage solution where you can have your Roam data stored inside your computer's file system.",
+                "uid": "nucXllds_"
+              }
+            ],
+            "create-time": 1618863592794,
+            "edit-time": 1619046122249,
+            "heading": 3,
+            "string": "**Can I store my data on my computer?**",
+            "uid": "uQiZFXafz"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618925221506,
+                "edit-time": 1619046072108,
+                "string": "Whenever you create a hosted graph, by default, only you can access your data. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). No one on the Roam team can access your data without your written permission.",
+                "uid": "83R-ojxu5"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618930222037,
+                "edit-time": 1619046072108,
+                "string": "Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing the behaviour and only the user who made the local graph will have access to it.",
+                "uid": "bLfPDV0Z_"
+              }
+            ],
+            "create-time": 1618863640766,
+            "edit-time": 1619046122999,
+            "heading": 3,
+            "string": "**Who can access my data?**",
+            "uid": "Wk4tKpTb2"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618925315374,
+                "edit-time": 1619046072108,
+                "string": "No, unless you want them to. If you set your graph to publicly readable or editable, then your entire graph will be able to be seen or edited by anyone, respectively. If you share a page with someone else, because of the current architecture of the app, when someone with the link to the page opens it, it loads the entire graph's data into the browser and if a hacker were to gain access to that link, they could, hypothetically, access the rest of your graph data. However, a regular user would not be able to access the rest of the contents of your graph through the UI, they would just have access to the single page you shared.",
+                "uid": "6kdtfcB3g"
+              }
+            ],
+            "create-time": 1618863600351,
+            "edit-time": 1619046123877,
+            "heading": 3,
+            "string": "**Can anyone access my pages / graphs?**",
+            "uid": "H_LzRycRv"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618926107622,
+                "edit-time": 1619046072108,
+                "string": "No, local graphs are just always private and cannot be shared. Hosted graphs are private by default but can be shared publicly if you so desired.",
+                "uid": "4Y0-FBR8J"
+              }
+            ],
+            "create-time": 1618863622614,
+            "edit-time": 1619046124685,
+            "heading": 3,
+            "string": "**If local graphs are private, does that mean hosted graphs are public?**",
+            "uid": "0l1b-EFMI"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618926129715,
+                "edit-time": 1619046072108,
+                "string": "All your notes are private by default. They can only be shared if you have a hosted graph which you share with other users explicitly from the Settings panel.",
+                "uid": "o4iTE1c8a"
+              }
+            ],
+            "create-time": 1618863661654,
+            "edit-time": 1619046125478,
+            "heading": 3,
+            "string": "**Are my notes private?**",
+            "uid": "1uWeZjdZi"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618926137220,
+                "edit-time": 1619046072108,
+                "string": "Local graphs are not ever stored anywhere except your computer, but they are not encrypted so whether they are secure __enough__ depends on your corporate IT policy.",
+                "uid": "fXTS7wqyd"
+              }
+            ],
+            "create-time": 1618863670125,
+            "edit-time": 1619046126286,
+            "heading": 3,
+            "string": "**Are local graphs secure enough for corporate IT policies?**",
+            "uid": "SV9LWfsYu"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618926208659,
+                "edit-time": 1619046072108,
+                "string": "Hosted graph data is stored in Google Firebase and inherits their security and local graph data is as secure as your computer is. The data is encrypted at rest inside Google's servers.",
+                "uid": "QiXESZxmd"
+              }
+            ],
+            "create-time": 1618863676836,
+            "edit-time": 1619046127057,
+            "heading": 3,
+            "string": "**Is my data secure?**",
+            "uid": "f2iH0KVdx"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618926314481,
+                "edit-time": 1619046072108,
+                "string": "We do not offer end-to-end encryption currently but it is something we are considering.",
+                "uid": "4PKZfQJCa"
+              }
+            ],
+            "create-time": 1618863683732,
+            "edit-time": 1619046127845,
+            "heading": 3,
+            "string": "**Do you offer end-to-end encryption?**",
+            "uid": "G1ufg45ZQ"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1618926330656,
+                "edit-time": 1619046072108,
+                "string": "We do not offer 2-factor authentication currently but it is something we are considering.",
+                "uid": "wzLEn-ywQ"
+              }
+            ],
+            "create-time": 1618863696442,
+            "edit-time": 1619046128713,
+            "heading": 3,
+            "string": "**Do you offer 2-factor authentication?**",
+            "uid": "DPoDNOg9_"
+          }
+        ],
+        "create-time": 1619046041587,
+        "edit-time": 1619046107657,
+        "heading": 1,
+        "refs": [
+          {
+            "uid": "Dz5EfmkDa"
+          }
+        ],
+        "string": "[Security]([[Security]])",
+        "uid": "dCU8DZ4hj"
+      },
+      {
         ":create/user": {
           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         },
@@ -67125,5 +67459,17 @@
     "edit-time": 1618955535711,
     "title": "April 21st, 2021",
     "uid": "04-21-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1619046047883,
+    "edit-time": 1619046047884,
+    "title": "Security",
+    "uid": "Dz5EfmkDa"
   }
 ]

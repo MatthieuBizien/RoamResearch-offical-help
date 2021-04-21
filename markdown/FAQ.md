@@ -277,6 +277,30 @@
     - ### **Is anyone doing multiplayer at the moment?**
         - Check out [[Notable Graphs]] for public graphs by our community
         - Check out [[Roam Book Club]] for our own experiment with multiplayer
+- # [Security]([[Security]])
+    - ### **How secure are my uploaded files?**
+        - When you upload an image, audio, or PDF file, it is stored on Google Firebase servers . While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.
+    - ### **Where are local graphs stored?**
+        - Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you set up daily automatic backups.
+    - ### **Can I store my data on my computer?**
+        - Right now, the only way to store data is in your browser's local storage. We will soon be offering a local file storage solution where you can have your Roam data stored inside your computer's file system.
+    - ### **Who can access my data?**
+        - Whenever you create a hosted graph, by default, only you can access your data. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). No one on the Roam team can access your data without your written permission.
+        - Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing the behaviour and only the user who made the local graph will have access to it.
+    - ### **Can anyone access my pages / graphs?**
+        - No, unless you want them to. If you set your graph to publicly readable or editable, then your entire graph will be able to be seen or edited by anyone, respectively. If you share a page with someone else, because of the current architecture of the app, when someone with the link to the page opens it, it loads the entire graph's data into the browser and if a hacker were to gain access to that link, they could, hypothetically, access the rest of your graph data. However, a regular user would not be able to access the rest of the contents of your graph through the UI, they would just have access to the single page you shared.
+    - ### **If local graphs are private, does that mean hosted graphs are public?**
+        - No, local graphs are just always private and cannot be shared. Hosted graphs are private by default but can be shared publicly if you so desired.
+    - ### **Are my notes private?**
+        - All your notes are private by default. They can only be shared if you have a hosted graph which you share with other users explicitly from the Settings panel.
+    - ### **Are local graphs secure enough for corporate IT policies?**
+        - Local graphs are not ever stored anywhere except your computer, but they are not encrypted so whether they are secure __enough__ depends on your corporate IT policy.
+    - ### **Is my data secure?**
+        - Hosted graph data is stored in Google Firebase and inherits their security and local graph data is as secure as your computer is. The data is encrypted at rest inside Google's servers.
+    - ### **Do you offer end-to-end encryption?**
+        - We do not offer end-to-end encryption currently but it is something we are considering.
+    - ### **Do you offer 2-factor authentication?**
+        - We do not offer 2-factor authentication currently but it is something we are considering.
 - # Other
     - ### **Where do I learn more about Roam and engage with the** [[Community]]**?**
         - Feel free to browse around [[Features]], [[Workflows]] 
