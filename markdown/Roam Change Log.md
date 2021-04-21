@@ -2,61 +2,61 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
-        - ### [[April 21st, 2021]]
-            - [[Quality of Life Improvements]] ✨
+        - [[April 21st, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
                 - Added buttons for undo, redo, square+round brackets to the mobile menu bar!
                     - Brought to you by:: [[Kifah Meeran]] [[Joshua Brown]]
-            - [[Bug Fixes]] 🛠 
+            - ### [[Bug Fixes]] 🛠 
                 - Cursor will be placed correctly when adding TODO via the mobile menu bar
                     - Brought to you by::[[Kifah Meeran]]
                 - Multibar lines will no longer show over the mobile menu bar
                     - Brought to you by::[[Kifah Meeran]]
-        - ### [[April 20th, 2021]]
-            - [[Bug Fixes]] 🛠 
+        - [[April 20th, 2021]]
+            - ### [[Bug Fixes]] 🛠 
                 - Fixed Graph Settings not opening and removed sharing tab for [[Local Graph]]
                     - Brought to you by:: [[Bardia Pourvakil]]
-        - ### [[April 18th, 2021]]
-            - [[Quality of Life Improvements]] ✨
+        - [[April 18th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
                 - Improved dropdown menu 
                     - Brought to you by:: [[Kifah Meeran]] [[Bardia Pourvakil]]
                 - Moved Sharing settings into its own tab
                     - Brought to you by:: [[Kifah Meeran]] [[Bardia Pourvakil]]
-            - [[Bug Fixes]] 🛠 
-                - Redo now will work more than once
+            - ### [[Bug Fixes]] 🛠 
+                - Redo will now work more than once
                     - Brought to you by:: [[Joshua Brown]]
-        - ### [[April 16th, 2021]]
-            - [[New Features]] 🚀 
+        - [[April 16th, 2021]]
+            - ### [[New Features]] 🚀 
                 - Custom shortcuts! You can find them in `Settings > Hotkeys`
                     - Brought to you by:: [[Wilker Lucio]] [[Joshua Brown]]
-            - [[Quality of Life Improvements]] ✨
+            - ### [[Quality of Life Improvements]] ✨
                 - You can now hide code blocks in search results. To toggle, go to `Settings > User Settings`.
                     - Brought to you by:: [[Bardia Pourvakil]]
                 - User Settings and Graph Settings have been unified into the new Settings modal.
                     - Brought to you by:: [[Bardia Pourvakil]]
-            - [[Bug Fixes]] 🛠 
+            - ### [[Bug Fixes]] 🛠 
                 - Empty `<a>` (link) tags in pasted content will no longer be rendered.
                     - Brought to you by:: [[Adam Sherwood]]
-        - ### [[April 15th, 2021]]
-            - [[New Features]] 🚀
+        - [[April 15th, 2021]]
+            - ### [[New Features]] 🚀
                 - Unlimited [local graphs]([[Local Graph]]) are now available for all Roam subscribers!
                     - Brought to you by:: [[Bardia Pourvakil]] [[Conor White-Sullivan]]
-        - ### [[April 14th, 2021]]
-            - [[Quality of Life Improvements]] ✨
+        - [[April 14th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
                 - Hitting tab while writing a page reference will autocomplete the first option
                     - Brought to you by:: [[Kifah Meeran]]
-            - [[Bug Fixes]] 🛠
+            - ### [[Bug Fixes]] 🛠
                 - Fixed an embed styling issue
                     - Brought to you by:: [[Bardia Pourvakil]]
-        - ### [[April 12th, 2021]]
-            - [[Quality of Life Improvements]] ✨
+        - [[April 12th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
                 - Added [[Elixir]] as a code block option
                     - Brought to you by:: [[Stian Håklev]]
-        - ### [[April 9th, 2021]]
-            - [[Quality of Life Improvements]]
+        - [[April 9th, 2021]]
+            - ### [[Quality of Life Improvements]]
                 - Page width is now persisted
                     - Brought to you by:: [[Filipe Silva]]
-        - ### [[April 7th, 2021]]
-            - [[Quality of Life Improvements]] ✨
+        - [[April 7th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
                 - Improved mobile menu bar and replaced Drawing helper button with [[TODO]] button
                     - {{[[kanban]]}}
                         - Before::
@@ -115,8 +115,8 @@
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)
                 - Brought to you by::
                     - [[Kifah Meeran]] and [[Bardia Pourvakil]]
-        - ### [[April 6th, 2021]]
-            - [[Quality of Life Improvements]] ✨
+        - [[April 6th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
                 1. **Kanbans are now directly editable**
                     - Navigate around with key commands (cmd-<arrow> on Mac)
                     - Relocate cards with key commands (cmd-shift-<arrow> on Mac)
@@ -127,14 +127,14 @@
                     - Click in a column to add a card
                     - Brought to you by::
                         - [[Adam Sherwood]] and [[Joshua Brown]]
-            - [[Bug Fixes]] 🛠
+            - ### [[Bug Fixes]] 🛠
                 - Minor performance improvements
-        - ### [[April 5th, 2021]]
-            - [[Bug Fixes]] 🛠
+        - [[April 5th, 2021]]
+            - ### [[Bug Fixes]] 🛠
                 - Fixed a memory leak and improved performance
                     - Brought to you by:: [[Joshua Brown]] and [[Filipe Silva]]
-        - ### [[April 2nd, 2021]]
-            - [[Quality of Life Improvements]] ✨
+        - [[April 2nd, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
                 - Added shortcut hint in context menu for copying [[Block References]]
                 - Made it clearer that deleting a graph doesn't immediately allow using its name again
                     - {{[[table]]}}
@@ -142,27 +142,27 @@
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5j3PFaZ5Xz.png?alt=media&token=6d36fc43-b6bc-434d-98fa-22250b6416c9)
                         - After::
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkDgsAI3wOK.png?alt=media&token=07e6f288-00dd-4a03-ac21-1d10ea038f3d)
-            - [[Bug Fixes]] 🛠
+            - ### [[Bug Fixes]] 🛠
                 - Update Changelog link in `Check for Updates` toast
-        - ### [[March 30th, 2021]]
-            - [[New Features]] 🚀
+        - [[March 30th, 2021]]
+            - ### [[New Features]] 🚀
                 1. You can now export the block you're zoomed into instead of the whole page
-            - [[Quality of Life Improvements]] ✨
+            - ### [[Quality of Life Improvements]] ✨
                 1. Block embeds are now resolved to text in [[Markdown]] exports
                 2. Added an icon to easily access the right sidebar
                     - The shorcuts icon has been turned into an option inside the ... dropdown menu
                 3. Added better visual feedback for adding/removing shortcuts
-            - [[Bug Fixes]] 🛠
+            - ### [[Bug Fixes]] 🛠
                 - Strikethrough and redo shortcuts on Windows have been reverted to Win+Y and Ctrl+Y respectively following reports that users couldn't redo more than once.
-        - ### [[March 28th, 2021]]
-            - [[New Features]]
+        - [[March 28th, 2021]]
+            - ### [[New Features]] 🚀
                 - You can now export in [[Flattened Markdown]], which removes all indentation and block formatting
-            - [[Quality of Life Improvements]]
+            - ### [[Quality of Life Improvements]] ✨
                 1. [[Block Embed]]s will remember whether you closed or opened them between page reloads
                 2. When editing a page title, any preceding/trailing whitespaces will be automatically removed
                 3. When exporting a single [page]([[Pages]]), you'll directly receive the exported file instead of a zipped file.
-        - ### [[March 24th, 2021]]
-            - [[New Features]]
+        - [[March 24th, 2021]]
+            - ### [[New Features]] 🚀
                 - New Help Graph!
-            - [[Quality of Life Improvements]]
+            - ### [[Quality of Life Improvements]] ✨
                 - Added warning banner to experimental graphs

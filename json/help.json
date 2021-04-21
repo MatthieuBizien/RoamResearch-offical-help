@@ -42190,6 +42190,7 @@
                     ],
                     "create-time": 1618980801167,
                     "edit-time": 1618980820390,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -42292,6 +42293,7 @@
                     ],
                     "create-time": 1618980996327,
                     "edit-time": 1618980997706,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -42303,7 +42305,6 @@
                 ],
                 "create-time": 1618980794223,
                 "edit-time": 1618980799916,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-21-2021"
@@ -42393,6 +42394,7 @@
                     ],
                     "create-time": 1618931281596,
                     "edit-time": 1618931290673,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -42404,7 +42406,6 @@
                 ],
                 "create-time": 1618931259586,
                 "edit-time": 1618931276249,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-20-2021"
@@ -42526,6 +42527,7 @@
                     ],
                     "create-time": 1618724642634,
                     "edit-time": 1618724653494,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -42585,13 +42587,14 @@
                           }
                         ],
                         "create-time": 1618724850081,
-                        "edit-time": 1618724864506,
-                        "string": "Redo now will work more than once",
+                        "edit-time": 1618989222069,
+                        "string": "Redo will now work more than once",
                         "uid": "cw3dosu8-"
                       }
                     ],
                     "create-time": 1618724653968,
                     "edit-time": 1618724658651,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -42603,7 +42606,6 @@
                 ],
                 "create-time": 1618724636701,
                 "edit-time": 1618724642653,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-18-2021"
@@ -42689,6 +42691,7 @@
                     ],
                     "create-time": 1618559307294,
                     "edit-time": 1618559400837,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "h_pvMVa7e"
@@ -42791,6 +42794,7 @@
                     ],
                     "create-time": 1618559400823,
                     "edit-time": 1618559402061,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -42857,6 +42861,7 @@
                     ],
                     "create-time": 1618559402052,
                     "edit-time": 1618559785282,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -42868,7 +42873,6 @@
                 ],
                 "create-time": 1618559299336,
                 "edit-time": 1618559307307,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-16-2021"
@@ -42964,6 +42968,7 @@
                     ],
                     "create-time": 1618469212473,
                     "edit-time": 1618469236738,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "h_pvMVa7e"
@@ -42975,7 +42980,6 @@
                 ],
                 "create-time": 1618469208473,
                 "edit-time": 1618469212484,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-15-2021"
@@ -43055,6 +43059,7 @@
                     ],
                     "create-time": 1618382103980,
                     "edit-time": 1618382110422,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -43121,6 +43126,7 @@
                     ],
                     "create-time": 1618382136951,
                     "edit-time": 1618384112438,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -43132,7 +43138,6 @@
                 ],
                 "create-time": 1618382093863,
                 "edit-time": 1618382103990,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-14-2021"
@@ -43222,6 +43227,7 @@
                     ],
                     "create-time": 1618251848136,
                     "edit-time": 1618251924878,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -43233,7 +43239,6 @@
                 ],
                 "create-time": 1618251842633,
                 "edit-time": 1618251847930,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-12-2021"
@@ -43313,6 +43318,7 @@
                     ],
                     "create-time": 1617988416701,
                     "edit-time": 1618251923933,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -43324,7 +43330,6 @@
                 ],
                 "create-time": 1617988335412,
                 "edit-time": 1617988408689,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-09-2021"
@@ -44498,6 +44503,7 @@
                     ],
                     "create-time": 1617802477034,
                     "edit-time": 1617802482101,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -44509,7 +44515,6 @@
                 ],
                 "create-time": 1617801326683,
                 "edit-time": 1617801330162,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-07-2021"
@@ -44669,6 +44674,7 @@
                     ],
                     "create-time": 1617775021342,
                     "edit-time": 1617775097624,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -44705,6 +44711,7 @@
                     ],
                     "create-time": 1617782234793,
                     "edit-time": 1617782236457,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -44716,7 +44723,6 @@
                 ],
                 "create-time": 1617775014031,
                 "edit-time": 1617775021357,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-06-2021"
@@ -44802,6 +44808,7 @@
                     ],
                     "create-time": 1617566922118,
                     "edit-time": 1617566931901,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -44813,7 +44820,6 @@
                 ],
                 "create-time": 1617566911165,
                 "edit-time": 1617566918981,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-05-2021"
@@ -44983,6 +44989,7 @@
                     ],
                     "create-time": 1617366342751,
                     "edit-time": 1617366649769,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -45019,6 +45026,7 @@
                     ],
                     "create-time": 1617366374826,
                     "edit-time": 1617380168176,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -45030,7 +45038,6 @@
                 ],
                 "create-time": 1617366291409,
                 "edit-time": 1617366297965,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "04-02-2021"
@@ -45080,6 +45087,7 @@
                     ],
                     "create-time": 1617174738503,
                     "edit-time": 1617179816235,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "h_pvMVa7e"
@@ -45164,6 +45172,7 @@
                     ],
                     "create-time": 1617174919165,
                     "edit-time": 1617179820221,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -45200,6 +45209,7 @@
                     ],
                     "create-time": 1617174779865,
                     "edit-time": 1617179826238,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -45211,7 +45221,6 @@
                 ],
                 "create-time": 1617174692613,
                 "edit-time": 1617174738516,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "03-30-2021"
@@ -45270,13 +45279,14 @@
                       }
                     ],
                     "create-time": 1616915878879,
-                    "edit-time": 1616915884094,
+                    "edit-time": 1618989077843,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "h_pvMVa7e"
                       }
                     ],
-                    "string": "[[New Features]]",
+                    "string": "[[New Features]] \ud83d\ude80",
                     "uid": "mIMvDxQwF"
                   },
                   {
@@ -45350,19 +45360,19 @@
                       }
                     ],
                     "create-time": 1616915808660,
-                    "edit-time": 1616915835547,
+                    "edit-time": 1618989073544,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
                       }
                     ],
-                    "string": "[[Quality of Life Improvements]]",
+                    "string": "[[Quality of Life Improvements]] \u2728",
                     "uid": "_uXjm90wV"
                   }
                 ],
                 "create-time": 1616915842044,
                 "edit-time": 1616915847783,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "03-28-2021"
@@ -45394,7 +45404,7 @@
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     },
                     ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "children": [
                       {
@@ -45411,13 +45421,14 @@
                       }
                     ],
                     "create-time": 1616751340220,
-                    "edit-time": 1616751343040,
+                    "edit-time": 1618989091087,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "h_pvMVa7e"
                       }
                     ],
-                    "string": "[[New Features]]",
+                    "string": "[[New Features]] \ud83d\ude80",
                     "uid": "df7J7Ta5i"
                   },
                   {
@@ -45430,7 +45441,7 @@
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     },
                     ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "children": [
                       {
@@ -45447,19 +45458,19 @@
                       }
                     ],
                     "create-time": 1616649122903,
-                    "edit-time": 1616649157867,
+                    "edit-time": 1618989097354,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
                       }
                     ],
-                    "string": "[[Quality of Life Improvements]]",
+                    "string": "[[Quality of Life Improvements]] \u2728",
                     "uid": "jGEM3qIny"
                   }
                 ],
                 "create-time": 1616649091765,
                 "edit-time": 1616649100657,
-                "heading": 3,
                 "refs": [
                   {
                     "uid": "03-24-2021"

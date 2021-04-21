@@ -19,7 +19,7 @@
 - Moved Sharing settings into its own tab
                     - **[Brought to you by](<Brought to you by.md>):**
 
-- Redo now will work more than once
+- Redo will now work more than once
                     - **[Brought to you by](<Brought to you by.md>):**
 
 - Custom shortcuts! You can find them in `Settings > Hotkeys`
