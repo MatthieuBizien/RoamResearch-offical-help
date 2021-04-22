@@ -17984,7 +17984,7 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
         },
         "children": [
           {
@@ -18000,11 +18000,11 @@
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "create-time": 1618871702058,
-                "edit-time": 1619046072108,
-                "string": "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers . While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.",
+                "edit-time": 1619109602343,
+                "string": "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers. While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.",
                 "uid": "FYEaECD1h"
               }
             ],
@@ -18441,14 +18441,14 @@
           }
         ],
         "create-time": 1619046041587,
-        "edit-time": 1619046107657,
+        "edit-time": 1619109695724,
         "heading": 1,
         "refs": [
           {
             "uid": "Dz5EfmkDa"
           }
         ],
-        "string": "[Security]([[Security]])",
+        "string": "[Security]([[Security]]) ",
         "uid": "dCU8DZ4hj"
       },
       {
@@ -42616,6 +42616,48 @@
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IFYmBp-zm"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619108699767,
+                            "edit-time": 1619108707459,
+                            "refs": [
+                              {
+                                "uid": "IFYmBp-zm"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Filipe Silva]]",
+                            "uid": "oyd8LuXo0"
+                          }
+                        ],
+                        "create-time": 1619108693525,
+                        "edit-time": 1619108699619,
+                        "string": "Fixed performance regression",
+                        "uid": "LMQLCINZB"
+                      },
                       {
                         ":create/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"

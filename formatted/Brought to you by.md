@@ -1,6 +1,9 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- Fixed performance regression
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Made settings modal mobile-friendly.
                     - **[Brought to you by](<Brought to you by.md>):**
 

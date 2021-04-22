@@ -4,6 +4,8 @@
     - ## **New Changes**
         - [April 22nd, 2021](<April 22nd, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Fixed performance regression
+                    - **[Brought to you by](<Brought to you by.md>):** [Filipe Silva](<Filipe Silva.md>)
                 - Made settings modal mobile-friendly.
                     - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
         - [April 21st, 2021](<April 21st, 2021.md>)

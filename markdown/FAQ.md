@@ -277,9 +277,9 @@
     - ### **Is anyone doing multiplayer at the moment?**
         - Check out [[Notable Graphs]] for public graphs by our community
         - Check out [[Roam Book Club]] for our own experiment with multiplayer
-- # [Security]([[Security]])
+- # [Security]([[Security]]) 
     - ### **How secure are my uploaded files?**
-        - When you upload an image, audio, or PDF file, it is stored on Google Firebase servers . While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.
+        - When you upload an image, audio, or PDF file, it is stored on Google Firebase servers. While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.
     - ### **Are my uploaded files/images automatically indexed by Google?**
         - Absolutely not!
     - ### **Where are local graphs stored?**

@@ -4,6 +4,8 @@
     - ## **New Changes**
         - [[April 22nd, 2021]]
             - ### [[Bug Fixes]] 🛠
+                - Fixed performance regression
+                    - Brought to you by:: [[Filipe Silva]]
                 - Made settings modal mobile-friendly.
                     - Brought to you by:: [[Adam Sherwood]]
         - [[April 21st, 2021]]
