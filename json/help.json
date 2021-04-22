@@ -18050,15 +18050,25 @@
             },
             "children": [
               {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xUCBFCJ02"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "create-time": 1618925130828,
-                "edit-time": 1619046072108,
-                "string": "Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you set up daily automatic backups.",
+                "edit-time": 1619091010656,
+                "refs": [
+                  {
+                    "uid": "xUCBFCJ02"
+                  }
+                ],
+                "string": "Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you [set up daily automatic backups](((xUCBFCJ02))).",
                 "uid": "CrrOo2ZSL"
               }
             ],

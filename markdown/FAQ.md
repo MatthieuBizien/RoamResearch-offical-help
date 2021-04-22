@@ -283,7 +283,7 @@
     - ### **Are my uploaded files/images automatically indexed by Google?**
         - Absolutely not!
     - ### **Where are local graphs stored?**
-        - Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you set up daily automatic backups.
+        - Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you [set up daily automatic backups](((xUCBFCJ02))).
     - ### **Can I store my data on my computer?**
         - Right now, the only way to store data is in your browser's local storage. We will soon be offering a local file storage solution where you can have your Roam data stored inside your computer's file system.
     - ### **Who can access my data?**
