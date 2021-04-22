@@ -2,6 +2,10 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [April 22nd, 2021](<April 22nd, 2021.md>)
+            - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Made settings modal mobile-friendly.
+                    - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
         - [April 21st, 2021](<April 21st, 2021.md>)
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - Added buttons for undo, redo, square+round brackets to the mobile menu bar!

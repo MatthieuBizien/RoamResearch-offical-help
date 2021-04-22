@@ -1,6 +1,9 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- Made settings modal mobile-friendly.
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Added buttons for undo, redo, square+round brackets to the mobile menu bar!
                     - **[Brought to you by](<Brought to you by.md>):**
 
