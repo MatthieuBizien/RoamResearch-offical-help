@@ -18016,6 +18016,33 @@
           },
           {
             ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1619089941485,
+                "edit-time": 1619089964000,
+                "string": "Absolutely not!",
+                "uid": "Qep3Bgjzz"
+              }
+            ],
+            "create-time": 1619089939770,
+            "edit-time": 1619089957074,
+            "heading": 3,
+            "string": "**Are my uploaded files/images automatically indexed by Google?**",
+            "uid": "w3HDiuPE2"
+          },
+          {
+            ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             ":edit/user": {
@@ -18078,26 +18105,40 @@
             "children": [
               {
                 ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
-                "create-time": 1618925221506,
-                "edit-time": 1619046072108,
-                "string": "Whenever you create a hosted graph, by default, only you can access your data. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). No one on the Roam team can access your data without your written permission.",
-                "uid": "83R-ojxu5"
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1618925221506,
+                    "edit-time": 1619090290688,
+                    "string": "No one on the Roam team can access your data without your written permission.",
+                    "uid": "83R-ojxu5"
+                  }
+                ],
+                "create-time": 1619090290675,
+                "edit-time": 1619090290675,
+                "string": "By default, hosted graphs you create are accessible only to you. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). ",
+                "uid": "FnDy-wjs2"
               },
               {
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "create-time": 1618930222037,
-                "edit-time": 1619046072108,
-                "string": "Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing the behaviour and only the user who made the local graph will have access to it.",
+                "edit-time": 1619090314514,
+                "string": "Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing this behaviour and only the user who made the local graph will have access to it.",
                 "uid": "bLfPDV0Z_"
               }
             ],
@@ -18117,15 +18158,83 @@
             "children": [
               {
                 ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
-                "create-time": 1618925315374,
-                "edit-time": 1619046072108,
-                "string": "No, unless you want them to. If you set your graph to publicly readable or editable, then your entire graph will be able to be seen or edited by anyone, respectively. If you share a page with someone else, because of the current architecture of the app, when someone with the link to the page opens it, it loads the entire graph's data into the browser and if a hacker were to gain access to that link, they could, hypothetically, access the rest of your graph data. However, a regular user would not be able to access the rest of the contents of your graph through the UI, they would just have access to the single page you shared.",
-                "uid": "6kdtfcB3g"
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619090171022,
+                        "edit-time": 1619090173475,
+                        "string": "then your entire graph will be able to be seen or edited by anyone, respectively. ",
+                        "uid": "XdYODJVKz"
+                      }
+                    ],
+                    "create-time": 1619090173462,
+                    "edit-time": 1619090173462,
+                    "string": "If you set your graph to publicly readable or editable, ",
+                    "uid": "BV5LIvHXo"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1618925315374,
+                            "edit-time": 1619090183395,
+                            "string": "However, a regular user would not be able to access the rest of the contents of your graph through the UI, they would just have access to the single page you shared.",
+                            "uid": "6kdtfcB3g"
+                          }
+                        ],
+                        "create-time": 1619090183384,
+                        "edit-time": 1619090239819,
+                        "string": "because of the current architecture of the app, when someone with the link to the page opens it, it loads the entire graph's data into the browser and if a technically adept, motivated person could hypothetically, access the rest of your graph data, IF they had the link to your graph.",
+                        "uid": "6HwKiTmP0"
+                      }
+                    ],
+                    "create-time": 1619090176363,
+                    "edit-time": 1619090176363,
+                    "string": "If you share a page with someone else, ",
+                    "uid": "TfsQJQ7zx"
+                  }
+                ],
+                "create-time": 1619090167792,
+                "edit-time": 1619090167792,
+                "string": "No, unless you want them to. ",
+                "uid": "n8xqg1Qkp"
               }
             ],
             "create-time": 1618863600351,
@@ -18144,14 +18253,26 @@
             "children": [
               {
                 ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1619090118783,
+                "edit-time": 1619090118783,
+                "string": "No-- local graphs are always private and cannot be shared. ",
+                "uid": "gOTl-_pjW"
+              },
+              {
+                ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "create-time": 1618926107622,
-                "edit-time": 1619046072108,
-                "string": "No, local graphs are just always private and cannot be shared. Hosted graphs are private by default but can be shared publicly if you so desired.",
+                "edit-time": 1619090144633,
+                "string": "Hosted graphs are private by default, but you can choose to share them with others.",
                 "uid": "4Y0-FBR8J"
               }
             ],
@@ -18174,11 +18295,11 @@
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "create-time": 1618926129715,
-                "edit-time": 1619046072108,
-                "string": "All your notes are private by default. They can only be shared if you have a hosted graph which you share with other users explicitly from the Settings panel.",
+                "edit-time": 1619090085685,
+                "string": "All your notes are private by default. They will only be accessible by others if you have a hosted graph AND you have explicitly shared with other users explicitly from the Settings panel.",
                 "uid": "o4iTE1c8a"
               }
             ],
@@ -18228,12 +18349,24 @@
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "create-time": 1618926208659,
-                "edit-time": 1619046072108,
-                "string": "Hosted graph data is stored in Google Firebase and inherits their security and local graph data is as secure as your computer is. The data is encrypted at rest inside Google's servers.",
+                "edit-time": 1619090006385,
+                "string": "Hosted graph data is stored in Google Firebase and inherits their security, the data is encrypted at rest inside Google's servers.",
                 "uid": "QiXESZxmd"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1619090007465,
+                "edit-time": 1619090013776,
+                "string": "Local graph data is as secure as your computer is.",
+                "uid": "JJVjVHzeF"
               }
             ],
             "create-time": 1618863676836,
