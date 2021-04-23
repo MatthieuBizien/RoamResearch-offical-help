@@ -2,6 +2,18 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [April 23rd, 2021](<April 23rd, 2021.md>)
+            - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Contents of [Kanban](<Kanban.md>) will now load normally when its children are collapsed
+                    - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
+                - Pressing Enter will split the Kanban card instead of inserting an empty card
+                    - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
+                - Cards can be deleted or joined like in normal blocks
+                    - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
+                - Some components like images will no longer overflow the kanban
+                    - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
+                - Disabled vertical scrolling on the [Mobile Menu Bar](<Mobile Menu Bar.md>)
+                    - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
         - [April 22nd, 2021](<April 22nd, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠
                 - Fixed performance regression

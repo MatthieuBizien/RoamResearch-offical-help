@@ -42593,6 +42593,267 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "04-23-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "GROwBce2r"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RRz1CDLBy"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619165266745,
+                            "edit-time": 1619165268264,
+                            "refs": [
+                              {
+                                "uid": "RRz1CDLBy"
+                              }
+                            ],
+                            "string": "((RRz1CDLBy))",
+                            "uid": "NYAHfAlKJ"
+                          }
+                        ],
+                        "create-time": 1619165094891,
+                        "edit-time": 1619165143430,
+                        "refs": [
+                          {
+                            "uid": "GROwBce2r"
+                          }
+                        ],
+                        "string": "Contents of [[Kanban]] will now load normally when its children are collapsed",
+                        "uid": "AmV4mtZzm"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RRz1CDLBy"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619165263642,
+                            "edit-time": 1619165265183,
+                            "refs": [
+                              {
+                                "uid": "RRz1CDLBy"
+                              }
+                            ],
+                            "string": "((RRz1CDLBy))",
+                            "uid": "8JEOdrHYP"
+                          }
+                        ],
+                        "create-time": 1619165143414,
+                        "edit-time": 1619165179485,
+                        "string": "Pressing Enter will split the Kanban card instead of inserting an empty card",
+                        "uid": "B4STvvwBK"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RRz1CDLBy"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619165260714,
+                            "edit-time": 1619165262867,
+                            "refs": [
+                              {
+                                "uid": "RRz1CDLBy"
+                              }
+                            ],
+                            "string": "((RRz1CDLBy))",
+                            "uid": "krB-GOHTg"
+                          }
+                        ],
+                        "create-time": 1619165179472,
+                        "edit-time": 1619165201318,
+                        "string": "Cards can be deleted or joined like in normal blocks",
+                        "uid": "FYMIMwI2c"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "EJIFQrIL3"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619165249917,
+                            "edit-time": 1619165257056,
+                            "refs": [
+                              {
+                                "uid": "EJIFQrIL3"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Adam Sherwood]]",
+                            "uid": "RRz1CDLBy"
+                          }
+                        ],
+                        "create-time": 1619165201303,
+                        "edit-time": 1619165248596,
+                        "string": "Some components like images will no longer overflow the kanban",
+                        "uid": "ktFhSuOpy"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "oxkJJUv2z"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619165318856,
+                            "edit-time": 1619165325505,
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "uid": "UrBTpx3Hq"
+                          }
+                        ],
+                        "create-time": 1619165274241,
+                        "edit-time": 1619165314623,
+                        "refs": [
+                          {
+                            "uid": "oxkJJUv2z"
+                          }
+                        ],
+                        "string": "Disabled vertical scrolling on the [[Mobile Menu Bar]]",
+                        "uid": "IWTV644BO"
+                      }
+                    ],
+                    "create-time": 1619165090366,
+                    "edit-time": 1619165094901,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] \ud83d\udee0",
+                    "uid": "uK6pND05j"
+                  }
+                ],
+                "create-time": 1619165081426,
+                "edit-time": 1619165090386,
+                "refs": [
+                  {
+                    "uid": "04-23-2021"
+                  }
+                ],
+                "string": "[[April 23rd, 2021]]",
+                "uid": "EszchYrAX"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "04-22-2021"
                   }
                 ],
@@ -67785,5 +68046,17 @@
     "edit-time": 1619138380140,
     "title": "April 23rd, 2021",
     "uid": "04-23-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1619165314625,
+    "edit-time": 1619165314626,
+    "title": "Mobile Menu Bar",
+    "uid": "oxkJJUv2z"
   }
 ]

@@ -1,6 +1,21 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- Contents of [Kanban](<Kanban.md>) will now load normally when its children are collapsed
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Pressing Enter will split the Kanban card instead of inserting an empty card
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Cards can be deleted or joined like in normal blocks
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Some components like images will no longer overflow the kanban
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Disabled vertical scrolling on the [Mobile Menu Bar](<Mobile Menu Bar.md>)
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Fixed performance regression
                     - **[Brought to you by](<Brought to you by.md>):**
 
