@@ -68070,5 +68070,31 @@
     "edit-time": 1619165314626,
     "title": "Mobile Menu Bar",
     "uid": "oxkJJUv2z"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1619170864502,
+        "edit-time": 1619170883473,
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FOJFPJqjqmA.gif?alt=media&token=647cbbae-59d5-4a41-811f-f3f8a275068d)",
+        "uid": "3HccsaMof"
+      }
+    ],
+    "create-time": 1619170748327,
+    "edit-time": 1619170748327,
+    "title": "Customizable Hotkeys",
+    "uid": "ZQ8sXpP49"
   }
 ]
