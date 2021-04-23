@@ -11313,6 +11313,18 @@
                 },
                 "children": [
                   {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1619167429569,
+                    "edit-time": 1619167429569,
+                    "string": "Finds all blocks on daily pages and blocks mentioning a date between two days. ^^**This only works on Daily Notes page**^^.",
+                    "uid": "kZCwOh0Z4"
+                  },
+                  {
                     ":block/refs": [
                       {
                         ":block/uid": "V2Anu0om_"
@@ -11340,10 +11352,10 @@
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "create-time": 1614855088197,
-                    "edit-time": 1616495802692,
+                    "edit-time": 1619167429589,
                     "refs": [
                       {
                         "uid": "V2Anu0om_"
@@ -11367,7 +11379,7 @@
                         "uid": "zdWP7Ixgg"
                       }
                     ],
-                    "string": "Finds all blocks on daily pages and blocks mentioning a date between two days. You can use the following as a shorthand: [[today]], [[tomorrow]], [[yesterday]], [[last week]], [[next week]], [[last month]], and [[next month]]. ^^Only works on Daily Notes page^^.",
+                    "string": "You can use the following as a shorthand: [[today]], [[tomorrow]], [[yesterday]], [[last week]], [[next week]], [[last month]], and [[next month]]. ",
                     "uid": "E9gkHEO8V"
                   },
                   {

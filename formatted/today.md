@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Query](<Query.md>)
-- Finds all blocks on daily pages and blocks mentioning a date between two days. You can use the following as a shorthand: [today](<today.md>),
+- You can use the following as a shorthand: [today](<today.md>),
 
 - `{{query: {between: [January 1st, 2021](<January 1st, 2021.md>) [today](<today.md>)
 

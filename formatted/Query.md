@@ -18,7 +18,8 @@
             - `{{query: {and: [page A](<page A.md>) {not: [page B](<page B.md>) }}}}
 {{query: {and: [Slate Star Codex](<Slate Star Codex.md>) {not: [psychiatry](<psychiatry.md>) }}}}`
         - ### **between**
-            - Finds all blocks on daily pages and blocks mentioning a date between two days. You can use the following as a shorthand: [today](<today.md>), [tomorrow](<tomorrow.md>), [yesterday](<yesterday.md>), [last week](<last week.md>), [next week](<next week.md>), [last month](<last month.md>), and [next month](<next month.md>). ^^Only works on Daily Notes page^^.
+            - Finds all blocks on daily pages and blocks mentioning a date between two days. ^^**This only works on Daily Notes page**^^.
+            - You can use the following as a shorthand: [today](<today.md>), [tomorrow](<tomorrow.md>), [yesterday](<yesterday.md>), [last week](<last week.md>), [next week](<next week.md>), [last month](<last month.md>), and [next month](<next month.md>). 
             - `{{query: {between: [January 1st, 2021](<January 1st, 2021.md>) [today](<today.md>) }}
 {{query: {and: [mistakes](<mistakes.md>) {between: [January 1st, 2020](<January 1st, 2020.md>) [December 31st, 2020](<December 31st, 2020.md>) }}}}
 {{query: {and: [TODO](<TODO.md>) {between: [last week](<last week.md>) [today](<today.md>) }}}}`

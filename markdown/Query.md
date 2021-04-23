@@ -18,7 +18,8 @@
             - `{{query: {and: [[page A]] {not: [[page B]] }}}}
 {{query: {and: [[Slate Star Codex]] {not: [[psychiatry]] }}}}`
         - ### **between**
-            - Finds all blocks on daily pages and blocks mentioning a date between two days. You can use the following as a shorthand: [[today]], [[tomorrow]], [[yesterday]], [[last week]], [[next week]], [[last month]], and [[next month]]. ^^Only works on Daily Notes page^^.
+            - Finds all blocks on daily pages and blocks mentioning a date between two days. ^^**This only works on Daily Notes page**^^.
+            - You can use the following as a shorthand: [[today]], [[tomorrow]], [[yesterday]], [[last week]], [[next week]], [[last month]], and [[next month]]. 
             - `{{query: {between: [[January 1st, 2021]] [[today]] }}
 {{query: {and: [[mistakes]] {between: [[January 1st, 2020]] [[December 31st, 2020]] }}}}
 {{query: {and: [[TODO]] {between: [[last week]] [[today]] }}}}`
