@@ -14,6 +14,8 @@
                     - Brought to you by:: [[Adam Sherwood]]
                 - Disabled vertical scrolling on the [[Mobile Menu Bar]]
                     - Brought to you by:: [[Kifah Meeran]]
+                - Minor performance improvements
+                    - Brought to you by:: [[Joshua Brown]]
         - [[April 22nd, 2021]]
             - ### [[Bug Fixes]] 🛠
                 - Fixed performance regression

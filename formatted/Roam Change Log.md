@@ -14,6 +14,8 @@
                     - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>)
                 - Disabled vertical scrolling on the [Mobile Menu Bar](<Mobile Menu Bar.md>)
                     - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
+                - Minor performance improvements
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
         - [April 22nd, 2021](<April 22nd, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠
                 - Fixed performance regression

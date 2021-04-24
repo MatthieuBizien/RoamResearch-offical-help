@@ -16,6 +16,9 @@
 - Disabled vertical scrolling on the [Mobile Menu Bar](<Mobile Menu Bar.md>)
                     - **[Brought to you by](<Brought to you by.md>):**
 
+- Minor performance improvements
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Fixed performance regression
                     - **[Brought to you by](<Brought to you by.md>):**
 
