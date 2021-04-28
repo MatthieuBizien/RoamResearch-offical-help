@@ -2,6 +2,10 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [April 28th, 2021](<April 28th, 2021.md>)
+            - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+                - Fixed bug which created orphan blocks when deleting in [Linked References](<Linked References.md>)
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
         - [April 23rd, 2021](<April 23rd, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠
                 - Contents of [Kanban](<Kanban.md>) will now load normally when its children are collapsed

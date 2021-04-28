@@ -1,6 +1,9 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- Fixed bug which created orphan blocks when deleting in [Linked References](<Linked References.md>)
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Contents of [Kanban](<Kanban.md>) will now load normally when its children are collapsed
                     - **[Brought to you by](<Brought to you by.md>):**
 

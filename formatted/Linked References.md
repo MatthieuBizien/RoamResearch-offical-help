@@ -77,6 +77,9 @@
 
 - #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>) | #[Linked References](<Linked References.md>)
 
+## [Roam Change Log](<Roam Change Log.md>)
+- Fixed bug which created orphan blocks when deleting in [Linked References](<Linked References.md>)
+
 ## [Russian](<Russian.md>)
 #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>)
 

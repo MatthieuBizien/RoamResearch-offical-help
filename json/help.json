@@ -42605,6 +42605,107 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "04-28-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "D8ld3cXC3"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619597763741,
+                            "edit-time": 1619597773558,
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Joshua Brown]]",
+                            "uid": "PBb9DF6qZ"
+                          }
+                        ],
+                        "create-time": 1619597737053,
+                        "edit-time": 1619597763753,
+                        "refs": [
+                          {
+                            "uid": "D8ld3cXC3"
+                          }
+                        ],
+                        "string": "Fixed bug which created orphan blocks when deleting in [[Linked References]]",
+                        "uid": "G99p9F7fo"
+                      }
+                    ],
+                    "create-time": 1619597734363,
+                    "edit-time": 1619597736087,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] \ud83d\udee0",
+                    "uid": "B25ViTj6s"
+                  }
+                ],
+                "create-time": 1619597729466,
+                "edit-time": 1619597734381,
+                "refs": [
+                  {
+                    "uid": "04-28-2021"
+                  }
+                ],
+                "string": "[[April 28th, 2021]]",
+                "uid": "wXACJ3z8h"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "04-23-2021"
                   }
                 ],
@@ -68153,13 +68254,13 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "create-time": 1619594736613,
-    "edit-time": 1619594736614,
+    "create-time": 1619597733846,
+    "edit-time": 1619597733846,
     "title": "April 28th, 2021",
     "uid": "04-28-2021"
   }
