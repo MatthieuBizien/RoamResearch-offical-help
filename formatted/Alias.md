@@ -9,6 +9,9 @@
 ## [Research](<Research.md>)
 - #[Query](<Query.md>) | #[Page References](<Page References.md>) | #[Alias](<Alias.md>)
 
+## [Roam Change Log](<Roam Change Log.md>)
+- Pasted HTML links/images whose URL contains brackets will no longer break [Alias](<Alias.md>)
+
 ## [Zettelkasten](<Zettelkasten.md>)
 #[Current time](<Current time.md>) | #[Page References](<Page References.md>) | #[Block References](<Block References.md>) | #[Indentation](<Indentation.md>) | #[Daily Notes](<Daily Notes.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>) | #[Alias](<Alias.md>)
 

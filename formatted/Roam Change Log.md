@@ -2,6 +2,11 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [April 29th, 2021](<April 29th, 2021.md>)
+            - ### [Bug Fixes](<Bug Fixes.md>) 🛠I 
+                - Pasted HTML links/images whose URL contains brackets will no longer break [Alias](<Alias.md>)
+            - [Developer Notes](<Developer Notes.md>) 🧑‍💻
+                -  
         - [April 28th, 2021](<April 28th, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠
                 - Fixed bug which created orphan blocks when deleting in [Linked References](<Linked References.md>)
