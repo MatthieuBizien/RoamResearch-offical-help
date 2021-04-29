@@ -5,7 +5,7 @@
         - [[April 29th, 2021]]
             - ### [[New Features]] 🚀
                 - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
-                    - Brought to you by:: [[Bardia Pourvakil]]
+                    - Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]] [[Joshua Brown]]
             - ### [[Bug Fixes]] 🛠
                 - Pasted HTML links/images whose URL contains brackets will no longer break [[Alias]]. Go ahead, paste that [[Wikipedia]] page!
                     - Brought to you by:: [[Kifah Meeran]]

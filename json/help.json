@@ -42639,6 +42639,12 @@
                           {
                             ":block/refs": [
                               {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
                                 ":block/uid": "evJ14QpsV"
                               },
                               {
@@ -42652,8 +42658,14 @@
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                             },
                             "create-time": 1619674711618,
-                            "edit-time": 1619674720963,
+                            "edit-time": 1619677914200,
                             "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "IdWJv42cv"
+                              },
                               {
                                 "uid": "evJ14QpsV"
                               },
@@ -42661,7 +42673,7 @@
                                 "uid": "5K19Sylm0"
                               }
                             ],
-                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "string": "Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]] [[Joshua Brown]]",
                             "uid": "8GvysEfgm"
                           }
                         ],
