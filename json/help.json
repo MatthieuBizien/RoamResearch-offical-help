@@ -13408,13 +13408,7 @@
     },
     "children": [
       {
-        ":block/props": {
-          ":hiccup": {
-            ":run-js?": {
-              "CHxhvJ7VwhSEeJI217QsbgO8hpu1": true
-            }
-          }
-        },
+        ":block/props": {},
         ":block/refs": [
           {
             ":block/uid": "dZV0KPRqu"
@@ -13443,13 +13437,7 @@
         "create-time": 1616440003500,
         "edit-time": 1616550124896,
         "heading": 1,
-        "props": {
-          "hiccup": {
-            "run-js?": {
-              "CHxhvJ7VwhSEeJI217QsbgO8hpu1": true
-            }
-          }
-        },
+        "props": {},
         "refs": [
           {
             "uid": "dZV0KPRqu"
