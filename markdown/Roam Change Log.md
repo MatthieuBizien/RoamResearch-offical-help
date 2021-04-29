@@ -3,10 +3,20 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [[April 29th, 2021]]
-            - ### [[Bug Fixes]] 🛠I 
-                - Pasted HTML links/images whose URL contains brackets will no longer break [[Alias]]
-            - [[Developer Notes]] 🧑‍💻
-                -  
+            - ### [[New Features]] 🚀
+                - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
+                    - Brought to you by:: [[Bardia Pourvakil]]
+            - ### [[Bug Fixes]] 🛠
+                - Pasted HTML links/images whose URL contains brackets will no longer break [[Alias]]. Go ahead, paste that [[Wikipedia]] page!
+                    - Brought to you by:: [[Kifah Meeran]]
+                - Prevent creating orphaned blocks on backspace
+                    - Brought to you by:: [[Joshua Brown]]
+            - ### [[Developer Notes]] 🧑‍💻
+                - Moved `data-edit-time`, `data-create-time`, and `data-edit-display-name` from `span.rm-bullet` to `div.rm-block`
+                    - Brought to you by:: [[Bardia Pourvakil]]
+                - Added `data-edit-photo-url`
+                    - Brought to you by:: [[Bardia Pourvakil]]
+                - So now we can style the entire block easily based on who wrote it and access the users' profile photo url if they have one from signing in with google ((and in the future all users when we allow custom profile pictures))
         - [[April 28th, 2021]]
             - ### [[Bug Fixes]] 🛠
                 - Fixed bug which created orphan blocks when deleting in [[Linked References]]

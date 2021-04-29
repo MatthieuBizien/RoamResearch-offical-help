@@ -42618,6 +42618,73 @@
                   {
                     ":block/refs": [
                       {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "evJ14QpsV"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619674711618,
+                            "edit-time": 1619674720963,
+                            "refs": [
+                              {
+                                "uid": "evJ14QpsV"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "uid": "8GvysEfgm"
+                          }
+                        ],
+                        "create-time": 1619674206338,
+                        "edit-time": 1619674311573,
+                        "string": "You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`",
+                        "uid": "EwEymFFE4"
+                      }
+                    ],
+                    "create-time": 1619674194844,
+                    "edit-time": 1619674206348,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] \ud83d\ude80",
+                    "uid": "_SE-y0qUp"
+                  },
+                  {
+                    ":block/refs": [
+                      {
                         ":block/uid": "xxFKZqzYN"
                       }
                     ],
@@ -42632,6 +42699,9 @@
                         ":block/refs": [
                           {
                             ":block/uid": "S6T1Z9b9S"
+                          },
+                          {
+                            ":block/uid": "V-HzZ05Zf"
                           }
                         ],
                         ":create/user": {
@@ -42640,32 +42710,107 @@
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619674075326,
+                            "edit-time": 1619674081197,
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "uid": "9yPEdbhR7"
+                          }
+                        ],
                         "create-time": 1619673781281,
-                        "edit-time": 1619673837359,
+                        "edit-time": 1619674156451,
                         "refs": [
                           {
                             "uid": "S6T1Z9b9S"
+                          },
+                          {
+                            "uid": "V-HzZ05Zf"
                           }
                         ],
-                        "string": "Pasted HTML links/images whose URL contains brackets will no longer break [[Alias]]",
+                        "string": "Pasted HTML links/images whose URL contains brackets will no longer break [[Alias]]. Go ahead, paste that [[Wikipedia]] page!",
                         "uid": "EG4Y4tOFu"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619674722818,
+                            "edit-time": 1619674728494,
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Joshua Brown]]",
+                            "uid": "krKdwXeKQ"
+                          }
+                        ],
+                        "create-time": 1619674123548,
+                        "edit-time": 1619674140815,
+                        "string": "Prevent creating orphaned blocks on backspace",
+                        "uid": "qbu_Kjban"
                       }
                     ],
                     "create-time": 1619673776928,
-                    "edit-time": 1619673783976,
+                    "edit-time": 1619674197211,
                     "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
                       }
                     ],
-                    "string": "[[Bug Fixes]] \ud83d\udee0I ",
+                    "string": "[[Bug Fixes]] \ud83d\udee0",
                     "uid": "Q3pC5YKUA"
                   },
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "8XZDHOw3E"
+                        ":block/uid": "RtfLGrv81"
                       }
                     ],
                     ":create/user": {
@@ -42674,15 +42819,108 @@
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
-                    "create-time": 1619673837347,
-                    "edit-time": 1619673878378,
-                    "refs": [
+                    "children": [
                       {
-                        "uid": "8XZDHOw3E"
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RpSOW7KZF"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619674068788,
+                            "edit-time": 1619674070080,
+                            "refs": [
+                              {
+                                "uid": "RpSOW7KZF"
+                              }
+                            ],
+                            "string": "((RpSOW7KZF))",
+                            "uid": "h7LGl_ufQ"
+                          }
+                        ],
+                        "create-time": 1619673958997,
+                        "edit-time": 1619673965628,
+                        "string": "Moved `data-edit-time`, `data-create-time`, and `data-edit-display-name` from `span.rm-bullet` to `div.rm-block`",
+                        "uid": "JtN6spR4t"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "evJ14QpsV"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619674058816,
+                            "edit-time": 1619674065992,
+                            "refs": [
+                              {
+                                "uid": "evJ14QpsV"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "uid": "RpSOW7KZF"
+                          }
+                        ],
+                        "create-time": 1619674023959,
+                        "edit-time": 1619674023959,
+                        "string": "Added `data-edit-photo-url`",
+                        "uid": "1X9lkvNK8"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619673837347,
+                        "edit-time": 1619674027694,
+                        "string": "So now we can style the entire block easily based on who wrote it and access the users' profile photo url if they have one from signing in with google ((and in the future all users when we allow custom profile pictures))",
+                        "uid": "mRQUwXNZa"
                       }
                     ],
-                    "string": "[[Developer]] ",
-                    "uid": "mRQUwXNZa"
+                    "create-time": 1619673914927,
+                    "edit-time": 1619673914927,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]] \ud83e\uddd1\u200d\ud83d\udcbb",
+                    "uid": "eM96Z-RB3"
                   }
                 ],
                 "create-time": 1619673617242,
@@ -68368,5 +68606,29 @@
     "edit-time": 1619656446670,
     "title": "April 29th, 2021",
     "uid": "04-29-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1619673891081,
+    "edit-time": 1619673891082,
+    "title": "Developer Notes",
+    "uid": "RtfLGrv81"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1619674156471,
+    "edit-time": 1619674156473,
+    "title": "Wikipedia",
+    "uid": "V-HzZ05Zf"
   }
 ]

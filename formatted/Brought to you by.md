@@ -1,6 +1,21 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Pasted HTML links/images whose URL contains brackets will no longer break [Alias](<Alias.md>). Go ahead, paste that [Wikipedia](<Wikipedia.md>) page!
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Prevent creating orphaned blocks on backspace
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Moved `data-edit-time`, `data-create-time`, and `data-edit-display-name` from `span.rm-bullet` to `div.rm-block`
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Added `data-edit-photo-url`
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Fixed bug which created orphan blocks when deleting in [Linked References](<Linked References.md>)
                     - **[Brought to you by](<Brought to you by.md>):**
 
