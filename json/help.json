@@ -42617,6 +42617,54 @@
                     },
                     "children": [
                       {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "EJIFQrIL3"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              },
+                              {
+                                ":block/uid": "A1MxhqDRI"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619764185049,
+                            "edit-time": 1619764194049,
+                            "refs": [
+                              {
+                                "uid": "EJIFQrIL3"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              },
+                              {
+                                "uid": "A1MxhqDRI"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Adam Sherwood]] [[Wilker Lucio]]",
+                            "uid": "G7nCDUaGe"
+                          }
+                        ],
+                        "create-time": 1619763216081,
+                        "edit-time": 1619764666208,
+                        "string": "Auto-backups will no longer trigger when you switch/reload your graph.",
+                        "uid": "8cTgcjuY-"
+                      },
+                      {
                         ":block/refs": [
                           {
                             ":block/uid": "s6_qhdpmE"
@@ -42628,27 +42676,45 @@
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619764175112,
+                            "edit-time": 1619764181742,
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "uid": "julfPllLp"
+                          }
+                        ],
                         "create-time": 1619763177247,
-                        "edit-time": 1619763216096,
+                        "edit-time": 1619764218997,
                         "refs": [
                           {
                             "uid": "s6_qhdpmE"
                           }
                         ],
-                        "string": "The edited info pop-up will no longer show up while dragging blocks on [[Safari]]",
+                        "string": "The block info pop-up will no longer show up while dragging blocks on [[Safari]]",
                         "uid": "ojGTtjOkC"
-                      },
-                      {
-                        ":create/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                        },
-                        "create-time": 1619763216081,
-                        "edit-time": 1619764010181,
-                        "string": "Auto-backups will no longer trigger between reloads/graph switches",
-                        "uid": "8cTgcjuY-"
                       }
                     ],
                     "create-time": 1619763161171,
@@ -42661,6 +42727,73 @@
                     ],
                     "string": "[[Bug Fixes]] \ud83d\udee0",
                     "uid": "UU1Z7YZj2"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RtfLGrv81"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IFYmBp-zm"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1619765067901,
+                            "edit-time": 1619765075186,
+                            "refs": [
+                              {
+                                "uid": "IFYmBp-zm"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by::[[Filipe Silva]]",
+                            "uid": "COznN-0m6"
+                          }
+                        ],
+                        "create-time": 1619765051658,
+                        "edit-time": 1619765053939,
+                        "string": "As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **",
+                        "uid": "jn6DHb-J7"
+                      }
+                    ],
+                    "create-time": 1619765058283,
+                    "edit-time": 1619765059640,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]] \ud83e\uddd1\u200d\ud83d\udcbb",
+                    "uid": "6ncnfWr_w"
                   }
                 ],
                 "create-time": 1619763158419,

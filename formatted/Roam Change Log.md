@@ -4,8 +4,13 @@
     - ## **New Changes**
         - [April 30th, 2021](<April 30th, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠
-                - The edited info pop-up will no longer show up while dragging blocks on [Safari](<Safari.md>)
-                - Auto-backups will no longer trigger between reloads/graph switches
+                - Auto-backups will no longer trigger when you switch/reload your graph.
+                    - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>) [Wilker Lucio](<Wilker Lucio.md>)
+                - The block info pop-up will no longer show up while dragging blocks on [Safari](<Safari.md>)
+                    - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
+            - ### [Developer Notes](<Developer Notes.md>) 🧑‍💻
+                - As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **
+                    - **[Brought to you by](<Brought to you by.md>):**[Filipe Silva](<Filipe Silva.md>)
         - [April 29th, 2021](<April 29th, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
                 - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`

@@ -1,6 +1,15 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- Auto-backups will no longer trigger when you switch/reload your graph.
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- The block info pop-up will no longer show up while dragging blocks on [Safari](<Safari.md>)
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **
+                    - **[Brought to you by](<Brought to you by.md>):**[
+
 - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
                     - **[Brought to you by](<Brought to you by.md>):**
 
