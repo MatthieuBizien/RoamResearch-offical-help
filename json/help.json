@@ -42715,6 +42715,18 @@
                         ],
                         "string": "The block info pop-up will no longer show up while dragging blocks on [[Safari]]",
                         "uid": "ojGTtjOkC"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619782151997,
+                        "edit-time": 1619782169356,
+                        "string": "Fixed a bug with graph settings not appearing on local graphs",
+                        "uid": "jmLlejqqm"
                       }
                     ],
                     "create-time": 1619763161171,

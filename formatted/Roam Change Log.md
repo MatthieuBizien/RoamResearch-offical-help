@@ -8,6 +8,7 @@
                     - **[Brought to you by](<Brought to you by.md>):** [Adam Sherwood](<Adam Sherwood.md>) [Wilker Lucio](<Wilker Lucio.md>)
                 - The block info pop-up will no longer show up while dragging blocks on [Safari](<Safari.md>)
                     - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
+                - Fixed a bug with graph settings not appearing on local graphs
             - ### [Developer Notes](<Developer Notes.md>) 🧑‍💻
                 - As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **
                     - **[Brought to you by](<Brought to you by.md>):**[Filipe Silva](<Filipe Silva.md>)
