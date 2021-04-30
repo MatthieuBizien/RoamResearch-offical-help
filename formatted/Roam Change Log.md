@@ -2,6 +2,10 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [April 30th, 2021](<April 30th, 2021.md>)
+            - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+                - The edited info pop-up will no longer show up while dragging blocks on [Safari](<Safari.md>)
+                - Auto-backups will no longer trigger between reloads/graph switches
         - [April 29th, 2021](<April 29th, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
                 - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`

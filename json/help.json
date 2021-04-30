@@ -42593,6 +42593,89 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "04-30-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "s6_qhdpmE"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619763177247,
+                        "edit-time": 1619763216096,
+                        "refs": [
+                          {
+                            "uid": "s6_qhdpmE"
+                          }
+                        ],
+                        "string": "The edited info pop-up will no longer show up while dragging blocks on [[Safari]]",
+                        "uid": "ojGTtjOkC"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619763216081,
+                        "edit-time": 1619764010181,
+                        "string": "Auto-backups will no longer trigger between reloads/graph switches",
+                        "uid": "8cTgcjuY-"
+                      }
+                    ],
+                    "create-time": 1619763161171,
+                    "edit-time": 1619763177261,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] \ud83d\udee0",
+                    "uid": "UU1Z7YZj2"
+                  }
+                ],
+                "create-time": 1619763158419,
+                "edit-time": 1619763161189,
+                "refs": [
+                  {
+                    "uid": "04-30-2021"
+                  }
+                ],
+                "string": "[[April 30th, 2021]]",
+                "uid": "i5RxXu_bN"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "04-29-2021"
                   }
                 ],
@@ -68642,5 +68725,17 @@
     "edit-time": 1619743997179,
     "title": "April 30th, 2021",
     "uid": "04-30-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1619763216098,
+    "edit-time": 1619763216099,
+    "title": "Safari",
+    "uid": "s6_qhdpmE"
   }
 ]
