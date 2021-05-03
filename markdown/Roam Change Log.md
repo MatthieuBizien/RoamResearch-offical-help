@@ -3,15 +3,19 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [[April 30th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
+                - Added syntax highlighting for [[SPARQL]] and [[Turtle]]
+                    - [[Kifah Meeran]]
+                - ### [[Developer Notes]] 🧑‍💻
+                    - As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **
+                        - Brought to you by::[[Filipe Silva]]
             - ### [[Bug Fixes]] 🛠
                 - Auto-backups will no longer trigger when you switch/reload your graph.
                     - Brought to you by:: [[Adam Sherwood]] [[Wilker Lucio]]
                 - The block info pop-up will no longer show up while dragging blocks on [[Safari]]
                     - Brought to you by:: [[Kifah Meeran]]
                 - Fixed a bug with graph settings not appearing on local graphs
-            - ### [[Developer Notes]] 🧑‍💻
-                - As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **
-                    - Brought to you by::[[Filipe Silva]]
+                    - Brought to you by:: [[Kifah Meeran]]
         - [[April 29th, 2021]]
             - ### [[New Features]] 🚀
                 - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
