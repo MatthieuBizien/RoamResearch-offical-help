@@ -3,7 +3,7 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [[May 3rd, 2021]]
-            - [[New Features]]
+            - ### [[New Features]] 🚀
                 - Hidden feature for [[Roam Team]]'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.
         - [[April 30th, 2021]]
             - ### [[Quality of Life Improvements]] ✨

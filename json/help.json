@@ -42613,7 +42613,7 @@
                       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                     },
                     ":edit/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "children": [
                       {
@@ -42640,13 +42640,14 @@
                       }
                     ],
                     "create-time": 1620092468191,
-                    "edit-time": 1620092512467,
+                    "edit-time": 1620127376534,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "h_pvMVa7e"
                       }
                     ],
-                    "string": "[[New Features]]",
+                    "string": "[[New Features]] \ud83d\ude80",
                     "uid": "hAds7Btey"
                   }
                 ],
