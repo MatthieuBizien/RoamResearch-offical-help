@@ -2,6 +2,9 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [May 3rd, 2021](<May 3rd, 2021.md>)
+            - [New Features](<New Features.md>)
+                - Hidden feature for [Roam Team](<Roam Team.md>)'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.
         - [April 30th, 2021](<April 30th, 2021.md>)
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - Added syntax highlighting for [SPARQL](<SPARQL.md>) and [Turtle](<Turtle.md>)
