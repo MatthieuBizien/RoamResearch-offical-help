@@ -13,7 +13,8 @@
                         - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
                     - Made text highlights legible in [Block References](<Block References.md>) previews
                         - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
-                    - 
+                    - ### [Developer Notes](<Developer Notes.md>) 🧑‍💻
+                        - IFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
         - [May 3rd, 2021](<May 3rd, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
                 - Hidden feature for [Roam Team](<Roam Team.md>)'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.
