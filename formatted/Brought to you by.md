@@ -1,6 +1,18 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- You can now shift-click breadcrumbs/path of zoomed-in block to open in [Right Sidebar](<Right Sidebar.md>)
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Made [Query](<Query.md>) and [Linked References](<Linked References.md>) slightly faster
+                        - **[Brought to you by](<Brought to you by.md>):**
+
+- Pasting blocks containing images will no longer destroy block structure
+                        - **[Brought to you by](<Brought to you by.md>):**
+
+- Made text highlights legible in [Block References](<Block References.md>) previews
+                        - **[Brought to you by](<Brought to you by.md>):**
+
 - As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **
                         - **[Brought to you by](<Brought to you by.md>):**[
 

@@ -2,6 +2,18 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[May 4th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
+                - You can now shift-click breadcrumbs/path of zoomed-in block to open in [[Right Sidebar]]
+                    - Brought to you by:: [[Stian Håklev]]
+                - ### [[Bug Fixes]] 🛠 
+                    - Made [[Query]] and [[Linked References]] slightly faster
+                        - Brought to you by:: [[Joshua Brown]]
+                    - Pasting blocks containing images will no longer destroy block structure
+                        - Brought to you by:: [[Joshua Brown]]
+                    - Made text highlights legible in [[Block References]] previews
+                        - Brought to you by:: [[Bardia Pourvakil]]
+                    - 
         - [[May 3rd, 2021]]
             - ### [[New Features]] 🚀
                 - Hidden feature for [[Roam Team]]'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.

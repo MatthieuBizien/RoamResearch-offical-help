@@ -73,6 +73,9 @@
 
 - #[Query](<Query.md>)
 
+## [Roam Change Log](<Roam Change Log.md>)
+- Made [Query](<Query.md>)
+
 ## [TODO/DONE](<TODO/DONE.md>)
 #[TODO/DONE](<TODO/DONE.md>) | #[Query](<Query.md>)
 
