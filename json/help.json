@@ -69211,6 +69211,317 @@
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
+    "children": [
+      {
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "children": [
+          {
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "edit-time": 1620316867838,
+            "string": "Security is core to our values, and we value the input of security researchers acting in good-faith to help us maintain a high standard for the security and privacy for our users. This includes encouraging responsible vulnerability research and disclosure. This policy sets out our definition of good-faith in the context of finding and reporting vulnerabilities, as well as what you can expect from us in return.",
+            "uid": "7FteVz6CF"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Work with you to understand and validate your report, including a timely initial response to the submission;",
+                    "uid": "-FakN4o8s"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Work to remediate discovered vulnerabilities in a timely manner; and",
+                    "uid": "Y0U_rfiDV"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.",
+                    "uid": "XvvRF9EgK"
+                  }
+                ],
+                "edit-time": 1620316867838,
+                "string": "When working with us according to this policy, you can expect us to:",
+                "uid": "IJ3J22vNE"
+              }
+            ],
+            "edit-time": 1620316867838,
+            "heading": 1,
+            "string": "[\ud83d\udd17](https://github.com/Roam-Research/issues/security/policy#expectations)Expectations",
+            "uid": "MpDTPrWG5"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "edit-time": 1620316867838,
+                "string": "The primary communication channel in via email to\u00a0[security@roamresearch.com](mailto:security@roamresearch.com). Afterwards communication proceeds to a\u00a0[Security Advisory](https://help.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories)\u00a0on GitHub.",
+                "uid": "8m66F9xdw"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "edit-time": 1620316867838,
+                "string": "Security Advisories are separate from public issues in that only you and the Roam team can see them, which allows us to work on fixing the problem without publicizing it further for exploitation.",
+                "uid": "buGYTPieM"
+              }
+            ],
+            "edit-time": 1620316867838,
+            "heading": 1,
+            "string": "[\ud83d\udd17](https://github.com/Roam-Research/issues/security/policy#official-communication-channels)Official Communication Channels",
+            "uid": "PkR9D1Pyz"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "edit-time": 1620316867838,
+                "string": "We follow a\u00a0[Coordinated Disclosure](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#responsible-or-coordinated-disclosure)\u00a0model, also known as Responsible Disclosure.",
+                "uid": "n53Ipz24c"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "edit-time": 1620316867838,
+                "string": "Coordinated disclosure attempts to find a reasonable middle ground between Private and Full disclosure models. With coordinated disclosure, the initial report is made privately, but with the full details being published once a patch has been made available.",
+                "uid": "zft2qQPhL"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "edit-time": 1620316867838,
+                "string": "Addressing vulnerabilities requires time and resources. While discussing the initial report we'll agree with you on a deadline for addressing it. If this deadline is not met, then you may adopt the full disclosure approach, and publish the full details. In our case the default deadline is 90 days.",
+                "uid": "dAn9qM1kh"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "edit-time": 1620316867838,
+                "string": "Google's Project Zero adopts a similar approach, where the full details of the vulnerability are published after 90 days regardless of whether or not the organisation has published a patch.",
+                "uid": "jl056ykei"
+              }
+            ],
+            "edit-time": 1620316867838,
+            "heading": 1,
+            "string": "[\ud83d\udd17](https://github.com/Roam-Research/issues/security/policy#disclosure-policy)Disclosure Policy",
+            "uid": "Nk2ARqnoL"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Play by the rules. This includes following this policy and any other relevant agreements;",
+                    "uid": "ojy-XZG79"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Report any vulnerability you\u2019ve discovered promptly;",
+                    "uid": "sZLr1EXtv"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;",
+                    "uid": "d3ZC0jWqk"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Use only the Official Communication Channels to discuss vulnerability information with us;",
+                    "uid": "BSgkWohDv"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;",
+                    "uid": "cKlQ9TagN"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;",
+                    "uid": "C8IIsKUpM"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information;",
+                    "uid": "tq0qJReP5"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "You should only interact with test accounts you own or with explicit permission from the account holder; and",
+                    "uid": "NmSsLhCS_"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Do not engage in extortion.",
+                    "uid": "GG_evbAFM"
+                  }
+                ],
+                "edit-time": 1620316867838,
+                "string": "To encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:",
+                "uid": "G2XvgQd_7"
+              }
+            ],
+            "edit-time": 1620316867838,
+            "heading": 1,
+            "string": "[\ud83d\udd17](https://github.com/Roam-Research/issues/security/policy#ground-rules)Ground Rules",
+            "uid": "S1mjdNXJA"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;",
+                    "uid": "9rl7TyFgf"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;",
+                    "uid": "QQY6w7wKD"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and",
+                    "uid": "YtXRwByTF"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620316867838,
+                    "string": "Lawful, helpful to the overall security of the Internet, and conducted in good faith.",
+                    "uid": "S7suMk6US"
+                  }
+                ],
+                "edit-time": 1620316867838,
+                "string": "When conducting vulnerability research according to this policy, we consider this research conducted under this policy to be:",
+                "uid": "i7300r8U2"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "edit-time": 1620316867838,
+                "string": "You are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.",
+                "uid": "BZpd0Zon4"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "edit-time": 1620316867838,
+                "string": "If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.",
+                "uid": "wfyG05fz6"
+              }
+            ],
+            "edit-time": 1620316867838,
+            "heading": 1,
+            "string": "[\ud83d\udd17](https://github.com/Roam-Research/issues/security/policy#safe-harbor)Safe Harbor",
+            "uid": "Z9_JodpvW"
+          }
+        ],
+        "edit-time": 1620316916871,
+        "heading": 1,
+        "string": "[Security Policy](https://github.com/Roam-Research/issues/security/policy)",
+        "uid": "w9itNRdZ8"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "create-time": 1620316831067,
+        "edit-time": 1620316848581,
+        "heading": 1,
+        "string": "[Security Advisories](https://github.com/Roam-Research/issues/security/advisories)",
+        "uid": "H5L1gcS87"
+      }
+    ],
     "create-time": 1619046047883,
     "edit-time": 1619046047884,
     "title": "Security",
