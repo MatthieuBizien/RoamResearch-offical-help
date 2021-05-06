@@ -14,7 +14,7 @@
                     - Made text highlights legible in [[Block References]] previews
                         - Brought to you by:: [[Bardia Pourvakil]]
                     - ### [[Developer Notes]] 🧑‍💻
-                        - IFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
+                        - Iframe Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
         - [[May 3rd, 2021]]
             - ### [[New Features]] 🚀
                 - Hidden feature for [[Roam Team]]'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.
