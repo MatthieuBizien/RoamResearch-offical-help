@@ -2,6 +2,9 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [May 7th, 2021](<May 7th, 2021.md>)
+            - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - Block embeds will now be expanded by default
         - [May 4th, 2021](<May 4th, 2021.md>)
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - You can now shift-click breadcrumbs/path of zoomed-in block to open in [Right Sidebar](<Right Sidebar.md>)

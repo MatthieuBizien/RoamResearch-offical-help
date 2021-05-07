@@ -42593,6 +42593,67 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "05-07-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1620367929368,
+                        "edit-time": 1620367958095,
+                        "string": "Block embeds will now be expanded by default",
+                        "uid": "GIS4PCuUD"
+                      }
+                    ],
+                    "create-time": 1620367928070,
+                    "edit-time": 1620367929376,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] \u2728",
+                    "uid": "8TT_rhYkG"
+                  }
+                ],
+                "create-time": 1620367920920,
+                "edit-time": 1620367923735,
+                "refs": [
+                  {
+                    "uid": "05-07-2021"
+                  }
+                ],
+                "string": "[[May 7th, 2021]]",
+                "uid": "P8T_Qf2UF"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "05-04-2021"
                   }
                 ],
@@ -43508,7 +43569,7 @@
                               }
                             ],
                             "string": "Brought to you by:: [[Joshua Brown]]",
-                            "uid": "krKdwXeKQ"
+                            "uid": "0KQIIJquu"
                           }
                         ],
                         "create-time": 1619674123548,
@@ -69835,13 +69896,13 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "create-time": 1620365044973,
-    "edit-time": 1620365044973,
+    "create-time": 1620367923045,
+    "edit-time": 1620367923045,
     "title": "May 7th, 2021",
     "uid": "05-07-2021"
   }
