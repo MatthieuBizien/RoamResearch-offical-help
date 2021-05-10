@@ -27029,6 +27029,53 @@
                     "edit-time": 1616208632271,
                     "string": "Nat's first version of this course was officially endorsed by Roam and he's back again with an updated version, where he'll show you how to master the basics, build and organize your graph, manage projects and produce output, effortlessly.",
                     "uid": "yRdiAEbPY"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sB0yQf6IR"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "create-time": 1620662690870,
+                    "edit-time": 1620662805734,
+                    "heading": 2,
+                    "refs": [
+                      {
+                        "uid": "sB0yQf6IR"
+                      }
+                    ],
+                    "string": "[Roam Essentials](https://nesslabs.com/roam-essentials) by [[Anne-Laure Le Cunff]] $49",
+                    "uid": "RrTlhKeJk"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "create-time": 1620662777744,
+                    "edit-time": 1620662794061,
+                    "string": "Learn how to make the most out of Roam with real-life examples and powerful mental models. Nesslabs's Anne-Laure Le Cunff will guide you through the essentials with short videos and templates for a variety of workflows, helping you kickstart your Roam journey.",
+                    "uid": "jsCfIX3gh"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "create-time": 1620662754872,
+                    "edit-time": 1620662754872,
+                    "string": "",
+                    "uid": "k9XusirW5"
                   }
                 ],
                 "create-time": 1614656620018,

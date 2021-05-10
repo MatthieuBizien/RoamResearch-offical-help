@@ -12,6 +12,9 @@
 ## [Audio Player](<Audio Player.md>)
 - [How to upload and play audio files in Roam Research](https://nesslabs.com/roam-research-audio-files) by [Ness Labs](<Ness Labs.md>) [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>)
 
+## [Courses](<Courses.md>)
+- ## [Roam Essentials](https://nesslabs.com/roam-essentials) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>)
+
 ## [Diagram](<Diagram.md>)
 - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>)
 

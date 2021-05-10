@@ -27,6 +27,9 @@
             - Cortex Futura's course covers the whole academic process from literature [research]([Research](<Research.md>)) over note-taking to [writing]([Writing](<Writing.md>)) inside Roam – and how to get your writing from Roam into a nicely formatted draft in Word or PDF format. The course assumes zero previous Roam knowledge, has already helped hundreds of people in [academia]([Studying](<Studying.md>)) use Roam for their research and received much praise from the community.
         - ## [Effortless Output in Roam](https://www.effortlessoutput.com) by [Nat Eliason](<Nat Eliason.md>) $250
             - Nat's first version of this course was officially endorsed by Roam and he's back again with an updated version, where he'll show you how to master the basics, build and organize your graph, manage projects and produce output, effortlessly.
+            - ## [Roam Essentials](https://nesslabs.com/roam-essentials) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) $49
+            - Learn how to make the most out of Roam with real-life examples and powerful mental models. Nesslabs's Anne-Laure Le Cunff will guide you through the essentials with short videos and templates for a variety of workflows, helping you kickstart your Roam journey.
+            - 
 
 # Backlinks
 ## [Community](<Community.md>)
