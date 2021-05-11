@@ -23045,6 +23045,438 @@
             "edit-time": 1615392874221,
             "string": "An Engineering Problem Solving Process",
             "uid": "nnx_S9tf5"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "97HMz9WEJ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620761788768,
+                    "string": "Take wants/needs and translate them into problems",
+                    "uid": "tnmGilF4I"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5kfqwgeVw"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620761788768,
+                    "refs": [
+                      {
+                        "uid": "5kfqwgeVw"
+                      }
+                    ],
+                    "string": "Symptoms::",
+                    "uid": "-xCvyXNUO"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "85mI5bmLm"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "edit-time": 1620761788768,
+                    "refs": [
+                      {
+                        "uid": "85mI5bmLm"
+                      }
+                    ],
+                    "string": "Causes::",
+                    "uid": "ubmbUT0hf"
+                  }
+                ],
+                "edit-time": 1620761788768,
+                "refs": [
+                  {
+                    "uid": "97HMz9WEJ"
+                  }
+                ],
+                "string": "Problems::",
+                "uid": "j2E1Nic6A"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "oC_P1nOwL"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "betia6NIK"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "string": "What I know how to do",
+                        "uid": "CF4FFSmLI"
+                      }
+                    ],
+                    "edit-time": 1620761788768,
+                    "refs": [
+                      {
+                        "uid": "betia6NIK"
+                      }
+                    ],
+                    "string": "Knowns::",
+                    "uid": "-pljqCHW6"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "MpFmapLyn"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "string": "What I don't know how to do",
+                        "uid": "xK6yEUuB8"
+                      }
+                    ],
+                    "edit-time": 1620761788768,
+                    "refs": [
+                      {
+                        "uid": "MpFmapLyn"
+                      }
+                    ],
+                    "string": "Unknowns::",
+                    "uid": "13rmbIfs4"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RpvkVy_jl"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "string": "Business requirement",
+                        "uid": "A5CnZPJ6Q"
+                      }
+                    ],
+                    "edit-time": 1620761788768,
+                    "refs": [
+                      {
+                        "uid": "RpvkVy_jl"
+                      }
+                    ],
+                    "string": "Domain-side::",
+                    "uid": "bNpkly39d"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "otdhkmjMW"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "string": "Technical constraints (it has to compile to JS, for example)",
+                        "uid": "NUlrhPRa_"
+                      }
+                    ],
+                    "edit-time": 1620761788768,
+                    "refs": [
+                      {
+                        "uid": "otdhkmjMW"
+                      }
+                    ],
+                    "string": "Solution-side::",
+                    "uid": "7MP_8XJbB"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "a4pYPyMXD"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "edit-time": 1620761788768,
+                            "string": "Doesn't crash, use too much memory, require too much energy, are examples of unstated requirements",
+                            "uid": "FR2MC2arQ"
+                          }
+                        ],
+                        "edit-time": 1620761788768,
+                        "string": "Things that everyone wants the system to avoid",
+                        "uid": "h0T9Md2DD"
+                      }
+                    ],
+                    "edit-time": 1620761788768,
+                    "refs": [
+                      {
+                        "uid": "a4pYPyMXD"
+                      }
+                    ],
+                    "string": "Unstated::",
+                    "uid": "wVni29VHl"
+                  }
+                ],
+                "edit-time": 1620761788768,
+                "refs": [
+                  {
+                    "uid": "oC_P1nOwL"
+                  }
+                ],
+                "string": "Requirements::",
+                "uid": "6bw8vwSfg"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "PKrTM3pfv"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ycbVqlgPC"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "refs": [
+                          {
+                            "uid": "ycbVqlgPC"
+                          }
+                        ],
+                        "string": "Benefits::",
+                        "uid": "mZbRYlcz1"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "fYd40Hcw3"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "refs": [
+                          {
+                            "uid": "fYd40Hcw3"
+                          }
+                        ],
+                        "string": "Tradeoffs::",
+                        "uid": "8AWMEbP3A"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Y5GLI4K3l"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "refs": [
+                          {
+                            "uid": "Y5GLI4K3l"
+                          }
+                        ],
+                        "string": "Costs::",
+                        "uid": "9j4LIqnZz"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "jzu60ouvq"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "refs": [
+                          {
+                            "uid": "jzu60ouvq"
+                          }
+                        ],
+                        "string": "Problem fit::",
+                        "uid": "fRkcPWMzM"
+                      }
+                    ],
+                    "edit-time": 1620761788768,
+                    "string": "Solution A",
+                    "uid": "wkO5fR4TP"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ycbVqlgPC"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "refs": [
+                          {
+                            "uid": "ycbVqlgPC"
+                          }
+                        ],
+                        "string": "Benefits::",
+                        "uid": "A-kp6HCSs"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "fYd40Hcw3"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "refs": [
+                          {
+                            "uid": "fYd40Hcw3"
+                          }
+                        ],
+                        "string": "Tradeoffs::",
+                        "uid": "NKN_1G8Fz"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Y5GLI4K3l"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "refs": [
+                          {
+                            "uid": "Y5GLI4K3l"
+                          }
+                        ],
+                        "string": "Costs::",
+                        "uid": "E6qArhXau"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "jzu60ouvq"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "edit-time": 1620761788768,
+                        "refs": [
+                          {
+                            "uid": "jzu60ouvq"
+                          }
+                        ],
+                        "string": "Problem fit::",
+                        "uid": "T87ZKlLb7"
+                      }
+                    ],
+                    "edit-time": 1620761788768,
+                    "string": "Solution B",
+                    "uid": "MLEianuYL"
+                  }
+                ],
+                "edit-time": 1620761788768,
+                "refs": [
+                  {
+                    "uid": "PKrTM3pfv"
+                  }
+                ],
+                "string": "Solutions::",
+                "uid": "ueo7AMRPP"
+              }
+            ],
+            "create-time": 1620761781894,
+            "edit-time": 1620761788352,
+            "string": "Hickey Design Process",
+            "uid": "jf53ba3rJ"
           }
         ],
         "create-time": 1615392783601,
@@ -70002,5 +70434,149 @@
     "edit-time": 1620701799894,
     "title": "May 11th, 2021",
     "uid": "05-11-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788760,
+    "edit-time": 1620761788768,
+    "title": "Requirements",
+    "uid": "oC_P1nOwL"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788760,
+    "edit-time": 1620761788768,
+    "title": "Domain-side",
+    "uid": "RpvkVy_jl"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788761,
+    "edit-time": 1620761788768,
+    "title": "Solution-side",
+    "uid": "otdhkmjMW"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788761,
+    "edit-time": 1620761788768,
+    "title": "Unstated",
+    "uid": "a4pYPyMXD"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788761,
+    "edit-time": 1620761788768,
+    "title": "Solutions",
+    "uid": "PKrTM3pfv"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788762,
+    "edit-time": 1620761788768,
+    "title": "Benefits",
+    "uid": "ycbVqlgPC"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788763,
+    "edit-time": 1620761788768,
+    "title": "Tradeoffs",
+    "uid": "fYd40Hcw3"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788763,
+    "edit-time": 1620761788768,
+    "title": "Costs",
+    "uid": "Y5GLI4K3l"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788763,
+    "edit-time": 1620761788768,
+    "title": "Problem fit",
+    "uid": "jzu60ouvq"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788759,
+    "edit-time": 1620761788768,
+    "title": "Problems",
+    "uid": "97HMz9WEJ"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788760,
+    "edit-time": 1620761788768,
+    "title": "Symptoms",
+    "uid": "5kfqwgeVw"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1620761788760,
+    "edit-time": 1620761788768,
+    "title": "Causes",
+    "uid": "85mI5bmLm"
   }
 ]

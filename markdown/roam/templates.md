@@ -256,6 +256,34 @@
         - Alternatives:: What alternatives already exist to this problem? What do you do now to solve the problem? What happens if you do nothing? If this is a technical solution, can an existing solution be used?
         - Solution:: Based on all of the previous information, provide the solution to the problem. This could be a technical solution, process, new product, etc. Note that if multiple solutions are provided (suppose you provide multiple product offerings to solve the same problem) it is perfectly appropriate to have subpages for each solution.
         - Recommendations:: An alternative to (or something to be used in conjunction with) a solution is one or more recommendations. Again, if appropriate recommendations can merit their own subpages.
+    - Hickey Design Process
+        - Problems::
+            - Take wants/needs and translate them into problems
+            - Symptoms::
+            - Causes::
+        - Requirements::
+            - Knowns::
+                - What I know how to do
+            - Unknowns::
+                - What I don't know how to do
+            - Domain-side::
+                - Business requirement
+            - Solution-side::
+                - Technical constraints (it has to compile to JS, for example)
+            - Unstated::
+                - Things that everyone wants the system to avoid
+                    - Doesn't crash, use too much memory, require too much energy, are examples of unstated requirements
+        - Solutions::
+            - Solution A
+                - Benefits::
+                - Tradeoffs::
+                - Costs::
+                - Problem fit::
+            - Solution B
+                - Benefits::
+                - Tradeoffs::
+                - Costs::
+                - Problem fit::
 - Docs #.hide
     - {{[[TODO]]}} Introduction (few bullets) and some GIFs
     - Roam Team Videos::
