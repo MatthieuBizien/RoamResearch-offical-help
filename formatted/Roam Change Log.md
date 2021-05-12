@@ -2,6 +2,9 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [May 12th, 2021](<May 12th, 2021.md>)
+            - ### [Bug Fixes](<Bug Fixes.md>) 🛠 
+                - Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.
         - [May 7th, 2021](<May 7th, 2021.md>)
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - Block embeds will now be expanded by default
