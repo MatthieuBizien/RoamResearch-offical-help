@@ -43102,10 +43102,82 @@
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dkdjGsM4C"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620830311958,
+                            "edit-time": 1620830318634,
+                            "refs": [
+                              {
+                                "uid": "dkdjGsM4C"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Stian H\u00e5klev]]",
+                            "uid": "UGMyrMwMt"
+                          }
+                        ],
                         "create-time": 1620797581384,
                         "edit-time": 1620797662335,
                         "string": "Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.",
                         "uid": "IYauW1xDj"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IFYmBp-zm"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620830333498,
+                            "edit-time": 1620830344705,
+                            "refs": [
+                              {
+                                "uid": "IFYmBp-zm"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Filipe Silva]]",
+                            "uid": "-eigl4u1B"
+                          }
+                        ],
+                        "create-time": 1620830304805,
+                        "edit-time": 1620830311235,
+                        "string": "Fixed PDFs not rendering",
+                        "uid": "JrsqbdqL4"
                       }
                     ],
                     "create-time": 1620797576635,
@@ -43163,6 +43235,36 @@
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dkdjGsM4C"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620830319567,
+                            "edit-time": 1620830327556,
+                            "refs": [
+                              {
+                                "uid": "dkdjGsM4C"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Stian H\u00e5klev]]",
+                            "uid": "5TKzzlFoq"
+                          }
+                        ],
                         "create-time": 1620367929368,
                         "edit-time": 1620367958095,
                         "string": "Block embeds will now be expanded by default",

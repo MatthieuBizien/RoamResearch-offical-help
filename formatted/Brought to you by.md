@@ -1,6 +1,15 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Fixed PDFs not rendering
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Block embeds will now be expanded by default
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - You can now shift-click breadcrumbs/path of zoomed-in block to open in [Right Sidebar](<Right Sidebar.md>)
                     - **[Brought to you by](<Brought to you by.md>):**
 

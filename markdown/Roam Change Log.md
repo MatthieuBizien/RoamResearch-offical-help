@@ -5,9 +5,13 @@
         - [[May 12th, 2021]]
             - ### [[Bug Fixes]] 🛠 
                 - Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.
+                    - Brought to you by:: [[Stian Håklev]]
+                - Fixed PDFs not rendering
+                    - Brought to you by:: [[Filipe Silva]]
         - [[May 7th, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - Block embeds will now be expanded by default
+                    - Brought to you by:: [[Stian Håklev]]
         - [[May 4th, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - You can now shift-click breadcrumbs/path of zoomed-in block to open in [[Right Sidebar]]
