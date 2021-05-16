@@ -74,6 +74,12 @@
 - #[Query](<Query.md>)
 
 ## [Roam Change Log](<Roam Change Log.md>)
+- [Query](<Query.md>)
+
+- [Query](<Query.md>)
+
+- You can now show/hide paths of blocks in [Query](<Query.md>)
+
 - Made [Query](<Query.md>)
 
 ## [TODO/DONE](<TODO/DONE.md>)

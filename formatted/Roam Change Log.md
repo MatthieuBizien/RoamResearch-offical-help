@@ -2,6 +2,19 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [May 16th, 2021](<May 16th, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - [Pages](<Pages.md>) [Sharing](<Sharing.md>) has been re-introduced
+                    - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
+                - [Query](<Query.md>) will load 50 results at a time ((to prevent humongous queries from freezing Roam))
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
+                - [Query](<Query.md>) results can now be grouped by pages
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
+                - You can now show/hide paths of blocks in [Query](<Query.md>) results
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
+            - [Developer Notes](<Developer Notes.md>) 🧑‍💻 
+                - Added `data-uid` to [Block References](<Block References.md>)
+                    - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
         - [May 12th, 2021](<May 12th, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠 
                 - Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.

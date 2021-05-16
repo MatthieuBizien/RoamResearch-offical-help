@@ -43072,6 +43072,332 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "05-16-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "a4ul9zL8E"
+                          },
+                          {
+                            ":block/uid": "vh3S6FSr1"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "evJ14QpsV"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621139024142,
+                            "edit-time": 1621139033330,
+                            "refs": [
+                              {
+                                "uid": "evJ14QpsV"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "uid": "bNPRAmxRQ"
+                          }
+                        ],
+                        "create-time": 1621138999214,
+                        "edit-time": 1621139024158,
+                        "refs": [
+                          {
+                            "uid": "a4ul9zL8E"
+                          },
+                          {
+                            "uid": "vh3S6FSr1"
+                          }
+                        ],
+                        "string": "[[Pages]] [[Sharing]] has been re-introduced",
+                        "uid": "jvxTbwfDH"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621139036845,
+                            "edit-time": 1621139205367,
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Joshua Brown]]",
+                            "uid": "XTl8p53F7"
+                          }
+                        ],
+                        "create-time": 1621139170481,
+                        "edit-time": 1621139192605,
+                        "refs": [
+                          {
+                            "uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "string": "[[Query]] will load 50 results at a time ((to prevent humongous queries from freezing Roam))",
+                        "uid": "n30CO7Nqi"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "XTl8p53F7"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621139277318,
+                            "edit-time": 1621139277318,
+                            "refs": [
+                              {
+                                "uid": "XTl8p53F7"
+                              }
+                            ],
+                            "string": "((XTl8p53F7))",
+                            "uid": "SIGPUaQzD"
+                          }
+                        ],
+                        "create-time": 1621139205340,
+                        "edit-time": 1621139313888,
+                        "refs": [
+                          {
+                            "uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "string": "[[Query]] results can now be grouped by pages",
+                        "uid": "2moN9WFnh"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "XTl8p53F7"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621139279815,
+                            "edit-time": 1621139279815,
+                            "refs": [
+                              {
+                                "uid": "XTl8p53F7"
+                              }
+                            ],
+                            "string": "((XTl8p53F7))",
+                            "uid": "6VVwT3-4j"
+                          }
+                        ],
+                        "create-time": 1621139217713,
+                        "edit-time": 1621139329437,
+                        "refs": [
+                          {
+                            "uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "string": "You can now show/hide paths of blocks in [[Query]] results",
+                        "uid": "2T6bVpz91"
+                      }
+                    ],
+                    "create-time": 1621138717257,
+                    "edit-time": 1621138724262,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] \u2728",
+                    "uid": "MJjtOk61Z"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RtfLGrv81"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "l8uKkdhbc"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "evJ14QpsV"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621138989597,
+                            "edit-time": 1621138996642,
+                            "refs": [
+                              {
+                                "uid": "evJ14QpsV"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "uid": "2_WawTDm_"
+                          }
+                        ],
+                        "create-time": 1621138976712,
+                        "edit-time": 1621138985301,
+                        "refs": [
+                          {
+                            "uid": "l8uKkdhbc"
+                          }
+                        ],
+                        "string": "Added `data-uid` to [[Block References]]",
+                        "uid": "O0UPtXOzi"
+                      }
+                    ],
+                    "create-time": 1621138772654,
+                    "edit-time": 1621138976720,
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]] \ud83e\uddd1\u200d\ud83d\udcbb ",
+                    "uid": "m9XfXMrEn"
+                  }
+                ],
+                "create-time": 1621138714031,
+                "edit-time": 1621138716953,
+                "refs": [
+                  {
+                    "uid": "05-16-2021"
+                  }
+                ],
+                "string": "[[May 16th, 2021]]",
+                "uid": "lbU-r-De_"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "05-12-2021"
                   }
                 ],
@@ -70780,13 +71106,13 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "create-time": 1621136406473,
-    "edit-time": 1621136406473,
+    "create-time": 1621138716268,
+    "edit-time": 1621138716268,
     "title": "May 16th, 2021",
     "uid": "05-16-2021"
   }

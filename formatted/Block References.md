@@ -171,6 +171,8 @@
 #[Block References](<Block References.md>)
 
 ## [Roam Change Log](<Roam Change Log.md>)
+- Added `data-uid` to [Block References](<Block References.md>)
+
 - Made text highlights legible in [Block References](<Block References.md>)
 
 - Added shortcut hint in context menu for copying [Block References](<Block References.md>)

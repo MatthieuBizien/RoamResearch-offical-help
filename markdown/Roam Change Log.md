@@ -2,6 +2,19 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[May 16th, 2021]]
+            - [[Quality of Life Improvements]] ✨
+                - [[Pages]] [[Sharing]] has been re-introduced
+                    - Brought to you by:: [[Bardia Pourvakil]]
+                - [[Query]] will load 50 results at a time ((to prevent humongous queries from freezing Roam))
+                    - Brought to you by:: [[Joshua Brown]]
+                - [[Query]] results can now be grouped by pages
+                    - Brought to you by:: [[Joshua Brown]]
+                - You can now show/hide paths of blocks in [[Query]] results
+                    - Brought to you by:: [[Joshua Brown]]
+            - [[Developer Notes]] 🧑‍💻 
+                - Added `data-uid` to [[Block References]]
+                    - Brought to you by:: [[Bardia Pourvakil]]
         - [[May 12th, 2021]]
             - ### [[Bug Fixes]] 🛠 
                 - Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.

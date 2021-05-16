@@ -1,6 +1,21 @@
 
 # Backlinks
 ## [Roam Change Log](<Roam Change Log.md>)
+- [Pages](<Pages.md>) [Sharing](<Sharing.md>) has been re-introduced
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- [Query](<Query.md>) will load 50 results at a time ((to prevent humongous queries from freezing Roam))
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- [Query](<Query.md>) results can now be grouped by pages
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- You can now show/hide paths of blocks in [Query](<Query.md>) results
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Added `data-uid` to [Block References](<Block References.md>)
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.
                     - **[Brought to you by](<Brought to you by.md>):**
 

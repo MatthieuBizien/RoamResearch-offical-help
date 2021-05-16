@@ -40,6 +40,8 @@
 #[Pages](<Pages.md>)
 
 ## [Roam Change Log](<Roam Change Log.md>)
+- [Pages](<Pages.md>)
+
 3. When exporting a single [page]([Pages](<Pages.md>))
 
 ## [roam/render](<roam/render.md>)
