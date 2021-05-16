@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Roam Change Log](<Roam Change Log.md>)
+## [Change Log](<Change Log.md>)
 - [Pages](<Pages.md>) [Sharing](<Sharing.md>) has been re-introduced
                     - **[Brought to you by](<Brought to you by.md>):**
 
@@ -49,7 +49,7 @@
 - Fixed a bug with graph settings not appearing on local graphs
                     - **[Brought to you by](<Brought to you by.md>):**
 
-- You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
+- You can now easily manage/delete all your uploaded files by going to `... > Settings > Files`
                     - **[Brought to you by](<Brought to you by.md>):**
 
 - Pasted HTML links/images whose URL contains brackets will no longer break [Alias](<Alias.md>). Go ahead, paste that [Wikipedia](<Wikipedia.md>) page!

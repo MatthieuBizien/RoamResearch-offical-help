@@ -18762,16 +18762,16 @@
                       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     },
                     ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     },
                     "create-time": 1615440831802,
-                    "edit-time": 1615441190065,
+                    "edit-time": 1621194565484,
                     "refs": [
                       {
                         "uid": "Ec97klr7x"
                       }
                     ],
-                    "string": "Please refer to our [[Roam Change Log]] for the newest updates. ",
+                    "string": "Please refer to our [[Change Log]] for the newest updates. ",
                     "uid": "gDSf8UirG"
                   }
                 ],
@@ -43300,6 +43300,7 @@
                     ],
                     "create-time": 1621138717257,
                     "edit-time": 1621138724262,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
@@ -43883,8 +43884,8 @@
                                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                                 },
                                 "create-time": 1620193046963,
-                                "edit-time": 1620260762647,
-                                "string": "Iframe Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation\u00a0https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.",
+                                "edit-time": 1621194594716,
+                                "string": "iFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation\u00a0https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.",
                                 "uid": "kiQayH2o4"
                               }
                             ],
@@ -44371,7 +44372,7 @@
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
                         ":edit/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
                         "children": [
                           {
@@ -44416,8 +44417,8 @@
                           }
                         ],
                         "create-time": 1619674206338,
-                        "edit-time": 1619674311573,
-                        "string": "You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`",
+                        "edit-time": 1621194676875,
+                        "string": "You can now easily manage/delete all your uploaded files by going to `... > Settings > Files`",
                         "uid": "EwEymFFE4"
                       }
                     ],
@@ -48606,8 +48607,8 @@
       }
     ],
     "create-time": 1614776091631,
-    "edit-time": 1614776091631,
-    "title": "Roam Change Log",
+    "edit-time": 1621194565484,
+    "title": "Change Log",
     "uid": "Ec97klr7x"
   },
   {

@@ -3,7 +3,7 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [[May 16th, 2021]]
-            - [[Quality of Life Improvements]] ✨
+            - ### [[Quality of Life Improvements]] ✨
                 - [[Pages]] [[Sharing]] has been re-introduced
                     - Brought to you by:: [[Bardia Pourvakil]]
                 - [[Query]] will load 50 results at a time ((to prevent humongous queries from freezing Roam))
@@ -37,7 +37,7 @@
                     - Made text highlights legible in [[Block References]] previews
                         - Brought to you by:: [[Bardia Pourvakil]]
                     - ### [[Developer Notes]] 🧑‍💻
-                        - Iframe Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
+                        - iFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
         - [[May 3rd, 2021]]
             - ### [[New Features]] 🚀
                 - Hidden feature for [[Roam Team]]'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.
@@ -57,7 +57,7 @@
                     - Brought to you by:: [[Kifah Meeran]]
         - [[April 29th, 2021]]
             - ### [[New Features]] 🚀
-                - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
+                - You can now easily manage/delete all your uploaded files by going to `... > Settings > Files`
                     - Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]] [[Joshua Brown]]
             - ### [[Bug Fixes]] 🛠
                 - Pasted HTML links/images whose URL contains brackets will no longer break [[Alias]]. Go ahead, paste that [[Wikipedia]] page!

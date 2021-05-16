@@ -20,6 +20,6 @@
         - We do our best to keep the change log up to date, but because [we release very frequently](((PBQARwWkt))), sometimes the change log is a few days behind Conor's twitter updates
 
 # Backlinks
-## [Roam Change Log](<Roam Change Log.md>)
+## [Change Log](<Change Log.md>)
 - [Updating Roam]([Updating Roam](<Updating Roam.md>))
 

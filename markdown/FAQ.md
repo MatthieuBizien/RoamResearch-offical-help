@@ -334,4 +334,4 @@
         - **Remember!** When you take a screenshot of your console logs, ^^look for the red errors (not orange warning)^^ in the console log, and ^^ignore sentry/amplitude warnings^^.
         - Please include these files in your bug reports or in any support emails to help us help you!
         -  
-            - Please refer to our [[Roam Change Log]] for the newest updates. 
+            - Please refer to our [[Change Log]] for the newest updates. 

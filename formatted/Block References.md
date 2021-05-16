@@ -118,6 +118,13 @@
 
 #[Blocks](<Blocks.md>) | #[Block References](<Block References.md>)
 
+## [Change Log](<Change Log.md>)
+- Added `data-uid` to [Block References](<Block References.md>)
+
+- Made text highlights legible in [Block References](<Block References.md>)
+
+- Added shortcut hint in context menu for copying [Block References](<Block References.md>)
+
 ## [Chinese](<Chinese.md>)
 #[Page References](<Page References.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Block References](<Block References.md>)
 
@@ -169,13 +176,6 @@
 
 ## [Right Sidebar](<Right Sidebar.md>)
 #[Block References](<Block References.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- Added `data-uid` to [Block References](<Block References.md>)
-
-- Made text highlights legible in [Block References](<Block References.md>)
-
-- Added shortcut hint in context menu for copying [Block References](<Block References.md>)
 
 ## [Russian](<Russian.md>)
 #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>) | #[Graph Overview](<Graph Overview.md>) | #[Unlinked References](<Unlinked References.md>) | #[Daily Notes](<Daily Notes.md>) | #[Block References](<Block References.md>)

@@ -6,6 +6,9 @@
 ## [Block Context Menu](<Block Context Menu.md>)
 - Mermaid diagrams combined with version control in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
+## [Change Log](<Change Log.md>)
+- **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>) [Conor White-Sullivan](<Conor White-Sullivan.md>)
+
 ## [Current time](<Current time.md>)
 - Task Management by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
@@ -35,9 +38,6 @@
 
 ## [Right Sidebar](<Right Sidebar.md>)
 - ### Sidebar in Roam by [Conor White-Sullivan](<Conor White-Sullivan.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>) [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 ## [Table](<Table.md>)
 - ### Tables with Complex Cells (no audio) by [Conor White-Sullivan](<Conor White-Sullivan.md>)

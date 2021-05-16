@@ -6,6 +6,9 @@
 ## [Block References](<Block References.md>)
 - #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>)
 
+## [Change Log](<Change Log.md>)
+1. [Block Embed](<Block Embed.md>)s
+
 ## [Current time](<Current time.md>)
 #[TODO/DONE](<TODO/DONE.md>) | #[Daily Notes](<Daily Notes.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Block Embed](<Block Embed.md>)
 
@@ -17,9 +20,6 @@
 
 ## [Right Sidebar](<Right Sidebar.md>)
 - #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-1. [Block Embed](<Block Embed.md>)s
 
 ## [Spanish](<Spanish.md>)
 #[Daily Notes](<Daily Notes.md>) | #[Page References](<Page References.md>) | #[Formatting](<Formatting.md>) | #[Graph Overview](<Graph Overview.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Linked References](<Linked References.md>) | #[Navigation](<Navigation.md>) | #[Block References](<Block References.md>) | #[Block Embed](<Block Embed.md>)

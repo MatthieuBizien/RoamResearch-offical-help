@@ -15,6 +15,9 @@
 - #.doc-mode
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- [Pages](<Pages.md>) [Sharing](<Sharing.md>)
+
 ## [FAQ](<FAQ.md>)
 - You can only access the local graphs on the computer you hosted the local graphs with, whereas you can access the hosted graphs on any computer with your Roam account, as well as [Sharing](<Sharing.md>)
 
@@ -27,7 +30,4 @@
 - See [Sharing](<Sharing.md>)
 
 - See [Sharing](<Sharing.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- [Pages](<Pages.md>) [Sharing](<Sharing.md>)
 

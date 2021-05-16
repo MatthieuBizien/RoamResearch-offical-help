@@ -3,7 +3,7 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [May 16th, 2021](<May 16th, 2021.md>)
-            - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - [Pages](<Pages.md>) [Sharing](<Sharing.md>) has been re-introduced
                     - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
                 - [Query](<Query.md>) will load 50 results at a time ((to prevent humongous queries from freezing Roam))
@@ -37,7 +37,7 @@
                     - Made text highlights legible in [Block References](<Block References.md>) previews
                         - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
                     - ### [Developer Notes](<Developer Notes.md>) 🧑‍💻
-                        - Iframe Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
+                        - iFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
         - [May 3rd, 2021](<May 3rd, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
                 - Hidden feature for [Roam Team](<Roam Team.md>)'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.
@@ -57,7 +57,7 @@
                     - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
         - [April 29th, 2021](<April 29th, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
-                - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
+                - You can now easily manage/delete all your uploaded files by going to `... > Settings > Files`
                     - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>) [Kifah Meeran](<Kifah Meeran.md>) [Joshua Brown](<Joshua Brown.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠
                 - Pasted HTML links/images whose URL contains brackets will no longer break [Alias](<Alias.md>). Go ahead, paste that [Wikipedia](<Wikipedia.md>) page!
@@ -261,5 +261,5 @@
 
 # Backlinks
 ## [FAQ](<FAQ.md>)
-- Please refer to our [Roam Change Log](<Roam Change Log.md>)
+- Please refer to our [Change Log](<Change Log.md>)
 

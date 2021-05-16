@@ -43,6 +43,9 @@
 
 - #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)
 
+## [Change Log](<Change Log.md>)
+- You can now shift-click breadcrumbs/path of zoomed-in block to open in [Right Sidebar](<Right Sidebar.md>)
+
 ## [FAQ](<FAQ.md>)
 - Once you decide the page where you want your pomodoro timer to live, open that same page in the [right sidebar]([Right Sidebar](<Right Sidebar.md>))
 
@@ -82,9 +85,6 @@
 #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)
 
 - #[Right Sidebar](<Right Sidebar.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- You can now shift-click breadcrumbs/path of zoomed-in block to open in [Right Sidebar](<Right Sidebar.md>)
 
 ## [Russian](<Russian.md>)
 #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>) | #[Graph Overview](<Graph Overview.md>) | #[Unlinked References](<Unlinked References.md>) | #[Daily Notes](<Daily Notes.md>) | #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)

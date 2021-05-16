@@ -25,6 +25,11 @@
 ## [Bidirectional linking](<Bidirectional linking.md>)
 - It doesn't matter what [page]([Pages](<Pages.md>))
 
+## [Change Log](<Change Log.md>)
+- [Pages](<Pages.md>)
+
+3. When exporting a single [page]([Pages](<Pages.md>))
+
 ## [FAQ](<FAQ.md>)
 - ### **How do I delete a** [page]([Pages](<Pages.md>))
 
@@ -38,11 +43,6 @@
 
 ## [Pages](<Pages.md>)
 #[Pages](<Pages.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- [Pages](<Pages.md>)
-
-3. When exporting a single [page]([Pages](<Pages.md>))
 
 ## [roam/render](<roam/render.md>)
 (u/parse "[Pages](<Pages.md>)

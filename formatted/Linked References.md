@@ -16,6 +16,11 @@
 ## [Block References](<Block References.md>)
 #[Linked References](<Linked References.md>)
 
+## [Change Log](<Change Log.md>)
+- Made [Query](<Query.md>) and [Linked References](<Linked References.md>)
+
+- Fixed bug which created orphan blocks when deleting in [Linked References](<Linked References.md>)
+
 ## [Chinese](<Chinese.md>)
 #[Page References](<Page References.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Block References](<Block References.md>) | #[Linked References](<Linked References.md>)
 
@@ -76,11 +81,6 @@
 #[Right Sidebar](<Right Sidebar.md>) | #[Linked References](<Linked References.md>)
 
 - #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>) | #[Linked References](<Linked References.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- Made [Query](<Query.md>) and [Linked References](<Linked References.md>)
-
-- Fixed bug which created orphan blocks when deleting in [Linked References](<Linked References.md>)
 
 ## [Russian](<Russian.md>)
 #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>)

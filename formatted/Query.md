@@ -47,6 +47,15 @@
 ## [Beginner's Guide](<Beginner's Guide.md>)
 - #[Daily Notes](<Daily Notes.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Linked References](<Linked References.md>) #[Book](<Book.md>) | #[Sidebar](<Sidebar.md>) | #[Tags](<Tags.md>) | #[Evergreen Notes](<Evergreen Notes.md>) | #[Block References](<Block References.md>) | #[Templates](<Templates.md>) | #[Query](<Query.md>)
 
+## [Change Log](<Change Log.md>)
+- [Query](<Query.md>)
+
+- [Query](<Query.md>)
+
+- You can now show/hide paths of blocks in [Query](<Query.md>)
+
+- Made [Query](<Query.md>)
+
 ## [Date picker](<Date picker.md>)
 #[Date picker](<Date picker.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Tags](<Tags.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Query](<Query.md>)
 
@@ -72,15 +81,6 @@
 #[Query](<Query.md>)
 
 - #[Query](<Query.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- [Query](<Query.md>)
-
-- [Query](<Query.md>)
-
-- You can now show/hide paths of blocks in [Query](<Query.md>)
-
-- Made [Query](<Query.md>)
 
 ## [TODO/DONE](<TODO/DONE.md>)
 #[TODO/DONE](<TODO/DONE.md>) | #[Query](<Query.md>)

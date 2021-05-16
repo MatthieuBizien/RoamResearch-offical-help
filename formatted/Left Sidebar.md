@@ -7,14 +7,14 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FeFf25Fq_-A.gif?alt=media&token=f8a7adc0-6992-4b9e-9b1b-75ef0f209220)
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- Cleaned up the [Left Sidebar](<Left Sidebar.md>)
+
 ## [Features](<Features.md>)
 - ### [Left Sidebar]([Left Sidebar](<Left Sidebar.md>))
 
 ## [Graphs and Settings](<Graphs and Settings.md>)
 - ### Via [Left Sidebar](<Left Sidebar.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- Cleaned up the [Left Sidebar](<Left Sidebar.md>)
 
 ## [Word count](<Word count.md>)
 - You can also go to ALL PAGES on your [Left Sidebar](<Left Sidebar.md>)

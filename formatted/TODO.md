@@ -5,6 +5,9 @@
 ## [ Commands](< Commands.md>)
 - [TODO](<TODO.md>)
 
+## [Change Log](<Change Log.md>)
+- Improved mobile menu bar and replaced Drawing helper button with [TODO](<TODO.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -33,9 +36,6 @@
 
 ## [Query](<Query.md>)
 {{query: {and: [TODO](<TODO.md>)
-
-## [Roam Change Log](<Roam Change Log.md>)
-- Improved mobile menu bar and replaced Drawing helper button with [TODO](<TODO.md>)
 
 ## [Welcome to Roam v2](<Welcome to Roam v2.md>)
 - {{[TODO](<TODO.md>)}
