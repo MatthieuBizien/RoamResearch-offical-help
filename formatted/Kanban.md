@@ -5,8 +5,8 @@
             - Must Read
                 - [White Paper](<White Paper.md>)
             - [Books](<Books.md>)
-                - [The Beginning of Infinity](<The Beginning of Infinity.md>)
                 - [Good Strategy/Bad Strategy](<Good Strategy/Bad Strategy.md>)
+                - [The Beginning of Infinity](<The Beginning of Infinity.md>)
                 - [Principles](<Principles.md>)
                 - [Shape Up](<Shape Up.md>)
                 - [How to Take Smart Notes](<How to Take Smart Notes.md>)

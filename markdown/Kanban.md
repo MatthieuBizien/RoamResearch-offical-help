@@ -5,8 +5,8 @@
             - Must Read
                 - [[White Paper]]
             - [[Books]]
-                - [[The Beginning of Infinity]]
                 - [[Good Strategy/Bad Strategy]]
+                - [[The Beginning of Infinity]]
                 - [[Principles]]
                 - [[Shape Up]]
                 - [[How to Take Smart Notes]]

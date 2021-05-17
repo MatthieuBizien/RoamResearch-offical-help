@@ -4350,28 +4350,6 @@
                       {
                         ":block/refs": [
                           {
-                            ":block/uid": "RGQorRldO"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        },
-                        "create-time": 1615044784697,
-                        "edit-time": 1615045353925,
-                        "refs": [
-                          {
-                            "uid": "RGQorRldO"
-                          }
-                        ],
-                        "string": "[[The Beginning of Infinity]]",
-                        "uid": "SCPGWz57x"
-                      },
-                      {
-                        ":block/refs": [
-                          {
                             ":block/uid": "H8qQGpBOD"
                           }
                         ],
@@ -4382,7 +4360,7 @@
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         },
                         "create-time": 1615044784697,
-                        "edit-time": 1615045353925,
+                        "edit-time": 1621262980627,
                         "refs": [
                           {
                             "uid": "H8qQGpBOD"
@@ -4390,6 +4368,28 @@
                         ],
                         "string": "[[Good Strategy/Bad Strategy]]",
                         "uid": "ikBk9Ir0v"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RGQorRldO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "create-time": 1615044784697,
+                        "edit-time": 1621262980614,
+                        "refs": [
+                          {
+                            "uid": "RGQorRldO"
+                          }
+                        ],
+                        "string": "[[The Beginning of Infinity]]",
+                        "uid": "SCPGWz57x"
                       },
                       {
                         ":block/refs": [
@@ -4404,7 +4404,7 @@
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         },
                         "create-time": 1615044784697,
-                        "edit-time": 1615045353925,
+                        "edit-time": 1621262980610,
                         "refs": [
                           {
                             "uid": "jsUB3NU4_"
@@ -4426,7 +4426,7 @@
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         },
                         "create-time": 1615044784697,
-                        "edit-time": 1615045353925,
+                        "edit-time": 1621262980624,
                         "refs": [
                           {
                             "uid": "JLvXJk-qz"
@@ -4448,7 +4448,7 @@
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         },
                         "create-time": 1615044784697,
-                        "edit-time": 1615045353925,
+                        "edit-time": 1621262980607,
                         "refs": [
                           {
                             "uid": "b3FP8Qm3A"
@@ -7684,10 +7684,10 @@
       },
       {
         ":create/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         },
         ":edit/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         },
         "children": [
           {
@@ -7720,10 +7720,10 @@
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 },
                 "create-time": 1615032374028,
-                "edit-time": 1615032855557,
+                "edit-time": 1621263210115,
                 "refs": [
                   {
                     "uid": "pg0UYWwfj"
@@ -7739,10 +7739,10 @@
             "uid": "KnNj6ObNJ"
           }
         ],
-        "create-time": 1615032374028,
-        "edit-time": 1615032374028,
+        "create-time": 1621263181644,
+        "edit-time": 1621263368257,
         "string": "**Each bullet you see is a __block__, and we write them inside pages like this one.**",
-        "uid": "J3diqpl0I"
+        "uid": "RqB_Z18kR"
       },
       {
         ":create/user": {
@@ -71119,13 +71119,13 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
-    "create-time": 1621261299719,
-    "edit-time": 1621261299720,
+    "create-time": 1621262614513,
+    "edit-time": 1621262614513,
     "title": "May 17th, 2021",
     "uid": "05-17-2021"
   }
