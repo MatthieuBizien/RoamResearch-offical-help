@@ -24,6 +24,9 @@ Your future self will thank you!
 
 - #[Daily Notes](<Daily Notes.md>)
 
+## [Change Log](<Change Log.md>)
+- You can now quickly jump to/between [Daily Notes](<Daily Notes.md>)
+
 ## [Current time](<Current time.md>)
 #[TODO/DONE](<TODO/DONE.md>) | #[Daily Notes](<Daily Notes.md>)
 

@@ -2,6 +2,13 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [May 17th, 2021](<May 17th, 2021.md>)
+            - ### [New Features](<New Features.md>) 🚀
+                - You can now quickly jump to/between [Daily Notes](<Daily Notes.md>) pages using the date picker!
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e)
+                    - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>) [Joshua Brown](<Joshua Brown.md>)
+                    - **[Special mention to](<Special mention to.md>):** [Roam42](<Roam42.md>) [Clara Pastore](<Clara Pastore.md>)
+            - [Secret Feature](<Secret Feature.md>) - to be announced after round on testing
         - [May 16th, 2021](<May 16th, 2021.md>)
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - [Pages](<Pages.md>) [Sharing](<Sharing.md>) has been re-introduced
@@ -12,7 +19,7 @@
                     - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
                 - You can now show/hide paths of blocks in [Query](<Query.md>) results
                     - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
-            - [Developer Notes](<Developer Notes.md>) 🧑‍💻 
+            - ### [Developer Notes](<Developer Notes.md>) 🧑‍💻 
                 - Added `data-uid` to [Block References](<Block References.md>)
                     - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
         - [May 12th, 2021](<May 12th, 2021.md>)

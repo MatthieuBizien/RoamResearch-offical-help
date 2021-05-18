@@ -43072,6 +43072,197 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "05-17-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "eOaNXBvXZ"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e": {
+                                  ":height": null,
+                                  ":width": 347
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621318678785,
+                            "edit-time": 1621318688731,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e": {
+                                  "height": null,
+                                  "width": 347
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e)",
+                            "uid": "E6BWxJ06S"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621318448447,
+                            "edit-time": 1621318457298,
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Kifah Meeran]] [[Joshua Brown]]",
+                            "uid": "xErJjWxk-"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "pxtI56Wn5"
+                              },
+                              {
+                                ":block/uid": "bi6DFS7g3"
+                              },
+                              {
+                                ":block/uid": "ExJzrkebg"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621318493793,
+                            "edit-time": 1621318513170,
+                            "refs": [
+                              {
+                                "uid": "pxtI56Wn5"
+                              },
+                              {
+                                "uid": "bi6DFS7g3"
+                              },
+                              {
+                                "uid": "ExJzrkebg"
+                              }
+                            ],
+                            "string": "Special mention to:: [[Roam42]] [[Clara Pastore]]",
+                            "uid": "bLg8JaFzZ"
+                          }
+                        ],
+                        "create-time": 1621318369275,
+                        "edit-time": 1621318437910,
+                        "refs": [
+                          {
+                            "uid": "eOaNXBvXZ"
+                          }
+                        ],
+                        "string": "You can now quickly jump to/between [[Daily Notes]] pages using the date picker!",
+                        "uid": "OKMUuH_TZ"
+                      }
+                    ],
+                    "create-time": 1621318341157,
+                    "edit-time": 1621318368070,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] \ud83d\ude80",
+                    "uid": "3DQQuG_61"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "EpL5GUHaa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1621316221901,
+                    "edit-time": 1621316259228,
+                    "refs": [
+                      {
+                        "uid": "EpL5GUHaa"
+                      }
+                    ],
+                    "string": "[[Secret Feature]] - to be announced after round on testing",
+                    "uid": "V1RLPs0ai"
+                  }
+                ],
+                "create-time": 1621316209749,
+                "edit-time": 1621316221920,
+                "refs": [
+                  {
+                    "uid": "05-17-2021"
+                  }
+                ],
+                "string": "[[May 17th, 2021]]",
+                "uid": "DfQWNRv0u"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "05-16-2021"
                   }
                 ],
@@ -43377,6 +43568,7 @@
                     ],
                     "create-time": 1621138772654,
                     "edit-time": 1621138976720,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "RtfLGrv81"
@@ -71131,13 +71323,61 @@
   },
   {
     ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1621316233981,
+    "edit-time": 1621316233994,
+    "title": "Secret Feature",
+    "uid": "EpL5GUHaa"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1621318498886,
+    "edit-time": 1621318498887,
+    "title": "Special mention to",
+    "uid": "pxtI56Wn5"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1621318513172,
+    "edit-time": 1621318513173,
+    "title": "Roam42",
+    "uid": "bi6DFS7g3"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1621318513172,
+    "edit-time": 1621318513173,
+    "title": "Clara Pastore",
+    "uid": "ExJzrkebg"
+  },
+  {
+    ":create/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1621315852421,
-    "edit-time": 1621315852421,
+    "create-time": 1621319291009,
+    "edit-time": 1621319291009,
     "title": "May 18th, 2021",
     "uid": "05-18-2021"
   }

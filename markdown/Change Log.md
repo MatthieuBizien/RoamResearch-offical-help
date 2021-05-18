@@ -2,6 +2,13 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[May 17th, 2021]]
+            - ### [[New Features]] 🚀
+                - You can now quickly jump to/between [[Daily Notes]] pages using the date picker!
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e)
+                    - Brought to you by:: [[Kifah Meeran]] [[Joshua Brown]]
+                    - Special mention to:: [[Roam42]] [[Clara Pastore]]
+            - [[Secret Feature]] - to be announced after round on testing
         - [[May 16th, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - [[Pages]] [[Sharing]] has been re-introduced
@@ -12,7 +19,7 @@
                     - Brought to you by:: [[Joshua Brown]]
                 - You can now show/hide paths of blocks in [[Query]] results
                     - Brought to you by:: [[Joshua Brown]]
-            - [[Developer Notes]] 🧑‍💻 
+            - ### [[Developer Notes]] 🧑‍💻 
                 - Added `data-uid` to [[Block References]]
                     - Brought to you by:: [[Bardia Pourvakil]]
         - [[May 12th, 2021]]
