@@ -899,6 +899,32 @@
     },
     "children": [
       {
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1621450206354,
+            "edit-time": 1621450214365,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCGJbyfjuGM.gif?alt=media&token=8bcd4699-2548-43b1-844c-dc91d675ae9f)",
+            "uid": "o6uyFqegt"
+          }
+        ],
+        "create-time": 1621450034015,
+        "edit-time": 1621450257614,
+        "string": "Turn key commands instruction on with custom components like this",
+        "uid": "ZsaHDoMqW"
+      },
+      {
         ":block/refs": [
           {
             ":block/uid": "IzVR1PHWM"
