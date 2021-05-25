@@ -10,8 +10,8 @@
                     - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
                 - Made date picker faster
                     - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
-            - ### [New Features](<New Features.md>) 🚀
-                - Added support for [Kroki](<Kroki.md>) diagrams ([Link](https://kroki.io))
+            - ### [New Features](<New Features.md>) 🚀 #.hide
+                - Added support for [Kroki](<Kroki.md>) diagrams ([Link](https://kroki.io)) #.hide
                     - **[How it works](<How it works.md>):**
                         1. Write your kroki code in a code/regular block, for instance,
                             - ```plain text

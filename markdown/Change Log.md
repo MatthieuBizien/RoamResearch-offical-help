@@ -10,8 +10,8 @@
                     - Brought to you by:: [[Joshua Brown]]
                 - Made date picker faster
                     - Brought to you by:: [[Kifah Meeran]]
-            - ### [[New Features]] 🚀
-                - Added support for [[Kroki]] diagrams ([Link](https://kroki.io))
+            - ### [[New Features]] 🚀 #.hide
+                - Added support for [[Kroki]] diagrams ([Link](https://kroki.io)) #.hide
                     - How it works::
                         1. Write your kroki code in a code/regular block, for instance,
                             - ```plain text
