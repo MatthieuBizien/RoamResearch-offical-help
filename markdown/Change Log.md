@@ -2,6 +2,32 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[May 25th, 2021]]
+            - ### [[Bug Fixes]] 🛠 
+                - Reverted Block embeds will now be expanded by default
+                    - Brought to you by:: [[Joshua Brown]]
+                - Comment button will no longer keep showing up after taking screenshots or switching apps
+                    - Brought to you by:: [[Joshua Brown]]
+                - Made date picker faster
+                    - Brought to you by:: [[Kifah Meeran]]
+            - ### [[New Features]] 🚀
+                - Added support for [[Kroki]] diagrams ([Link](https://kroki.io))
+                    - How it works::
+                        1. Write your kroki code in a code/regular block, for instance,
+                            - ```plain text
+graph TD
+  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
+  B --> C{ How to contribute? }
+  C --> D[ Reporting bugs ]
+  C --> E[ Sharing ideas ]
+  C --> F[ Advocating ]```
+                        2. Then use the following syntax
+                            - `{{[[kroki]]: TYPE_HERE: BLOCK_REF_HERE}}`
+                                - so for instance, `{{[[kroki]]: mermaid:((13fZ8yxDr))}}` will produce:
+                                    - {{[[kroki]]: mermaid:((13fZ8yxDr))}}
+                    - Screenshots::
+                        - ![](https://camo.githubusercontent.com/a4f4453e86abb6804f9f92ca477e8be856653aad9571ad62b728b22ee4e0634a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666972657363726970742d35373761322e61707073706f742e636f6d2f6f2f696d6773253246617070253246726f616d2d7465616d253246682d65424e786637314a2e706e673f616c743d6d6564696126746f6b656e3d31386662333735362d336163372d346262362d616363612d393166333562626638633432)
+                    - Brought to you by:: [[Wilker Lucio]]
         - [[May 17th, 2021]]
             - ### [[New Features]] 🚀
                 - You can now quickly jump to/between [[Daily Notes]] pages using the date picker!
@@ -10,7 +36,6 @@
                     - Special mention to:: [[Roam42]] [[Clara Pastore]]
             - Open graph-view for page has been moved into the dropdown menu
             - [[Secret Feature]] - to be announced after round on testing
-            - 
         - [[May 16th, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - [[Pages]] [[Sharing]] has been re-introduced

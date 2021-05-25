@@ -43098,6 +43098,424 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "05-25-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "GIS4PCuUD"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621922588587,
+                            "edit-time": 1621922593516,
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Joshua Brown]]",
+                            "uid": "XH8Cpz9eV"
+                          }
+                        ],
+                        "create-time": 1621922110593,
+                        "edit-time": 1621922141250,
+                        "refs": [
+                          {
+                            "uid": "GIS4PCuUD"
+                          }
+                        ],
+                        "string": "Reverted ((GIS4PCuUD))",
+                        "uid": "QqPX4Q7Du"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621922581878,
+                            "edit-time": 1621922587989,
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Joshua Brown]]",
+                            "uid": "JL0fnCa3A"
+                          }
+                        ],
+                        "create-time": 1621922142573,
+                        "edit-time": 1621923524063,
+                        "string": "Comment button will no longer keep showing up after taking screenshots or switching apps",
+                        "uid": "O5j6Hkjnk"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621922573744,
+                            "edit-time": 1621922581400,
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "uid": "44LRUgAQP"
+                          }
+                        ],
+                        "create-time": 1621922166924,
+                        "edit-time": 1621922204899,
+                        "string": "Made date picker faster",
+                        "uid": "OZ1BLWMCY"
+                      }
+                    ],
+                    "create-time": 1621922177189,
+                    "edit-time": 1621922178083,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] \ud83d\udee0 ",
+                    "uid": "inO3MDcYU"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "-UhkK0udN"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0BOXaEXNf"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "create-time": 1621922871144,
+                                    "edit-time": 1621923660912,
+                                    "string": "```plain text\ngraph TD\n  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )\n  B --> C{ How to contribute? }\n  C --> D[ Reporting bugs ]\n  C --> E[ Sharing ideas ]\n  C --> F[ Advocating ]```",
+                                    "uid": "13fZ8yxDr"
+                                  }
+                                ],
+                                "create-time": 1621922813333,
+                                "edit-time": 1621922871167,
+                                "string": "Write your kroki code in a code/regular block, for instance,",
+                                "uid": "kb4IwxLj9"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "children": [
+                                      {
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        "children": [
+                                          {
+                                            ":block/refs": [
+                                              {
+                                                ":block/uid": "13fZ8yxDr"
+                                              },
+                                              {
+                                                ":block/uid": "Z4inhsIfA"
+                                              }
+                                            ],
+                                            ":create/user": {
+                                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                            },
+                                            "create-time": 1621922912130,
+                                            "edit-time": 1621923306289,
+                                            "refs": [
+                                              {
+                                                "uid": "13fZ8yxDr"
+                                              },
+                                              {
+                                                "uid": "Z4inhsIfA"
+                                              }
+                                            ],
+                                            "string": "{{[[kroki]]: mermaid:((13fZ8yxDr))}}",
+                                            "uid": "doTfwPp1i"
+                                          }
+                                        ],
+                                        "create-time": 1621922723290,
+                                        "edit-time": 1621923291408,
+                                        "string": "so for instance, `{{[[kroki]]: mermaid:((13fZ8yxDr))}}` will produce:",
+                                        "uid": "qK2c1ohDl"
+                                      }
+                                    ],
+                                    "create-time": 1621922741398,
+                                    "edit-time": 1621922761515,
+                                    "string": "`{{[[kroki]]: TYPE_HERE: BLOCK_REF_HERE}}`",
+                                    "uid": "dmKqlL4vL"
+                                  }
+                                ],
+                                "create-time": 1621922839113,
+                                "edit-time": 1621922847623,
+                                "string": "Then use the following syntax",
+                                "uid": "4-SBg0MMK"
+                              }
+                            ],
+                            "create-time": 1621922721688,
+                            "edit-time": 1621922722397,
+                            "refs": [
+                              {
+                                "uid": "0BOXaEXNf"
+                              }
+                            ],
+                            "string": "How it works::",
+                            "uid": "apb6_F7R1"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Aa7fywYAg"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1621923447847,
+                                "edit-time": 1621923491563,
+                                "string": "![](https://camo.githubusercontent.com/a4f4453e86abb6804f9f92ca477e8be856653aad9571ad62b728b22ee4e0634a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666972657363726970742d35373761322e61707073706f742e636f6d2f6f2f696d6773253246617070253246726f616d2d7465616d253246682d65424e786637314a2e706e673f616c743d6d6564696126746f6b656e3d31386662333735362d336163372d346262362d616363612d393166333562626638633432)",
+                                "uid": "R1jVsuFPo"
+                              }
+                            ],
+                            "create-time": 1621923443898,
+                            "edit-time": 1621923447855,
+                            "refs": [
+                              {
+                                "uid": "Aa7fywYAg"
+                              }
+                            ],
+                            "string": "Screenshots::",
+                            "uid": "nkJuHm2zv"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              },
+                              {
+                                ":block/uid": "A1MxhqDRI"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621923408290,
+                            "edit-time": 1621923416245,
+                            "refs": [
+                              {
+                                "uid": "5K19Sylm0"
+                              },
+                              {
+                                "uid": "A1MxhqDRI"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Wilker Lucio]]",
+                            "uid": "XMiypOVXQ"
+                          }
+                        ],
+                        "create-time": 1621922650545,
+                        "edit-time": 1621923386762,
+                        "refs": [
+                          {
+                            "uid": "-UhkK0udN"
+                          }
+                        ],
+                        "string": "Added support for [[Kroki]] diagrams ([Link](https://kroki.io))",
+                        "uid": "juWT6PCW3"
+                      }
+                    ],
+                    "create-time": 1621922648400,
+                    "edit-time": 1621922650562,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] \ud83d\ude80",
+                    "uid": "80S0GDrCM"
+                  }
+                ],
+                "create-time": 1621922105707,
+                "edit-time": 1621922110612,
+                "refs": [
+                  {
+                    "uid": "05-25-2021"
+                  }
+                ],
+                "string": "[[May 25th, 2021]]",
+                "uid": "ZupD3G3NA"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "05-17-2021"
                   }
                 ],
@@ -43286,18 +43704,6 @@
                     ],
                     "string": "[[Secret Feature]] - to be announced after round on testing",
                     "uid": "V1RLPs0ai"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    "create-time": 1621322221023,
-                    "edit-time": 1621322221023,
-                    "string": "",
-                    "uid": "xuC9LNCUf"
                   }
                 ],
                 "create-time": 1621316209749,
@@ -71519,14 +71925,50 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "create-time": 1621921483523,
-    "edit-time": 1621921483523,
+    "create-time": 1621922110031,
+    "edit-time": 1621922110031,
     "title": "May 25th, 2021",
     "uid": "05-25-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1621922658764,
+    "edit-time": 1621922658766,
+    "title": "Kroki",
+    "uid": "-UhkK0udN"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1621922721390,
+    "edit-time": 1621922721412,
+    "title": "How it works",
+    "uid": "0BOXaEXNf"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1621922913358,
+    "edit-time": 1621922913359,
+    "title": "kroki",
+    "uid": "Z4inhsIfA"
   }
 ]

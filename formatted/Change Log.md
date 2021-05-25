@@ -2,6 +2,32 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [May 25th, 2021](<May 25th, 2021.md>)
+            - ### [Bug Fixes](<Bug Fixes.md>) 🛠 
+                - Reverted Block embeds will now be expanded by default
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
+                - Comment button will no longer keep showing up after taking screenshots or switching apps
+                    - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
+                - Made date picker faster
+                    - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
+            - ### [New Features](<New Features.md>) 🚀
+                - Added support for [Kroki](<Kroki.md>) diagrams ([Link](https://kroki.io))
+                    - **[How it works](<How it works.md>):**
+                        1. Write your kroki code in a code/regular block, for instance,
+                            - ```plain text
+graph TD
+  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
+  B --> C{ How to contribute? }
+  C --> D[ Reporting bugs ]
+  C --> E[ Sharing ideas ]
+  C --> F[ Advocating ]```
+                        2. Then use the following syntax
+                            - `{{[kroki](<kroki.md>): TYPE_HERE: BLOCK_REF_HERE}}`
+                                - so for instance, `{{[kroki](<kroki.md>): mermaid:((13fZ8yxDr))}}` will produce:
+                                    - {{[kroki](<kroki.md>): mermaid:((13fZ8yxDr))}}
+                    - **[Screenshots](<Screenshots.md>):**
+                        - ![](https://camo.githubusercontent.com/a4f4453e86abb6804f9f92ca477e8be856653aad9571ad62b728b22ee4e0634a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666972657363726970742d35373761322e61707073706f742e636f6d2f6f2f696d6773253246617070253246726f616d2d7465616d253246682d65424e786637314a2e706e673f616c743d6d6564696126746f6b656e3d31386662333735362d336163372d346262362d616363612d393166333562626638633432)
+                    - **[Brought to you by](<Brought to you by.md>):** [Wilker Lucio](<Wilker Lucio.md>)
         - [May 17th, 2021](<May 17th, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
                 - You can now quickly jump to/between [Daily Notes](<Daily Notes.md>) pages using the date picker!
@@ -10,7 +36,6 @@
                     - **[Special mention to](<Special mention to.md>):** [Roam42](<Roam42.md>) [Clara Pastore](<Clara Pastore.md>)
             - Open graph-view for page has been moved into the dropdown menu
             - [Secret Feature](<Secret Feature.md>) - to be announced after round on testing
-            - 
         - [May 16th, 2021](<May 16th, 2021.md>)
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - [Pages](<Pages.md>) [Sharing](<Sharing.md>) has been re-introduced

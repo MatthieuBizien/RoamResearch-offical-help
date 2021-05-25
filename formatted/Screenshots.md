@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- {{[kroki](<kroki.md>): mermaid:((13fZ8yxDr))}}
+                    - **[Screenshots](<Screenshots.md>):**
+
 ## [Themes](<Themes.md>)
 - ### ["Advaita" aka Better Dark Age / Dracula Pro](<"Advaita" aka Better Dark Age / Dracula Pro.md>)
             - **[Screenshots](<Screenshots.md>):**
