@@ -10,6 +10,8 @@
                     - Brought to you by:: [[Joshua Brown]]
                 - Made date picker faster
                     - Brought to you by:: [[Kifah Meeran]]
+                - Fixed pasting multiple blocks multiple times
+                    - Brought to you by:: [[Filipe Silva]]
             - ### [[New Features]] 🚀 #.hide
                 - Added support for [[Kroki]] diagrams ([Link](https://kroki.io)) #.hide
                     - How it works::

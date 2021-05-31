@@ -10,6 +10,8 @@
                     - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>)
                 - Made date picker faster
                     - **[Brought to you by](<Brought to you by.md>):** [Kifah Meeran](<Kifah Meeran.md>)
+                - Fixed pasting multiple blocks multiple times
+                    - **[Brought to you by](<Brought to you by.md>):** [Filipe Silva](<Filipe Silva.md>)
             - ### [New Features](<New Features.md>) 🚀 #.hide
                 - Added support for [Kroki](<Kroki.md>) diagrams ([Link](https://kroki.io)) #.hide
                     - **[How it works](<How it works.md>):**

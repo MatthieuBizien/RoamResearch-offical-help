@@ -10,6 +10,9 @@
 - Made date picker faster
                     - **[Brought to you by](<Brought to you by.md>):**
 
+- Fixed pasting multiple blocks multiple times
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - ![](https://camo.githubusercontent.com/a4f4453e86abb6804f9f92ca477e8be856653aad9571ad62b728b22ee4e0634a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666972657363726970742d35373761322e61707073706f742e636f6d2f6f2f696d6773253246617070253246726f616d2d7465616d253246682d65424e786637314a2e706e673f616c743d6d6564696126746f6b656e3d31386662333735362d336163372d346262362d616363612d393166333562626638633432)
                     - **[Brought to you by](<Brought to you by.md>):**
 
