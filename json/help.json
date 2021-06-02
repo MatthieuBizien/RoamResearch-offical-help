@@ -43098,6 +43098,42 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-02-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622649192499,
+                    "edit-time": 1622649192499,
+                    "string": "",
+                    "uid": "VIuWDdggX"
+                  }
+                ],
+                "create-time": 1622649186557,
+                "edit-time": 1622649192512,
+                "refs": [
+                  {
+                    "uid": "06-02-2021"
+                  }
+                ],
+                "string": "[[June 2nd, 2021]]",
+                "uid": "rIkE31eDR"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "05-25-2021"
                   }
                 ],
@@ -72115,13 +72151,13 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "create-time": 1622646194909,
-    "edit-time": 1622646194909,
+    "create-time": 1622649176875,
+    "edit-time": 1622649176875,
     "title": "June 2nd, 2021",
     "uid": "06-02-2021"
   }

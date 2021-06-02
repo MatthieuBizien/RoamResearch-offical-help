@@ -2,6 +2,8 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[June 2nd, 2021]]
+            - 
         - [[May 25th, 2021]]
             - ### [[Bug Fixes]] 🛠 
                 - Reverted Block embeds will now be expanded by default
