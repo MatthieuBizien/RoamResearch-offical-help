@@ -1,6 +1,15 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- You can now copy a [Block References](<Block References.md>) while editing it (via `Cmd/Ctrl+Shift+C`)
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- You can now see other references inline for [Block References](<Block References.md>). Go to `Settings > User Settings > Inline Reference Counts` to activate.
+                    - **[Brought to you by](<Brought to you by.md>):**
+
+- Fixed plaintext paste in [Safari](<Safari.md>)
+                    - **[Brought to you by](<Brought to you by.md>):**
+
 - Reverted Block embeds will now be expanded by default
                     - **[Brought to you by](<Brought to you by.md>):**
 

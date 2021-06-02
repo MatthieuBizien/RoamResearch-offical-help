@@ -119,6 +119,10 @@
 #[Blocks](<Blocks.md>) | #[Block References](<Block References.md>)
 
 ## [Change Log](<Change Log.md>)
+- You can now copy a [Block References](<Block References.md>)
+
+- You can now see other references inline for [Block References](<Block References.md>).
+
 - Added `data-uid` to [Block References](<Block References.md>)
 
 - Made text highlights legible in [Block References](<Block References.md>)

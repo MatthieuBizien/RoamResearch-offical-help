@@ -3,7 +3,14 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [[June 2nd, 2021]]
-            - 
+            - ### [[Quality of Life Improvements]] ✨
+                - You can now copy a [[Block References]] while editing it (via `Cmd/Ctrl+Shift+C`)
+                    - Brought to you by:: [[Stian Håklev]]
+                - You can now see other references inline for [[Block References]]. Go to `Settings > User Settings > Inline Reference Counts` to activate.
+                    - Brought to you by:: [[Stian Håklev]]
+            - ### [[Bug Fixes]] 🛠 
+                - Fixed plaintext paste in [[Safari]]
+                    - Brought to you by:: [[Bardia Pourvakil]]
         - [[May 25th, 2021]]
             - ### [[Bug Fixes]] 🛠 
                 - Reverted Block embeds will now be expanded by default

@@ -43109,16 +43109,210 @@
                 },
                 "children": [
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "l8uKkdhbc"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dkdjGsM4C"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1622660199643,
+                            "edit-time": 1622660204948,
+                            "refs": [
+                              {
+                                "uid": "dkdjGsM4C"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Stian H\u00e5klev]]",
+                            "uid": "frMyOX0Ky"
+                          }
+                        ],
+                        "create-time": 1622659949457,
+                        "edit-time": 1622659998102,
+                        "refs": [
+                          {
+                            "uid": "l8uKkdhbc"
+                          }
+                        ],
+                        "string": "You can now copy a [[Block References]] while editing it (via `Cmd/Ctrl+Shift+C`)",
+                        "uid": "Fa74g2IGm"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "l8uKkdhbc"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dkdjGsM4C"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1622660205642,
+                            "edit-time": 1622660210979,
+                            "refs": [
+                              {
+                                "uid": "dkdjGsM4C"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Stian H\u00e5klev]]",
+                            "uid": "8nfIwEzfA"
+                          }
+                        ],
+                        "create-time": 1622660002645,
+                        "edit-time": 1622660182824,
+                        "refs": [
+                          {
+                            "uid": "l8uKkdhbc"
+                          }
+                        ],
+                        "string": "You can now see other references inline for [[Block References]]. Go to `Settings > User Settings > Inline Reference Counts` to activate.",
+                        "uid": "KWgFsTMmw"
+                      }
+                    ],
                     "create-time": 1622649192499,
-                    "edit-time": 1622649192499,
-                    "string": "",
+                    "edit-time": 1622659949479,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] \u2728",
                     "uid": "VIuWDdggX"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "s6_qhdpmE"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "evJ14QpsV"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1622660279506,
+                            "edit-time": 1622660284734,
+                            "refs": [
+                              {
+                                "uid": "evJ14QpsV"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "uid": "Nrjmuf7_j"
+                          }
+                        ],
+                        "create-time": 1622660241509,
+                        "edit-time": 1622660258287,
+                        "refs": [
+                          {
+                            "uid": "s6_qhdpmE"
+                          }
+                        ],
+                        "string": "Fixed plaintext paste in [[Safari]]",
+                        "uid": "G6KPmQ49K"
+                      }
+                    ],
+                    "create-time": 1622660233050,
+                    "edit-time": 1622660240759,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] \ud83d\udee0 ",
+                    "uid": "DjfcEddUJ"
                   }
                 ],
                 "create-time": 1622649186557,
