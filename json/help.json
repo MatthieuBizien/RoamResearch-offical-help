@@ -43098,6 +43098,349 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-04-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "fhUbL6Dy3"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "w3-eryhFP"
+                                  },
+                                  {
+                                    ":block/uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622796866648,
+                                "edit-time": 1622796880107,
+                                "refs": [
+                                  {
+                                    "uid": "w3-eryhFP"
+                                  },
+                                  {
+                                    "uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "string": "Brought to you by:: [[Joshua Brown]] [[Kifah Meeran]]",
+                                "uid": "aXAL-2iz-"
+                              }
+                            ],
+                            "create-time": 1622796768775,
+                            "edit-time": 1622796779766,
+                            "string": "Made it much faster",
+                            "uid": "ienYlp1Ub"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622796861197,
+                                "edit-time": 1622796910835,
+                                "string": "Go to `Settings > User Settings > International` to toggle.",
+                                "uid": "91r1uad9-"
+                              },
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "evJ14QpsV"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622796915739,
+                                "edit-time": 1622796921615,
+                                "refs": [
+                                  {
+                                    "uid": "evJ14QpsV"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                                "uid": "zlbcLLRd_"
+                              }
+                            ],
+                            "create-time": 1622796779756,
+                            "edit-time": 1622798130798,
+                            "string": "You can now change first day of week and see the week number",
+                            "uid": "oDAL84yf0"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "2-eIgz-4z"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "children": [
+                                      {
+                                        ":block/props": {
+                                          ":image-size": {
+                                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsfZWPjD0QC.png?alt=media&token=553e5c25-9bb5-43c1-8a1e-b2081810cce3": {
+                                              ":height": null,
+                                              ":width": 235
+                                            }
+                                          }
+                                        },
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        "create-time": 1622796973558,
+                                        "edit-time": 1622796997719,
+                                        "props": {
+                                          "image-size": {
+                                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsfZWPjD0QC.png?alt=media&token=553e5c25-9bb5-43c1-8a1e-b2081810cce3": {
+                                              "height": null,
+                                              "width": 235
+                                            }
+                                          }
+                                        },
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsfZWPjD0QC.png?alt=media&token=553e5c25-9bb5-43c1-8a1e-b2081810cce3)",
+                                        "uid": "OGzch4Tzp"
+                                      }
+                                    ],
+                                    "create-time": 1622796966074,
+                                    "edit-time": 1622796968471,
+                                    "string": "Before",
+                                    "uid": "-T318KdXa"
+                                  },
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "children": [
+                                      {
+                                        ":block/props": {
+                                          ":image-size": {
+                                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FQTG7J8YQV-.png?alt=media&token=d637b2c6-157f-4d2d-a810-cf0c9e1fb5f7": {
+                                              ":height": null,
+                                              ":width": 239
+                                            }
+                                          }
+                                        },
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        "create-time": 1622796992600,
+                                        "edit-time": 1622797006271,
+                                        "props": {
+                                          "image-size": {
+                                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FQTG7J8YQV-.png?alt=media&token=d637b2c6-157f-4d2d-a810-cf0c9e1fb5f7": {
+                                              "height": null,
+                                              "width": 239
+                                            }
+                                          }
+                                        },
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FQTG7J8YQV-.png?alt=media&token=d637b2c6-157f-4d2d-a810-cf0c9e1fb5f7)",
+                                        "uid": "ZrPGcEvMg"
+                                      }
+                                    ],
+                                    "create-time": 1622796968461,
+                                    "edit-time": 1622796971654,
+                                    "string": "After",
+                                    "uid": "qN_WR_shA"
+                                  }
+                                ],
+                                "create-time": 1622796962236,
+                                "edit-time": 1622796966084,
+                                "refs": [
+                                  {
+                                    "uid": "2-eIgz-4z"
+                                  }
+                                ],
+                                "string": "{{[[table]]}}",
+                                "uid": "lA8ixw45i"
+                              },
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "w3-eryhFP"
+                                  },
+                                  {
+                                    ":block/uid": "evJ14QpsV"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622796944030,
+                                "edit-time": 1622796952724,
+                                "refs": [
+                                  {
+                                    "uid": "w3-eryhFP"
+                                  },
+                                  {
+                                    "uid": "evJ14QpsV"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "string": "Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]]",
+                                "uid": "_G8zJworm"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622796960350,
+                                "edit-time": 1622796960350,
+                                "string": "",
+                                "uid": "__nWeTGk6"
+                              }
+                            ],
+                            "create-time": 1622796941182,
+                            "edit-time": 1622796944039,
+                            "string": "Improved styling",
+                            "uid": "PZfC8IHz0"
+                          }
+                        ],
+                        "create-time": 1622796717557,
+                        "edit-time": 1622796768791,
+                        "refs": [
+                          {
+                            "uid": "fhUbL6Dy3"
+                          }
+                        ],
+                        "string": "[[Date picker]]",
+                        "uid": "RMH2-dsBU"
+                      }
+                    ],
+                    "create-time": 1622796714022,
+                    "edit-time": 1622796717568,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] \u2728",
+                    "uid": "DYvDVThhD"
+                  }
+                ],
+                "create-time": 1622796709420,
+                "edit-time": 1622796714044,
+                "refs": [
+                  {
+                    "uid": "06-04-2021"
+                  }
+                ],
+                "string": "[[June 4th, 2021]]",
+                "uid": "QF51Z8BrY"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-02-2021"
                   }
                 ],
@@ -72357,13 +72700,13 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "create-time": 1622793025496,
-    "edit-time": 1622793025496,
+    "create-time": 1622796713786,
+    "edit-time": 1622796713786,
     "title": "June 4th, 2021",
     "uid": "06-04-2021"
   }

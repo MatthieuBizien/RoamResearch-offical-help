@@ -15,6 +15,9 @@
 ## [ Commands](< Commands.md>)
 - [Date picker](<Date picker.md>)
 
+## [Change Log](<Change Log.md>)
+- [Date picker](<Date picker.md>)
+
 ## [Date picker](<Date picker.md>)
 #[Linked References](<Linked References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Date picker](<Date picker.md>)
 

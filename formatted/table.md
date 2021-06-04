@@ -17,6 +17,8 @@
 
 - {{[table](<table.md>)}
 
+- {{[table](<table.md>)}
+
 ## [Table](<Table.md>)
 - {{[table](<table.md>)}
 

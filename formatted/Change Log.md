@@ -2,6 +2,22 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [June 4th, 2021](<June 4th, 2021.md>)
+            - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - [Date picker](<Date picker.md>)
+                    - Made it much faster
+                        - **[Brought to you by](<Brought to you by.md>):** [Joshua Brown](<Joshua Brown.md>) [Kifah Meeran](<Kifah Meeran.md>)
+                    - You can now change first day of week and see the week number
+                        - Go to `Settings > User Settings > International` to toggle.
+                        - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>)
+                    - Improved styling
+                        - {{[table](<table.md>)}}
+                            - Before
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsfZWPjD0QC.png?alt=media&token=553e5c25-9bb5-43c1-8a1e-b2081810cce3)
+                            - After
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FQTG7J8YQV-.png?alt=media&token=d637b2c6-157f-4d2d-a810-cf0c9e1fb5f7)
+                        - **[Brought to you by](<Brought to you by.md>):** [Bardia Pourvakil](<Bardia Pourvakil.md>) [Kifah Meeran](<Kifah Meeran.md>)
+                        - 
         - [June 2nd, 2021](<June 2nd, 2021.md>)
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - You can now copy a [Block References](<Block References.md>) while editing it (via `Cmd/Ctrl+Shift+C`)

@@ -1,6 +1,15 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Made it much faster
+                        - **[Brought to you by](<Brought to you by.md>):**
+
+- Go to `Settings > User Settings > International` to toggle.
+                        - **[Brought to you by](<Brought to you by.md>):**
+
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FQTG7J8YQV-.png?alt=media&token=d637b2c6-157f-4d2d-a810-cf0c9e1fb5f7)
+                        - **[Brought to you by](<Brought to you by.md>):**
+
 - You can now copy a [Block References](<Block References.md>) while editing it (via `Cmd/Ctrl+Shift+C`)
                     - **[Brought to you by](<Brought to you by.md>):**
 

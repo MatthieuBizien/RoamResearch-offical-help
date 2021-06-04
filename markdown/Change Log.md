@@ -2,6 +2,22 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[June 4th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
+                - [[Date picker]]
+                    - Made it much faster
+                        - Brought to you by:: [[Joshua Brown]] [[Kifah Meeran]]
+                    - You can now change first day of week and see the week number
+                        - Go to `Settings > User Settings > International` to toggle.
+                        - Brought to you by:: [[Bardia Pourvakil]]
+                    - Improved styling
+                        - {{[[table]]}}
+                            - Before
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsfZWPjD0QC.png?alt=media&token=553e5c25-9bb5-43c1-8a1e-b2081810cce3)
+                            - After
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FQTG7J8YQV-.png?alt=media&token=d637b2c6-157f-4d2d-a810-cf0c9e1fb5f7)
+                        - Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]]
+                        - 
         - [[June 2nd, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - You can now copy a [[Block References]] while editing it (via `Cmd/Ctrl+Shift+C`)
