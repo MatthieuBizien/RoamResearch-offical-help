@@ -21,11 +21,11 @@
                 - This is a block ref
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
                         - It is a window onto a block from somewhere else in your Roam Graph - changes to that block will be reflected here as well. 
-                - If you click on this you will now see this menu
+                - If you click on the above block ref you will now see the below menu:
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FMXJp9DtIl0.png?alt=media&token=e32c1861-66ae-4c8e-8709-142824b10ba4)
                 - [Jump to block](<Jump to block.md>) and [open in sidebar](<open in sidebar.md>) will do the same thing that clicking and shift-clicking (respectively) used to - they move either the focus of your main work area to that block - or open it in it's original context
                     - You can also do these operations with Control-o and Control-shift-o (o standing for open) respectively. 
-                - If you select [Replace With](<Replace With.md>) you will see this menu
+                - If you select [Replace With](<Replace With.md>) you will see the below menu:
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FANYfuprm6c.png?alt=media&token=109625d3-b64b-4beb-891a-4a070a7037dc)
                 - If you choose to replace with `embed` you will get this:
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
