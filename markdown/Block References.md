@@ -1,61 +1,66 @@
 - One of Roam's most powerful, flagship features
 - What is it?
-    - Every block in Roam has its own ID, unique to only that block
+    1. Every block in Roam has its own ID, unique to only that block
         - When you want to refer to something, instead of copying the literal content of that block, you can copy the ID that refers to that block  
-    - Like every page can have linkage with each other, blocks can be interconnected too
+    2. Like every page can have linkage with each other, blocks can be interconnected too
 - Why is it important?
     - Block references help you make every block of your notes more reusable, either by yourself in the future, or by others when the graph is shared
     - This means 
-        - Less reinvention of the wheel
+        1. Less reinvention of the wheel
             - No need to copy and paste, and generate a bunch of content that means the same thing!
-        - Less maintenance, less confusion
+        2. Less maintenance, less confusion
             - If you change the content in the original block, the references that point towards the original block will all be automatically changed, saving you time to maintain multiple copies of the same content
-        - More incentives for quality content creation
+        3. More incentives for quality content creation
             - The more insightful content, the more it gets referenced by yourself and others 
-        - Ultimately, knowledge is no longer static, but becomes fluid
+        4. Ultimately, knowledge is no longer static, but becomes fluid
             - You are free to open up different windows in the sidebar, Roam around and remix and rematch content from articles, people, days, and projects
 - How to use it?
-    - You can replace block references with text, embed, alias, original or with text + alias.  The most important of these is [text and alias](((7Zv5Vm1fO)))
+    - You can replace block references with text, embed, alias, original or with text + alias. The most important of these is [text and alias](((7Zv5Vm1fO)))
         - Example::
             - from [[Beating the Averages]]
-                - This is a block ref
+                1. This is a block ref
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
                         - It is a window onto a block from somewhere else in your Roam Graph - changes to that block will be reflected here as well. 
-                - If you click on the above block ref you will now see the below menu:
+                2. To make a block ref, to Create a block reference
+                    - right click on a block
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F4zqz_5nSei.gif?alt=media&token=c6dd3cc3-a473-4f36-8f01-4e59bf436f6b)
+                    - alt-drag and drop
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FADFwTPg2pM.gif?alt=media&token=b3613a5a-d682-49df-9bf3-0c19a4ac434e)
+                3. If you click on a block ref you will now see the below menu:
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FMXJp9DtIl0.png?alt=media&token=e32c1861-66ae-4c8e-8709-142824b10ba4)
-                - [[Jump to block]] and [[open in sidebar]] will do the same thing that clicking and shift-clicking (respectively) used to - they move either the focus of your main work area to that block - or open it in it's original context
+                4. [[Jump to block]] and [[open in sidebar]] will do the same thing that clicking and shift-clicking (respectively) used to - they move either the focus of your main work area to that block - or open it in it's original context
                     - You can also do these operations with Control-o and Control-shift-o (o standing for open) respectively. 
-                - If you select [[Replace With]] you will see the below menu:
+                5. If you select [[Replace With]] you will see the below menu:
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FANYfuprm6c.png?alt=media&token=109625d3-b64b-4beb-891a-4a070a7037dc)
-                - If you choose to replace with `embed` you will get this:
+                6. If you choose to replace with `embed` you will get this:
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
                         - You can now see the refs in the right margin and the block now lives here and its original location is now holding a reference to the above block
                         - This is useful when you want to change the location of a block to make the references more easily accessible or where the original block makes more sense to be 
                         - This essentially gives you a portal to the original source material - if you edit text within the embed - it will change all the references
-                - If you choose to replace with `original` you will get this:
+                7. If you choose to replace with `original` you will get this:
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
                         - You can now see the refs in the right margin and the block now lives here and its original location is now holding a reference to the above block
                         - This is useful when you want to change the location of a block to make the references more easily accessible or where the original block makes more sense to be 
-                - If you choose to replace with `text` you will get this:
+                8. If you choose to replace with `text` you will get this:
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
                         - It is the same as copy-pasting the original text - there is no longer any connection between the text and the new block
-                - If you choose to replace with `alias` you will get this:
+                9. If you choose to replace with `alias` you will get this:
                     - [*](((0EEP-FcAj)))
                         - This gives you a link to the original item - but in a hyperlinked alias
                             - The format for aliases is `[alias](((blockid))``)`
                                 - We default to having the alias as the `*` footnote symbol, but you can edit this however you feel
                             - This is useful if you want to point to multiple ideas, but refer to them with another phrasing - like [Premise 1](((0EEP-FcAj))) and [Premise 2](((-FdvpO3U0)))
                                 - you will see that if you hover over an alias you can see the text of the block you are pointing to as a preview
-                - If you choose to replace with [[text and alias]] you will get this:
+                10. If you choose to replace with [[text and alias]] you will get this:
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface. [*](((0EEP-FcAj)))
                         - This is useful for drafting - or making a modified version of the original text - you have an alias pointing to the source material - but the text is conveniently there for editing/rewording etc. #Writing
-    - Apply children
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FAwRs4Xe2HD.gif?alt=media&token=690c1f18-49e3-44b1-ad9a-065907adbf1d)
-    - Copying multiple block references
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FR4UsRcsCSC.gif?alt=media&token=6cdb2595-8c9a-4488-ab8e-f6e2be187243)
+                11. Apply children
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FAwRs4Xe2HD.gif?alt=media&token=690c1f18-49e3-44b1-ad9a-065907adbf1d)
+                12. Copying multiple block references
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FR4UsRcsCSC.gif?alt=media&token=6cdb2595-8c9a-4488-ab8e-f6e2be187243)
 - Team GIFs::
-    - Creating a block reference
-        - right click
+    - Create a block reference
+        - right click on a block
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F4zqz_5nSei.gif?alt=media&token=c6dd3cc3-a473-4f36-8f01-4e59bf436f6b)
         - alt-drag and drop
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FADFwTPg2pM.gif?alt=media&token=b3613a5a-d682-49df-9bf3-0c19a4ac434e)

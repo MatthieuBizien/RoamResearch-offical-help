@@ -2,7 +2,7 @@
 
 # Backlinks
 ## [Block References](<Block References.md>)
-- If you choose to replace with [text and alias](<text and alias.md>)
+10. If you choose to replace with [text and alias](<text and alias.md>)
 
 - #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>) | #[text and alias](<text and alias.md>)
 

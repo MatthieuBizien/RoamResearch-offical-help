@@ -6420,7 +6420,7 @@
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
             "children": [
               {
@@ -6500,6 +6500,122 @@
                         "uid": "9V_GD5NMk"
                       },
                       {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "IMcMBQgfk"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "9cWAagGHi"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "pxfCemPd7"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                                },
+                                "create-time": 1623186228262,
+                                "edit-time": 1623186228262,
+                                "refs": [
+                                  {
+                                    "uid": "pxfCemPd7"
+                                  }
+                                ],
+                                "string": "((pxfCemPd7))",
+                                "uid": "yyjEZ0BzQ"
+                              }
+                            ],
+                            "create-time": 1623186228262,
+                            "edit-time": 1623186228262,
+                            "refs": [
+                              {
+                                "uid": "9cWAagGHi"
+                              }
+                            ],
+                            "string": "((9cWAagGHi))",
+                            "uid": "kLY8hV877"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "GptU-4LXK"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "Uf6JTVUvU"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                                },
+                                "create-time": 1623186228262,
+                                "edit-time": 1623186228262,
+                                "refs": [
+                                  {
+                                    "uid": "Uf6JTVUvU"
+                                  }
+                                ],
+                                "string": "((Uf6JTVUvU))",
+                                "uid": "TmkFXjtLL"
+                              }
+                            ],
+                            "create-time": 1623186228262,
+                            "edit-time": 1623186228262,
+                            "refs": [
+                              {
+                                "uid": "GptU-4LXK"
+                              }
+                            ],
+                            "string": "((GptU-4LXK))",
+                            "uid": "xja3DgbT_"
+                          }
+                        ],
+                        "create-time": 1623186158388,
+                        "edit-time": 1623186225357,
+                        "refs": [
+                          {
+                            "uid": "IMcMBQgfk"
+                          }
+                        ],
+                        "string": "To make a block ref, to ((IMcMBQgfk))",
+                        "uid": "c4V6sutyI"
+                      },
+                      {
                         ":create/user": {
                           ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                         },
@@ -6521,8 +6637,8 @@
                           }
                         ],
                         "create-time": 1597108825045,
-                        "edit-time": 1623174194515,
-                        "string": "If you click on the above block ref you will now see the below menu:",
+                        "edit-time": 1623186256530,
+                        "string": "If you click on a block ref you will now see the below menu:",
                         "uid": "0y0msVqXe"
                       },
                       {
@@ -6930,6 +7046,68 @@
                         ],
                         "string": "If you choose to replace with [[text and alias]] you will get this:",
                         "uid": "7Zv5Vm1fO"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "PeA-WzpL5"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                            },
+                            "create-time": 1615271764655,
+                            "edit-time": 1615271782679,
+                            "refs": [
+                              {
+                                "uid": "PeA-WzpL5"
+                              }
+                            ],
+                            "string": "((PeA-WzpL5))",
+                            "uid": "xNruVrqlY"
+                          }
+                        ],
+                        "create-time": 1614792704496,
+                        "edit-time": 1615271764250,
+                        "string": "Apply children",
+                        "uid": "RQA6JxfXR"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                            },
+                            "create-time": 1615279563669,
+                            "edit-time": 1615279584095,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FR4UsRcsCSC.gif?alt=media&token=6cdb2595-8c9a-4488-ab8e-f6e2be187243)",
+                            "uid": "qfSA4H1P_"
+                          }
+                        ],
+                        "create-time": 1614784226221,
+                        "edit-time": 1615278662735,
+                        "string": "Copying multiple block references",
+                        "uid": "VCKkGO4Wv"
                       }
                     ],
                     "create-time": 1597108769590,
@@ -6955,76 +7133,14 @@
               }
             ],
             "create-time": 1614784149567,
-            "edit-time": 1614792433896,
+            "edit-time": 1623186266718,
             "refs": [
               {
                 "uid": "7Zv5Vm1fO"
               }
             ],
-            "string": "You can replace block references with text, embed, alias, original or with text + alias.  The most important of these is [text and alias](((7Zv5Vm1fO)))",
+            "string": "You can replace block references with text, embed, alias, original or with text + alias. The most important of these is [text and alias](((7Zv5Vm1fO)))",
             "uid": "WvuBJsJ9U"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "children": [
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "PeA-WzpL5"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1615271764655,
-                "edit-time": 1615271782679,
-                "refs": [
-                  {
-                    "uid": "PeA-WzpL5"
-                  }
-                ],
-                "string": "((PeA-WzpL5))",
-                "uid": "xNruVrqlY"
-              }
-            ],
-            "create-time": 1614792704496,
-            "edit-time": 1615271764250,
-            "string": "Apply children",
-            "uid": "RQA6JxfXR"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1615279563669,
-                "edit-time": 1615279584095,
-                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FR4UsRcsCSC.gif?alt=media&token=6cdb2595-8c9a-4488-ab8e-f6e2be187243)",
-                "uid": "qfSA4H1P_"
-              }
-            ],
-            "create-time": 1614784226221,
-            "edit-time": 1615278662735,
-            "string": "Copying multiple block references",
-            "uid": "VCKkGO4Wv"
           }
         ],
         "create-time": 1614784145841,
@@ -7050,7 +7166,7 @@
               ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
             },
             ":edit/user": {
-              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
             "children": [
               {
@@ -7058,7 +7174,7 @@
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
                 ":edit/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 },
                 "children": [
                   {
@@ -7071,8 +7187,8 @@
                   }
                 ],
                 "create-time": 1615042263486,
-                "edit-time": 1615042270207,
-                "string": "right click",
+                "edit-time": 1623186236421,
+                "string": "right click on a block",
                 "uid": "9cWAagGHi"
               },
               {
@@ -7099,8 +7215,8 @@
               }
             ],
             "create-time": 1615042253638,
-            "edit-time": 1615042263502,
-            "string": "Creating a block reference",
+            "edit-time": 1623186215093,
+            "string": "Create a block reference",
             "uid": "IMcMBQgfk"
           },
           {
