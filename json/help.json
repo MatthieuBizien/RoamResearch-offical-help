@@ -43202,6 +43202,66 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-08-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1623430891230,
+                        "edit-time": 1623430940533,
+                        "string": "Fixed some bugs around auto-backups, graph deletion, file manager",
+                        "uid": "fumjlyzHS"
+                      }
+                    ],
+                    "create-time": 1623430885402,
+                    "edit-time": 1623430891236,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] \ud83d\udee0 ",
+                    "uid": "RAsQ85sqp"
+                  }
+                ],
+                "create-time": 1623430868466,
+                "edit-time": 1623430873093,
+                "refs": [
+                  {
+                    "uid": "06-08-2021"
+                  }
+                ],
+                "string": "[[June 8th, 2021]]",
+                "uid": "OeMN3H_Cl"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-04-2021"
                   }
                 ],
@@ -70944,13 +71004,13 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
-    "create-time": 1623429233655,
-    "edit-time": 1623429233655,
+    "create-time": 1623431025698,
+    "edit-time": 1623431025698,
     "title": "June 11th, 2021",
     "uid": "06-11-2021"
   }

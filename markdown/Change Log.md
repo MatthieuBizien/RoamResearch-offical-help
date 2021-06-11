@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[June 8th, 2021]]
+            - [[Bug Fixes]] 🛠 
+                - Fixed some bugs around auto-backups, graph deletion, file manager
         - [[June 4th, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - [[Date picker]]
