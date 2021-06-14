@@ -43202,6 +43202,67 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-09-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "create-time": 1623683792025,
+                        "edit-time": 1623683811476,
+                        "string": "Much faster load times when opening a graph",
+                        "uid": "B2tzJ7SQ2"
+                      }
+                    ],
+                    "create-time": 1623683611659,
+                    "edit-time": 1623683788271,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] \u2728",
+                    "uid": "eFIFQykvV"
+                  }
+                ],
+                "create-time": 1623683558120,
+                "edit-time": 1623683611676,
+                "refs": [
+                  {
+                    "uid": "06-09-2021"
+                  }
+                ],
+                "string": "[[June 9th, 2021]]",
+                "uid": "tFvPKW-2d"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-08-2021"
                   }
                 ],
@@ -43240,6 +43301,7 @@
                     ],
                     "create-time": 1623430885402,
                     "edit-time": 1623430891236,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
