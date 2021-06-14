@@ -43202,6 +43202,91 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-11-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "HDaMeE-YM"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1623693440455,
+                            "edit-time": 1623693537607,
+                            "refs": [
+                              {
+                                "uid": "HDaMeE-YM"
+                              }
+                            ],
+                            "string": "Download from the `...` menu in the top right of your screen, the [[Graphs and Settings]] page, or [our home page](https://roamresearch.com)",
+                            "uid": "wuo4wPYHk"
+                          }
+                        ],
+                        "create-time": 1623693435005,
+                        "edit-time": 1623693490643,
+                        "string": "Desktop app for macOS, Linux, and Windows is out now!",
+                        "uid": "wFHh4kZ1a"
+                      }
+                    ],
+                    "create-time": 1623693421736,
+                    "edit-time": 1623693435013,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] \ud83d\ude80",
+                    "uid": "gVNyZXG8O"
+                  }
+                ],
+                "create-time": 1623693413230,
+                "edit-time": 1623693421748,
+                "refs": [
+                  {
+                    "uid": "06-11-2021"
+                  }
+                ],
+                "string": "[[June 11th, 2021]]",
+                "uid": "7atF5b5Xy"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-09-2021"
                   }
                 ],

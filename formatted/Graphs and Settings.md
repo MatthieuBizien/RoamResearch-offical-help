@@ -43,6 +43,9 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE_gU_n8QSX.png?alt=media&token=29d8a866-5692-4963-941f-1231b1836447)
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- Download from the `...` menu in the top right of your screen, the [Graphs and Settings](<Graphs and Settings.md>)
+
 ## [Features](<Features.md>)
 - ### [Graphs and Settings]([Graphs and Settings](<Graphs and Settings.md>))
 

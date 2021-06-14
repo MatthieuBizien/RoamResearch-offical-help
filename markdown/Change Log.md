@@ -2,6 +2,10 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[June 11th, 2021]]
+            - ### [[New Features]] 🚀
+                - Desktop app for macOS, Linux, and Windows is out now!
+                    - Download from the `...` menu in the top right of your screen, the [[Graphs and Settings]] page, or [our home page](https://roamresearch.com)
         - [[June 9th, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - Much faster load times when opening a graph
