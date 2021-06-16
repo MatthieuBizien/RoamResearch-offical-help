@@ -8,9 +8,6 @@
             - **[Last updated](<Last updated.md>):**
 
 ## [roam/templates](<roam/templates.md>)
-- **[Screenshots](<Screenshots.md>):**
-        - **[Last updated](<Last updated.md>):**
-
 - **[Templates](<Templates.md>):**
             - **[Last updated](<Last updated.md>):**
 
@@ -19,4 +16,7 @@
 
 - **[Code](<Code.md>):**
             - **[Last updated](<Last updated.md>):**
+
+- **[Screenshots](<Screenshots.md>):**
+        - **[Last updated](<Last updated.md>):**
 

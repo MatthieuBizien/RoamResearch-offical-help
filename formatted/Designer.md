@@ -26,9 +26,6 @@
             - **[Designer](<Designer.md>):**
 
 ## [roam/templates](<roam/templates.md>)
-- **[Last updated](<Last updated.md>):**
-        - **[Designer](<Designer.md>):**
-
 - Roam Daily Template
         - **[Designer](<Designer.md>):**
 
@@ -36,5 +33,8 @@
         - **[Designer](<Designer.md>):**
 
 - Daily Log
+        - **[Designer](<Designer.md>):**
+
+- **[Last updated](<Last updated.md>):**
         - **[Designer](<Designer.md>):**
 

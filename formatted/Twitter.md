@@ -52,6 +52,9 @@
                 - **[Twitter](<Twitter.md>):**
 
 ## [roam/templates](<roam/templates.md>)
+- **[Designer](<Designer.md>):** [Mark Robertson](<Mark Robertson.md>)
+            - **[Twitter](<Twitter.md>):**
+
 - **[Designer](<Designer.md>):** name
             - **[Twitter](<Twitter.md>):**
 
@@ -59,8 +62,5 @@
             - **[Twitter](<Twitter.md>):**
 
 - **[Developer](<Developer.md>):**
-            - **[Twitter](<Twitter.md>):**
-
-- **[Designer](<Designer.md>):** [Mark Robertson](<Mark Robertson.md>)
             - **[Twitter](<Twitter.md>):**
 

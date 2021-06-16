@@ -26,9 +26,6 @@
             - **[Special Features](<Special Features.md>):**
 
 ## [roam/templates](<roam/templates.md>)
-- Love this theme? Say thanks via [PayPal]() (and/or other payment service)
-        - **[Special Features](<Special Features.md>):**
-
 - **[Designer](<Designer.md>):** [Jonathan Borichevskiy](<Jonathan Borichevskiy.md>)
         - **[Special Features](<Special Features.md>):**
 
@@ -36,5 +33,8 @@
         - **[Special Features](<Special Features.md>):**
 
 - **[Twitter](<Twitter.md>):** [@calhistorian](https://twitter.com/calhistorian)
+        - **[Special Features](<Special Features.md>):**
+
+- Love this theme? Say thanks via [PayPal]() (and/or other payment service)
         - **[Special Features](<Special Features.md>):**
 

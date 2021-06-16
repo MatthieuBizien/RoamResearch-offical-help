@@ -29,12 +29,12 @@
             - **[Code](<Code.md>):**
 
 ## [roam/templates](<roam/templates.md>)
+- ![Image](https://aws1.discourse-cdn.com/standard14/uploads/roamresearch/optimized/1X/bc5064932dfa087a1dd53f4edb31be63377b9346_2_690x400.jpeg)
+        - **[Code](<Code.md>):**
+
 - **[Special Features](<Special Features.md>):**
         - **[Code](<Code.md>):**
 
 - Love this plugin? Say thanks via [Paypal]()
-        - **[Code](<Code.md>):**
-
-- ![Image](https://aws1.discourse-cdn.com/standard14/uploads/roamresearch/optimized/1X/bc5064932dfa087a1dd53f4edb31be63377b9346_2_690x400.jpeg)
         - **[Code](<Code.md>):**
 

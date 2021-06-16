@@ -3,56 +3,6 @@
     - How-to guides::
     - [[Reference]]
     - [[Examples]]
-- Course
-    - ### [Course name](course link) by `[[Author Name]]` __price__
-        - 2-3 sentence blurb describing the course
-- Theme
-    - `theme name`
-        - Screenshots::
-        - Last updated::
-        - Designer:: name
-            - Twitter:: [link to bio]()
-            - Love this theme? Say thanks via [PayPal]() (and/or other payment service)
-        - Special Features::
-        - Code::
-            - {{[[roam/css]]}}
-                - ```css
-```
-- Plugin
-    - `plugin_name`
-        - Info::
-            - Must include GIF and/or video of usage
-        - Link::
-        - Getting started::
-            - Installation, activation and configuration 
-        - Tutorials::
-            - 
-        - Reference::
-        - Developer::
-            - Twitter::
-            - Love this plugin? Say thanks via [Paypal]()
-        - Code::
-- Browser Extension
-    - `browser_extension_name`
-        - Info::
-            - Must include GIF and/or video of usage
-        - Link::
-        - Getting started::
-            - Installation, activation and configuration 
-        - Tutorials::
-            - 
-        - Reference::
-        - Developer::
-            - Twitter::
-            - Love this plugin? Say thanks via [Paypal]()
-- Coaching
-    - `Course Author Name`
-        - Info::
-        - Website::
-        - Areas of specialty::
-        - Contact::
-        - Price::
-- To submit a template to be featured here please fill out this typeform
 - [[Community]]
     - Roam Daily Template
         - Designer:: [[Jonathan Borichevskiy]]
@@ -284,6 +234,56 @@
                 - Tradeoffs::
                 - Costs::
                 - Problem fit::
+- Course
+    - ### [Course name](course link) by `[[Author Name]]` __price__
+        - 2-3 sentence blurb describing the course
+- Theme
+    - `theme name`
+        - Screenshots::
+        - Last updated::
+        - Designer:: name
+            - Twitter:: [link to bio]()
+            - Love this theme? Say thanks via [PayPal]() (and/or other payment service)
+        - Special Features::
+        - Code::
+            - {{[[roam/css]]}}
+                - ```css
+```
+- Plugin
+    - `plugin_name`
+        - Info::
+            - Must include GIF and/or video of usage
+        - Link::
+        - Getting started::
+            - Installation, activation and configuration 
+        - Tutorials::
+            - 
+        - Reference::
+        - Developer::
+            - Twitter::
+            - Love this plugin? Say thanks via [Paypal]()
+        - Code::
+- Browser Extension
+    - `browser_extension_name`
+        - Info::
+            - Must include GIF and/or video of usage
+        - Link::
+        - Getting started::
+            - Installation, activation and configuration 
+        - Tutorials::
+            - 
+        - Reference::
+        - Developer::
+            - Twitter::
+            - Love this plugin? Say thanks via [Paypal]()
+- Coaching
+    - `Course Author Name`
+        - Info::
+        - Website::
+        - Areas of specialty::
+        - Contact::
+        - Price::
+- To submit a template to be featured here please fill out this typeform
 - Docs #.hide
     - {{[[TODO]]}} Introduction (few bullets) and some GIFs
     - Roam Team Videos::

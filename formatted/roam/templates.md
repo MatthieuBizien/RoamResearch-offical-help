@@ -3,56 +3,6 @@
     - **[How-to guides](<../How-to guides.md>):**
     - [Reference](<../Reference.md>)
     - [Examples](<../Examples.md>)
-- Course
-    - ### [Course name](course link) by `[Author Name](<../Author Name.md>)` __price__
-        - 2-3 sentence blurb describing the course
-- Theme
-    - `theme name`
-        - **[Screenshots](<../Screenshots.md>):**
-        - **[Last updated](<../Last updated.md>):**
-        - **[Designer](<../Designer.md>):** name
-            - **[Twitter](<../Twitter.md>):** [link to bio]()
-            - Love this theme? Say thanks via [PayPal]() (and/or other payment service)
-        - **[Special Features](<../Special Features.md>):**
-        - **[Code](<../Code.md>):**
-            - {{[roam/css](<../roam/css.md>)}}
-                - ```css
-```
-- Plugin
-    - `plugin_name`
-        - **[Info](<../Info.md>):**
-            - Must include GIF and/or video of usage
-        - **[Link](<../Link.md>):**
-        - **[Getting started](<../Getting started.md>):**
-            - Installation, activation and configuration 
-        - **[Tutorials](<../Tutorials.md>):**
-            - 
-        - **[Reference](<../Reference.md>):**
-        - **[Developer](<../Developer.md>):**
-            - **[Twitter](<../Twitter.md>):**
-            - Love this plugin? Say thanks via [Paypal]()
-        - **[Code](<../Code.md>):**
-- Browser Extension
-    - `browser_extension_name`
-        - **[Info](<../Info.md>):**
-            - Must include GIF and/or video of usage
-        - **[Link](<../Link.md>):**
-        - **[Getting started](<../Getting started.md>):**
-            - Installation, activation and configuration 
-        - **[Tutorials](<../Tutorials.md>):**
-            - 
-        - **[Reference](<../Reference.md>):**
-        - **[Developer](<../Developer.md>):**
-            - **[Twitter](<../Twitter.md>):**
-            - Love this plugin? Say thanks via [Paypal]()
-- Coaching
-    - `Course Author Name`
-        - **[Info](<../Info.md>):**
-        - **[Website](<../Website.md>):**
-        - **[Areas of specialty](<../Areas of specialty.md>):**
-        - **[Contact](<../Contact.md>):**
-        - **[Price](<../Price.md>):**
-- To submit a template to be featured here please fill out this typeform
 - [Community](<../Community.md>)
     - Roam Daily Template
         - **[Designer](<../Designer.md>):** [Jonathan Borichevskiy](<../Jonathan Borichevskiy.md>)
@@ -284,6 +234,56 @@
                 - **[Tradeoffs](<../Tradeoffs.md>):**
                 - **[Costs](<../Costs.md>):**
                 - **[Problem fit](<../Problem fit.md>):**
+- Course
+    - ### [Course name](course link) by `[Author Name](<../Author Name.md>)` __price__
+        - 2-3 sentence blurb describing the course
+- Theme
+    - `theme name`
+        - **[Screenshots](<../Screenshots.md>):**
+        - **[Last updated](<../Last updated.md>):**
+        - **[Designer](<../Designer.md>):** name
+            - **[Twitter](<../Twitter.md>):** [link to bio]()
+            - Love this theme? Say thanks via [PayPal]() (and/or other payment service)
+        - **[Special Features](<../Special Features.md>):**
+        - **[Code](<../Code.md>):**
+            - {{[roam/css](<../roam/css.md>)}}
+                - ```css
+```
+- Plugin
+    - `plugin_name`
+        - **[Info](<../Info.md>):**
+            - Must include GIF and/or video of usage
+        - **[Link](<../Link.md>):**
+        - **[Getting started](<../Getting started.md>):**
+            - Installation, activation and configuration 
+        - **[Tutorials](<../Tutorials.md>):**
+            - 
+        - **[Reference](<../Reference.md>):**
+        - **[Developer](<../Developer.md>):**
+            - **[Twitter](<../Twitter.md>):**
+            - Love this plugin? Say thanks via [Paypal]()
+        - **[Code](<../Code.md>):**
+- Browser Extension
+    - `browser_extension_name`
+        - **[Info](<../Info.md>):**
+            - Must include GIF and/or video of usage
+        - **[Link](<../Link.md>):**
+        - **[Getting started](<../Getting started.md>):**
+            - Installation, activation and configuration 
+        - **[Tutorials](<../Tutorials.md>):**
+            - 
+        - **[Reference](<../Reference.md>):**
+        - **[Developer](<../Developer.md>):**
+            - **[Twitter](<../Twitter.md>):**
+            - Love this plugin? Say thanks via [Paypal]()
+- Coaching
+    - `Course Author Name`
+        - **[Info](<../Info.md>):**
+        - **[Website](<../Website.md>):**
+        - **[Areas of specialty](<../Areas of specialty.md>):**
+        - **[Contact](<../Contact.md>):**
+        - **[Price](<../Price.md>):**
+- To submit a template to be featured here please fill out this typeform
 - Docs #.hide
     - [ ] Introduction (few bullets) and some GIFs
     - **[Roam Team Videos](<../Roam Team Videos.md>):**
