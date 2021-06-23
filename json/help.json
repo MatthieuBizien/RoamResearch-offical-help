@@ -43202,6 +43202,55 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-23-2021"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "edit-time": 1624456218461,
+                        "string": "Slash menu () will only trigger when the slash is at the very beginning of a block, or preceded by a space - __not__ in the middle of a word",
+                        "uid": "fmZFdSq7v"
+                      }
+                    ],
+                    "edit-time": 1624456218461,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] \u2728",
+                    "uid": "efuvBFsh6"
+                  }
+                ],
+                "edit-time": 1624456218461,
+                "refs": [
+                  {
+                    "uid": "06-23-2021"
+                  }
+                ],
+                "string": "[[June 23rd, 2021]]",
+                "uid": "5rOlyJCC6"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-11-2021"
                   }
                 ],
@@ -71223,13 +71272,13 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "create-time": 1624454425273,
-    "edit-time": 1624454425273,
+    "create-time": 1624456218458,
+    "edit-time": 1624456218461,
     "title": "June 23rd, 2021",
     "uid": "06-23-2021"
   }

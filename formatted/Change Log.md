@@ -2,6 +2,9 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [June 23rd, 2021](<June 23rd, 2021.md>)
+            - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - Slash menu () will only trigger when the slash is at the very beginning of a block, or preceded by a space - __not__ in the middle of a word
         - [June 11th, 2021](<June 11th, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
                 - Desktop app for macOS, Linux, and Windows is out now!
