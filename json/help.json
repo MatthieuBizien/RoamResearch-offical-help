@@ -71317,17 +71317,5 @@
     "edit-time": 1625176097119,
     "title": "July 2nd, 2021",
     "uid": "07-02-2021"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1625181580171,
-    "edit-time": 1625181580171,
-    "title": "July 1st, 2021",
-    "uid": "07-01-2021"
   }
 ]
