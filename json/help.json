@@ -60239,6 +60239,39 @@
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "b8TnbBqKZ"
+          },
+          {
+            ":block/uid": "X5u5tsBoT"
+          },
+          {
+            ":block/uid": "nXhOWmKXo"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "edit-time": 1625191490779,
+        "heading": 1,
+        "refs": [
+          {
+            "uid": "b8TnbBqKZ"
+          },
+          {
+            "uid": "X5u5tsBoT"
+          },
+          {
+            "uid": "nXhOWmKXo"
+          }
+        ],
+        "string": "[How to Use Roam Research more Effectively?](https://wshuyi.medium.com/how-to-use-roam-research-more-effectively-257a4a1c81d) ft [[Jamie Miles]]\n#Filter #Tags",
+        "uid": "XWHNi4Op7"
+      }
+    ],
     "create-time": 1614970114310,
     "edit-time": 1614970114313,
     "title": "Shuyi Wang",
