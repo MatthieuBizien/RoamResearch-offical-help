@@ -60250,12 +60250,29 @@
           },
           {
             ":block/uid": "nXhOWmKXo"
+          },
+          {
+            ":block/uid": "2lIFMaKKN"
           }
         ],
         ":edit/user": {
           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         },
-        "edit-time": 1625191490779,
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1625191569433,
+            "edit-time": 1625191570259,
+            "string": "https://www.bilibili.com/video/BV1Tv411H7tr",
+            "uid": "uf1BxGWZZ"
+          }
+        ],
+        "edit-time": 1625191502437,
         "heading": 1,
         "refs": [
           {
@@ -60266,9 +60283,12 @@
           },
           {
             "uid": "nXhOWmKXo"
+          },
+          {
+            "uid": "2lIFMaKKN"
           }
         ],
-        "string": "[How to Use Roam Research more Effectively?](https://wshuyi.medium.com/how-to-use-roam-research-more-effectively-257a4a1c81d) ft [[Jamie Miles]]\n#Filter #Tags",
+        "string": "[How to Use Roam Research more Effectively?](https://wshuyi.medium.com/how-to-use-roam-research-more-effectively-257a4a1c81d) ft [[Jamie Miles]]\n#Filter #Tags #Metadata",
         "uid": "XWHNi4Op7"
       }
     ],
@@ -71350,5 +71370,17 @@
     "edit-time": 1625176097119,
     "title": "July 2nd, 2021",
     "uid": "07-02-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "create-time": 1625191502440,
+    "edit-time": 1625191502442,
+    "title": "Metadata",
+    "uid": "2lIFMaKKN"
   }
 ]
