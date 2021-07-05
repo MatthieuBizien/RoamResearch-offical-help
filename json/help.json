@@ -71384,14 +71384,8 @@
     "uid": "2lIFMaKKN"
   },
   {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1625476923073,
-    "edit-time": 1625476923073,
+    "create-time": 1625480499294,
+    "edit-time": 1625480499294,
     "title": "July 5th, 2021",
     "uid": "07-05-2021"
   }
