@@ -56650,6 +56650,28 @@
                 ],
                 "string": "[[Japanese]]",
                 "uid": "A5EmT3sHD"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "n-D3RLkt0"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "create-time": 1625664166437,
+                "edit-time": 1625664172962,
+                "refs": [
+                  {
+                    "uid": "n-D3RLkt0"
+                  }
+                ],
+                "string": "[[Turkish]]",
+                "uid": "_rvcJXIJB"
               }
             ],
             "create-time": 1614877988372,
@@ -71396,9 +71418,89 @@
     "uid": "07-06-2021"
   },
   {
-    "create-time": 1625660996096,
-    "edit-time": 1625660996096,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "create-time": 1625663126295,
+    "edit-time": 1625663126295,
     "title": "July 7th, 2021",
     "uid": "07-07-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "cGQjOo9hq"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "dcMtlb52h"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1625664182171,
+            "edit-time": 1625664226692,
+            "heading": 3,
+            "refs": [
+              {
+                "uid": "dcMtlb52h"
+              }
+            ],
+            "string": "[Roam Research ile Ki\u015fisel Bilgi Y\u00f6netimi sistemi kurmak](https://www.newslabturkey.org/roam-research-ile-kisisel-bilgi-yonetimi-sistemi-kurmak/) by [[Ahmet Sabanci]]",
+            "uid": "TIWyFl0hB"
+          }
+        ],
+        "create-time": 1625664182171,
+        "edit-time": 1625664182171,
+        "heading": 2,
+        "refs": [
+          {
+            "uid": "cGQjOo9hq"
+          }
+        ],
+        "string": "Articles::",
+        "uid": "DS-7f0eGw"
+      }
+    ],
+    "create-time": 1625664172963,
+    "edit-time": 1625664172964,
+    "title": "Turkish",
+    "uid": "n-D3RLkt0"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "create-time": 1625664226694,
+    "edit-time": 1625664226695,
+    "title": "Ahmet Sabanci",
+    "uid": "dcMtlb52h"
   }
 ]
