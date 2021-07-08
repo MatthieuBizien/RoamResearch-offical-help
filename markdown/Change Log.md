@@ -2,6 +2,11 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[July 8th, 2021]]
+            - ### [[Bug Fixes]] 🛠 
+                - Fixed bug where cursor remained did not move to the end of the generated template content
+                - Fixed bug where inline css would get loaded before styling from `roam/css`
+                - Minor bug fixes and improvements.
         - [[June 23rd, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - Slash menu () will only trigger when the slash is at the very beginning of a block, or preceded by a space - __not__ in the middle of a word

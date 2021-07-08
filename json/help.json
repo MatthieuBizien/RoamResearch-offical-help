@@ -43202,6 +43202,91 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "07-08-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1625784385595,
+                        "edit-time": 1625784439330,
+                        "string": "Fixed bug where cursor remained did not move to the end of the generated template content",
+                        "uid": "a9eCO2WFm"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1625784510043,
+                        "edit-time": 1625784546958,
+                        "string": "Fixed bug where inline css would get loaded before styling from `roam/css`",
+                        "uid": "AngHncZd3"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1625784473197,
+                        "edit-time": 1625784479599,
+                        "string": "Minor bug fixes and improvements.",
+                        "uid": "vE-5m39n6"
+                      }
+                    ],
+                    "create-time": 1625784339788,
+                    "edit-time": 1625784344869,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] \ud83d\udee0 ",
+                    "uid": "_8_1MXvJP"
+                  }
+                ],
+                "create-time": 1625784331276,
+                "edit-time": 1625784337763,
+                "refs": [
+                  {
+                    "uid": "07-08-2021"
+                  }
+                ],
+                "string": "[[July 8th, 2021]]",
+                "uid": "0C8oPdjJw"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-23-2021"
                   }
                 ],
@@ -71522,10 +71607,10 @@
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
     ":edit/user": {
-      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     "create-time": 1625771798086,
-    "edit-time": 1625771798086,
+    "edit-time": 1625784337763,
     "title": "July 8th, 2021",
     "uid": "07-08-2021"
   }
