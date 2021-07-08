@@ -71504,8 +71504,14 @@
     "uid": "dcMtlb52h"
   },
   {
-    "create-time": 1625771694830,
-    "edit-time": 1625771694830,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "create-time": 1625771798086,
+    "edit-time": 1625771798086,
     "title": "July 8th, 2021",
     "uid": "07-08-2021"
   }
