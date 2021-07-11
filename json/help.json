@@ -43202,6 +43202,67 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "07-11-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "create-time": 1626041326958,
+                        "edit-time": 1626041446371,
+                        "string": "Changing emails is now possible by going to `Settings > Account`",
+                        "uid": "56tpQCd1z"
+                      }
+                    ],
+                    "create-time": 1626041316634,
+                    "edit-time": 1626041326965,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] \ud83d\ude80",
+                    "uid": "aD4jqUv1K"
+                  }
+                ],
+                "create-time": 1626041303992,
+                "edit-time": 1626041306297,
+                "refs": [
+                  {
+                    "uid": "07-11-2021"
+                  }
+                ],
+                "string": "[[July 11th, 2021]]",
+                "uid": "vLe8mq5GG"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "07-08-2021"
                   }
                 ],
@@ -71615,8 +71676,14 @@
     "uid": "07-08-2021"
   },
   {
-    "create-time": 1626034690458,
-    "edit-time": 1626034690459,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1626041299100,
+    "edit-time": 1626041299100,
     "title": "July 11th, 2021",
     "uid": "07-11-2021"
   }

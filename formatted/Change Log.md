@@ -2,6 +2,9 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [July 11th, 2021](<July 11th, 2021.md>)
+            - ### [New Features](<New Features.md>) 🚀
+                - Changing emails is now possible by going to `Settings > Account`
         - [July 8th, 2021](<July 8th, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠 
                 - Fixed bug where cursor remained did not move to the end of the generated template content
