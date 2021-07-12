@@ -4,7 +4,7 @@
     - ## **New Changes**
         - [July 11th, 2021](<July 11th, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
-                - Changing emails is now possible by going to `Settings > Account`
+                - You can now change emails in the new `Account` panel in the `Settings` menu
         - [July 8th, 2021](<July 8th, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>) 🛠 
                 - Fixed bug where cursor remained did not move to the end of the generated template content
