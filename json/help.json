@@ -43233,8 +43233,8 @@
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
                         "create-time": 1626041326958,
-                        "edit-time": 1626051523039,
-                        "string": "You can now change emails in the __new__ < to `Settings > Account`",
+                        "edit-time": 1626051571355,
+                        "string": "You can now change your sign in email inside the new `Account` panel in the `Settings` menu",
                         "uid": "56tpQCd1z"
                       }
                     ],
@@ -71688,8 +71688,8 @@
     "uid": "07-11-2021"
   },
   {
-    "create-time": 1626051521345,
-    "edit-time": 1626051521345,
+    "create-time": 1626060123368,
+    "edit-time": 1626060123368,
     "title": "July 12th, 2021",
     "uid": "07-12-2021"
   }
