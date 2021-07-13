@@ -64,7 +64,11 @@ Turn key commands instruction on with custom components like this
     - **[Key Commands](<Key Commands.md>):**
 
 ## [Images](<Images.md>)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE5b-pBgXuQ.png?alt=media&token=b29c9beb-f9f3-44c7-88db-42a6b2b32289)
+#[Key Commands](<Key Commands.md>)
+
+#[Key Commands](<Key Commands.md>)
+
+#[Key Commands](<Key Commands.md>)
 - **[Key Commands](<Key Commands.md>):**
 
 ## [Mentions](<Mentions.md>)

@@ -53776,8 +53776,8 @@
               }
             ],
             "create-time": 1615264493917,
-            "edit-time": 1615264910237,
-            "string": "Pull from the internet (nothing gets stored, so if original link is broken, you lose the image)",
+            "edit-time": 1626134631808,
+            "string": "Pull from the internet (nothing gets stored, so if original link is broken, you lose the [image](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE5b-pBgXuQ.png?alt=media&token=b29c9beb-f9f3-44c7-88db-42a6b2b32289))",
             "uid": "PmmEqjM_N"
           },
           {
@@ -53808,10 +53808,66 @@
                     ":edit/user": {
                       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yzdfVWKFY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "create-time": 1615264174021,
+                        "edit-time": 1626134801872,
+                        "refs": [
+                          {
+                            "uid": "yzdfVWKFY"
+                          }
+                        ],
+                        "string": "`/upload` to upload from your local computer\n#[[Key Commands]]",
+                        "uid": "zVaylZn1U"
+                      }
+                    ],
                     "create-time": 1615366373456,
-                    "edit-time": 1615366407163,
+                    "edit-time": 1626134796796,
                     "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fp8y1UIR1C0.gif?alt=media&token=b7b763f2-b5f6-4e37-a015-0053dc0bf63c)",
                     "uid": "p5C0KD6Ju"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yzdfVWKFY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "create-time": 1626134695442,
+                        "edit-time": 1626134785509,
+                        "refs": [
+                          {
+                            "uid": "yzdfVWKFY"
+                          }
+                        ],
+                        "string": "Highlight a word, press `Cmd+k or Ctrl+k`, paste the image link\n#[[Key Commands]]",
+                        "uid": "j2sIgogFt"
+                      }
+                    ],
+                    "edit-time": 1626134738714,
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fk6NvrFcN0y.gif?alt=media&token=2983eb2f-ccd4-4d0c-beed-a386bfc5a614)",
+                    "uid": "-5Ci9xXsG"
                   }
                 ],
                 "create-time": 1615366410745,
@@ -53823,18 +53879,6 @@
                 ],
                 "string": "Team GIFs::",
                 "uid": "r__byRhZg"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1615264180894,
-                "edit-time": 1615264250421,
-                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE5b-pBgXuQ.png?alt=media&token=b29c9beb-f9f3-44c7-88db-42a6b2b32289)",
-                "uid": "D5rx466Ii"
               }
             ],
             "create-time": 1615264483105,
@@ -53872,18 +53916,6 @@
             "edit-time": 1615264851829,
             "string": "`![image](yourimageurl.com)` to pull from the internt",
             "uid": "Rd9F09cs2"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "create-time": 1615264174021,
-            "edit-time": 1615264857269,
-            "string": "`/upload` to upload from your local computer",
-            "uid": "zVaylZn1U"
           }
         ],
         "create-time": 1615264171346,
@@ -71688,9 +71720,21 @@
     "uid": "07-11-2021"
   },
   {
-    "create-time": 1626131954656,
-    "edit-time": 1626131954656,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "create-time": 1626134878218,
+    "edit-time": 1626134878218,
     "title": "July 12th, 2021",
     "uid": "07-12-2021"
+  },
+  {
+    "create-time": 1626138113295,
+    "edit-time": 1626138113296,
+    "title": "July 13th, 2021",
+    "uid": "07-13-2021"
   }
 ]
