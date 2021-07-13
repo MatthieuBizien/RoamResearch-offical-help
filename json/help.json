@@ -71732,8 +71732,14 @@
     "uid": "07-12-2021"
   },
   {
-    "create-time": 1626197071131,
-    "edit-time": 1626197071131,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "create-time": 1626200421060,
+    "edit-time": 1626200421060,
     "title": "July 13th, 2021",
     "uid": "07-13-2021"
   }
