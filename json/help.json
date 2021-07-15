@@ -71758,8 +71758,14 @@
     "uid": "07-14-2021"
   },
   {
-    "create-time": 1626347757647,
-    "edit-time": 1626347757648,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    "create-time": 1626349717476,
+    "edit-time": 1626349717476,
     "title": "July 15th, 2021",
     "uid": "07-15-2021"
   }
