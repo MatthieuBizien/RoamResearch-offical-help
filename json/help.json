@@ -13861,6 +13861,31 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "a4ul9zL8E"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1614357041002,
+                    "edit-time": 1616526595630,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "a4ul9zL8E"
+                      }
+                    ],
+                    "string": "[Pages]([[Pages]])",
+                    "uid": "HcL0kvbYK"
+                  }
+                ],
                 "create-time": 1614356949030,
                 "edit-time": 1614784545081,
                 "heading": 3,
@@ -13871,29 +13896,6 @@
                 ],
                 "string": "[Blocks]([[Blocks]])",
                 "uid": "ba4gcGR8U"
-              },
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "a4ul9zL8E"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614357041002,
-                "edit-time": 1616526595630,
-                "heading": 3,
-                "refs": [
-                  {
-                    "uid": "a4ul9zL8E"
-                  }
-                ],
-                "string": "[Pages]([[Pages]])",
-                "uid": "HcL0kvbYK"
               },
               {
                 ":block/refs": [
@@ -71756,8 +71758,8 @@
     "uid": "07-14-2021"
   },
   {
-    "create-time": 1626310852118,
-    "edit-time": 1626310852118,
+    "create-time": 1626319319415,
+    "edit-time": 1626319319415,
     "title": "July 15th, 2021",
     "uid": "07-15-2021"
   }

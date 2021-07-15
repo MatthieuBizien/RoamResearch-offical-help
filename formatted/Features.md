@@ -7,7 +7,7 @@
 # **Components** #.rm-grid
     - ## Basic
         - ### [Blocks]([Blocks](<Blocks.md>))
-        - ### [Pages]([Pages](<Pages.md>))
+            - ### [Pages]([Pages](<Pages.md>))
         - ### [Right Sidebar]([Right Sidebar](<Right Sidebar.md>))
         - ### [/ Commands]([/ Commands](</ Commands.md>))
         - ### [Daily Notes]([Daily Notes](<Daily Notes.md>))
