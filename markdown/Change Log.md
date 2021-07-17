@@ -10,6 +10,8 @@
                 - Fixed bug where cursor remained did not move to the end of the generated template content
                 - Fixed bug where inline css would get loaded before styling from `roam/css`
                 - Minor bug fixes and improvements.
+                - ### [[Developer Notes]] 🧑‍💻 
+                    - `data.block.create` and `data.block.update` can now be used to set alignment,  heading, and the children blocks' view type. See [developer docs](https://roamresearch.com/#/app/developer-documentation/page/CAtB5a7wv) for more info.
         - [[June 23rd, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - Slash menu () will only trigger when the slash is at the very beginning of a block, or preceded by a space - __not__ in the middle of a word
