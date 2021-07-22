@@ -27163,7 +27163,7 @@
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "children": [
                   {
@@ -27180,14 +27180,14 @@
                   }
                 ],
                 "create-time": 1616570782409,
-                "edit-time": 1617274762963,
+                "edit-time": 1626933960075,
                 "heading": 2,
                 "refs": [
                   {
                     "uid": "RkvokA4jz"
                   }
                 ],
-                "string": "[Roam in Context](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]]",
+                "string": "[Roam in Context](https://signup.cortexfutura.com/roam-in-context) by [[Cortex Futura]]",
                 "uid": "eBnpsWa0X"
               },
               {
@@ -71843,8 +71843,8 @@
     "uid": "07-21-2021"
   },
   {
-    "create-time": 1626930922051,
-    "edit-time": 1626930922052,
+    "create-time": 1626938267374,
+    "edit-time": 1626938267374,
     "title": "July 22nd, 2021",
     "uid": "07-22-2021"
   }

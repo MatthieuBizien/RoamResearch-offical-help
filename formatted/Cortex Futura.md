@@ -15,7 +15,7 @@
 - # [Cortex Futura]([Cortex Futura](<Cortex Futura.md>))
 
 ## [Courses](<Courses.md>)
-- ## [Roam in Context](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [Cortex Futura](<Cortex Futura.md>)
+- ## [Roam in Context](https://signup.cortexfutura.com/roam-in-context) by [Cortex Futura](<Cortex Futura.md>)
 
 - ## [Cite to Write](https://www.cortexfutura.com/p/cite-to-write/?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [Cortex Futura](<Cortex Futura.md>)
 

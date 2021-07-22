@@ -1,7 +1,7 @@
 - #.doc-mode
     - ### [Request to be featured](https://roamresearch.typeform.com/to/g5W8uCqz)
     - # Free
-        - ## [Roam in Context](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]]
+        - ## [Roam in Context](https://signup.cortexfutura.com/roam-in-context) by [[Cortex Futura]]
             - Learn the fundamentals of Roam from seven different perspectives. In six videos per use-case, Roam in Context will teach you Roam's basic features in the context of writing, note-taking, task management, project management, journaling, decision making and research/academia. Pick and choose the focus that fits your needs best – zero previous knowledge required.
         - ## [How to Use Roam Research: A Complete Guide](https://www.youtube.com/playlist?list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve) by [[Shu Omi]]
             - An extensive and comprehensive collection of Roam videos packaged into a free course which can be watched on YouTube.
