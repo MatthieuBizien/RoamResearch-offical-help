@@ -43204,6 +43204,66 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "08-03-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1628017229832,
+                        "edit-time": 1628017255477,
+                        "string": "Fixed bug with image links containing `\\r`",
+                        "uid": "U_UmvdNzM"
+                      }
+                    ],
+                    "create-time": 1628017211450,
+                    "edit-time": 1628017229841,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]]  \ud83d\udee0",
+                    "uid": "nglex8ECs"
+                  }
+                ],
+                "create-time": 1628017149136,
+                "edit-time": 1628017211468,
+                "refs": [
+                  {
+                    "uid": "08-03-2021"
+                  }
+                ],
+                "string": "[[August 3rd, 2021]]",
+                "uid": "FvlJEp9EP"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "07-11-2021"
                   }
                 ],
@@ -71867,8 +71927,26 @@
     "uid": "07-27-2021"
   },
   {
-    "create-time": 1628015039908,
-    "edit-time": 1628015039908,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1628017144616,
+    "edit-time": 1628017144616,
+    "title": "Kifah M",
+    "uid": "S29Gix9Gx"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1628017211356,
+    "edit-time": 1628017211356,
     "title": "August 3rd, 2021",
     "uid": "08-03-2021"
   }

@@ -2,6 +2,9 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [August 3rd, 2021](<August 3rd, 2021.md>)
+            - [Bug Fixes](<Bug Fixes.md>)  🛠
+                - Fixed bug with image links containing `\r`
         - [July 11th, 2021](<July 11th, 2021.md>)
             - ### [New Features](<New Features.md>) 🚀
                 - You can now change your sign in email inside the new `Account` panel in the `Settings` menu
