@@ -71975,8 +71975,20 @@
     "uid": "t8807tApy"
   },
   {
-    "create-time": 1628522501540,
-    "edit-time": 1628522501540,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    "create-time": 1628523847319,
+    "edit-time": 1628523847319,
+    "title": "July 30th, 2021",
+    "uid": "07-30-2021"
+  },
+  {
+    "create-time": 1628526601279,
+    "edit-time": 1628526601279,
     "title": "August 9th, 2021",
     "uid": "08-09-2021"
   }
