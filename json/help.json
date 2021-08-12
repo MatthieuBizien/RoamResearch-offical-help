@@ -43204,6 +43204,77 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "08-11-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "oxkJJUv2z"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1628735517037,
+                        "edit-time": 1628735647601,
+                        "refs": [
+                          {
+                            "uid": "oxkJJUv2z"
+                          }
+                        ],
+                        "string": "Fixed [[Mobile Menu Bar]] to insert double brackets instead of single brackets",
+                        "uid": "BGBQHQ5pN"
+                      }
+                    ],
+                    "create-time": 1628735587256,
+                    "edit-time": 1628735587256,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] \u2728",
+                    "uid": "NCkARRevZ"
+                  }
+                ],
+                "create-time": 1628735489028,
+                "edit-time": 1628735516922,
+                "refs": [
+                  {
+                    "uid": "08-11-2021"
+                  }
+                ],
+                "string": "[[August 11th, 2021]]",
+                "uid": "yx9j___uD"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "08-03-2021"
                   }
                 ],
@@ -43242,6 +43313,7 @@
                     ],
                     "create-time": 1628017211450,
                     "edit-time": 1628017229841,
+                    "heading": 3,
                     "refs": [
                       {
                         "uid": "xxFKZqzYN"
@@ -71987,8 +72059,32 @@
     "uid": "07-30-2021"
   },
   {
-    "create-time": 1628733709726,
-    "edit-time": 1628733709727,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1628735281107,
+    "edit-time": 1628735281107,
+    "title": "Joshua Brown",
+    "uid": "VWxX5q1VI"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1628735281109,
+    "edit-time": 1628735281109,
+    "title": "August 11th, 2021",
+    "uid": "08-11-2021"
+  },
+  {
+    "create-time": 1628738479100,
+    "edit-time": 1628738479101,
     "title": "August 12th, 2021",
     "uid": "08-12-2021"
   }

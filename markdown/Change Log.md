@@ -2,8 +2,11 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[August 11th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
+                - Fixed [[Mobile Menu Bar]] to insert double brackets instead of single brackets
         - [[August 3rd, 2021]]
-            - [[Bug Fixes]]  🛠
+            - ### [[Bug Fixes]]  🛠
                 - Fixed bug with image links containing `\r`
         - [[July 11th, 2021]]
             - ### [[New Features]] 🚀
