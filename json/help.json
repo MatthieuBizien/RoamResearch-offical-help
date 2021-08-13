@@ -17320,8 +17320,8 @@
                           }
                         ],
                         "create-time": 1628838847493,
-                        "edit-time": 1628838906721,
-                        "string": "Export your graph",
+                        "edit-time": 1628841072064,
+                        "string": "Export your graph:",
                         "uid": "T0BrqESNL"
                       },
                       {
@@ -17393,23 +17393,11 @@
                             "edit-time": 1628838944301,
                             "string": "Once created, go into your local graph, and then click on the three-dot menu again.  Then select \"Settings\", \"Graph\", and \"Restore Graph\".",
                             "uid": "hd3uXL4tC"
-                          },
-                          {
-                            ":create/user": {
-                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-                            },
-                            "create-time": 1628839023987,
-                            "edit-time": 1628839023987,
-                            "string": "",
-                            "uid": "AjGDGMYm3"
                           }
                         ],
                         "create-time": 1628838903058,
-                        "edit-time": 1628838904136,
-                        "string": "Create your new graph on your new computer",
+                        "edit-time": 1628841073662,
+                        "string": "Create your new graph on your new computer:",
                         "uid": "1IHJxg4sZ"
                       },
                       {
@@ -17431,6 +17419,18 @@
                             "edit-time": 1628839053450,
                             "string": "Please note you will now have the same local graph on two computers. If you make changes to one, it will not update on the other. To avoid confusion, please consider deleting the graph from your original computer **after** you've made sure that your import was successful (you'll see the \"Graph restoration was successful!\" message)",
                             "uid": "9iq_45Sud"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "create-time": 1628841037207,
+                            "edit-time": 1628841053644,
+                            "string": "Make sure you are **not** importing the zip file, but the actual EDN file contained in the previous zip export",
+                            "uid": "OX--ko2OR"
                           }
                         ],
                         "create-time": 1628839022060,
