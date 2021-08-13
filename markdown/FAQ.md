@@ -220,6 +220,22 @@
         - ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263339/original/sm7A-n6J0AAzMgIogkMpXQurLtZuW9nFQA.png?1595898579)
         - Your file will download once you press the **Export button**:
         - ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263382/original/VtoLkm7e1HPsJxpHML5Vi7RwPuKaB7DEAA.png?1595898687)
+    - ### **How do I move a local graph from one device to another?**
+        - Your local graphs are only saved and stored on the browser and device you created them from. If you want to transfer your local graph to another computer, you will need to export it and then import it to your new computer. 
+            - Here's how to do it:
+                - Export your graph
+                    - First go into your local graph on your original machine.  Once in any page, on the top right, click the three dot menu and then select "Export All"
+                        - Make sure to export in EDN, as it is the highest fidelity export format. This will download your entire local graph as a zip file. Make sure to unzip the file before you continue with the following steps.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FO8scGluRk2.gif?alt=media&token=173f2105-8e85-48ad-b387-7b4013d79184)
+                - Create your new graph on your new computer
+                    - On your new computer, log in to Roam, and then create a new local graph from your graph overview page. 
+                    - The name of this graph can be the same as your previously exported graph.
+                    - Once created, go into your local graph, and then click on the three-dot menu again.  Then select "Settings", "Graph", and "Restore Graph".
+                        - You will then be prompted to upload a graph. Upload your previous unzipped EDN export from step 1. 
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fg83gfP1TSr.gif?alt=media&token=13a27700-fa9a-4891-99d9-c32cfeee5d2a)
+                    - 
+                - Things to watch out for: 
+                    - Please note you will now have the same local graph on two computers. If you make changes to one, it will not update on the other. To avoid confusion, please consider deleting the graph from your original computer **after** you've made sure that your import was successful (you'll see the "Graph restoration was successful!" message)
     - ### **How do** [import]([[Import]]) **notes into Roam?**
         - We currently offer two ways to import notes into Roam: JSON and Markdown.
         - If you are interested in importing Roam notes, we suggest you import with JSON, which stores more metadata about Roam-specific content and will allow you to more seamlessly move notes from one graph to another. On the other hand, if you plan to import text files from any other source, we recommend Markdown.

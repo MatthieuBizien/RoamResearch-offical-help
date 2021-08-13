@@ -17249,6 +17249,215 @@
             "uid": "cq360BuSr"
           },
           {
+            ":create/user": {
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+            },
+            ":edit/user": {
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                },
+                ":edit/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                "create-time": 1628838872807,
+                                "edit-time": 1628838872947,
+                                "string": "Make sure to export in EDN, as it is the highest fidelity export format. This will download your entire local graph as a zip file. Make sure to unzip the file before you continue with the following steps.",
+                                "uid": "4OBAIHE10"
+                              }
+                            ],
+                            "create-time": 1628838861961,
+                            "edit-time": 1628838862138,
+                            "string": "First go into your local graph on your original machine.  Once in any page, on the top right, click the three dot menu and then select \"Export All\"",
+                            "uid": "e2TPAMv0m"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "create-time": 1628838776865,
+                            "edit-time": 1628838841958,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FO8scGluRk2.gif?alt=media&token=173f2105-8e85-48ad-b387-7b4013d79184)",
+                            "uid": "OhaOuxSPA"
+                          }
+                        ],
+                        "create-time": 1628838847493,
+                        "edit-time": 1628838906721,
+                        "string": "Export your graph",
+                        "uid": "T0BrqESNL"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "create-time": 1628838907962,
+                            "edit-time": 1628838919124,
+                            "string": "On your new computer, log in to Roam, and then create a new local graph from your graph overview page. ",
+                            "uid": "Zp7IuFwgG"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "create-time": 1628838920172,
+                            "edit-time": 1628838931569,
+                            "string": "The name of this graph can be the same as your previously exported graph.",
+                            "uid": "b02zBPYRI"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                "create-time": 1628838944584,
+                                "edit-time": 1628838960617,
+                                "string": "You will then be prompted to upload a graph. Upload your previous unzipped EDN export from step 1. ",
+                                "uid": "vFzzYjfiJ"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                "create-time": 1628838971481,
+                                "edit-time": 1628838997613,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fg83gfP1TSr.gif?alt=media&token=13a27700-fa9a-4891-99d9-c32cfeee5d2a)",
+                                "uid": "3_AEfpCoN"
+                              }
+                            ],
+                            "create-time": 1628838943684,
+                            "edit-time": 1628838944301,
+                            "string": "Once created, go into your local graph, and then click on the three-dot menu again.  Then select \"Settings\", \"Graph\", and \"Restore Graph\".",
+                            "uid": "hd3uXL4tC"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "create-time": 1628839023987,
+                            "edit-time": 1628839023987,
+                            "string": "",
+                            "uid": "AjGDGMYm3"
+                          }
+                        ],
+                        "create-time": 1628838903058,
+                        "edit-time": 1628838904136,
+                        "string": "Create your new graph on your new computer",
+                        "uid": "1IHJxg4sZ"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "create-time": 1628839039768,
+                            "edit-time": 1628839053450,
+                            "string": "Please note you will now have the same local graph on two computers. If you make changes to one, it will not update on the other. To avoid confusion, please consider deleting the graph from your original computer **after** you've made sure that your import was successful (you'll see the \"Graph restoration was successful!\" message)",
+                            "uid": "9iq_45Sud"
+                          }
+                        ],
+                        "create-time": 1628839022060,
+                        "edit-time": 1628839023996,
+                        "string": "Things to watch out for: ",
+                        "uid": "O0mg-9dxP"
+                      }
+                    ],
+                    "create-time": 1628838721074,
+                    "edit-time": 1628838776474,
+                    "string": "Here's how to do it:",
+                    "uid": "svwhiXPCa"
+                  }
+                ],
+                "create-time": 1628838637602,
+                "edit-time": 1628838719860,
+                "string": "Your local graphs are only saved and stored on the browser and device you created them from. If you want to transfer your local graph to another computer, you will need to export it and then import it to your new computer. ",
+                "uid": "VNKT8o2xC"
+              }
+            ],
+            "create-time": 1628838589987,
+            "edit-time": 1628838636000,
+            "heading": 3,
+            "string": "**How do I move a local graph from one device to another?**",
+            "uid": "hL4ythtVl"
+          },
+          {
             ":block/refs": [
               {
                 ":block/uid": "m6jiiw1bO"
@@ -72083,8 +72292,14 @@
     "uid": "08-11-2021"
   },
   {
-    "create-time": 1628835846892,
-    "edit-time": 1628835846892,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1628838521661,
+    "edit-time": 1628838521661,
     "title": "August 13th, 2021",
     "uid": "08-13-2021"
   }
