@@ -3,6 +3,13 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [[August 11th, 2021]]
+            - ### [[New Features]] 🚀
+                - You can now use [[Video Timestamps]] for Youtube videos!
+                - Either type `/video timestamp` or hit `Cmd/Ctrl+Alt+t` under a video to enter a timestamp
+                - Example::
+                    - {{[[video]]: https://www.youtube.com/watch?v=4yXK9OMc2OU}}
+                        - {{[[video-timestamp]]: 00:07:07}}
+                            - #Notes Cmd+U opens search bar
             - ### [[Quality of Life Improvements]] ✨
                 - Fixed [[Mobile Menu Bar]] to insert double brackets instead of single brackets
         - [[August 3rd, 2021]]

@@ -43426,6 +43426,159 @@
                   {
                     ":block/refs": [
                       {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "YhCkenNOy"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1628746745662,
+                        "edit-time": 1629134062598,
+                        "refs": [
+                          {
+                            "uid": "YhCkenNOy"
+                          }
+                        ],
+                        "string": "You can now use [[Video Timestamps]] for Youtube videos!",
+                        "uid": "_V9UbRhWa"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1628746775911,
+                        "edit-time": 1629134062598,
+                        "string": "Either type `/video timestamp` or hit `Cmd/Ctrl+Alt+t` under a video to enter a timestamp",
+                        "uid": "JE1qPTTVS"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "wOgeziZ8U"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "children": [
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "dZwwrPIpB"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "create-time": 1628746871735,
+                                    "edit-time": 1629134062598,
+                                    "refs": [
+                                      {
+                                        "uid": "dZwwrPIpB"
+                                      }
+                                    ],
+                                    "string": "#Notes Cmd+U opens search bar",
+                                    "uid": "GduwF-90V"
+                                  }
+                                ],
+                                "create-time": 1628746856850,
+                                "edit-time": 1629134062598,
+                                "refs": [
+                                  {
+                                    "uid": "wOgeziZ8U"
+                                  }
+                                ],
+                                "string": "{{[[video-timestamp]]: 00:07:07}}",
+                                "uid": "AIarI9JA8"
+                              }
+                            ],
+                            "create-time": 1628746847777,
+                            "edit-time": 1629134062598,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://www.youtube.com/watch?v=4yXK9OMc2OU}}",
+                            "uid": "wAp2aC6aW"
+                          }
+                        ],
+                        "create-time": 1628746843024,
+                        "edit-time": 1629134062598,
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        "uid": "bNnjmb7X6"
+                      }
+                    ],
+                    "create-time": 1628746721808,
+                    "edit-time": 1629134062598,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] \ud83d\ude80",
+                    "uid": "4jLsI9OkQ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
                         ":block/uid": "_EqbjQSAF"
                       }
                     ],
@@ -72304,8 +72457,44 @@
     "uid": "08-13-2021"
   },
   {
-    "create-time": 1629131506942,
-    "edit-time": 1629131506942,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1629134044968,
+    "edit-time": 1629134044969,
+    "title": "Video Timestamps",
+    "uid": "YhCkenNOy"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1629134044987,
+    "edit-time": 1629134044988,
+    "title": "video-timestamp",
+    "uid": "wOgeziZ8U"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1629134044991,
+    "edit-time": 1629134044991,
+    "title": "Notes",
+    "uid": "dZwwrPIpB"
+  },
+  {
+    "create-time": 1629134676054,
+    "edit-time": 1629134676055,
     "title": "August 16th, 2021",
     "uid": "08-16-2021"
   }

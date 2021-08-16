@@ -51,6 +51,9 @@
 ## [Calculator](<Calculator.md>)
 - {{[video](<video.md>):
 
+## [Change Log](<Change Log.md>)
+- {{[video](<video.md>):
+
 ## [Chinese](<Chinese.md>)
 - {{[video](<video.md>):
 
