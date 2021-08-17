@@ -72493,8 +72493,20 @@
     "uid": "dZwwrPIpB"
   },
   {
-    "create-time": 1629161930579,
-    "edit-time": 1629161930579,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1629164499645,
+    "edit-time": 1629164499646,
+    "title": "August 16th, 2021",
+    "uid": "08-16-2021"
+  },
+  {
+    "create-time": 1629165616305,
+    "edit-time": 1629165616305,
     "title": "August 17th, 2021",
     "uid": "08-17-2021"
   }
