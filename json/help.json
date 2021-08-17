@@ -72505,8 +72505,14 @@
     "uid": "08-16-2021"
   },
   {
-    "create-time": 1629177409960,
-    "edit-time": 1629177409961,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1629180006067,
+    "edit-time": 1629180006067,
     "title": "August 17th, 2021",
     "uid": "08-17-2021"
   }
