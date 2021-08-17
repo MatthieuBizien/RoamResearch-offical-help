@@ -134,7 +134,7 @@
         - Clicking this star button will add a shortcut to that page in the left sidebar menu, making the page one click away from wherever you are in Roam.
         - If later you want to remove this shortcut, follow the same process. Enter the page you want to remove from your shortcuts, and then simply un click the same star button.
         - Here's an example:
-        - ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001914617/original/K7u-pY8d8JESJwqjb_UCIyBY-gLJdW9uTA.gif?1597880957)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvouuDBjX8Z.gif?alt=media&token=25a6eeaf-fb1d-4f11-90aa-1622f84921f9)
     - ### **How do I delete a** [page]([Pages](<Pages.md>))?
         - There are different ways to delete a page: 
         - From the [All Pages](<All Pages.md>) view 
