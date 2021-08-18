@@ -26252,88 +26252,6 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "cGQjOo9hq"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "children": [
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "TF3K-ab5g"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "children": [
-              {
-                ":block/props": {
-                  ":iframe": {
-                    "https://www.roamtips.com/home/password-protect-roam-blocks": {
-                      ":size": {
-                        ":height": 488,
-                        ":width": 639
-                      }
-                    }
-                  }
-                },
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "create-time": 1614881187039,
-                "edit-time": 1614881191234,
-                "props": {
-                  "iframe": {
-                    "https://www.roamtips.com/home/password-protect-roam-blocks": {
-                      "size": {
-                        "height": 488,
-                        "width": 639
-                      }
-                    }
-                  }
-                },
-                "string": "{{iframe: https://www.roamtips.com/home/password-protect-roam-blocks}}",
-                "uid": "V9qTYm9Dt"
-              }
-            ],
-            "create-time": 1614881116896,
-            "edit-time": 1614881185602,
-            "heading": 3,
-            "refs": [
-              {
-                "uid": "TF3K-ab5g"
-              }
-            ],
-            "string": "[How to password protect (encrypt) a block in Roam Research](https://www.roamtips.com/home/password-protect-roam-blocks) by [[Roam Tips and Hacks]]",
-            "uid": "Q0mjB6NqF"
-          }
-        ],
-        "create-time": 1614788743859,
-        "edit-time": 1614788745859,
-        "heading": 2,
-        "refs": [
-          {
-            "uid": "cGQjOo9hq"
-          }
-        ],
-        "string": "Articles::",
-        "uid": "QIJLM98tB"
-      },
-      {
-        ":block/refs": [
-          {
             ":block/uid": "oEhVJ0Eaw"
           }
         ],
@@ -72517,8 +72435,8 @@
     "uid": "08-17-2021"
   },
   {
-    "create-time": 1629285351452,
-    "edit-time": 1629285351452,
+    "create-time": 1629289850615,
+    "edit-time": 1629289850615,
     "title": "August 18th, 2021",
     "uid": "08-18-2021"
   }
