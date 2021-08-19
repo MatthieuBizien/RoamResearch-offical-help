@@ -35280,56 +35280,56 @@
             "edit-time": 1617137848516,
             "string": "The ability to use clearly defined sets within a dependency graph helps to resolve ambiguity, reducing the chances of participants talking at cross-purposes, or deliberate \u201cmotte-and-bailey\u201d style strategic equivocation.{{alias: ((1598)) 5}}",
             "uid": "bHMkC49Hd"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "ROEXlNl95"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1617137848516,
+            "edit-time": 1617137848516,
+            "refs": [
+              {
+                "uid": "ROEXlNl95"
+              }
+            ],
+            "string": "Besides reasoning and argument, dependency graphs have applications in education, self-directed learning, and general decision-making. Even a very complicated project can be traced backwards to a number of smaller [[task]]s. The user can see the tradeoffs involved in each pathway, map out which route is the fastest, and which path might bring them closer to other interesting goals. As the student marks their progress, they can discover new projects and pathways which make use of the skills they have acquired.",
+            "uid": "DceQKa0y8"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "0Fy1sEXdL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1617137848516,
+            "edit-time": 1617137848516,
+            "refs": [
+              {
+                "uid": "0Fy1sEXdL"
+              }
+            ],
+            "string": "The problems of prose apply even in the domain of mathematical proofs, see Lamport\u2019s [[How to write a 21st Century Proof]]\u201d",
+            "uid": "RzSftMh4r"
           }
         ],
         "create-time": 1617137848516,
         "edit-time": 1617137848516,
         "string": "**5.\tDependency graphs and logical reasoning**",
         "uid": "ojb3Hr14N"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "ROEXlNl95"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        },
-        ":edit/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        },
-        "create-time": 1617137848516,
-        "edit-time": 1617137848516,
-        "refs": [
-          {
-            "uid": "ROEXlNl95"
-          }
-        ],
-        "string": "Besides reasoning and argument, dependency graphs have applications in education, self-directed learning, and general decision-making. Even a very complicated project can be traced backwards to a number of smaller [[task]]s. The user can see the tradeoffs involved in each pathway, map out which route is the fastest, and which path might bring them closer to other interesting goals. As the student marks their progress, they can discover new projects and pathways which make use of the skills they have acquired.",
-        "uid": "DceQKa0y8"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "0Fy1sEXdL"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        },
-        ":edit/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        },
-        "create-time": 1617137848516,
-        "edit-time": 1617137848516,
-        "refs": [
-          {
-            "uid": "0Fy1sEXdL"
-          }
-        ],
-        "string": "The problems of prose apply even in the domain of mathematical proofs, see Lamport\u2019s [[How to write a 21st Century Proof]]\u201d",
-        "uid": "RzSftMh4r"
       },
       {
         ":create/user": {
@@ -72435,8 +72435,8 @@
     "uid": "08-17-2021"
   },
   {
-    "create-time": 1629376251974,
-    "edit-time": 1629376251974,
+    "create-time": 1629379482223,
+    "edit-time": 1629379482223,
     "title": "August 19th, 2021",
     "uid": "08-19-2021"
   }
