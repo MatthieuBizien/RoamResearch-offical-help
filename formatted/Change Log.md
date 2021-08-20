@@ -8,8 +8,10 @@
                 - Either type `/video timestamp` or hit `Cmd/Ctrl+Alt+t` under a video to enter a timestamp
                 - **[Example](<Example.md>):**
                     - {{[video](<video.md>): https://www.youtube.com/watch?v=4yXK9OMc2OU}}
-                        - {{[video-timestamp](<video-timestamp.md>): 00:07:07}}
-                            - [Notes](<Notes.md>) Cmd+U opens search bar
+                        - {{[video-timestamp](<video-timestamp.md>): 00:07:07}} 
+                            - [Notes](<Notes.md>) Cmd+U opens search bar 
+                            - {{[video-timestamp](<video-timestamp.md>): 00:07:08}}
+                            - {{[video-timestamp](<video-timestamp.md>): 00:07:08}}
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - Fixed [Mobile Menu Bar](<Mobile Menu Bar.md>) to insert double brackets instead of single brackets
         - [August 3rd, 2021](<August 3rd, 2021.md>)
