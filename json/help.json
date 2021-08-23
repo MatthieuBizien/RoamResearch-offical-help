@@ -5761,7 +5761,7 @@
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
             ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
             },
             "children": [
               {
@@ -5798,13 +5798,13 @@
               }
             ],
             "create-time": 1614880094150,
-            "edit-time": 1614880144489,
+            "edit-time": 1629703813954,
             "refs": [
               {
                 "uid": "TF3K-ab5g"
               }
             ],
-            "string": "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]]",
+            "string": "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ((edit table))",
             "uid": "u1drldhl1"
           }
         ],
@@ -72591,8 +72591,8 @@
     "uid": "08-22-2021"
   },
   {
-    "create-time": 1629703098142,
-    "edit-time": 1629703098142,
+    "create-time": 1629706936925,
+    "edit-time": 1629706936926,
     "title": "August 23rd, 2021",
     "uid": "08-23-2021"
   }
