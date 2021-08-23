@@ -43492,6 +43492,94 @@
                                     ],
                                     "string": "{{[[video-timestamp]]: 00:07:08}}",
                                     "uid": "pNpyFfVZq"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "create-time": 1629693914805,
+                                    "edit-time": 1629693916467,
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "string": "{{[[video-timestamp]]: 00:08:57}}",
+                                    "uid": "m3QGNRH-c"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "create-time": 1629693919617,
+                                    "edit-time": 1629693921692,
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "string": "{{[[video-timestamp]]: 00:09:02}}",
+                                    "uid": "ZeUJkHmfk"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "create-time": 1629693787451,
+                                    "edit-time": 1629693962145,
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "string": "{{[[video-timestamp]]: 00:09:43}}",
+                                    "uid": "35X8m8oRc"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "create-time": 1629693962339,
+                                    "edit-time": 1629693964001,
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "string": "{{[[video-timestamp]]: 00:09:45}}",
+                                    "uid": "PGPilOAxo"
                                   }
                                 ],
                                 "create-time": 1628746856850,
@@ -72503,8 +72591,8 @@
     "uid": "08-22-2021"
   },
   {
-    "create-time": 1629692704801,
-    "edit-time": 1629692704802,
+    "create-time": 1629695811929,
+    "edit-time": 1629695811929,
     "title": "August 23rd, 2021",
     "uid": "08-23-2021"
   }

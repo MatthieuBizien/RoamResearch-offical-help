@@ -12,6 +12,10 @@
                             - [Notes](<Notes.md>) Cmd+U opens search bar 
                             - {{[video-timestamp](<video-timestamp.md>): 00:07:08}}
                             - {{[video-timestamp](<video-timestamp.md>): 00:07:08}}
+                            - {{[video-timestamp](<video-timestamp.md>): 00:08:57}}
+                            - {{[video-timestamp](<video-timestamp.md>): 00:09:02}}
+                            - {{[video-timestamp](<video-timestamp.md>): 00:09:43}}
+                            - {{[video-timestamp](<video-timestamp.md>): 00:09:45}}
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - Fixed [Mobile Menu Bar](<Mobile Menu Bar.md>) to insert double brackets instead of single brackets
         - [August 3rd, 2021](<August 3rd, 2021.md>)

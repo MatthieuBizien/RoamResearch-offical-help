@@ -12,6 +12,10 @@
                             - #Notes Cmd+U opens search bar 
                             - {{[[video-timestamp]]: 00:07:08}}
                             - {{[[video-timestamp]]: 00:07:08}}
+                            - {{[[video-timestamp]]: 00:08:57}}
+                            - {{[[video-timestamp]]: 00:09:02}}
+                            - {{[[video-timestamp]]: 00:09:43}}
+                            - {{[[video-timestamp]]: 00:09:45}}
             - ### [[Quality of Life Improvements]] ✨
                 - Fixed [[Mobile Menu Bar]] to insert double brackets instead of single brackets
         - [[August 3rd, 2021]]
