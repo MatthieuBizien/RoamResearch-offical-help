@@ -43331,6 +43331,128 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "08-26-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1630000916394,
+                        "edit-time": 1630001006374,
+                        "string": "Fixed bug where when opening references of a block in the sidebar, two instances would show up",
+                        "uid": "BEQk4oRiw"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1630001019345,
+                        "edit-time": 1630001040885,
+                        "string": "Fixed issues around Display Name not showing",
+                        "uid": "ntZdB9OH_"
+                      }
+                    ],
+                    "create-time": 1630000901447,
+                    "edit-time": 1630000909272,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]]  \ud83d\udee0",
+                    "uid": "6SNTqQ8TR"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RtfLGrv81"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1630000815592,
+                        "edit-time": 1630000881096,
+                        "string": "Fixed bug for removing window via front-end API",
+                        "uid": "f0gaf9FNd"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1630000846374,
+                        "edit-time": 1630000878151,
+                        "string": "Fixed bug for opening mentions in sidebar via front-end API",
+                        "uid": "dNDffF1s4"
+                      }
+                    ],
+                    "create-time": 1630000804673,
+                    "edit-time": 1630000813317,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]] \ud83e\uddd1\u200d\ud83d\udcbb ",
+                    "uid": "frRwhbd4g"
+                  }
+                ],
+                "create-time": 1630000798826,
+                "edit-time": 1630000804685,
+                "refs": [
+                  {
+                    "uid": "08-26-2021"
+                  }
+                ],
+                "string": "[[August 26th, 2021]]",
+                "uid": "Kbjsq6pDV"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "08-11-2021"
                   }
                 ],
@@ -72591,8 +72713,14 @@
     "uid": "08-22-2021"
   },
   {
-    "create-time": 1629998619108,
-    "edit-time": 1629998619108,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1630000804334,
+    "edit-time": 1630000804334,
     "title": "August 26th, 2021",
     "uid": "08-26-2021"
   }

@@ -2,6 +2,13 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[August 26th, 2021]]
+            - ### [[Bug Fixes]]  🛠
+                - Fixed bug where when opening references of a block in the sidebar, two instances would show up
+                - Fixed issues around Display Name not showing
+            - ### [[Developer Notes]] 🧑‍💻 
+                - Fixed bug for removing window via front-end API
+                - Fixed bug for opening mentions in sidebar via front-end API
         - [[August 11th, 2021]]
             - ### [[New Features]] 🚀
                 - You can now use [[Video Timestamps]] for Youtube videos!
