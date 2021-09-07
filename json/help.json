@@ -71369,6 +71369,20 @@
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "create-time": 1630979463940,
+        "edit-time": 1630979656949,
+        "string": "[Save to Roam](https://apps.apple.com/us/app/save-to-roam/id1578763303) -\ud83d\udc4cSafari Webclipper availble in App Store, created by Artem Tyurin",
+        "uid": "KyDctOZDD"
+      }
+    ],
     "create-time": 1619763216098,
     "edit-time": 1619763216099,
     "title": "Safari",
@@ -72761,8 +72775,14 @@
     "uid": "09-06-2021"
   },
   {
-    "create-time": 1630976358267,
-    "edit-time": 1630976358267,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1630979030515,
+    "edit-time": 1630979030515,
     "title": "September 7th, 2021",
     "uid": "09-07-2021"
   }
