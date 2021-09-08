@@ -9,8 +9,6 @@
 
 # Backlinks
 ## [FAQ](<FAQ.md>)
-- [Export](<Export.md>) and [import]([Import](<Import.md>))
-
 - ### **How do** [import]([Import](<Import.md>))
 
 - Unfortunately it's not possible to merge graphs currently. [Importing]([Import](<Import.md>))

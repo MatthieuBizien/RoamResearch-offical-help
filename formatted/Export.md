@@ -10,8 +10,6 @@
 
 # Backlinks
 ## [FAQ](<FAQ.md>)
-- [Export](<Export.md>)
-
 - No, we never delete any graphs unless asked to. So you can cancel/pause your subscription, reactivate it later and you'll still be able to get back to your graph. You can also [export]([Export](<Export.md>))
 
 - 1) [Export](<Export.md>)

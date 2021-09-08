@@ -3,17 +3,16 @@
     - ### **Can I change my profile picture?**
         - Unfortunately no you can't yet change your profile picture.
     - ### **Can I change my account email?**
-        - Not yet but soon!  
-            - Unfortunately it's not yet possible to change your email address. 
-            - Our advice is to wait if it's not urgent- but if it is, there are also a few workarounds. 
-            - Sign up to Roam with a new account with your preferred email - and then a few options - 
-        - You can add your new email as an editor in your current graph
-            - go to the three-dot-menu on the top right
-            - select sharing menu
-            - add your other email as an editor and hit enter
-        - That way your new account will be able to access your old account (but won't have full account owner permissions).
-        - Or alternatively, you could set up a new account with your new email, export your entire graph from your current account, and then import it into the new one.  
-        - [[Export]] and [import]([[Import]]) features are also found under the three-dot-menu within the graph in the top right.  
+        - Yes! ﻿Here's how to change your login email:
+            - ﻿From the three-dot menu on the top-right of your Roam, click on "Settings" and navigate to "Account"
+            - ﻿Make sure that your sign-in method is "Email"
+            - ![](https://downloads.intercomcdn.com/i/o/365412685/393bc9e50bc7876953bd8ac7/Screenshot+2021-07-20+at+18.47.40.png)
+            - If it says "Google", please click on the blue button that says "Send new password email" and follow the instructions
+            - ![](https://downloads.intercomcdn.com/i/o/365413081/99e0a34a3556134cad9e2690/Screenshot+2021-07-20+at+18.48.35.png)
+            - ﻿Under the "Email" field, type your current login password and click on "Confirm"
+            - ![](https://downloads.intercomcdn.com/i/o/365413230/ecf229836dbd0383473cc71f/Screenshot+2021-07-20+at+18.48.50.png)
+            - ﻿You will then be able to write your new preferred email as your new sign-in method.
+            - ![](https://downloads.intercomcdn.com/i/o/365413407/430f026775ddd622782957c7/Screenshot+2021-07-20+at+18.49.11.png)
     - ### **How do I sign up?**
         - Here's how to sign up to Roam:
         - Go to https://roamresearch.com/ and click on the blue button that says "Sign Up"

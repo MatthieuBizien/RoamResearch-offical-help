@@ -14626,156 +14626,86 @@
             },
             "children": [
               {
-                ":create/user": {
-                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-                },
-                ":edit/user": {
-                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-                },
-                "children": [
-                  {
-                    ":create/user": {
-                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-                    },
-                    "create-time": 1615347573337,
-                    "edit-time": 1615347588845,
-                    "string": "Unfortunately it's not yet possible to change your email address. ",
-                    "uid": "TbeZXEwqa"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-                    },
-                    "create-time": 1615316044764,
-                    "edit-time": 1615347573347,
-                    "string": "Our advice is to wait if it's not urgent- but if it is, there are also a few workarounds. ",
-                    "uid": "W6K_Yqwup"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                    },
-                    "create-time": 1615316051739,
-                    "edit-time": 1615316078074,
-                    "string": "Sign up to Roam with a new account with your preferred email - and then a few options - ",
-                    "uid": "kNJCvVHFg"
-                  }
-                ],
-                "create-time": 1615347519579,
-                "edit-time": 1615347554017,
-                "string": "Not yet but soon!  ",
-                "uid": "hqDoB0IXl"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
                 ":edit/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
                 "children": [
                   {
-                    ":create/user": {
-                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                    },
                     ":edit/user": {
                       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                     },
-                    "create-time": 1615316103909,
-                    "edit-time": 1615316103909,
-                    "string": "go to the three-dot-menu on the top right",
-                    "uid": "iym-YjTVa"
+                    "edit-time": 1631117589395,
+                    "string": "\ufeffFrom the three-dot menu on the top-right of your Roam, click on \"Settings\" and navigate to \"Account\"",
+                    "uid": "gUAddSpF0"
                   },
                   {
-                    ":create/user": {
-                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                    },
                     ":edit/user": {
                       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                     },
-                    "create-time": 1615316200102,
-                    "edit-time": 1615316200102,
-                    "string": "select sharing menu",
-                    "uid": "MZCrE4X7E"
+                    "edit-time": 1631117592255,
+                    "string": "\ufeffMake sure that your sign-in method is \"Email\"",
+                    "uid": "hqHjlceVm"
                   },
                   {
-                    ":create/user": {
-                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                    },
                     ":edit/user": {
                       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                     },
-                    "create-time": 1615316108971,
-                    "edit-time": 1615316208830,
-                    "string": "add your other email as an editor and hit enter",
-                    "uid": "Pmb3gjGTk"
-                  }
-                ],
-                "create-time": 1615316092108,
-                "edit-time": 1615316092108,
-                "string": "You can add your new email as an editor in your current graph",
-                "uid": "XJDx83qu6"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
-                ":edit/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
-                "create-time": 1615316054982,
-                "edit-time": 1615316108981,
-                "string": "That way your new account will be able to access your old account (but won't have full account owner permissions).",
-                "uid": "gewQda-Gd"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
-                ":edit/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
-                "create-time": 1615316166251,
-                "edit-time": 1615316166251,
-                "string": "Or alternatively, you could set up a new account with your new email, export your entire graph from your current account, and then import it into the new one.  ",
-                "uid": "QZtkzK73u"
-              },
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "m6jiiw1bO"
+                    "edit-time": 1631117585200,
+                    "string": "![](https://downloads.intercomcdn.com/i/o/365412685/393bc9e50bc7876953bd8ac7/Screenshot+2021-07-20+at+18.47.40.png)",
+                    "uid": "kWTTGRZx_"
                   },
                   {
-                    ":block/uid": "FK4fiJVom"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
-                ":edit/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
-                "create-time": 1615315904838,
-                "edit-time": 1615316181737,
-                "refs": [
-                  {
-                    "uid": "m6jiiw1bO"
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "edit-time": 1631117539988,
+                    "string": "If it says \"Google\", please click on the blue button that says \"Send new password email\" and follow the instructions",
+                    "uid": "f2KUcYCaY"
                   },
                   {
-                    "uid": "FK4fiJVom"
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "edit-time": 1631117580866,
+                    "string": "![](https://downloads.intercomcdn.com/i/o/365413081/99e0a34a3556134cad9e2690/Screenshot+2021-07-20+at+18.48.35.png)",
+                    "uid": "ia6tvmz_L"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "edit-time": 1631117602490,
+                    "string": "\ufeffUnder the \"Email\" field, type your current login password and click on \"Confirm\"",
+                    "uid": "-Rco9pBrx"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "edit-time": 1631117574909,
+                    "string": "![](https://downloads.intercomcdn.com/i/o/365413230/ecf229836dbd0383473cc71f/Screenshot+2021-07-20+at+18.48.50.png)",
+                    "uid": "x-eFt251F"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "edit-time": 1631117605278,
+                    "string": "\ufeffYou will then be able to write your new preferred email as your new sign-in method.",
+                    "uid": "t6qH9VaV7"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "edit-time": 1631117568171,
+                    "string": "![](https://downloads.intercomcdn.com/i/o/365413407/430f026775ddd622782957c7/Screenshot+2021-07-20+at+18.49.11.png)",
+                    "uid": "3u7Lm2U06"
                   }
                 ],
-                "string": "[[Export]] and [import]([[Import]]) features are also found under the three-dot-menu within the graph in the top right.  ",
-                "uid": "zNAiGvt20"
+                "edit-time": 1631117549492,
+                "string": "Yes! \ufeffHere's how to change your login email:",
+                "uid": "QKbC6KThi"
               }
             ],
             "create-time": 1615315897418,
