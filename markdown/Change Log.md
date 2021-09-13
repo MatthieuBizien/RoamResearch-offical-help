@@ -300,7 +300,7 @@ graph TD
                 2. When editing a page title, any preceding/trailing whitespaces will be automatically removed
                 3. When exporting a single [page]([[Pages]]), you'll directly receive the exported file instead of a zipped file.
         - [[March 24th, 2021]]
-            - ### [[New Features]] 🚀
+            - ### [[New Features]] 🚀 
                 - New Help Graph!
-            - ### [[Quality of Life Improvements]] ✨
-                - Added warning banner to experimental graphs
+            - ### [[Quality of Life Improvements]] ✨ 
+                - Added warning banner to experimental graphs 

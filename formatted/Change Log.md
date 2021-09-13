@@ -300,10 +300,10 @@ graph TD
                 2. When editing a page title, any preceding/trailing whitespaces will be automatically removed
                 3. When exporting a single [page]([Pages](<Pages.md>)), you'll directly receive the exported file instead of a zipped file.
         - [March 24th, 2021](<March 24th, 2021.md>)
-            - ### [New Features](<New Features.md>) 🚀
+            - ### [New Features](<New Features.md>) 🚀 
                 - New Help Graph!
-            - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
-                - Added warning banner to experimental graphs
+            - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨ 
+                - Added warning banner to experimental graphs 
 
 # Backlinks
 ## [FAQ](<FAQ.md>)
