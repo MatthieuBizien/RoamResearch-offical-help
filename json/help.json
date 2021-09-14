@@ -72759,44 +72759,14 @@
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "children": [
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "Y_UVaLrNm"
-          },
-          {
-            ":block/uid": "03-24-2021"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        },
-        ":edit/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        },
-        "create-time": 1631569921089,
-        "edit-time": 1631569982289,
-        "refs": [
-          {
-            "uid": "Y_UVaLrNm"
-          },
-          {
-            "uid": "03-24-2021"
-          }
-        ],
-        "string": "{{[[query]]: {and: [[March 24th, 2021]]}}}",
-        "uid": "tZRJRVp5G"
-      }
-    ],
     "create-time": 1631567207799,
     "edit-time": 1631567207799,
     "title": "September 13th, 2021",
     "uid": "09-13-2021"
   },
   {
-    "create-time": 1631581522243,
-    "edit-time": 1631581522243,
+    "create-time": 1631586525333,
+    "edit-time": 1631586525333,
     "title": "September 14th, 2021",
     "uid": "09-14-2021"
   }
