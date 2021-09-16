@@ -16739,11 +16739,11 @@
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
                 "create-time": 1605645576983,
-                "edit-time": 1616393902237,
-                "string": "Each of those pages may contain different data, but all of those pages refer to the same concept... ebooks. Annoying, right?",
+                "edit-time": 1631806884122,
+                "string": "Each of those pages may contain different data, but all of those pages refer to the same concept... ebooks.",
                 "uid": "HkafK0XX0"
               },
               {
@@ -16833,15 +16833,23 @@
                 "uid": "AdQ4CAclH"
               },
               {
+                ":edit/user": {
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                },
+                "edit-time": 1631806915632,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FV4JRLfwMfR.gif?alt=media&token=71d96972-dcdd-497d-89ed-7d6aa09625b1)",
+                "uid": "REuPW7Mt6"
+              },
+              {
                 ":create/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
                 "create-time": 1606579586663,
-                "edit-time": 1616393902237,
-                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamanAuxilium%2FPmvrZ7mDlH.gif?alt=media&token=0aaad38b-8fff-4013-9677-5c4857fe8e6b)",
+                "edit-time": 1631806878386,
+                "string": "",
                 "uid": "UDGUksPVn"
               }
             ],

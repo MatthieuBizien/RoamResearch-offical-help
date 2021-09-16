@@ -180,7 +180,7 @@
         - ![](https://downloads.intercomcdn.com/i/o/295732754/ff8f074bb3b727dee7b2aea4/2021-02-04+11.59.25.gif)
     - ### **How can I merge pages?**
         - Sometimes you can run into a situation where you've got a bunch of pages with names like: `ebooks`, `EBooks`, `eBooks`, and `Ebooks`.
-        - Each of those pages may contain different data, but all of those pages refer to the same concept... ebooks. Annoying, right?
+        - Each of those pages may contain different data, but all of those pages refer to the same concept... ebooks.
         - Well, there's actually a solution for tidying up all of these pages.
         - Let's try to merge together ebooks and EBooks into just "ebooks"
             1. Go to the EBooks page
@@ -188,7 +188,8 @@
             3. Rename the page to ebooks
             4. An orange warning will ask you if you want to merge the two pages, click on the tick icon
             5. Done! Now all the data is merged :)
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamanAuxilium%2FPmvrZ7mDlH.gif?alt=media&token=0aaad38b-8fff-4013-9677-5c4857fe8e6b)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FV4JRLfwMfR.gif?alt=media&token=71d96972-dcdd-497d-89ed-7d6aa09625b1)
+        - 
     - ### **What are namespaces?**
         - Namespaces is a function that allows you to deal with situations such as homonyms - multiple words that are spelt the same, but mean different things. You can show up to three levels with a slash `/` in the title.
         - If you want to change what is displayed, go to the three-dot-menu on top right in the graph, then click on User Settings. Under "Cycle namespace view" Choosing the top option will show the complete name, which includes all the `/` in the title
