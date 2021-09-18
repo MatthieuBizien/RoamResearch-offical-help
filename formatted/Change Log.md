@@ -2,6 +2,13 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [September 18th, 2021](<September 18th, 2021.md>)
+            - [Customization](<Customization.md>) [Improvements](<Improvements.md>)
+                - Styling changes applied to blocks via `#.style-tags-like-this` now propogate to references of those blocks red #.bg-red-500  #.text-white , white and blue #.bg-blue-500 #.text-white 
+                    - white
+                    - blue #.bg-blue-500 #.text-white 
+                    - red #.bg-red-500  #.text-white 
+                - Propogates many levels up too -- see ((((q_CXURfgB)))) 
         - [August 26th, 2021](<August 26th, 2021.md>)
             - ### [Bug Fixes](<Bug Fixes.md>)  🛠
                 - Fixed bug where when opening references of a block in the sidebar, two instances would show up

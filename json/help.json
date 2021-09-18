@@ -43269,6 +43269,186 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "09-18-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "OxyZMwZ2k"
+                      },
+                      {
+                        ":block/uid": "aD6Ti3Y_u"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "inARykipE"
+                          },
+                          {
+                            ":block/uid": "oWJOFygKp"
+                          },
+                          {
+                            ":block/uid": "yFVz-h6iu"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1631955313583,
+                            "edit-time": 1631955313583,
+                            "string": "white",
+                            "uid": "yFVz-h6iu"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "d30qby1kL"
+                              },
+                              {
+                                ":block/uid": "qalnwf5Ug"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1631955307239,
+                            "edit-time": 1631955377395,
+                            "refs": [
+                              {
+                                "uid": "d30qby1kL"
+                              },
+                              {
+                                "uid": "qalnwf5Ug"
+                              }
+                            ],
+                            "string": "blue #.bg-blue-500 #.text-white ",
+                            "uid": "oWJOFygKp"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "9G0TjuxGa"
+                              },
+                              {
+                                ":block/uid": "qalnwf5Ug"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1631955302729,
+                            "edit-time": 1631955385917,
+                            "refs": [
+                              {
+                                "uid": "9G0TjuxGa"
+                              },
+                              {
+                                "uid": "qalnwf5Ug"
+                              }
+                            ],
+                            "string": "red #.bg-red-500  #.text-white ",
+                            "uid": "inARykipE"
+                          }
+                        ],
+                        "create-time": 1631955282962,
+                        "edit-time": 1631955441794,
+                        "refs": [
+                          {
+                            "uid": "inARykipE"
+                          },
+                          {
+                            "uid": "oWJOFygKp"
+                          },
+                          {
+                            "uid": "yFVz-h6iu"
+                          }
+                        ],
+                        "string": "Styling changes applied to blocks via `#.style-tags-like-this` now propogate to references of those blocks ((inARykipE)), ((yFVz-h6iu)) and ((oWJOFygKp))",
+                        "uid": "q_CXURfgB"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "q_CXURfgB"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1631955531031,
+                        "edit-time": 1631955591701,
+                        "refs": [
+                          {
+                            "uid": "q_CXURfgB"
+                          }
+                        ],
+                        "string": "Propogates many levels up too -- see ((((q_CXURfgB)))) ",
+                        "uid": "2LUfuWG7u"
+                      }
+                    ],
+                    "create-time": 1631955458626,
+                    "edit-time": 1631955505892,
+                    "refs": [
+                      {
+                        "uid": "OxyZMwZ2k"
+                      },
+                      {
+                        "uid": "aD6Ti3Y_u"
+                      }
+                    ],
+                    "string": "[[Customization]] [[Improvements]]",
+                    "uid": "20LzygCs4"
+                  }
+                ],
+                "create-time": 1631955264866,
+                "edit-time": 1631955269875,
+                "refs": [
+                  {
+                    "uid": "09-18-2021"
+                  }
+                ],
+                "string": "[[September 18th, 2021]]",
+                "uid": "NlflV2Cye"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "08-26-2021"
                   }
                 ],
@@ -72783,9 +72963,75 @@
     "uid": "09-16-2021"
   },
   {
-    "create-time": 1631953279815,
-    "edit-time": 1631953279815,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1631955269184,
+    "edit-time": 1631955269184,
     "title": "September 18th, 2021",
     "uid": "09-18-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1631955322510,
+    "edit-time": 1631955322511,
+    "title": ".bg-red-500",
+    "uid": "9G0TjuxGa"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1631955367369,
+    "edit-time": 1631955367370,
+    "title": ".bg-blue-500",
+    "uid": "d30qby1kL"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1631955377398,
+    "edit-time": 1631955377416,
+    "title": ".text-white",
+    "uid": "qalnwf5Ug"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1631955489898,
+    "edit-time": 1631955489917,
+    "title": "Customization",
+    "uid": "OxyZMwZ2k"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1631955495818,
+    "edit-time": 1631955495819,
+    "title": "Improvements",
+    "uid": "aD6Ti3Y_u"
   }
 ]
