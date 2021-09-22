@@ -8,8 +8,6 @@
                 - {{[video](<video.md>): https://grain.co/highlight/NkzVPjnoX3P8gavWAVq9g00DiABYGCE1gWZIU63J}}
                 - [Example](<Example.md>)
                     - {{[video](<video.md>): https://grain.co/highlight/2xiEAKKj5It1deDSFzbwWMbm3JXLwqt0OdtzmQ53}}
-                    - 
-                - 
         - [September 18th, 2021](<September 18th, 2021.md>)
             - [Customization](<Customization.md>) [Improvements](<Improvements.md>)
                 - Styling changes applied to blocks via `#.style-tags-like-this` now propogate to references of those blocks red #.bg-red-500  #.text-white , white and blue #.bg-blue-500 #.text-white 
