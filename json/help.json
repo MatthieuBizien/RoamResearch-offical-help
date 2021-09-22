@@ -43382,18 +43382,6 @@
                             ],
                             "string": "{{[[video]]: https://grain.co/highlight/2xiEAKKj5It1deDSFzbwWMbm3JXLwqt0OdtzmQ53}}",
                             "uid": "0PXVlUsgU"
-                          },
-                          {
-                            ":create/user": {
-                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                            },
-                            "create-time": 1632299053654,
-                            "edit-time": 1632299053654,
-                            "string": "",
-                            "uid": "PWHzm82AB"
                           }
                         ],
                         "create-time": 1632299013848,
@@ -43405,18 +43393,6 @@
                         ],
                         "string": "[[Example]]",
                         "uid": "nb85Bv1J_"
-                      },
-                      {
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        "create-time": 1632298897554,
-                        "edit-time": 1632298897554,
-                        "string": "",
-                        "uid": "7xpleSfUM"
                       }
                     ],
                     "create-time": 1632298893280,
