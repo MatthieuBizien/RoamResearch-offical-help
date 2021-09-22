@@ -2,6 +2,11 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [September 21st, 2021](<September 21st, 2021.md>)
+            - [Customization](<Customization.md>) #[End User Programming](<End User Programming.md>) #[Quality of Life Improvements](<Quality of Life Improvements.md>)
+                - Custom components in [JSX](<JSX.md>) and [Javascript](<Javascript.md>), 
+                - {{[video](<video.md>): https://grain.co/highlight/NkzVPjnoX3P8gavWAVq9g00DiABYGCE1gWZIU63J}}
+                - 
         - [September 18th, 2021](<September 18th, 2021.md>)
             - [Customization](<Customization.md>) [Improvements](<Improvements.md>)
                 - Styling changes applied to blocks via `#.style-tags-like-this` now propogate to references of those blocks red #.bg-red-500  #.text-white , white and blue #.bg-blue-500 #.text-white 
