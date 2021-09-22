@@ -5,6 +5,8 @@
         - **[Example](<Example.md>):**
 
 ## [Change Log](<Change Log.md>)
+- [Example](<Example.md>)
+
 - Either type `/video timestamp` or hit `Cmd/Ctrl+Alt+t` under a video to enter a timestamp
                 - **[Example](<Example.md>):**
 
