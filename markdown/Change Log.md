@@ -3,17 +3,16 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [[September 28th, 2021]]
-            - All settings, including keyboard shortcut customizations accessible from [[Command Palette]] 
-                - `cmd-p` on [[Mac]]
-                - `control-p` on [[Windows]] or [[Linux]]
-                - __handy way to discover or remember different keyboard shortcuts__
-                - Example::
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBykG_v_8KV.png?alt=media&token=76c76dce-6346-4b6e-9435-843f07219956)
+            - ### [[Quality of Life Improvements]] ✨
+                - All settings, including keyboard shortcut customizations accessible from [[Command Palette]] 
+                    - `cmd-p` on [[Mac]]
+                    - `control-p` on [[Windows]] or [[Linux]]
+                    - __handy way to discover or remember different keyboard shortcuts__
+                    - Example::
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBykG_v_8KV.png?alt=media&token=76c76dce-6346-4b6e-9435-843f07219956)
         - [[September 27th, 2021]]
             - ### [[Quality of Life Improvements]] ✨
                 - Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle Youtube video playback while typing in a block
-                - All settings sections can now be opened from the [[Command Palette]]
-                    - `Cmd+P` to open the palette, then type the section/hotkey you want to edit
                 - Made [[Video Timestamps]] look a little nicer
             - ### [[Bug Fixes]]  🛠
                 - Fixed bug that caused Roam to crash when [[Query]] using `between` contained only one date

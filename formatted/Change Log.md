@@ -3,17 +3,16 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [September 28th, 2021](<September 28th, 2021.md>)
-            - All settings, including keyboard shortcut customizations accessible from [Command Palette](<Command Palette.md>) 
-                - `cmd-p` on [Mac](<Mac.md>)
-                - `control-p` on [Windows](<Windows.md>) or [Linux](<Linux.md>)
-                - __handy way to discover or remember different keyboard shortcuts__
-                - **[Example](<Example.md>):**
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBykG_v_8KV.png?alt=media&token=76c76dce-6346-4b6e-9435-843f07219956)
+            - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+                - All settings, including keyboard shortcut customizations accessible from [Command Palette](<Command Palette.md>) 
+                    - `cmd-p` on [Mac](<Mac.md>)
+                    - `control-p` on [Windows](<Windows.md>) or [Linux](<Linux.md>)
+                    - __handy way to discover or remember different keyboard shortcuts__
+                    - **[Example](<Example.md>):**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBykG_v_8KV.png?alt=media&token=76c76dce-6346-4b6e-9435-843f07219956)
         - [September 27th, 2021](<September 27th, 2021.md>)
             - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
                 - Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle Youtube video playback while typing in a block
-                - All settings sections can now be opened from the [Command Palette](<Command Palette.md>)
-                    - `Cmd+P` to open the palette, then type the section/hotkey you want to edit
                 - Made [Video Timestamps](<Video Timestamps.md>) look a little nicer
             - ### [Bug Fixes](<Bug Fixes.md>)  🛠
                 - Fixed bug that caused Roam to crash when [Query](<Query.md>) using `between` contained only one date

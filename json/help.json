@@ -43282,82 +43282,20 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "D893VH8Ls"
+                        ":block/uid": "_EqbjQSAF"
                       }
                     ],
                     ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     ":edit/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "children": [
                       {
                         ":block/refs": [
                           {
-                            ":block/uid": "uvlRJiOzs"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        "create-time": 1632812670901,
-                        "edit-time": 1632812717900,
-                        "refs": [
-                          {
-                            "uid": "uvlRJiOzs"
-                          }
-                        ],
-                        "string": "`cmd-p` on [[Mac]]",
-                        "uid": "HCk0b3v_y"
-                      },
-                      {
-                        ":block/refs": [
-                          {
-                            ":block/uid": "rGqniHude"
-                          },
-                          {
-                            ":block/uid": "5d_OBKu7b"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        "create-time": 1632812719070,
-                        "edit-time": 1632812731572,
-                        "refs": [
-                          {
-                            "uid": "rGqniHude"
-                          },
-                          {
-                            "uid": "5d_OBKu7b"
-                          }
-                        ],
-                        "string": "`control-p` on [[Windows]] or [[Linux]]",
-                        "uid": "KYDEV369n"
-                      },
-                      {
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        "create-time": 1632812816673,
-                        "edit-time": 1632812830024,
-                        "string": "__handy way to discover or remember different keyboard shortcuts__",
-                        "uid": "woej56-lY"
-                      },
-                      {
-                        ":block/refs": [
-                          {
-                            ":block/uid": "0lwvs5tDQ"
+                            ":block/uid": "D893VH8Ls"
                           }
                         ],
                         ":create/user": {
@@ -43368,38 +43306,125 @@
                         },
                         "children": [
                           {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "uvlRJiOzs"
+                              }
+                            ],
                             ":create/user": {
                               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                             },
                             ":edit/user": {
                               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                             },
-                            "create-time": 1632812797189,
-                            "edit-time": 1632812799251,
-                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBykG_v_8KV.png?alt=media&token=76c76dce-6346-4b6e-9435-843f07219956)",
-                            "uid": "rNXxXTYA_"
+                            "create-time": 1632812670901,
+                            "edit-time": 1632812717900,
+                            "refs": [
+                              {
+                                "uid": "uvlRJiOzs"
+                              }
+                            ],
+                            "string": "`cmd-p` on [[Mac]]",
+                            "uid": "HCk0b3v_y"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "rGqniHude"
+                              },
+                              {
+                                ":block/uid": "5d_OBKu7b"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1632812719070,
+                            "edit-time": 1632812731572,
+                            "refs": [
+                              {
+                                "uid": "rGqniHude"
+                              },
+                              {
+                                "uid": "5d_OBKu7b"
+                              }
+                            ],
+                            "string": "`control-p` on [[Windows]] or [[Linux]]",
+                            "uid": "KYDEV369n"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1632812816673,
+                            "edit-time": 1632812830024,
+                            "string": "__handy way to discover or remember different keyboard shortcuts__",
+                            "uid": "woej56-lY"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1632812797189,
+                                "edit-time": 1632812799251,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBykG_v_8KV.png?alt=media&token=76c76dce-6346-4b6e-9435-843f07219956)",
+                                "uid": "rNXxXTYA_"
+                              }
+                            ],
+                            "create-time": 1632812734687,
+                            "edit-time": 1632812797203,
+                            "refs": [
+                              {
+                                "uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "string": "Example::",
+                            "uid": "uhB28Cfdm"
                           }
                         ],
-                        "create-time": 1632812734687,
-                        "edit-time": 1632812797203,
+                        "create-time": 1632812717891,
+                        "edit-time": 1632812717891,
                         "refs": [
                           {
-                            "uid": "0lwvs5tDQ"
+                            "uid": "D893VH8Ls"
                           }
                         ],
-                        "string": "Example::",
-                        "uid": "uhB28Cfdm"
+                        "string": "All settings, including keyboard shortcut customizations accessible from [[Command Palette]] ",
+                        "uid": "l-taGxj05"
                       }
                     ],
-                    "create-time": 1632812717891,
-                    "edit-time": 1632812717891,
+                    "create-time": 1632858768454,
+                    "edit-time": 1632858769392,
+                    "heading": 3,
                     "refs": [
                       {
-                        "uid": "D893VH8Ls"
+                        "uid": "_EqbjQSAF"
                       }
                     ],
-                    "string": "All settings, including keyboard shortcut customizations accessible from [[Command Palette]] ",
-                    "uid": "l-taGxj05"
+                    "string": "[[Quality of Life Improvements]] \u2728",
+                    "uid": "lcrL0gG_-"
                   }
                 ],
                 "create-time": 1632812668192,
@@ -43449,42 +43474,6 @@
                         "edit-time": 1632808293792,
                         "string": "Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle Youtube video playback while typing in a block",
                         "uid": "DvyCcM1tu"
-                      },
-                      {
-                        ":block/refs": [
-                          {
-                            ":block/uid": "D893VH8Ls"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                        },
-                        "children": [
-                          {
-                            ":create/user": {
-                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                            },
-                            "create-time": 1632808400594,
-                            "edit-time": 1632808433867,
-                            "string": "`Cmd+P` to open the palette, then type the section/hotkey you want to edit",
-                            "uid": "YWLwkW2pw"
-                          }
-                        ],
-                        "create-time": 1632808151679,
-                        "edit-time": 1632808221046,
-                        "refs": [
-                          {
-                            "uid": "D893VH8Ls"
-                          }
-                        ],
-                        "string": "All settings sections can now be opened from the [[Command Palette]]",
-                        "uid": "-zJqBUe5V"
                       },
                       {
                         ":block/refs": [
@@ -73943,52 +73932,6 @@
                 ],
                 "string": "((DvyCcM1tu))",
                 "uid": "SN8AXP4n1"
-              },
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "-zJqBUe5V"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "YWLwkW2pw"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "create-time": 1632812897641,
-                    "edit-time": 1632812897641,
-                    "refs": [
-                      {
-                        "uid": "YWLwkW2pw"
-                      }
-                    ],
-                    "string": "((YWLwkW2pw))",
-                    "uid": "om7XIwVJJ"
-                  }
-                ],
-                "create-time": 1632812897641,
-                "edit-time": 1632812897641,
-                "refs": [
-                  {
-                    "uid": "-zJqBUe5V"
-                  }
-                ],
-                "string": "((-zJqBUe5V))",
-                "uid": "ktTqgL9ee"
               },
               {
                 ":block/refs": [

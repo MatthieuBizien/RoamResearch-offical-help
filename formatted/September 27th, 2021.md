@@ -1,8 +1,6 @@
 - [September 27th, 2021](<September 27th, 2021.md>)
     - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
         - Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle Youtube video playback while typing in a block
-        - All settings sections can now be opened from the [Command Palette](<Command Palette.md>)
-            - `Cmd+P` to open the palette, then type the section/hotkey you want to edit
         - Made [Video Timestamps](<Video Timestamps.md>) look a little nicer
     - [Bug Fixes](<Bug Fixes.md>)  🛠
         - Fixed bug that caused Roam to crash when [Query](<Query.md>) using `between` contained only one date

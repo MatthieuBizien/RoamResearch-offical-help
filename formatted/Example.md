@@ -6,7 +6,7 @@
 
 ## [Change Log](<Change Log.md>)
 - __handy way to discover or remember different keyboard shortcuts__
-                - **[Example](<Example.md>):**
+                    - **[Example](<Example.md>):**
 
 - [Example](<Example.md>)
 
@@ -18,7 +18,7 @@
 
 ## [September 28th, 2021](<September 28th, 2021.md>)
 - __handy way to discover or remember different keyboard shortcuts__
-        - **[Example](<Example.md>):**
+            - **[Example](<Example.md>):**
 
 ## [White Paper](<White Paper.md>)
 - Therefore, B is true.
