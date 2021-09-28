@@ -43269,6 +43269,152 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "09-28-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "D893VH8Ls"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uvlRJiOzs"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1632812670901,
+                        "edit-time": 1632812717900,
+                        "refs": [
+                          {
+                            "uid": "uvlRJiOzs"
+                          }
+                        ],
+                        "string": "`cmd-p` on [[Mac]]",
+                        "uid": "HCk0b3v_y"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rGqniHude"
+                          },
+                          {
+                            ":block/uid": "5d_OBKu7b"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1632812719070,
+                        "edit-time": 1632812731572,
+                        "refs": [
+                          {
+                            "uid": "rGqniHude"
+                          },
+                          {
+                            "uid": "5d_OBKu7b"
+                          }
+                        ],
+                        "string": "`control-p` on [[Windows]] or [[Linux]]",
+                        "uid": "KYDEV369n"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1632812816673,
+                        "edit-time": 1632812830024,
+                        "string": "__handy way to discover or remember different keyboard shortcuts__",
+                        "uid": "woej56-lY"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1632812797189,
+                            "edit-time": 1632812799251,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBykG_v_8KV.png?alt=media&token=76c76dce-6346-4b6e-9435-843f07219956)",
+                            "uid": "rNXxXTYA_"
+                          }
+                        ],
+                        "create-time": 1632812734687,
+                        "edit-time": 1632812797203,
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        "uid": "uhB28Cfdm"
+                      }
+                    ],
+                    "create-time": 1632812717891,
+                    "edit-time": 1632812717891,
+                    "refs": [
+                      {
+                        "uid": "D893VH8Ls"
+                      }
+                    ],
+                    "string": "All settings, including keyboard shortcut customizations accessible from [[Command Palette]] ",
+                    "uid": "l-taGxj05"
+                  }
+                ],
+                "create-time": 1632812668192,
+                "edit-time": 1632812670920,
+                "refs": [
+                  {
+                    "uid": "09-28-2021"
+                  }
+                ],
+                "string": "[[September 28th, 2021]]",
+                "uid": "JbhpoHDv7"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "09-27-2021"
                   }
                 ],
@@ -73291,6 +73437,168 @@
     ":edit/user": {
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "NlflV2Cye"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "20LzygCs4"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "q_CXURfgB"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "yFVz-h6iu"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1632812922904,
+                    "edit-time": 1632812922904,
+                    "refs": [
+                      {
+                        "uid": "yFVz-h6iu"
+                      }
+                    ],
+                    "string": "((yFVz-h6iu))",
+                    "uid": "PjhiqIHpu"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "oWJOFygKp"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1632812922904,
+                    "edit-time": 1632812922904,
+                    "refs": [
+                      {
+                        "uid": "oWJOFygKp"
+                      }
+                    ],
+                    "string": "((oWJOFygKp))",
+                    "uid": "qgyMP-4Bq"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "inARykipE"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1632812922904,
+                    "edit-time": 1632812922904,
+                    "refs": [
+                      {
+                        "uid": "inARykipE"
+                      }
+                    ],
+                    "string": "((inARykipE))",
+                    "uid": "WVu57YdrA"
+                  }
+                ],
+                "create-time": 1632812922904,
+                "edit-time": 1632812922904,
+                "refs": [
+                  {
+                    "uid": "q_CXURfgB"
+                  }
+                ],
+                "string": "((q_CXURfgB))",
+                "uid": "3F4xE1oGi"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "2LUfuWG7u"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1632812922904,
+                "edit-time": 1632812922904,
+                "refs": [
+                  {
+                    "uid": "2LUfuWG7u"
+                  }
+                ],
+                "string": "((2LUfuWG7u))",
+                "uid": "bxyxEuuHZ"
+              }
+            ],
+            "create-time": 1632812922904,
+            "edit-time": 1632812922904,
+            "refs": [
+              {
+                "uid": "20LzygCs4"
+              }
+            ],
+            "string": "((20LzygCs4))",
+            "uid": "WktZH5IbU"
+          }
+        ],
+        "create-time": 1632812920695,
+        "edit-time": 1632812920695,
+        "refs": [
+          {
+            "uid": "NlflV2Cye"
+          }
+        ],
+        "string": "((NlflV2Cye))",
+        "uid": "Bl_9Zk8rq"
+      }
+    ],
     "create-time": 1631955269184,
     "edit-time": 1631955269184,
     "title": "September 18th, 2021",
@@ -73375,6 +73683,146 @@
     ":edit/user": {
       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "6eVdFBDAC"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "xvf2uU6xD"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "mTPQ3daw0"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1632812912782,
+                "edit-time": 1632812912782,
+                "refs": [
+                  {
+                    "uid": "mTPQ3daw0"
+                  }
+                ],
+                "string": "((mTPQ3daw0))",
+                "uid": "Mqo9OJh70"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "kV8kOH3eO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1632812912782,
+                "edit-time": 1632812912782,
+                "refs": [
+                  {
+                    "uid": "kV8kOH3eO"
+                  }
+                ],
+                "string": "((kV8kOH3eO))",
+                "uid": "WUWj2zTuV"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "nb85Bv1J_"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "0PXVlUsgU"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1632812912782,
+                    "edit-time": 1632812912782,
+                    "refs": [
+                      {
+                        "uid": "0PXVlUsgU"
+                      }
+                    ],
+                    "string": "((0PXVlUsgU))",
+                    "uid": "AXo6uPkbI"
+                  }
+                ],
+                "create-time": 1632812912782,
+                "edit-time": 1632812912782,
+                "refs": [
+                  {
+                    "uid": "nb85Bv1J_"
+                  }
+                ],
+                "string": "((nb85Bv1J_))",
+                "uid": "psS98fGIq"
+              }
+            ],
+            "create-time": 1632812912782,
+            "edit-time": 1632812912782,
+            "refs": [
+              {
+                "uid": "xvf2uU6xD"
+              }
+            ],
+            "string": "((xvf2uU6xD))",
+            "uid": "8z9E-EJE4"
+          }
+        ],
+        "create-time": 1632812910705,
+        "edit-time": 1632812910705,
+        "refs": [
+          {
+            "uid": "6eVdFBDAC"
+          }
+        ],
+        "string": "((6eVdFBDAC))",
+        "uid": "jqeGuUen5"
+      }
+    ],
     "create-time": 1632264464333,
     "edit-time": 1632264464333,
     "title": "September 21st, 2021",
@@ -73447,15 +73895,267 @@
     ":edit/user": {
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "lBbP5-mYt"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "LUS1EyfSY"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "DvyCcM1tu"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1632812897641,
+                "edit-time": 1632812897641,
+                "refs": [
+                  {
+                    "uid": "DvyCcM1tu"
+                  }
+                ],
+                "string": "((DvyCcM1tu))",
+                "uid": "SN8AXP4n1"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "-zJqBUe5V"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "YWLwkW2pw"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1632812897641,
+                    "edit-time": 1632812897641,
+                    "refs": [
+                      {
+                        "uid": "YWLwkW2pw"
+                      }
+                    ],
+                    "string": "((YWLwkW2pw))",
+                    "uid": "om7XIwVJJ"
+                  }
+                ],
+                "create-time": 1632812897641,
+                "edit-time": 1632812897641,
+                "refs": [
+                  {
+                    "uid": "-zJqBUe5V"
+                  }
+                ],
+                "string": "((-zJqBUe5V))",
+                "uid": "ktTqgL9ee"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "aGw1mwCHK"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1632812897641,
+                "edit-time": 1632812897641,
+                "refs": [
+                  {
+                    "uid": "aGw1mwCHK"
+                  }
+                ],
+                "string": "((aGw1mwCHK))",
+                "uid": "k5ly7AxqS"
+              }
+            ],
+            "create-time": 1632812897641,
+            "edit-time": 1632812897641,
+            "refs": [
+              {
+                "uid": "LUS1EyfSY"
+              }
+            ],
+            "string": "((LUS1EyfSY))",
+            "uid": "ObSvFRClI"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "MDpLoBcpH"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "1GqAczOD1"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1632812897641,
+                "edit-time": 1632812897641,
+                "refs": [
+                  {
+                    "uid": "1GqAczOD1"
+                  }
+                ],
+                "string": "((1GqAczOD1))",
+                "uid": "JVJN7ckG5"
+              }
+            ],
+            "create-time": 1632812897641,
+            "edit-time": 1632812897641,
+            "refs": [
+              {
+                "uid": "MDpLoBcpH"
+              }
+            ],
+            "string": "((MDpLoBcpH))",
+            "uid": "m5ynGvNig"
+          }
+        ],
+        "create-time": 1632812894794,
+        "edit-time": 1632812894794,
+        "refs": [
+          {
+            "uid": "lBbP5-mYt"
+          }
+        ],
+        "string": "((lBbP5-mYt))",
+        "uid": "e23ZVvKkv"
+      }
+    ],
     "create-time": 1632803068119,
     "edit-time": 1632803068119,
     "title": "September 27th, 2021",
     "uid": "09-27-2021"
   },
   {
-    "create-time": 1632810173162,
-    "edit-time": 1632810173162,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "JbhpoHDv7"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1632812876490,
+        "edit-time": 1632812879377,
+        "refs": [
+          {
+            "uid": "JbhpoHDv7"
+          }
+        ],
+        "string": "{{embed: ((JbhpoHDv7))}}",
+        "uid": "buXZSnH5Y"
+      }
+    ],
+    "create-time": 1632812670390,
+    "edit-time": 1632812670390,
     "title": "September 28th, 2021",
     "uid": "09-28-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1632812715171,
+    "edit-time": 1632812715188,
+    "title": "Mac",
+    "uid": "uvlRJiOzs"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1632812731573,
+    "edit-time": 1632812731574,
+    "title": "Windows",
+    "uid": "rGqniHude"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1632812731573,
+    "edit-time": 1632812731574,
+    "title": "Linux",
+    "uid": "5d_OBKu7b"
   }
 ]

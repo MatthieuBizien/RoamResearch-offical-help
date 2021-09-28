@@ -3,8 +3,16 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- All settings, including keyboard shortcut customizations accessible from [Command Palette](<Command Palette.md>)
+
 - All settings sections can now be opened from the [Command Palette](<Command Palette.md>)
 
 ## [Features](<Features.md>)
 - ### [Command Palette]([Command Palette](<Command Palette.md>))
+
+## [September 27th, 2021](<September 27th, 2021.md>)
+- All settings sections can now be opened from the [Command Palette](<Command Palette.md>)
+
+## [September 28th, 2021](<September 28th, 2021.md>)
+- All settings, including keyboard shortcut customizations accessible from [Command Palette](<Command Palette.md>)
 

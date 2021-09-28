@@ -188,6 +188,11 @@
 ## [Search](<Search.md>)
 - {{[video](<video.md>):
 
+## [September 21st, 2021](<September 21st, 2021.md>)
+- {{[video](<video.md>):
+
+- {{[video](<video.md>):
+
 ## [Spanish](<Spanish.md>)
 - {{[video](<video.md>):
 

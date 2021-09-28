@@ -84,6 +84,9 @@
 
 - #[Query](<Query.md>)
 
+## [September 27th, 2021](<September 27th, 2021.md>)
+- Fixed bug that caused Roam to crash when [Query](<Query.md>)
+
 ## [TODO/DONE](<TODO/DONE.md>)
 #[TODO/DONE](<TODO/DONE.md>) | #[Query](<Query.md>)
 
