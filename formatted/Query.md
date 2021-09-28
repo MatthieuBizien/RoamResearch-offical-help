@@ -48,6 +48,8 @@
 - #[Daily Notes](<Daily Notes.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Linked References](<Linked References.md>) #[Book](<Book.md>) | #[Sidebar](<Sidebar.md>) | #[Tags](<Tags.md>) | #[Evergreen Notes](<Evergreen Notes.md>) | #[Block References](<Block References.md>) | #[Templates](<Templates.md>) | #[Query](<Query.md>)
 
 ## [Change Log](<Change Log.md>)
+- Fixed bug that caused Roam to crash when [Query](<Query.md>)
+
 - [Query](<Query.md>)
 
 - [Query](<Query.md>)

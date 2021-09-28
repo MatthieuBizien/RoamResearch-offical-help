@@ -43269,6 +43269,172 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "09-27-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1632808239578,
+                        "edit-time": 1632808293792,
+                        "string": "Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle Youtube video playback while typing in a block",
+                        "uid": "DvyCcM1tu"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "D893VH8Ls"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1632808400594,
+                            "edit-time": 1632808433867,
+                            "string": "`Cmd+P` to open the palette, then type the section/hotkey you want to edit",
+                            "uid": "YWLwkW2pw"
+                          }
+                        ],
+                        "create-time": 1632808151679,
+                        "edit-time": 1632808221046,
+                        "refs": [
+                          {
+                            "uid": "D893VH8Ls"
+                          }
+                        ],
+                        "string": "All settings sections can now be opened from the [[Command Palette]]",
+                        "uid": "-zJqBUe5V"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "YhCkenNOy"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1632808214349,
+                        "edit-time": 1632808259070,
+                        "refs": [
+                          {
+                            "uid": "YhCkenNOy"
+                          }
+                        ],
+                        "string": "Made [[Video Timestamps]] look a little nicer",
+                        "uid": "aGw1mwCHK"
+                      }
+                    ],
+                    "create-time": 1632808148731,
+                    "edit-time": 1632808150411,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] \u2728",
+                    "uid": "LUS1EyfSY"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1632808306190,
+                        "edit-time": 1632808339445,
+                        "refs": [
+                          {
+                            "uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "string": "Fixed bug that caused Roam to crash when [[Query]] using `between` contained only one date",
+                        "uid": "1GqAczOD1"
+                      }
+                    ],
+                    "create-time": 1632808164772,
+                    "edit-time": 1632808166149,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]]  \ud83d\udee0",
+                    "uid": "MDpLoBcpH"
+                  }
+                ],
+                "create-time": 1632808142366,
+                "edit-time": 1632808148747,
+                "refs": [
+                  {
+                    "uid": "09-27-2021"
+                  }
+                ],
+                "string": "[[September 27th, 2021]]",
+                "uid": "lBbP5-mYt"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "09-21-2021"
                   }
                 ],
@@ -73287,8 +73453,8 @@
     "uid": "09-27-2021"
   },
   {
-    "create-time": 1632806225933,
-    "edit-time": 1632806225933,
+    "create-time": 1632810173162,
+    "edit-time": 1632810173162,
     "title": "September 28th, 2021",
     "uid": "09-28-2021"
   }
