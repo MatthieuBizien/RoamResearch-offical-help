@@ -74102,8 +74102,14 @@
     "uid": "5d_OBKu7b"
   },
   {
-    "create-time": 1632939747848,
-    "edit-time": 1632939747849,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1632941503160,
+    "edit-time": 1632941503160,
     "title": "September 29th, 2021",
     "uid": "09-29-2021"
   }
