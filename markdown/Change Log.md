@@ -12,7 +12,7 @@
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBykG_v_8KV.png?alt=media&token=76c76dce-6346-4b6e-9435-843f07219956)
         - [[September 27th, 2021]]
             - ### [[Quality of Life Improvements]] ✨
-                - Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle Youtube video playback while typing in a block
+                - Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle [[Youtube]] [[Videos]] playback while typing in a block
                 - Made [[Video Timestamps]] look a little nicer
             - ### [[Bug Fixes]]  🛠
                 - Fixed bug that caused Roam to crash when [[Query]] using `between` contained only one date

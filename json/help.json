@@ -43464,6 +43464,14 @@
                     },
                     "children": [
                       {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "vXELsl5zA"
+                          },
+                          {
+                            ":block/uid": "wWQR9IMwk"
+                          }
+                        ],
                         ":create/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
@@ -43471,8 +43479,16 @@
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
                         "create-time": 1632808239578,
-                        "edit-time": 1632808293792,
-                        "string": "Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle Youtube video playback while typing in a block",
+                        "edit-time": 1633461050084,
+                        "refs": [
+                          {
+                            "uid": "vXELsl5zA"
+                          },
+                          {
+                            "uid": "wWQR9IMwk"
+                          }
+                        ],
+                        "string": "Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle [[Youtube]] [[Videos]] playback while typing in a block",
                         "uid": "DvyCcM1tu"
                       },
                       {
@@ -74152,8 +74168,20 @@
     "uid": "10-04-2021"
   },
   {
-    "create-time": 1633458134813,
-    "edit-time": 1633458134813,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1633461045271,
+    "edit-time": 1633461045274,
+    "title": "Youtube",
+    "uid": "wWQR9IMwk"
+  },
+  {
+    "create-time": 1633461334477,
+    "edit-time": 1633461334477,
     "title": "October 5th, 2021",
     "uid": "10-05-2021"
   }
