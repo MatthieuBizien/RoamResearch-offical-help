@@ -74180,8 +74180,14 @@
     "uid": "wWQR9IMwk"
   },
   {
-    "create-time": 1633641407237,
-    "edit-time": 1633641407237,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1633644729897,
+    "edit-time": 1633644729897,
     "title": "October 7th, 2021",
     "uid": "10-07-2021"
   }
