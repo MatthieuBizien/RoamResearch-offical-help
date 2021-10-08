@@ -44,6 +44,10 @@
 - #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)
 
 ## [Change Log](<Change Log.md>)
+- Fix [autocomplete](<autocomplete.md>) appearing offscreen in [embed](<embed.md>)s, the [Right Sidebar](<Right Sidebar.md>)
+
+- [Right Sidebar](<Right Sidebar.md>)
+
 - You can now shift-click breadcrumbs/path of zoomed-in block to open in [Right Sidebar](<Right Sidebar.md>)
 
 ## [FAQ](<FAQ.md>)
@@ -72,6 +76,11 @@
 #[Page References](<Page References.md>) | #[Daily Notes](<Daily Notes.md>) | #[Date picker](<Date picker.md>) | #[Linked References](<Linked References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Right Sidebar](<Right Sidebar.md>)
 
 #[Current time](<Current time.md>) | #[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>)
+
+## [October 7th, 2021](<October 7th, 2021.md>)
+- Fix [autocomplete](<autocomplete.md>) appearing offscreen in [embed](<embed.md>)s, the [Right Sidebar](<Right Sidebar.md>)
+
+- [Right Sidebar](<Right Sidebar.md>)
 
 ## [Project Management](<Project Management.md>)
 - #[Page References](<Page References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Current time](<Current time.md>) | #[Right Sidebar](<Right Sidebar.md>)
