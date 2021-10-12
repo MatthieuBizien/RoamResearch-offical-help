@@ -43269,6 +43269,66 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-12-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Lgp0csam2"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1634070285987,
+                        "edit-time": 1634070400175,
+                        "string": "Should be particularly noticeable on huge collections - like TODO pages or user display name pages in multiplayer graphs.",
+                        "uid": "WlFxnrJJT"
+                      }
+                    ],
+                    "create-time": 1634070231462,
+                    "edit-time": 1634070285457,
+                    "refs": [
+                      {
+                        "uid": "Lgp0csam2"
+                      }
+                    ],
+                    "string": "Major [[Performance Improvements]] to filters on pages and backlinks ",
+                    "uid": "CurZUtBrQ"
+                  }
+                ],
+                "create-time": 1634070227543,
+                "edit-time": 1634070231478,
+                "refs": [
+                  {
+                    "uid": "10-12-2021"
+                  }
+                ],
+                "string": "[[October 12th, 2021]]",
+                "uid": "sAiIJYYh0"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-07-2021"
                   }
                 ],
@@ -74734,9 +74794,27 @@
     "uid": "10-10-2021"
   },
   {
-    "create-time": 1634070002743,
-    "edit-time": 1634070002743,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1634070230842,
+    "edit-time": 1634070230842,
     "title": "October 12th, 2021",
     "uid": "10-12-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1634070246949,
+    "edit-time": 1634070246950,
+    "title": "Performance Improvements",
+    "uid": "Lgp0csam2"
   }
 ]

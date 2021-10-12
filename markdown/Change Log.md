@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[October 12th, 2021]]
+            - Major [[Performance Improvements]] to filters on pages and backlinks 
+                - Should be particularly noticeable on huge collections - like TODO pages or user display name pages in multiplayer graphs.
         - [[October 7th, 2021]]
             - [[Quality of Life Improvements]]
                 - Fix [[autocomplete]] appearing offscreen in [[embed]]s, the [[Right Sidebar]] and [[mobile]]
