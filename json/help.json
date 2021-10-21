@@ -74818,9 +74818,21 @@
     "uid": "Lgp0csam2"
   },
   {
-    "create-time": 1634772023667,
-    "edit-time": 1634772023667,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1634774070050,
+    "edit-time": 1634774070050,
     "title": "October 20th, 2021",
     "uid": "10-20-2021"
+  },
+  {
+    "create-time": 1634778663781,
+    "edit-time": 1634778663782,
+    "title": "October 21st, 2021",
+    "uid": "10-21-2021"
   }
 ]
