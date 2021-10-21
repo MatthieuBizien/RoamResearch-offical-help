@@ -74830,8 +74830,14 @@
     "uid": "10-20-2021"
   },
   {
-    "create-time": 1634808016361,
-    "edit-time": 1634808016361,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1634811157599,
+    "edit-time": 1634811157599,
     "title": "October 21st, 2021",
     "uid": "10-21-2021"
   }
