@@ -35167,15 +35167,25 @@
                     "uid": "gx1c8Ai1d"
                   },
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "T8k78DDAe"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                     },
                     ":edit/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                     },
                     "create-time": 1617137848516,
-                    "edit-time": 1617137848516,
-                    "string": "Bob:\u00a0 \"A tree falling in a deserted forest does not [generate auditory experiences].\" {{alias: ((1597)) 4}}",
+                    "edit-time": 1635488039974,
+                    "refs": [
+                      {
+                        "uid": "T8k78DDAe"
+                      }
+                    ],
+                    "string": "Bob:\u00a0 \"A tree falling in a deserted forest does not [generate auditory experiences].\" [4](((T8k78DDAe)))",
                     "uid": "hRYGZUUSf"
                   }
                 ],
@@ -35208,15 +35218,25 @@
             "uid": "oqA_i5ptZ"
           },
           {
+            ":block/refs": [
+              {
+                ":block/uid": "MtGChSUvh"
+              }
+            ],
             ":create/user": {
               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
             },
             ":edit/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
             },
             "create-time": 1617137848516,
-            "edit-time": 1617137848516,
-            "string": "The ability to use clearly defined sets within a dependency graph helps to resolve ambiguity, reducing the chances of participants talking at cross-purposes, or deliberate \u201cmotte-and-bailey\u201d style strategic equivocation.{{alias: ((1598)) 5}}",
+            "edit-time": 1635488148177,
+            "refs": [
+              {
+                "uid": "MtGChSUvh"
+              }
+            ],
+            "string": "The ability to use clearly defined sets within a dependency graph helps to resolve ambiguity, reducing the chances of participants talking at cross-purposes, or deliberate \u201cmotte-and-bailey\u201d style strategic equivocation. [5](((MtGChSUvh)))",
             "uid": "bHMkC49Hd"
           },
           {
@@ -35298,27 +35318,47 @@
                 "uid": "agqkXafVT"
               },
               {
+                ":block/refs": [
+                  {
+                    ":block/uid": "36qeTMgmO"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 },
                 "create-time": 1617137848516,
-                "edit-time": 1617137848516,
-                "string": "Scott Alexander observes that his peers in psychiatry similarly try to attribute a collection of linked symptoms to a latent variable; for example, depression. {{alias: ((1599)) 6}} However, the symptoms \u2018caused\u2019 by depression - e.g. sleep disturbance, fatigue, guilt - can also have a causal effect on one another, and on the disorder itself. This complex web of relationships, which may include feedback loops, does not follow a path of linear causality. For complicated problems of this nature, nodal networks are a much more accurate model:",
+                "edit-time": 1635488163392,
+                "refs": [
+                  {
+                    "uid": "36qeTMgmO"
+                  }
+                ],
+                "string": "Scott Alexander observes that his peers in psychiatry similarly try to attribute a collection of linked symptoms to a latent variable; for example, depression. [6](((36qeTMgmO))) However, the symptoms \u2018caused\u2019 by depression - e.g. sleep disturbance, fatigue, guilt - can also have a causal effect on one another, and on the disorder itself. This complex web of relationships, which may include feedback loops, does not follow a path of linear causality. For complicated problems of this nature, nodal networks are a much more accurate model:",
                 "uid": "M6V6vx_a_"
               },
               {
+                ":block/refs": [
+                  {
+                    ":block/uid": "rC_nGuzjf"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 },
                 "create-time": 1617137848516,
-                "edit-time": 1617137848516,
-                "string": "A model of major depression (MD) and generalised anxiety disorder (GAD) by Nuijten, Deserno, Cramer, and Borsboom.{{alias: ((1600)) 7}} The disorders roughly map onto clusters of symptoms that are often found together and reinforce one another, but there is no clear \u2018bright line\u2019 between the conditions.",
+                "edit-time": 1635488186001,
+                "refs": [
+                  {
+                    "uid": "rC_nGuzjf"
+                  }
+                ],
+                "string": "A model of major depression (MD) and generalised anxiety disorder (GAD) by Nuijten, Deserno, Cramer, and Borsboom.[7](((rC_nGuzjf))) The disorders roughly map onto clusters of symptoms that are often found together and reinforce one another, but there is no clear \u2018bright line\u2019 between the conditions.",
                 "uid": "5SQ8AOq_q"
               },
               {
@@ -35626,27 +35666,47 @@
             },
             "children": [
               {
+                ":block/refs": [
+                  {
+                    ":block/uid": "urKnXjnSR"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 },
                 "create-time": 1617137848516,
-                "edit-time": 1617137848516,
-                "string": "As the frequency of information increases, the world becomes noisier and noisier. Deliberate exposure to noise is a useful strategy in specific contexts, as described in Chapter 7,\u00a0 but otherwise obscures meaning. {{alias: ((1601)) 8}} Given we have a propensity for imposing stories and explanations onto randomness - the narrative fallacy - it is becoming increasingly difficult to separate out genuine signal from noise.\u00a0",
+                "edit-time": 1635488076924,
+                "refs": [
+                  {
+                    "uid": "urKnXjnSR"
+                  }
+                ],
+                "string": "As the frequency of information increases, the world becomes noisier and noisier. Deliberate exposure to noise is a useful strategy in specific contexts, as described in Chapter 7,\u00a0 but otherwise obscures meaning. [8](((urKnXjnSR))) Given we have a propensity for imposing stories and explanations onto randomness - the narrative fallacy - it is becoming increasingly difficult to separate out genuine signal from noise.\u00a0",
                 "uid": "09ZNnXbGP"
               },
               {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_eOgBulZd"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 },
                 "create-time": 1617137848516,
-                "edit-time": 1617137848516,
-                "string": "Assume a trend has a signal-to-noise ratio of 1:1 on an annual basis (50% of the data are meaningful, 50% are random). Observing the same data on a daily basis, the composition changes to 95% noise, 5% signal. Observing the data hourly (as news hounds and market junkies do), and it becomes 99.5% random - which is to say, two hundred times more noise than signal. {{alias: ((1602)) 9}}",
+                "edit-time": 1635488207717,
+                "refs": [
+                  {
+                    "uid": "_eOgBulZd"
+                  }
+                ],
+                "string": "Assume a trend has a signal-to-noise ratio of 1:1 on an annual basis (50% of the data are meaningful, 50% are random). Observing the same data on a daily basis, the composition changes to 95% noise, 5% signal. Observing the data hourly (as news hounds and market junkies do), and it becomes 99.5% random - which is to say, two hundred times more noise than signal.[9](((_eOgBulZd)))",
                 "uid": "bU0SEY6U2"
               },
               {
@@ -74866,8 +74926,14 @@
     "uid": "10-27-2021"
   },
   {
-    "create-time": 1635484687096,
-    "edit-time": 1635484687096,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1635488209848,
+    "edit-time": 1635488209848,
     "title": "October 29th, 2021",
     "uid": "10-29-2021"
   }
