@@ -74998,8 +74998,14 @@
     "uid": "g5sFpWHrL"
   },
   {
-    "create-time": 1635664734535,
-    "edit-time": 1635664734535,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1635665245201,
+    "edit-time": 1635665245201,
     "title": "October 31st, 2021",
     "uid": "10-31-2021"
   }
