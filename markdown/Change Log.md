@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[November 5th, 2021]]
+            - [[Bug Fixes]] - fix errant text insertion for [[Firefox]] tab change
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBBUiFSsRHb.png?alt=media&token=1a30076d-4afd-441e-9fea-311bbcfce4bb)
         - [[October 12th, 2021]]
             - Major [[Performance Improvements]] to filters on pages and backlinks 
                 - Should be particularly noticeable on huge collections - like TODO pages or user display name pages in multiplayer graphs.

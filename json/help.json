@@ -43329,6 +43329,68 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "11-05-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      },
+                      {
+                        ":block/uid": "R0zy2UaxE"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "edit-time": 1636162225146,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBBUiFSsRHb.png?alt=media&token=1a30076d-4afd-441e-9fea-311bbcfce4bb)",
+                        "uid": "zaPwie3KK"
+                      }
+                    ],
+                    "create-time": 1636162199310,
+                    "edit-time": 1636162271999,
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      },
+                      {
+                        "uid": "R0zy2UaxE"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] - fix errant text insertion for [[Firefox]] tab change",
+                    "uid": "6J7wM8GPO"
+                  }
+                ],
+                "create-time": 1636162195818,
+                "edit-time": 1636162199012,
+                "refs": [
+                  {
+                    "uid": "11-05-2021"
+                  }
+                ],
+                "string": "[[November 5th, 2021]]",
+                "uid": "U29Jsn3xL"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-12-2021"
                   }
                 ],
@@ -75010,8 +75072,32 @@
     "uid": "10-31-2021"
   },
   {
-    "create-time": 1636160448937,
-    "edit-time": 1636160448937,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1636162198311,
+    "edit-time": 1636162198311,
+    "title": "November 5th, 2021",
+    "uid": "11-05-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1636162272001,
+    "edit-time": 1636162272002,
+    "title": "Firefox",
+    "uid": "R0zy2UaxE"
+  },
+  {
+    "create-time": 1636164059981,
+    "edit-time": 1636164059981,
     "title": "November 6th, 2021",
     "uid": "11-06-2021"
   }
