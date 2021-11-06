@@ -75096,8 +75096,14 @@
     "uid": "R0zy2UaxE"
   },
   {
-    "create-time": 1636183101980,
-    "edit-time": 1636183101980,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1636183673354,
+    "edit-time": 1636183673354,
     "title": "November 6th, 2021",
     "uid": "11-06-2021"
   }
