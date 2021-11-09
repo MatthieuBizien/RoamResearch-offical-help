@@ -43329,6 +43329,262 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "11-09-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Zl4MvhXnM"
+                      },
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1636484228921,
+                            "edit-time": 1636484253627,
+                            "string": "Performance for large code blocks should be significantly better",
+                            "uid": "DSFyvZgMV"
+                          }
+                        ],
+                        "create-time": 1636484195678,
+                        "edit-time": 1636484344397,
+                        "string": "Updated to `codemirror.next`",
+                        "uid": "ui6yTNs5l"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1636484091941,
+                                "edit-time": 1636484114683,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fzf8iKJxhjd.png?alt=media&token=840a48fc-71ce-4252-a6c7-d98ad3d85d3f)",
+                                "uid": "Nj7URJ7wd"
+                              }
+                            ],
+                            "create-time": 1636484008677,
+                            "edit-time": 1636484086261,
+                            "string": "**before**",
+                            "uid": "IZWEvkPC0"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1636484142304,
+                                "edit-time": 1636484144076,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FVbqMOAbS_G.png?alt=media&token=0b5230ad-1701-4728-bf97-19d6fe45ee04)",
+                                "uid": "jc-sFlROc"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1636484015489,
+                                "edit-time": 1636484086261,
+                                "string": "",
+                                "uid": "JnXLBEPq9"
+                              }
+                            ],
+                            "create-time": 1636484012218,
+                            "edit-time": 1636484086261,
+                            "string": "**after**",
+                            "uid": "X9e1Ed2Fd"
+                          }
+                        ],
+                        "create-time": 1636483987352,
+                        "edit-time": 1636484086261,
+                        "string": "Styling changes",
+                        "uid": "VE5cudH3_"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1636484276504,
+                        "edit-time": 1636484287361,
+                        "string": "Added `latex` and `dart` languages",
+                        "uid": "paUhIBUlP"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1636484158644,
+                        "edit-time": 1636484165962,
+                        "string": "Added collapsable code gutters",
+                        "uid": "7eguQpEBk"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1636484395148,
+                        "edit-time": 1636484403752,
+                        "string": "Added highlighting matching brackets",
+                        "uid": "sAlmyO7x0"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1636484425893,
+                        "edit-time": 1636484454030,
+                        "string": "Changed the default font to [fira code](https://github.com/tonsky/FiraCode)",
+                        "uid": "IMgHZTaCV"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1636484577017,
+                                "edit-time": 1636484653922,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F7wwZFV60hs.png?alt=media&token=5c951c49-c9b4-4385-b2ac-30663b6d4b32)",
+                                "uid": "WLGrn3-8C"
+                              }
+                            ],
+                            "create-time": 1636484572125,
+                            "edit-time": 1636484577023,
+                            "refs": [
+                              {
+                                "uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "string": "[[Example]]",
+                            "uid": "Vgt6OBFEx"
+                          }
+                        ],
+                        "create-time": 1636484568563,
+                        "edit-time": 1636484572149,
+                        "string": "Added line wrapping",
+                        "uid": "-QYVemssH"
+                      }
+                    ],
+                    "create-time": 1636483907873,
+                    "edit-time": 1636483922860,
+                    "refs": [
+                      {
+                        "uid": "Zl4MvhXnM"
+                      },
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Code Block]] [[Quality of Life Improvements]]",
+                    "uid": "SM5KTWUuW"
+                  }
+                ],
+                "create-time": 1636483905241,
+                "edit-time": 1636483907887,
+                "refs": [
+                  {
+                    "uid": "11-09-2021"
+                  }
+                ],
+                "string": "[[November 9th, 2021]]",
+                "uid": "CCY1ESikJ"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "11-05-2021"
                   }
                 ],
@@ -75108,8 +75364,14 @@
     "uid": "11-06-2021"
   },
   {
-    "create-time": 1636482200407,
-    "edit-time": 1636482200408,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1636483873902,
+    "edit-time": 1636483873902,
     "title": "November 9th, 2021",
     "uid": "11-09-2021"
   }

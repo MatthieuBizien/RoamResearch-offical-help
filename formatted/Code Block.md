@@ -38,6 +38,9 @@ h1 {
 ## [ Commands](< Commands.md>)
 - [Code Block](<Code Block.md>)
 
+## [Change Log](<Change Log.md>)
+- [Code Block](<Code Block.md>)
+
 ## [Formatting](<Formatting.md>)
 - ### [Code Block](<Code Block.md>)
 

@@ -5,6 +5,8 @@
         - **[Example](<Example.md>):**
 
 ## [Change Log](<Change Log.md>)
+- [Example](<Example.md>)
+
 - __handy way to discover or remember different keyboard shortcuts__
                     - **[Example](<Example.md>):**
 

@@ -2,6 +2,23 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [November 9th, 2021](<November 9th, 2021.md>)
+            - [Code Block](<Code Block.md>) [Quality of Life Improvements](<Quality of Life Improvements.md>)
+                - Updated to `codemirror.next`
+                    - Performance for large code blocks should be significantly better
+                - Styling changes
+                    - **before**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fzf8iKJxhjd.png?alt=media&token=840a48fc-71ce-4252-a6c7-d98ad3d85d3f)
+                    - **after**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FVbqMOAbS_G.png?alt=media&token=0b5230ad-1701-4728-bf97-19d6fe45ee04)
+                        - 
+                - Added `latex` and `dart` languages
+                - Added collapsable code gutters
+                - Added highlighting matching brackets
+                - Changed the default font to [fira code](https://github.com/tonsky/FiraCode)
+                - Added line wrapping
+                    - [Example](<Example.md>)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F7wwZFV60hs.png?alt=media&token=5c951c49-c9b4-4385-b2ac-30663b6d4b32)
         - [November 5th, 2021](<November 5th, 2021.md>)
             - [Bug Fixes](<Bug Fixes.md>) - fix errant text insertion for [Firefox](<Firefox.md>) tab change
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FBBUiFSsRHb.png?alt=media&token=1a30076d-4afd-441e-9fea-311bbcfce4bb)
