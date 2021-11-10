@@ -75376,8 +75376,26 @@
     "uid": "11-09-2021"
   },
   {
-    "create-time": 1636528763857,
-    "edit-time": 1636528763858,
+    ":create/user": {
+      ":user/uid": "NN3wahQsfoW2IowIsDJHVJbMTvT2"
+    },
+    ":edit/user": {
+      ":user/uid": "NN3wahQsfoW2IowIsDJHVJbMTvT2"
+    },
+    "create-time": 1636529183805,
+    "edit-time": 1636529183805,
+    "title": "Adam K\u0159ivka",
+    "uid": "5DUsed3II"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1636530330991,
+    "edit-time": 1636530330991,
     "title": "November 10th, 2021",
     "uid": "11-10-2021"
   }
