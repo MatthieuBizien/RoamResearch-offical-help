@@ -2,6 +2,22 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [November 10th, 2021](<November 10th, 2021.md>)
+            - Natural Language Dates
+                - You can now write dates in natural language in Roam.
+                - Write the date in square brackets [ ](< .md>) in any format, and Roam will convert it to a date.  
+                - Select the suggested date for it to be entered in your block. 
+                - **Example Screenshot**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FVzRPrXeIeH.png?alt=media&token=2173eb04-fd27-43e0-b1ca-cce79de3efde)
+                - Some other examples you might want to try
+                    - `[5 days ago](<5 days ago.md>)`
+                    - `[2 weeks from now](<2 weeks from now.md>)`
+                    - `[last friday](<last friday.md>)`
+                    - `[wed](<wed.md>)`
+                    - `[2021-11-13](<2021-11-13.md>)`
+                    - `[11-13-2021](<11-13-2021.md>)`
+                    - `[17 nov 2019](<17 nov 2019.md>)`
+                    - `[day after tomorrow](<day after tomorrow.md>)`
         - [November 9th, 2021](<November 9th, 2021.md>)
             - [Code Block](<Code Block.md>) [Quality of Life Improvements](<Quality of Life Improvements.md>)
                 - Updated to `codemirror.next`

@@ -43329,6 +43329,226 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "11-10-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1636607557230,
+                        "edit-time": 1637002718678,
+                        "string": "You can now write dates in natural language in\u00a0Roam.",
+                        "uid": "AmU5o67Dz"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "STob4VP73"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1636607557230,
+                        "edit-time": 1637002718678,
+                        "refs": [
+                          {
+                            "uid": "STob4VP73"
+                          }
+                        ],
+                        "string": "Write the date in square brackets [[ ]] in any format, and Roam will convert it to a date.  ",
+                        "uid": "J4tPAsUNH"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1636607557230,
+                        "edit-time": 1637002718678,
+                        "string": "Select the suggested date for it to be entered in your block. ",
+                        "uid": "ahJyyznav"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636596626254,
+                            "edit-time": 1637002773166,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FVzRPrXeIeH.png?alt=media&token=2173eb04-fd27-43e0-b1ca-cce79de3efde)",
+                            "uid": "XpkaEOPwq"
+                          }
+                        ],
+                        "create-time": 1636596457771,
+                        "edit-time": 1637002718678,
+                        "string": "**Example Screenshot**",
+                        "uid": "hJx7r85VQ"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636595955173,
+                            "edit-time": 1637002718678,
+                            "string": "`[[5 days ago]]`",
+                            "uid": "5KewJaM3n"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636596367149,
+                            "edit-time": 1637002718678,
+                            "string": "`[[2 weeks from now]]`",
+                            "uid": "JG7eS21S0"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636596269535,
+                            "edit-time": 1637002718678,
+                            "string": "`[[last friday]]`",
+                            "uid": "pxXCOxsVt"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636596307894,
+                            "edit-time": 1637002718678,
+                            "string": "`[[wed]]`",
+                            "uid": "CL96MAmb1"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636596335627,
+                            "edit-time": 1637002718678,
+                            "string": "`[[2021-11-13]]`",
+                            "uid": "iWtUq-RLQ"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636596354685,
+                            "edit-time": 1637002718678,
+                            "string": "`[[11-13-2021]]`",
+                            "uid": "5PUdSmH32"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636597018688,
+                            "edit-time": 1637002718678,
+                            "string": "`[[17 nov 2019]]`",
+                            "uid": "EIjXlZjt0"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1636596402686,
+                            "edit-time": 1637002718678,
+                            "string": "`[[day after tomorrow]]`",
+                            "uid": "9Pwt3eaPX"
+                          }
+                        ],
+                        "create-time": 1636596231917,
+                        "edit-time": 1637002718678,
+                        "string": "Some other examples you might want to try",
+                        "uid": "DDZ3oV_1v"
+                      }
+                    ],
+                    "create-time": 1636595926332,
+                    "edit-time": 1637002718678,
+                    "string": "Natural Language Dates",
+                    "uid": "3Pn_f0blo"
+                  }
+                ],
+                "create-time": 1637002728628,
+                "edit-time": 1637002737951,
+                "refs": [
+                  {
+                    "uid": "11-10-2021"
+                  }
+                ],
+                "string": "[[November 10th, 2021]]",
+                "uid": "wbMiYZGND"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "11-09-2021"
                   }
                 ],
@@ -75434,5 +75654,17 @@
     "edit-time": 1636958882796,
     "title": "November 15th, 2021",
     "uid": "11-15-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1637002705618,
+    "edit-time": 1637002705619,
+    "title": "November 16th, 2021",
+    "uid": "11-16-2021"
   }
 ]

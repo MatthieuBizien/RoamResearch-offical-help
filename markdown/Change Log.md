@@ -2,6 +2,22 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[November 10th, 2021]]
+            - Natural Language Dates
+                - You can now write dates in natural language in Roam.
+                - Write the date in square brackets [[ ]] in any format, and Roam will convert it to a date.  
+                - Select the suggested date for it to be entered in your block. 
+                - **Example Screenshot**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FVzRPrXeIeH.png?alt=media&token=2173eb04-fd27-43e0-b1ca-cce79de3efde)
+                - Some other examples you might want to try
+                    - `[[5 days ago]]`
+                    - `[[2 weeks from now]]`
+                    - `[[last friday]]`
+                    - `[[wed]]`
+                    - `[[2021-11-13]]`
+                    - `[[11-13-2021]]`
+                    - `[[17 nov 2019]]`
+                    - `[[day after tomorrow]]`
         - [[November 9th, 2021]]
             - [[Code Block]] [[Quality of Life Improvements]]
                 - Updated to `codemirror.next`
