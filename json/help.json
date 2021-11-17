@@ -75668,8 +75668,14 @@
     "uid": "11-16-2021"
   },
   {
-    "create-time": 1637133538954,
-    "edit-time": 1637133538954,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1637137317565,
+    "edit-time": 1637137317565,
     "title": "November 17th, 2021",
     "uid": "11-17-2021"
   }
