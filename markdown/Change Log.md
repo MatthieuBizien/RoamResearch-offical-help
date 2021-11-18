@@ -2,6 +2,10 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[November 17th, 2021]]
+            - Natural Language Date suggestions now work in "Find or Create Page" search bar
+                -  Example screenshot
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FM37NPNdNsm.png?alt=media&token=90e32ba6-8c10-4cca-8ddc-ff78d605c8b0)
         - [[November 10th, 2021]]
             - Natural Language Dates
                 - You can now write dates in natural language in Roam.
@@ -17,7 +21,6 @@
                     - `[[2021-11-13]]`
                     - `[[11-13-2021]]`
                     - `[[17 nov 2019]]`
-                    - `[[day after tomorrow]]`
         - [[November 9th, 2021]]
             - [[Code Block]] [[Quality of Life Improvements]]
                 - Updated to `codemirror.next`
