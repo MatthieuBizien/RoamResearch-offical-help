@@ -207,33 +207,41 @@
         - Solution:: Based on all of the previous information, provide the solution to the problem. This could be a technical solution, process, new product, etc. Note that if multiple solutions are provided (suppose you provide multiple product offerings to solve the same problem) it is perfectly appropriate to have subpages for each solution.
         - Recommendations:: An alternative to (or something to be used in conjunction with) a solution is one or more recommendations. Again, if appropriate recommendations can merit their own subpages.
     - Hickey Design Process
-        - Problems::
+        - [[Problems]]
             - Take wants/needs and translate them into problems
-            - Symptoms::
-            - Causes::
-        - Requirements::
-            - Knowns::
+        - [[Symptoms]]
+            - Symptoms of the problems
+        - [[Requirements]]
+            - [[Knowns]]
                 - What I know how to do
-            - Unknowns::
+            - [[Unknowns]]
                 - What I don't know how to do
-            - Domain-side::
+            - [[Domain-side]]
                 - Business requirement
-            - Solution-side::
+            - [[Solution-side]]
                 - Technical constraints (it has to compile to JS, for example)
-            - Unstated::
+            - [[Unstated]]
                 - Things that everyone wants the system to avoid
                     - Doesn't crash, use too much memory, require too much energy, are examples of unstated requirements
-        - Solutions::
+        - [[Solutions]]
             - Solution A
                 - Benefits::
+                    - 
                 - Tradeoffs::
+                    - 
                 - Costs::
+                    - 
                 - Problem fit::
+                    - 
             - Solution B
                 - Benefits::
+                    - 
                 - Tradeoffs::
+                    - 
                 - Costs::
+                    - 
                 - Problem fit::
+                    - 
 - Course
     - ### [Course name](course link) by `[[Author Name]]` __price__
         - 2-3 sentence blurb describing the course

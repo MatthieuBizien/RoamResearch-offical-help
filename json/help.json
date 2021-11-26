@@ -22501,52 +22501,48 @@
                     "edit-time": 1620761788768,
                     "string": "Take wants/needs and translate them into problems",
                     "uid": "tnmGilF4I"
-                  },
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "5kfqwgeVw"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "edit-time": 1620761788768,
-                    "refs": [
-                      {
-                        "uid": "5kfqwgeVw"
-                      }
-                    ],
-                    "string": "Symptoms::",
-                    "uid": "-xCvyXNUO"
-                  },
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "85mI5bmLm"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "edit-time": 1620761788768,
-                    "refs": [
-                      {
-                        "uid": "85mI5bmLm"
-                      }
-                    ],
-                    "string": "Causes::",
-                    "uid": "ubmbUT0hf"
                   }
                 ],
-                "edit-time": 1620761788768,
+                "edit-time": 1637960426846,
                 "refs": [
                   {
                     "uid": "97HMz9WEJ"
                   }
                 ],
-                "string": "Problems::",
+                "string": "[[Problems]]",
                 "uid": "j2E1Nic6A"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "5kfqwgeVw"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1637960380205,
+                    "edit-time": 1637960401043,
+                    "string": "Symptoms of the problems",
+                    "uid": "P8Kugqswk"
+                  }
+                ],
+                "edit-time": 1637960421055,
+                "refs": [
+                  {
+                    "uid": "5kfqwgeVw"
+                  }
+                ],
+                "string": "[[Symptoms]]",
+                "uid": "-xCvyXNUO"
               },
               {
                 ":block/refs": [
@@ -22577,13 +22573,13 @@
                         "uid": "CF4FFSmLI"
                       }
                     ],
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960431849,
                     "refs": [
                       {
                         "uid": "betia6NIK"
                       }
                     ],
-                    "string": "Knowns::",
+                    "string": "[[Knowns]]",
                     "uid": "-pljqCHW6"
                   },
                   {
@@ -22605,13 +22601,13 @@
                         "uid": "xK6yEUuB8"
                       }
                     ],
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960434875,
                     "refs": [
                       {
                         "uid": "MpFmapLyn"
                       }
                     ],
-                    "string": "Unknowns::",
+                    "string": "[[Unknowns]]",
                     "uid": "13rmbIfs4"
                   },
                   {
@@ -22633,13 +22629,13 @@
                         "uid": "A5CnZPJ6Q"
                       }
                     ],
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960437774,
                     "refs": [
                       {
                         "uid": "RpvkVy_jl"
                       }
                     ],
-                    "string": "Domain-side::",
+                    "string": "[[Domain-side]]",
                     "uid": "bNpkly39d"
                   },
                   {
@@ -22661,13 +22657,13 @@
                         "uid": "NUlrhPRa_"
                       }
                     ],
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960440187,
                     "refs": [
                       {
                         "uid": "otdhkmjMW"
                       }
                     ],
-                    "string": "Solution-side::",
+                    "string": "[[Solution-side]]",
                     "uid": "7MP_8XJbB"
                   },
                   {
@@ -22699,23 +22695,23 @@
                         "uid": "h0T9Md2DD"
                       }
                     ],
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960443225,
                     "refs": [
                       {
                         "uid": "a4pYPyMXD"
                       }
                     ],
-                    "string": "Unstated::",
+                    "string": "[[Unstated]]",
                     "uid": "wVni29VHl"
                   }
                 ],
-                "edit-time": 1620761788768,
+                "edit-time": 1637960416603,
                 "refs": [
                   {
                     "uid": "oC_P1nOwL"
                   }
                 ],
-                "string": "Requirements::",
+                "string": "[[Requirements]]",
                 "uid": "6bw8vwSfg"
               },
               {
@@ -22742,6 +22738,20 @@
                         ":edit/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1637960448918,
+                            "edit-time": 1637960448918,
+                            "string": "",
+                            "uid": "HVU89DkiU"
+                          }
+                        ],
                         "edit-time": 1620761788768,
                         "refs": [
                           {
@@ -22760,6 +22770,20 @@
                         ":edit/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1637960450418,
+                            "edit-time": 1637960450418,
+                            "string": "",
+                            "uid": "HS3SX1myY"
+                          }
+                        ],
                         "edit-time": 1620761788768,
                         "refs": [
                           {
@@ -22778,6 +22802,20 @@
                         ":edit/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1637960451431,
+                            "edit-time": 1637960451431,
+                            "string": "",
+                            "uid": "HGWfA61jz"
+                          }
+                        ],
                         "edit-time": 1620761788768,
                         "refs": [
                           {
@@ -22796,6 +22834,20 @@
                         ":edit/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1637960455237,
+                            "edit-time": 1637960455237,
+                            "string": "",
+                            "uid": "1qkiaPTnW"
+                          }
+                        ],
                         "edit-time": 1620761788768,
                         "refs": [
                           {
@@ -22824,6 +22876,20 @@
                         ":edit/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1637960457576,
+                            "edit-time": 1637960457576,
+                            "string": "",
+                            "uid": "BsHtWfSGT"
+                          }
+                        ],
                         "edit-time": 1620761788768,
                         "refs": [
                           {
@@ -22842,6 +22908,20 @@
                         ":edit/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1637960458686,
+                            "edit-time": 1637960458686,
+                            "string": "",
+                            "uid": "-2tisRscP"
+                          }
+                        ],
                         "edit-time": 1620761788768,
                         "refs": [
                           {
@@ -22860,6 +22940,20 @@
                         ":edit/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1637960459635,
+                            "edit-time": 1637960459635,
+                            "string": "",
+                            "uid": "YYDTlwRjj"
+                          }
+                        ],
                         "edit-time": 1620761788768,
                         "refs": [
                           {
@@ -22878,6 +22972,20 @@
                         ":edit/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "create-time": 1637960460980,
+                            "edit-time": 1637960460980,
+                            "string": "",
+                            "uid": "ESgO1dkkA"
+                          }
+                        ],
                         "edit-time": 1620761788768,
                         "refs": [
                           {
@@ -22893,13 +23001,13 @@
                     "uid": "MLEianuYL"
                   }
                 ],
-                "edit-time": 1620761788768,
+                "edit-time": 1637960446579,
                 "refs": [
                   {
                     "uid": "PKrTM3pfv"
                   }
                 ],
-                "string": "Solutions::",
+                "string": "[[Solutions]]",
                 "uid": "ueo7AMRPP"
               }
             ],
@@ -73570,18 +73678,6 @@
     "edit-time": 1620761788768,
     "title": "Symptoms",
     "uid": "5kfqwgeVw"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    "create-time": 1620761788760,
-    "edit-time": 1620761788768,
-    "title": "Causes",
-    "uid": "85mI5bmLm"
   },
   {
     ":create/user": {
