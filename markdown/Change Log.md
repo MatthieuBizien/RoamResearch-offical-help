@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[November 25th, 2021]]
+            - [[Quality of Life Improvements]]
+                - Fix upload issues in iOS 
         - [[November 17th, 2021]]
             - Natural Language Date suggestions now work in "Find or Create Page" search bar
                 -  Example screenshot

@@ -43329,6 +43329,66 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "11-25-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1637897692207,
+                        "edit-time": 1637897725811,
+                        "string": "Fix upload issues in iOS ",
+                        "uid": "TrBH9GlMe"
+                      }
+                    ],
+                    "create-time": 1637897705065,
+                    "edit-time": 1637897708592,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]]",
+                    "uid": "JMWNnf9jV"
+                  }
+                ],
+                "create-time": 1637897687758,
+                "edit-time": 1637897692220,
+                "refs": [
+                  {
+                    "uid": "11-25-2021"
+                  }
+                ],
+                "string": "[[November 25th, 2021]]",
+                "uid": "3sK0TqhtE"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "11-17-2021"
                   }
                 ],
@@ -75756,9 +75816,27 @@
     "uid": "11-19-2021"
   },
   {
-    "create-time": 1637896860763,
-    "edit-time": 1637896860763,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1637897664503,
+    "edit-time": 1637897664503,
     "title": "November 26th, 2021",
     "uid": "11-26-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1637897691665,
+    "edit-time": 1637897691665,
+    "title": "November 25th, 2021",
+    "uid": "11-25-2021"
   }
 ]
