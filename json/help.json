@@ -43329,7 +43329,7 @@
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "11-25-2021"
+                    ":block/uid": "11-26-2021"
                   }
                 ],
                 ":create/user": {
@@ -43363,28 +43363,40 @@
                         "edit-time": 1637897725811,
                         "string": "Fix upload issues in iOS ",
                         "uid": "TrBH9GlMe"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1637918777966,
+                        "edit-time": 1637918810209,
+                        "string": "Automatic handling of snapshot issues",
+                        "uid": "FRU8_juGa"
                       }
                     ],
-                    "create-time": 1637897705065,
-                    "edit-time": 1637897708592,
+                    "create-time": 1637918765176,
+                    "edit-time": 1637918777017,
                     "refs": [
                       {
                         "uid": "_EqbjQSAF"
                       }
                     ],
                     "string": "[[Quality of Life Improvements]]",
-                    "uid": "JMWNnf9jV"
+                    "uid": "UFFkKiI0R"
                   }
                 ],
-                "create-time": 1637897687758,
-                "edit-time": 1637897692220,
+                "create-time": 1637918761977,
+                "edit-time": 1637918765191,
                 "refs": [
                   {
-                    "uid": "11-25-2021"
+                    "uid": "11-26-2021"
                   }
                 ],
-                "string": "[[November 25th, 2021]]",
-                "uid": "3sK0TqhtE"
+                "string": "[[November 26th, 2021]]",
+                "uid": "nhhDIf6XT"
               },
               {
                 ":block/refs": [
