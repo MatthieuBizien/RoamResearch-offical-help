@@ -75948,8 +75948,20 @@
     "uid": "11-25-2021"
   },
   {
-    "create-time": 1638332837210,
-    "edit-time": 1638332837210,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    "create-time": 1638334453818,
+    "edit-time": 1638334453818,
+    "title": "November 30th, 2021",
+    "uid": "11-30-2021"
+  },
+  {
+    "create-time": 1638335949883,
+    "edit-time": 1638335949883,
     "title": "December 1st, 2021",
     "uid": "12-01-2021"
   }
