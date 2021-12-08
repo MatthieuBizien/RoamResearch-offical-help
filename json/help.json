@@ -43437,6 +43437,102 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "12-07-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1638942723939,
+                            "edit-time": 1638942910720,
+                            "string": "fixed bug where queries could previously lead to \"Roam was not built in a day\" errors ",
+                            "uid": "Gz-9BsZKr"
+                          }
+                        ],
+                        "create-time": 1638942887756,
+                        "edit-time": 1638942887756,
+                        "string": "Better error checking for queries",
+                        "uid": "w9X_SQ4Oo"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Lgp0csam2"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1638942553065,
+                        "edit-time": 1638942935385,
+                        "refs": [
+                          {
+                            "uid": "Lgp0csam2"
+                          }
+                        ],
+                        "string": "[[Performance Improvements]] for imports and queries",
+                        "uid": "Tp2BEk9id"
+                      }
+                    ],
+                    "create-time": 1638942864882,
+                    "edit-time": 1638942878242,
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]]",
+                    "uid": "_lGTYwjim"
+                  }
+                ],
+                "create-time": 1638942860666,
+                "edit-time": 1638942864324,
+                "refs": [
+                  {
+                    "uid": "12-07-2021"
+                  }
+                ],
+                "string": "[[December 7th, 2021]]",
+                "uid": "U2lL5eL9l"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "11-26-2021"
                   }
                 ],
@@ -75960,9 +76056,27 @@
     "uid": "11-30-2021"
   },
   {
-    "create-time": 1638940746322,
-    "edit-time": 1638940746322,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1638942557826,
+    "edit-time": 1638942557826,
     "title": "December 8th, 2021",
     "uid": "12-08-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1638942863626,
+    "edit-time": 1638942863626,
+    "title": "December 7th, 2021",
+    "uid": "12-07-2021"
   }
 ]

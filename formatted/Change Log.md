@@ -2,6 +2,11 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [December 7th, 2021](<December 7th, 2021.md>)
+            - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+                - Better error checking for queries
+                    - fixed bug where queries could previously lead to "Roam was not built in a day" errors 
+                - [Performance Improvements](<Performance Improvements.md>) for imports and queries
         - [November 26th, 2021](<November 26th, 2021.md>)
             - [Quality of Life Improvements](<Quality of Life Improvements.md>)
                 - Fix upload issues in iOS 
