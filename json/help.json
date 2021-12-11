@@ -76130,8 +76130,14 @@
     "uid": "12-09-2021"
   },
   {
-    "create-time": 1639192828847,
-    "edit-time": 1639192828847,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1639193792684,
+    "edit-time": 1639193792684,
     "title": "December 11th, 2021",
     "uid": "12-11-2021"
   }
