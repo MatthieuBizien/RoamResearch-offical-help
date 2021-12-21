@@ -25845,143 +25845,6 @@
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
-    "children": [
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "Fp4-ieiER"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "children": [
-          {
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "create-time": 1614782632568,
-            "edit-time": 1614785258413,
-            "heading": 1,
-            "string": "[Roam Book Club 1](https://roamresearch.com/#/app/roam-book-club)",
-            "text-align": "left",
-            "uid": "wKOoD8q0t"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "create-time": 1614782635884,
-            "edit-time": 1614785254474,
-            "heading": 1,
-            "string": "[Roam Book Club 2](https://roamresearch.com/#/app/roam-book-club-2)",
-            "text-align": "left",
-            "uid": "W7M4WI0IR"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "AGxOFftrg"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1614784347261,
-                "edit-time": 1614785254474,
-                "heading": 3,
-                "string": "[How to Take Smart Notes](https://roamresearch.com/#/app/RBC3-How-To-Take-Smart-Notes)",
-                "text-align": "left",
-                "uid": "Vec1BBuNN"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1614784351570,
-                "edit-time": 1614785254474,
-                "heading": 3,
-                "string": "[The Culture Code](https://roamresearch.com/#/app/RBC3-The-Culture-Code)",
-                "text-align": "left",
-                "uid": "8SeMaUgn4"
-              }
-            ],
-            "create-time": 1614784344611,
-            "edit-time": 1616555323275,
-            "heading": 1,
-            "refs": [
-              {
-                "uid": "AGxOFftrg"
-              }
-            ],
-            "string": "[Roam Book Club 3]([[Roam Book Club 3]])",
-            "text-align": "left",
-            "uid": "Ac7MISYNQ"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616555393899,
-                "edit-time": 1616555412209,
-                "string": "(starts April 11th)",
-                "text-align": "left",
-                "uid": "yX9H7XCZZ"
-              }
-            ],
-            "create-time": 1616208978252,
-            "edit-time": 1616555393905,
-            "heading": 1,
-            "string": "[Roam Book Club 4](https://roamresearch.typeform.com/to/adiOzQqR)",
-            "text-align": "left",
-            "uid": "-KrsHOWIS"
-          }
-        ],
-        "create-time": 1616555311742,
-        "edit-time": 1616555314300,
-        "refs": [
-          {
-            "uid": "Fp4-ieiER"
-          }
-        ],
-        "string": "#.doc-mode",
-        "uid": "se3M83FAW"
-      }
-    ],
     "create-time": 1614649956026,
     "edit-time": 1616568924816,
     "title": "Roam Book Club",
@@ -68021,18 +67884,6 @@
   },
   {
     ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    "create-time": 1616208608872,
-    "edit-time": 1616208608872,
-    "title": "Roam Book Club 3",
-    "uid": "AGxOFftrg"
-  },
-  {
-    ":create/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
@@ -76166,8 +76017,8 @@
     "uid": "12-20-2021"
   },
   {
-    "create-time": 1640056912507,
-    "edit-time": 1640056912507,
+    "create-time": 1640067916962,
+    "edit-time": 1640067916962,
     "title": "December 21st, 2021",
     "uid": "12-21-2021"
   }
