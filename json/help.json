@@ -36819,7 +36819,7 @@
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 },
                 "children": [
                   {
@@ -37104,15 +37104,378 @@
                   }
                 ],
                 "create-time": 1616210571848,
-                "edit-time": 1616210573236,
+                "edit-time": 1640323410042,
                 "heading": 1,
                 "refs": [
                   {
                     "uid": "RkvokA4jz"
                   }
                 ],
-                "string": "[Cortex Futura]([[Cortex Futura]])",
+                "string": "[Cortex Futura]([[Cortex Futura]]) ",
                 "uid": "L8f7DKY2W"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "n3tub6l43"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                },
+                ":edit/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "GPmbtPPKA"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511102009,
+                        "edit-time": 1640323461320,
+                        "string": "PhD, Polymath, Tools for Thought Explorer, Essayist, Coach, Author",
+                        "uid": "lMBIZ9APn"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511214705,
+                        "edit-time": 1640323461320,
+                        "string": "Helps you set up your personal Zettelkasten and smart notes workflow in Roam. You'll remember what you learn, discover new ideas and insights, turn your thoughts and discoveries into convincing written pieces, and build up a treasure of smart and interconnected notes along the way.",
+                        "uid": "a3_4HL8zU"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511410676,
+                        "edit-time": 1640323461320,
+                        "string": "Wrote [The Complete Guide To Effective Note-Taking](https://roambrain.com/the-complete-guide-to-effective-note-taking/) and [The Complete Guide to Effective Reading](https://maartenvandoorn.medium.com/the-complete-guide-to-effective-reading-fc1835937757) (>300K reads). Created course [Academic Mastery with Roam Research](https://www.academicmasterywithroam.com/). ",
+                        "uid": "Yb5IAa1jM"
+                      }
+                    ],
+                    "create-time": 1635511090604,
+                    "edit-time": 1640323461320,
+                    "refs": [
+                      {
+                        "uid": "GPmbtPPKA"
+                      }
+                    ],
+                    "string": "Info::",
+                    "uid": "McX3P15MN"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "NmcH8RbDC"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511604885,
+                        "edit-time": 1640323496099,
+                        "string": "[Coaching website](https://maartenvandoorn.com/roam-research-coaching/)",
+                        "uid": "uYhgdU52s"
+                      }
+                    ],
+                    "create-time": 1635511597276,
+                    "edit-time": 1640323496099,
+                    "refs": [
+                      {
+                        "uid": "NmcH8RbDC"
+                      }
+                    ],
+                    "string": "Website::",
+                    "uid": "5ih3ycTtB"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "PvfaQ0BkP"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "QdzVG9YXn"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511700749,
+                        "edit-time": 1640323520183,
+                        "refs": [
+                          {
+                            "uid": "QdzVG9YXn"
+                          }
+                        ],
+                        "string": "[[Roam fundamentals]]",
+                        "uid": "Tbuu25pyT"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "81BHd1ZTn"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511675913,
+                        "edit-time": 1640323520183,
+                        "refs": [
+                          {
+                            "uid": "81BHd1ZTn"
+                          }
+                        ],
+                        "string": "[[Effective Reading and Note-Taking in Roam Research]]",
+                        "uid": "6Udr7o0CB"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "1CLyVZ3wi"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511719744,
+                        "edit-time": 1640323520183,
+                        "refs": [
+                          {
+                            "uid": "1CLyVZ3wi"
+                          }
+                        ],
+                        "string": "[[Information analysis]]",
+                        "uid": "6utUS2PB1"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "HLhtVdTYg"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511707139,
+                        "edit-time": 1640323520183,
+                        "refs": [
+                          {
+                            "uid": "HLhtVdTYg"
+                          }
+                        ],
+                        "string": "[[Academic writing]]",
+                        "uid": "fDv8tC1eZ"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "B-eDgTFp0"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511734422,
+                        "edit-time": 1640323520183,
+                        "refs": [
+                          {
+                            "uid": "B-eDgTFp0"
+                          }
+                        ],
+                        "string": "[[Popular writing]]",
+                        "uid": "uqPftOvSo"
+                      }
+                    ],
+                    "create-time": 1635511658230,
+                    "edit-time": 1640323520183,
+                    "refs": [
+                      {
+                        "uid": "PvfaQ0BkP"
+                      }
+                    ],
+                    "string": "Areas of specialty::",
+                    "uid": "64TRObiP4"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Squrr9dJK"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511757718,
+                        "edit-time": 1640323535149,
+                        "string": "[DM on Twitter](https://twitter.com/maartenvdoorn)",
+                        "uid": "AV_VEbr3-"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511808274,
+                        "edit-time": 1640323535149,
+                        "string": "maarten@maartenvandoorn.nl",
+                        "uid": "NEuhzB3v_"
+                      }
+                    ],
+                    "create-time": 1635511754459,
+                    "edit-time": 1640323535149,
+                    "refs": [
+                      {
+                        "uid": "Squrr9dJK"
+                      }
+                    ],
+                    "string": "Contact::",
+                    "uid": "aLCCchQcK"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "LJmy-87gk"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511823064,
+                        "edit-time": 1640323562106,
+                        "string": "Get lifetime access to [Academic Mastery with Roam](https://www.academicmasterywithroam.com/) for $159.",
+                        "uid": "PfC0Eu3Oi"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511865728,
+                        "edit-time": 1640323562106,
+                        "string": "[Coaching](https://maartenvandoorn.com/roam-research-coaching/) costs only $99 per one-hour 1:1 session, because I'm just an overachieving nerd who wants to help people :)",
+                        "uid": "yk5yFCvOh"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "sFeiuPBRigbVyel4KC6um2mOvNX2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "create-time": 1635511963042,
+                        "edit-time": 1640323562106,
+                        "string": "[DM](https://twitter.com/maartenvdoorn) or [message](mailto:maarten@maartenvandoorn.nl) for custom coaching package needs! I focus on the specific use case desired by you.",
+                        "uid": "tqHwuCKbV"
+                      }
+                    ],
+                    "create-time": 1635511817635,
+                    "edit-time": 1640323562106,
+                    "refs": [
+                      {
+                        "uid": "LJmy-87gk"
+                      }
+                    ],
+                    "string": "Price::",
+                    "uid": "zjJWRAOTi"
+                  }
+                ],
+                "create-time": 1635511082019,
+                "edit-time": 1640323427098,
+                "heading": 1,
+                "refs": [
+                  {
+                    "uid": "n3tub6l43"
+                  }
+                ],
+                "string": "[[Maarten van Doorn]]",
+                "uid": "Wt6qCiqlN"
               }
             ],
             "create-time": 1616570424500,
@@ -76017,9 +76380,111 @@
     "uid": "12-20-2021"
   },
   {
-    "create-time": 1640294252959,
-    "edit-time": 1640294252959,
-    "title": "December 23rd, 2021",
-    "uid": "12-23-2021"
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323427102,
+    "edit-time": 1640323427102,
+    "title": "Maarten van Doorn",
+    "uid": "n3tub6l43"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323520195,
+    "edit-time": 1640323520195,
+    "title": "Areas of specialty",
+    "uid": "PvfaQ0BkP"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323520202,
+    "edit-time": 1640323520203,
+    "title": "Effective Reading and Note-Taking in Roam Research",
+    "uid": "81BHd1ZTn"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323520207,
+    "edit-time": 1640323520207,
+    "title": "Information analysis",
+    "uid": "1CLyVZ3wi"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323520212,
+    "edit-time": 1640323520213,
+    "title": "Academic writing",
+    "uid": "HLhtVdTYg"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323520216,
+    "edit-time": 1640323520216,
+    "title": "Popular writing",
+    "uid": "B-eDgTFp0"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323535153,
+    "edit-time": 1640323535153,
+    "title": "Contact",
+    "uid": "Squrr9dJK"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323562114,
+    "edit-time": 1640323562114,
+    "title": "Price",
+    "uid": "LJmy-87gk"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1640323869159,
+    "edit-time": 1640323869159,
+    "title": "December 24th, 2021",
+    "uid": "12-24-2021"
   }
 ]
