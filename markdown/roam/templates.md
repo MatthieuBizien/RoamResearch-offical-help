@@ -291,7 +291,6 @@
         - Areas of specialty::
         - Contact::
         - Price::
-- To submit a template to be featured here please fill out this typeform
 - Docs #.hide
     - {{[[TODO]]}} Introduction (few bullets) and some GIFs
     - Roam Team Videos::

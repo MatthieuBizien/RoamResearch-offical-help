@@ -291,7 +291,6 @@
         - **[Areas of specialty](<../Areas of specialty.md>):**
         - **[Contact](<../Contact.md>):**
         - **[Price](<../Price.md>):**
-- To submit a template to be featured here please fill out this typeform
 - Docs #.hide
     - [ ] Introduction (few bullets) and some GIFs
     - **[Roam Team Videos](<../Roam Team Videos.md>):**

@@ -23872,18 +23872,6 @@
         "uid": "ZPEScBNFv"
       },
       {
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "create-time": 1616398103402,
-        "edit-time": 1616398202467,
-        "string": "To submit a template to be featured here please fill out this typeform",
-        "uid": "thunmEuGE"
-      },
-      {
         ":block/refs": [
           {
             ":block/uid": "dpLdzMqar"
@@ -76500,8 +76488,8 @@
     "uid": "12-29-2021"
   },
   {
-    "create-time": 1640838436374,
-    "edit-time": 1640838436374,
+    "create-time": 1640848781370,
+    "edit-time": 1640848781370,
     "title": "December 30th, 2021",
     "uid": "12-30-2021"
   }
