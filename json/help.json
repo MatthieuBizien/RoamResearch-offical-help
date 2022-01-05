@@ -43651,6 +43651,56 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "01-03-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1641351679771,
+                        "edit-time": 1641351947746,
+                        "string": "If you're a dev or are interested, more details [here](https://roamresearch.com/#/app/developer-documentation/page/tIaOPdXCj)",
+                        "uid": "ykTpEP24U"
+                      }
+                    ],
+                    "create-time": 1641351735400,
+                    "edit-time": 1641351735400,
+                    "string": "A major change and some minor additions to `roamAlphaAPI`, the API that roam extensions are built on top of.",
+                    "uid": "rAU-HsVlF"
+                  }
+                ],
+                "create-time": 1641351674403,
+                "edit-time": 1641351679784,
+                "refs": [
+                  {
+                    "uid": "01-03-2022"
+                  }
+                ],
+                "string": "[[January 3rd, 2022]]",
+                "uid": "IU7hMkbon"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "12-07-2021"
                   }
                 ],
@@ -76488,8 +76538,20 @@
     "uid": "12-29-2021"
   },
   {
-    "create-time": 1641350432316,
-    "edit-time": 1641350432316,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1641351679786,
+    "edit-time": 1641351679787,
+    "title": "January 3rd, 2022",
+    "uid": "01-03-2022"
+  },
+  {
+    "create-time": 1641352902726,
+    "edit-time": 1641352902726,
     "title": "January 5th, 2022",
     "uid": "01-05-2022"
   }
