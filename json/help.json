@@ -25783,12 +25783,12 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
         },
         "create-time": 1616208482887,
-        "edit-time": 1616554820146,
+        "edit-time": 1641651692545,
         "heading": 1,
-        "string": "Join via [this link](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw)",
+        "string": "Join via [this link](https://join.slack.com/t/roamresearch/shared_invite/zt-xy0pd90x-c0KDkgh1BeLKyi0iUlJ1CA)",
         "text-align": "left",
         "uid": "jyuam4XJT"
       },
@@ -76550,8 +76550,8 @@
     "uid": "01-03-2022"
   },
   {
-    "create-time": 1641651489775,
-    "edit-time": 1641651489775,
+    "create-time": 1641655266735,
+    "edit-time": 1641655266735,
     "title": "January 8th, 2022",
     "uid": "01-08-2022"
   }
