@@ -76550,9 +76550,21 @@
     "uid": "01-03-2022"
   },
   {
-    "create-time": 1642547801875,
-    "edit-time": 1642547801875,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1642551073424,
+    "edit-time": 1642551073424,
     "title": "January 18th, 2022",
     "uid": "01-18-2022"
+  },
+  {
+    "create-time": 1642554188422,
+    "edit-time": 1642554188422,
+    "title": "January 19th, 2022",
+    "uid": "01-19-2022"
   }
 ]
