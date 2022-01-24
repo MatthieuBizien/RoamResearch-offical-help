@@ -76574,8 +76574,28 @@
     "uid": "01-18-2022"
   },
   {
-    "create-time": 1643012619383,
-    "edit-time": 1643012619384,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "create-time": 1643019988353,
+        "edit-time": 1643020260192,
+        "string": "",
+        "uid": "1rGjO0mjL"
+      }
+    ],
+    "create-time": 1643017337434,
+    "edit-time": 1643020252326,
     "title": "January 24th, 2022",
     "uid": "01-24-2022"
   }
