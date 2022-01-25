@@ -1,4 +1,3 @@
-- css
 - #.doc-mode
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
