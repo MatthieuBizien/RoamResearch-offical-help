@@ -43663,6 +43663,52 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "01-25-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "m6jiiw1bO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1643138838578,
+                    "edit-time": 1643138891661,
+                    "refs": [
+                      {
+                        "uid": "m6jiiw1bO"
+                      }
+                    ],
+                    "string": "Small speed / memory improvements to [[Import]]",
+                    "uid": "_dah35QqH"
+                  }
+                ],
+                "create-time": 1643138835631,
+                "edit-time": 1643138838596,
+                "refs": [
+                  {
+                    "uid": "01-25-2022"
+                  }
+                ],
+                "string": "[[January 25th, 2022]]",
+                "uid": "2GTPU3LZB"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "01-03-2022"
                   }
                 ],
@@ -76600,8 +76646,14 @@
     "uid": "01-24-2022"
   },
   {
-    "create-time": 1643131327065,
-    "edit-time": 1643131327065,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1643138824281,
+    "edit-time": 1643138824281,
     "title": "January 25th, 2022",
     "uid": "01-25-2022"
   }
