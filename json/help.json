@@ -76646,8 +76646,14 @@
     "uid": "01-25-2022"
   },
   {
-    "create-time": 1643275190804,
-    "edit-time": 1643275190804,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1643277723011,
+    "edit-time": 1643277723011,
     "title": "January 27th, 2022",
     "uid": "01-27-2022"
   }
