@@ -9,7 +9,7 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
-- Small speed / memory improvements to [Import](<Import.md>)
+- [Import](<Import.md>)
 
 ## [FAQ](<FAQ.md>)
 - ### **How do** [import]([Import](<Import.md>))

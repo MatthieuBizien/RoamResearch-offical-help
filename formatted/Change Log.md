@@ -3,7 +3,9 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [January 25th, 2022](<January 25th, 2022.md>)
-            - Small speed / memory improvements to [Import](<Import.md>)
+            - [Import](<Import.md>)
+                - Small speed / memory improvements
+                - Bug fix causing import to fail when importing a large amount of files
         - [January 3rd, 2022](<January 3rd, 2022.md>)
             - A major change and some minor additions to `roamAlphaAPI`, the API that roam extensions are built on top of.
                 - If you're a dev or are interested, more details [here](https://roamresearch.com/#/app/developer-documentation/page/tIaOPdXCj)
