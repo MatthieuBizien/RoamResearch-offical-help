@@ -2,6 +2,8 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[January 28th, 2022]]
+            - Preparation work for graph load / memory improvements (stay tuned)
         - [[January 25th, 2022]]
             - [[Import]]
                 - Small speed / memory improvements

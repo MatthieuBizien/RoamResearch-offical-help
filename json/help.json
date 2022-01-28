@@ -43651,6 +43651,42 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "01-28-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1643406629055,
+                    "edit-time": 1643406698153,
+                    "string": "Preparation work for graph load / memory improvements (stay tuned)",
+                    "uid": "fl5hlmHWj"
+                  }
+                ],
+                "create-time": 1643406625649,
+                "edit-time": 1643406629050,
+                "refs": [
+                  {
+                    "uid": "01-28-2022"
+                  }
+                ],
+                "string": "[[January 28th, 2022]]",
+                "uid": "4Cb9aoT-D"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "01-25-2022"
                   }
                 ],
@@ -76684,8 +76720,14 @@
     "uid": "01-27-2022"
   },
   {
-    "create-time": 1643401197631,
-    "edit-time": 1643401197631,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1643406617175,
+    "edit-time": 1643406617175,
     "title": "January 28th, 2022",
     "uid": "01-28-2022"
   }
