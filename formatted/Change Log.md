@@ -4,6 +4,7 @@
     - ## **New Changes**
         - [January 28th, 2022](<January 28th, 2022.md>)
             - Preparation work for graph load / memory improvements (stay tuned)
+            - Small additions to the roamAlphaAPI (see docs [here](https://roamresearch.com/#/app/developer-documentation/page/tIaOPdXCj) for detailed changelog)
         - [January 25th, 2022](<January 25th, 2022.md>)
             - [Import](<Import.md>)
                 - Small speed / memory improvements

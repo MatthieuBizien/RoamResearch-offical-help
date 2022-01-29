@@ -43672,6 +43672,18 @@
                     "edit-time": 1643406698153,
                     "string": "Preparation work for graph load / memory improvements (stay tuned)",
                     "uid": "fl5hlmHWj"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1643423684721,
+                    "edit-time": 1643425251342,
+                    "string": "Small additions to the roamAlphaAPI (see docs [here](https://roamresearch.com/#/app/developer-documentation/page/tIaOPdXCj) for detailed changelog)",
+                    "uid": "H4QiKAuKt"
                   }
                 ],
                 "create-time": 1643406625649,
@@ -76732,8 +76744,8 @@
     "uid": "01-28-2022"
   },
   {
-    "create-time": 1643418084912,
-    "edit-time": 1643418084912,
+    "create-time": 1643437351350,
+    "edit-time": 1643437351350,
     "title": "January 29th, 2022",
     "uid": "01-29-2022"
   }
