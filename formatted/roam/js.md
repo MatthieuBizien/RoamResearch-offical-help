@@ -4,6 +4,11 @@
         - {{iframe: https://nesslabs.com/roam-research-javascript-plugins}}
 
 # Backlinks
+## [Encrypted Graphs](<Encrypted Graphs.md>)
+- [roam/js](<../roam/js.md>)
+
+- If you want to be sure your notes are secure **do not use** [roam/js](<../roam/js.md>)
+
 ## [Features](<Features.md>)
 - ### [roam/js](<../roam/js.md>)
 

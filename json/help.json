@@ -43651,6 +43651,52 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "01-29-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "DTR1FMubL"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1643442131447,
+                    "edit-time": 1643442135886,
+                    "refs": [
+                      {
+                        "uid": "DTR1FMubL"
+                      }
+                    ],
+                    "string": "[[Encrypted Graphs]]",
+                    "uid": "4r2S3eHwI"
+                  }
+                ],
+                "create-time": 1643442129060,
+                "edit-time": 1643442131379,
+                "refs": [
+                  {
+                    "uid": "01-29-2022"
+                  }
+                ],
+                "string": "[[January 29th, 2022]]",
+                "uid": "hNv-S2Sk9"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "01-28-2022"
                   }
                 ],
@@ -76466,10 +76512,562 @@
         ":edit/user": {
           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
         },
-        "create-time": 1638997940920,
-        "edit-time": 1638997946595,
-        "string": "**Coming Soon**",
-        "uid": "1vRxVsYFl"
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "vzofEi9sP"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1638996930556,
+                    "edit-time": 1643441824345,
+                    "string": "**We cannot retrieve or reset it, and we cannot recover your encrypted notes**",
+                    "uid": "GW_WU9Lfu"
+                  }
+                ],
+                "create-time": 1638996909975,
+                "edit-time": 1643441824345,
+                "string": "If you forget your password for an encrypted graph",
+                "uid": "BB3KNX9b3"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "nBCwjGuI7"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "nBCwjGuI7"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1639074921351,
+                    "edit-time": 1643441824345,
+                    "refs": [
+                      {
+                        "uid": "nBCwjGuI7"
+                      }
+                    ],
+                    "string": "If you want to be sure your notes are secure **do not use** [[roam/js]] extensions that you did not write yourself",
+                    "uid": "S16povajT"
+                  }
+                ],
+                "create-time": 1639015913769,
+                "edit-time": 1643441824345,
+                "refs": [
+                  {
+                    "uid": "nBCwjGuI7"
+                  }
+                ],
+                "string": "[[roam/js]] extensions running in an encrypted graph will have access to the unencrypted data",
+                "uid": "-53rC8sor"
+              }
+            ],
+            "create-time": 1638996908595,
+            "edit-time": 1643441824345,
+            "heading": 3,
+            "refs": [
+              {
+                "uid": "vzofEi9sP"
+              }
+            ],
+            "string": "Warning #.bg-red-200",
+            "uid": "4uARZUGP_"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Tqp-pE4nv"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1638996678970,
+            "edit-time": 1643441824345,
+            "refs": [
+              {
+                "uid": "Tqp-pE4nv"
+              }
+            ],
+            "string": "[[Quick Capture]] is disabled",
+            "uid": "jHvxopYsx"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1643440873942,
+                    "edit-time": 1643441824345,
+                    "string": "We will release a change password functionality soon",
+                    "uid": "hVJJjHH6I"
+                  }
+                ],
+                "create-time": 1638996713157,
+                "edit-time": 1643441824345,
+                "string": "We recommend creating a new graph and restoring from a backup to change or remove the password",
+                "uid": "XPcBLDQKM"
+              }
+            ],
+            "create-time": 1638996686993,
+            "edit-time": 1643441824345,
+            "string": "Encryption passwords cannot be changed or removed for a graph",
+            "uid": "EpKF8jRC6"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1638997184116,
+                "edit-time": 1643441824345,
+                "string": "We recommend creating a new encrypted graph and importing the existing graph, then delete the existing graph",
+                "uid": "R_2OXmgX2"
+              }
+            ],
+            "create-time": 1638997176902,
+            "edit-time": 1643441824345,
+            "string": "Existing graphs cannot be encrypted",
+            "uid": "b0E3WvqBa"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "FK4fiJVom"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1643441123334,
+                    "edit-time": 1643441824345,
+                    "string": "We hope to add this in the future",
+                    "uid": "dSSfgDYpa"
+                  }
+                ],
+                "create-time": 1643441087621,
+                "edit-time": 1643441824345,
+                "string": "Backups and exports currently do not contain the unencrypted images and media files",
+                "uid": "iOF720hDr"
+              }
+            ],
+            "create-time": 1638996728935,
+            "edit-time": 1643441875335,
+            "refs": [
+              {
+                "uid": "FK4fiJVom"
+              }
+            ],
+            "string": "Backups and [[Export]]s of the graph are **not encrypted**",
+            "uid": "PMya43q1J"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "saz5SvUZ5"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1639774336256,
+                "edit-time": 1643441824345,
+                "string": "The media files are stored on your computer, unencrypted",
+                "uid": "NsCzwa2D_"
+              }
+            ],
+            "create-time": 1639774314221,
+            "edit-time": 1643441927925,
+            "refs": [
+              {
+                "uid": "saz5SvUZ5"
+              }
+            ],
+            "string": "[[Offline Graph]]s on the desktop app do not encrypt the images / media files you upload",
+            "uid": "K9DHGYKLx"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1643441500004,
+                "edit-time": 1643441824345,
+                "string": "In the future we hope to release the ability to have multiple password to a graph",
+                "uid": "lz0dI-1tE"
+              }
+            ],
+            "create-time": 1638997237355,
+            "edit-time": 1643441824345,
+            "string": "You can still share an encrypted graph with someone else, but they need the password used to encrypt it to access the graph",
+            "uid": "Wm_DvPszJ"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1643443747245,
+            "edit-time": 1643443768849,
+            "string": "Load times of encrypted graphs may be longer than non encrypted",
+            "uid": "ip0J1lsNy"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1643441743608,
+                "edit-time": 1643441958603,
+                "string": "We designed it with the backend API in mind, but likely many of the features of it will not be possible for encrypted graphs",
+                "uid": "VyhssJU9O"
+              }
+            ],
+            "create-time": 1638996843884,
+            "edit-time": 1643441824345,
+            "string": "Future features, such as a backend API, may not be available for encrypted graphs",
+            "uid": "oCmEuPQCk"
+          }
+        ],
+        "create-time": 1638996578996,
+        "edit-time": 1643441824345,
+        "heading": 2,
+        "string": "Limitations of encrypted graphs",
+        "uid": "7B7NyKSD6"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1643441012573,
+                "edit-time": 1643441824345,
+                "string": "This may effect the load time of them",
+                "uid": "UfzzkYAlD"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "K9DHGYKLx"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1643441559721,
+                "edit-time": 1643441824345,
+                "refs": [
+                  {
+                    "uid": "K9DHGYKLx"
+                  }
+                ],
+                "string": "((K9DHGYKLx))",
+                "uid": "tw1_wCp6H"
+              }
+            ],
+            "create-time": 1643440994288,
+            "edit-time": 1643441824345,
+            "string": "Images and media files are encrypted only on hosted graphs",
+            "uid": "1sxEykygG"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1643441446614,
+                    "edit-time": 1643441824345,
+                    "string": "For example whether block text is centered or a heading is not encrypted, but the actual content of the block is",
+                    "uid": "YTsChMtAW"
+                  }
+                ],
+                "create-time": 1643441446614,
+                "edit-time": 1643441824345,
+                "string": "Some metadata about your graph is not encrypted",
+                "uid": "0kVr0SWMm"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "8XZDHOw3E"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1643441446614,
+                        "edit-time": 1643441824345,
+                        "string": "`:user/display-name :user/email :create/email :edit/email :node/title :block/string :user/uid :user/photo-url :entity/attrs :block/props :ent/emojis :user/settings`",
+                        "uid": "Ugsh73Ubr"
+                      }
+                    ],
+                    "create-time": 1643441446614,
+                    "edit-time": 1643441824345,
+                    "string": "These keys are encrypted",
+                    "uid": "PnSLKMTzI"
+                  }
+                ],
+                "create-time": 1643441446614,
+                "edit-time": 1643441824345,
+                "refs": [
+                  {
+                    "uid": "8XZDHOw3E"
+                  }
+                ],
+                "string": "[[Developer]]",
+                "uid": "q9DmrJt0b"
+              }
+            ],
+            "create-time": 1643441446614,
+            "edit-time": 1643441824345,
+            "string": "Roam only encrypts blocks, pages, and media files",
+            "uid": "CMz2tf1xs"
+          }
+        ],
+        "create-time": 1643440991078,
+        "edit-time": 1643441824345,
+        "string": "More Info",
+        "uid": "_jtqM5dGt"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "2h9V-FtAO"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1643442253978,
+            "edit-time": 1643444307880,
+            "refs": [
+              {
+                "uid": "2h9V-FtAO"
+              }
+            ],
+            "string": "{{[[video]]: https://www.loom.com/share/5f7cea684d154559a16d0167cd53f93b}}",
+            "uid": "BLOOz3xBb"
+          }
+        ],
+        "create-time": 1643442232017,
+        "edit-time": 1643442238659,
+        "string": "How do I create an encrypted graph?",
+        "uid": "Y2X5pFQ3_"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1643442251982,
+            "edit-time": 1643442251982,
+            "string": "",
+            "uid": "8C4EV2f0z"
+          }
+        ],
+        "create-time": 1643442242533,
+        "edit-time": 1643442251649,
+        "string": "How can I verify that my graph is encrypted?",
+        "uid": "mZG60cevO"
       }
     ],
     "create-time": 1638997939020,
@@ -76744,8 +77342,38 @@
     "uid": "01-28-2022"
   },
   {
-    "create-time": 1643440686412,
-    "edit-time": 1643440686412,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1643441824408,
+    "edit-time": 1643441824408,
+    "title": ".bg-red-200",
+    "uid": "vzofEi9sP"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1643441924073,
+    "edit-time": 1643441924074,
+    "title": "Offline Graph",
+    "uid": "saz5SvUZ5"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1643442130687,
+    "edit-time": 1643442130687,
     "title": "January 29th, 2022",
     "uid": "01-29-2022"
   }

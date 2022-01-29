@@ -9,6 +9,9 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE-1xkkvU6W.gif?alt=media&token=c94c84b4-a93b-471f-8f05-8b7632671cae)
 
 # Backlinks
+## [Encrypted Graphs](<Encrypted Graphs.md>)
+- Backups and [Export](<Export.md>)s
+
 ## [FAQ](<FAQ.md>)
 - No, we never delete any graphs unless asked to. So you can cancel/pause your subscription, reactivate it later and you'll still be able to get back to your graph. You can also [export]([Export](<Export.md>))
 
