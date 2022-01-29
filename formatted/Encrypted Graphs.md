@@ -33,7 +33,7 @@
 - How do I create an encrypted graph?
     - {{[video](<video.md>): https://www.loom.com/share/5f7cea684d154559a16d0167cd53f93b}}
 - How can I verify that my graph is encrypted?
-    - 
+    - {{[video](<video.md>): https://www.loom.com/share/338bd42b80b647aaa0bed3082c53dccd}}
 
 # Backlinks
 ## [Change Log](<Change Log.md>)

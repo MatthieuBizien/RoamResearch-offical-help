@@ -77052,6 +77052,11 @@
         },
         "children": [
           {
+            ":block/refs": [
+              {
+                ":block/uid": "2h9V-FtAO"
+              }
+            ],
             ":create/user": {
               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
@@ -77059,8 +77064,13 @@
               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             "create-time": 1643442251982,
-            "edit-time": 1643442251982,
-            "string": "",
+            "edit-time": 1643445209739,
+            "refs": [
+              {
+                "uid": "2h9V-FtAO"
+              }
+            ],
+            "string": "{{[[video]]: https://www.loom.com/share/338bd42b80b647aaa0bed3082c53dccd}}",
             "uid": "8C4EV2f0z"
           }
         ],
