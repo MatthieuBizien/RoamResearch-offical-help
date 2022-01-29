@@ -4,6 +4,8 @@
     - ## **New Changes**
         - [[January 29th, 2022]]
             - [[Encrypted Graphs]]
+            - Unlimited graphs for all
+            - Increase upload file size from 100MB to 500MB
         - [[January 28th, 2022]]
             - Preparation work for graph load / memory improvements (stay tuned)
             - Small additions to the roamAlphaAPI (see docs [here](https://roamresearch.com/#/app/developer-documentation/page/tIaOPdXCj) for detailed changelog)
