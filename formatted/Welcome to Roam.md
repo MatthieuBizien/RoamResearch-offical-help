@@ -17,7 +17,7 @@
     - 
     - # Still have questions?
         - ## Check out [this page]([Features](<Features.md>)) to see an overview of all the **features** available in Roam
-        - ## You should also join our [Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw), where our amazing community shares resources, workflows, tips, tricks, and more
+        - ## You should also join our [Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-xy0pd90x-c0KDkgh1BeLKyi0iUlJ1CA), where our amazing community shares resources, workflows, tips, tricks, and more
         - ## If you want to learn more about why Roam is __different__, see [Why Roam?](<Why Roam?.md>)
         - ## And if you really want to geek out, you should read our [White Paper](<White Paper.md>)
         - 
