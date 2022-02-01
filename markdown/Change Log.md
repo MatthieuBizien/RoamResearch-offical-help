@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[February 1st, 2022]]
+            - 
+            - Fix not [[Export]]ing `:log/id`, causing daily note pages to not show up in the log
         - [[January 29th, 2022]]
             - [[Encrypted Graphs]]
             - Unlimited graphs for all
