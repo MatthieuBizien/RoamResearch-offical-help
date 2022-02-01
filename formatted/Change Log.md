@@ -3,7 +3,11 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [February 1st, 2022](<February 1st, 2022.md>)
-            - 
+            - Add icon to encrypted graphs in all graphs view
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnyXbh-I1p-.png?alt=media&token=28305988-ec3d-40df-a6fb-68da45ee5609)
+            - Update datascript to `1.3.8`
+                - Includes [performance improvements](https://github.com/tonsky/datascript/blob/master/CHANGELOG.md[130](<130.md>)) that might make extensions faster
+            - Fix bug with [Restore](<Restore.md>) graph, causing some data to not be imported correctly
             - Fix not [Export](<Export.md>)ing `:log/id`, causing daily note pages to not show up in the log
         - [January 29th, 2022](<January 29th, 2022.md>)
             - [Encrypted Graphs](<Encrypted Graphs.md>)

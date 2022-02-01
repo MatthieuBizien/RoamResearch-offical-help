@@ -43708,9 +43708,87 @@
                     ":edit/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnyXbh-I1p-.png?alt=media&token=28305988-ec3d-40df-a6fb-68da45ee5609": {
+                              ":height": null,
+                              ":width": 225
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1643749299536,
+                        "edit-time": 1643749300861,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnyXbh-I1p-.png?alt=media&token=28305988-ec3d-40df-a6fb-68da45ee5609": {
+                              "height": null,
+                              "width": 225
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnyXbh-I1p-.png?alt=media&token=28305988-ec3d-40df-a6fb-68da45ee5609)",
+                        "uid": "2qXFblVHs"
+                      }
+                    ],
+                    "create-time": 1643749303225,
+                    "edit-time": 1643749328747,
+                    "string": "Add icon to encrypted graphs in all graphs view",
+                    "uid": "eWBasBT0_"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1643745137224,
+                        "edit-time": 1643745274465,
+                        "string": "Includes [performance improvements](https://github.com/tonsky/datascript/blob/master/CHANGELOG.md#130) that might make extensions faster",
+                        "uid": "FjB1Lgumd"
+                      }
+                    ],
+                    "create-time": 1643744483895,
+                    "edit-time": 1643745136966,
+                    "string": "Update datascript to `1.3.8`",
+                    "uid": "wBT317GzU"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "MOVqdcma5"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
                     "create-time": 1643740150668,
-                    "edit-time": 1643740178409,
-                    "string": "",
+                    "edit-time": 1643744208442,
+                    "refs": [
+                      {
+                        "uid": "MOVqdcma5"
+                      }
+                    ],
+                    "string": "Fix bug with [[Restore]] graph, causing some data to not be imported correctly",
                     "uid": "m-mMJZId3"
                   },
                   {
