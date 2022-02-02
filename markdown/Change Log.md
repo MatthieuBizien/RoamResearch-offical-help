@@ -427,3 +427,8 @@ graph TD
                 - New Help Graph!
             - ### [[Quality of Life Improvements]] ✨ 
                 - Added warning banner to experimental graphs 
+- [[roam/comments]]
+    - [[February 2nd, 2022]]
+        - [[Joshua Brown]]
+            - Unlimited graphs for all
+                - * not for beta users

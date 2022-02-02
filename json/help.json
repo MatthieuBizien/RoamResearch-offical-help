@@ -51899,6 +51899,114 @@
         ],
         "string": "#.doc-mode",
         "uid": "djBXp7RPe"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "yw35wc1ZI"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "02-02-2022"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "VWxX5q1VI"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "knVAQbuR-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1643838960394,
+                        "edit-time": 1643838966777,
+                        "string": "* not for beta users",
+                        "uid": "q_A1KLAMp"
+                      }
+                    ],
+                    "create-time": 1643838960391,
+                    "edit-time": 1643838960391,
+                    "refs": [
+                      {
+                        "uid": "knVAQbuR-"
+                      }
+                    ],
+                    "string": "((knVAQbuR-))",
+                    "uid": "BnNhHzEer"
+                  }
+                ],
+                "create-time": 1643838960389,
+                "edit-time": 1643838960389,
+                "refs": [
+                  {
+                    "uid": "VWxX5q1VI"
+                  }
+                ],
+                "string": "[[Joshua Brown]]",
+                "uid": "edX_QlenT"
+              }
+            ],
+            "create-time": 1643838960387,
+            "edit-time": 1643838960387,
+            "refs": [
+              {
+                "uid": "02-02-2022"
+              }
+            ],
+            "string": "[[February 2nd, 2022]]",
+            "uid": "Po5dF_sOC"
+          }
+        ],
+        "create-time": 1643838960381,
+        "edit-time": 1643838960381,
+        "refs": [
+          {
+            "uid": "yw35wc1ZI"
+          }
+        ],
+        "string": "[[roam/comments]]",
+        "uid": "BcPBsTVhX"
       }
     ],
     "create-time": 1614776091631,
@@ -77933,5 +78041,17 @@
     "edit-time": 1643801879973,
     "title": "February 2nd, 2022",
     "uid": "02-02-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1643838960398,
+    "edit-time": 1643838960399,
+    "title": "roam/comments",
+    "uid": "yw35wc1ZI"
   }
 ]
