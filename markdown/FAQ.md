@@ -323,8 +323,9 @@
     - ### **Is my data secure?**
         - Hosted graph data is stored in Google Firebase and inherits their security, the data is encrypted at rest inside Google's servers.
         - Local graph data is as secure as your computer is.
+        - You can also [encrypt your graph]([[Encrypted Graphs]])
     - ### **Do you offer end-to-end encryption?**
-        - We do not offer end-to-end encryption currently but it is something we are considering.
+        - Yep. See [[Encrypted Graphs]]
     - ### **Do you offer 2-factor authentication?**
         - We do not offer 2-factor authentication currently but it is something we are considering.
 - # Other

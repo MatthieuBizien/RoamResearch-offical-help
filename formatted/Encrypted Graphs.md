@@ -39,3 +39,8 @@
 ## [Change Log](<Change Log.md>)
 - [Encrypted Graphs](<Encrypted Graphs.md>)
 
+## [FAQ](<FAQ.md>)
+- You can also [encrypt your graph]([Encrypted Graphs](<Encrypted Graphs.md>))
+
+- Yep. See [Encrypted Graphs](<Encrypted Graphs.md>)
+
