@@ -2,6 +2,10 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[February 3rd, 2022]]
+            - Revert Update datascript to `1.3.8`
+                - Unfortunately had a bug that broke some extensions, will re release as soon as the bug is fixed
+            - Fix paste bug causing images to be pasted instead of text from Microsoft Word
         - [[February 1st, 2022]]
             - Add icon to encrypted graphs in all graphs view
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnyXbh-I1p-.png?alt=media&token=28305988-ec3d-40df-a6fb-68da45ee5609)
