@@ -78062,6 +78062,20 @@
       ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     },
     ":log/id": 1643848724128,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "create-time": 1643858392769,
+        "edit-time": 1643858392769,
+        "string": "",
+        "uid": "S6yrSxVJC"
+      }
+    ],
     "create-time": 1643848724129,
     "edit-time": 1643848724129,
     "title": "February 3rd, 2022",
