@@ -3,6 +3,8 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [[February 3rd, 2022]]
+            - Prevent clicking out of [[Import]] while files are importing
+                - Also added text showing progress, similar to EDN restore
             - Change [[Encrypted Graphs]] password
                 - In the settings panel
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FJ6QeY8K-Zf.png?alt=media&token=2eb6670a-49b7-4696-b35d-0a2d06357815)

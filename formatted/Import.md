@@ -9,6 +9,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Prevent clicking out of [Import](<Import.md>)
+
 - [Import](<Import.md>)
 
 ## [FAQ](<FAQ.md>)

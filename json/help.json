@@ -43748,6 +43748,42 @@
                   {
                     ":block/refs": [
                       {
+                        ":block/uid": "m6jiiw1bO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1643924198470,
+                        "edit-time": 1643924219854,
+                        "string": "Also added text showing progress, similar to EDN restore",
+                        "uid": "iWQAehstU"
+                      }
+                    ],
+                    "create-time": 1643924057120,
+                    "edit-time": 1643924120298,
+                    "refs": [
+                      {
+                        "uid": "m6jiiw1bO"
+                      }
+                    ],
+                    "string": "Prevent clicking out of [[Import]] while files are importing",
+                    "uid": "QuCdpdRI5"
+                  },
+                  {
+                    ":block/refs": [
+                      {
                         ":block/uid": "DTR1FMubL"
                       }
                     ],
