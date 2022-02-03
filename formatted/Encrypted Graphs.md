@@ -5,9 +5,6 @@
         - [roam/js](<roam/js.md>) extensions running in an encrypted graph will have access to the unencrypted data
             - If you want to be sure your notes are secure **do not use** [roam/js](<roam/js.md>) extensions that you did not write yourself
     - [Quick Capture](<Quick Capture.md>) is disabled
-    - Encryption passwords cannot be changed or removed for a graph
-        - We recommend creating a new graph and restoring from a backup to change or remove the password
-            - We will release a change password functionality soon
     - Existing graphs cannot be encrypted
         - We recommend creating a new encrypted graph and importing the existing graph, then delete the existing graph
     - Backups and [Export](<Export.md>)s of the graph are **not encrypted**
@@ -30,6 +27,9 @@
         - [Developer](<Developer.md>)
             - These keys are encrypted
                 - `:user/display-name :user/email :create/email :edit/email :node/title :block/string :user/uid :user/photo-url :entity/attrs :block/props :ent/emojis :user/settings`
+- How do I change my password?
+    - In the settings panel
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZwq0lx1Ply.png?alt=media&token=f9b59eb8-6d4e-47e8-a95d-c351a4451ca5)
 - How do I create an encrypted graph?
     - {{[video](<video.md>): https://www.loom.com/share/5f7cea684d154559a16d0167cd53f93b}}
 - How can I verify that my graph is encrypted?
@@ -37,6 +37,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Change [Encrypted Graphs](<Encrypted Graphs.md>)
+
 - [Encrypted Graphs](<Encrypted Graphs.md>)
 
 ## [FAQ](<FAQ.md>)

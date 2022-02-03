@@ -43748,6 +43748,68 @@
                   {
                     ":block/refs": [
                       {
+                        ":block/uid": "DTR1FMubL"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1643920026525,
+                            "edit-time": 1643920043482,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FJ6QeY8K-Zf.png?alt=media&token=2eb6670a-49b7-4696-b35d-0a2d06357815)",
+                            "uid": "x2zVnW5Hf"
+                          }
+                        ],
+                        "create-time": 1643920022355,
+                        "edit-time": 1643920026529,
+                        "string": "In the settings panel",
+                        "uid": "bzOpDOLJI"
+                      }
+                    ],
+                    "create-time": 1643920010970,
+                    "edit-time": 1643920022361,
+                    "refs": [
+                      {
+                        "uid": "DTR1FMubL"
+                      }
+                    ],
+                    "string": "Change [[Encrypted Graphs]] password",
+                    "uid": "o_1qcaXGE"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1643915692706,
+                    "edit-time": 1643915708612,
+                    "string": "Fix paste bug causing images to be pasted instead of text from Microsoft Word",
+                    "uid": "PyWPEoRxN"
+                  },
+                  {
+                    ":block/refs": [
+                      {
                         ":block/uid": "wBT317GzU"
                       }
                     ],
@@ -43780,18 +43842,6 @@
                     ],
                     "string": "Revert ((wBT317GzU))",
                     "uid": "IZesStqQa"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
-                    "create-time": 1643915692706,
-                    "edit-time": 1643915708612,
-                    "string": "Fix paste bug causing images to be pasted instead of text from Microsoft Word",
-                    "uid": "PyWPEoRxN"
                   }
                 ],
                 "create-time": 1643915657481,
@@ -77309,46 +77359,6 @@
                 ":edit/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
-                "children": [
-                  {
-                    ":create/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
-                    "create-time": 1643440873942,
-                    "edit-time": 1643441824345,
-                    "string": "We will release a change password functionality soon",
-                    "uid": "hVJJjHH6I"
-                  }
-                ],
-                "create-time": 1638996713157,
-                "edit-time": 1643441824345,
-                "string": "We recommend creating a new graph and restoring from a backup to change or remove the password",
-                "uid": "XPcBLDQKM"
-              }
-            ],
-            "create-time": 1638996686993,
-            "edit-time": 1643441824345,
-            "string": "Encryption passwords cannot be changed or removed for a graph",
-            "uid": "EpKF8jRC6"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            ":edit/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                },
-                ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                },
                 "create-time": 1638997184116,
                 "edit-time": 1643441824345,
                 "string": "We recommend creating a new encrypted graph and importing the existing graph, then delete the existing graph",
@@ -77668,6 +77678,46 @@
         "edit-time": 1643441824345,
         "string": "More Info",
         "uid": "_jtqM5dGt"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1643920071563,
+                "edit-time": 1643920074122,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZwq0lx1Ply.png?alt=media&token=f9b59eb8-6d4e-47e8-a95d-c351a4451ca5)",
+                "uid": "YWLIlU1RY"
+              }
+            ],
+            "create-time": 1643920066900,
+            "edit-time": 1643920071381,
+            "string": "In the settings panel",
+            "uid": "jHVI9DdpD"
+          }
+        ],
+        "create-time": 1643920061141,
+        "edit-time": 1643920066903,
+        "string": "How do I change my password?",
+        "uid": "xIa9SAwdw"
       },
       {
         ":create/user": {
