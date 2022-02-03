@@ -78053,5 +78053,18 @@
     "edit-time": 1643838960399,
     "title": "roam/comments",
     "uid": "yw35wc1ZI"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":log/id": 1643848724128,
+    "create-time": 1643848724129,
+    "edit-time": 1643848724129,
+    "title": "February 3rd, 2022",
+    "uid": "02-03-2022"
   }
 ]
