@@ -159,12 +159,11 @@
             2. Choose `Copy Block ref`
             3. Paste the block ref
     - ### **How do I toggle** [Quick Capture](<Quick Capture.md>) **on mobile?**
-        - To toggle to quick capture mode-
-        - Inside your Roam graph, open the left sidebar, and click on the dropdown icon next to your graph name.
-        - One this opens, scroll down to the option of Quick Capture. Clicking here will change to Quick Capture mode. Here's a screenshot-
-        - ![](https://app.intercom.com/i/o/300913015/b5650fbef8c1532eb9f85deb/051DE4D4-EC2E-44DB-9CA5-8CF3AF8B6C7C.png)
-        - If you are in quick capture mode, and want to get back to full site, there's a button on the top right, which says, 'Install Full site'. Clicking here will get you back to the full site mode.
-        - ![](https://app.intercom.com/i/o/300915108/01046c39cb66cf74b3c878cd/123368D8-F647-4C8C-A10D-CBEB06E851BA.png)
+        - Inside your Roam graph, open the **left sidebar** and click on the dropdown icon next to your graph name.
+        - Once this opens, scroll down to the option `Quick Capture`. Clicking here will change to quick capture mode. Here's a screenshot:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-_HSisatIs.png?alt=media&token=c3cc6dbe-7f92-4bae-b0a9-9eddfa786348)
+        - If you are in quick capture mode already and want to get back to full site, there's a button on the top right that says `Full site` Clicking here will get you back to full site mode.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhaZ6icBwLv.png?alt=media&token=ea308865-7ab5-4654-b963-3dcfde606bdc)
     - ### **How do I update Roam?**
         - Within any page in your graph, click the three dots on the top right. Scroll down to 'Check for updates'. If there is an update, an orange box will show up and ask you to install it.  You will know you are on the latest version if you get the green box like shown below:
         - ![](https://downloads.intercomcdn.com/i/o/295728770/8ea376843de13d59adb352fc/2021-02-04+11.41.12.gif)

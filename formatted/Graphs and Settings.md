@@ -16,7 +16,6 @@
         - ### Create new [Graph](<Graph.md>)
             - ### [Hosted Graph](<Hosted Graph.md>)
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fi8T4ru8TAo.gif?alt=media&token=de655cc0-889b-4735-a01c-8d34e5ad3103)
-                - 
                 - ### [Local Graph](<Local Graph.md>)
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FUKPFUwGlCg.gif?alt=media&token=5e551237-29da-43ef-bd77-160795d51ca9)
         - 

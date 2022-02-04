@@ -16511,49 +16511,73 @@
                 ":edit/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
-                "edit-time": 1615396956587,
-                "string": "To toggle to quick capture mode-",
-                "uid": "O18ZIWawy"
-              },
-              {
-                ":edit/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
-                "edit-time": 1615396956587,
-                "string": "Inside your Roam graph, open the left sidebar, and click on the dropdown icon next to your graph name.",
+                "edit-time": 1643985963745,
+                "string": "Inside your Roam graph, open the **left sidebar** and click on the dropdown icon next to your graph name.",
                 "uid": "qJp57QkCH"
               },
               {
                 ":edit/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
-                "edit-time": 1615396956587,
-                "string": "One this opens, scroll down to the option of Quick Capture. Clicking here will change to Quick Capture mode. Here's a screenshot-",
+                "edit-time": 1643985998810,
+                "string": "Once this opens, scroll down to the option `Quick Capture`. Clicking here will change to quick capture mode. Here's a screenshot:",
                 "uid": "AmkTbbE4S"
               },
               {
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-_HSisatIs.png?alt=media&token=c3cc6dbe-7f92-4bae-b0a9-9eddfa786348": {
+                      ":height": null,
+                      ":width": 233
+                    }
+                  }
+                },
                 ":edit/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
-                "edit-time": 1615397056740,
-                "string": "![](https://app.intercom.com/i/o/300913015/b5650fbef8c1532eb9f85deb/051DE4D4-EC2E-44DB-9CA5-8CF3AF8B6C7C.png)",
-                "uid": "w4D9YHyYa"
+                "edit-time": 1643985814173,
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-_HSisatIs.png?alt=media&token=c3cc6dbe-7f92-4bae-b0a9-9eddfa786348": {
+                      "height": null,
+                      "width": 233
+                    }
+                  }
+                },
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-_HSisatIs.png?alt=media&token=c3cc6dbe-7f92-4bae-b0a9-9eddfa786348)",
+                "uid": "ss6glAqgK"
               },
               {
                 ":edit/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
-                "edit-time": 1615396956587,
-                "string": "If you are in quick capture mode, and want to get back to full site, there's a button on the top right, which says, 'Install Full site'. Clicking here will get you back to the full site mode.",
+                "edit-time": 1643986027818,
+                "string": "If you are in quick capture mode already and want to get back to full site, there's a button on the top right that says `Full site` Clicking here will get you back to full site mode.",
                 "uid": "lZiED7ArO"
               },
               {
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhaZ6icBwLv.png?alt=media&token=ea308865-7ab5-4654-b963-3dcfde606bdc": {
+                      ":height": null,
+                      ":width": 339
+                    }
+                  }
+                },
                 ":edit/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
-                "edit-time": 1615397038482,
-                "string": "![](https://app.intercom.com/i/o/300915108/01046c39cb66cf74b3c878cd/123368D8-F647-4C8C-A10D-CBEB06E851BA.png)",
-                "uid": "45HJf3dHK"
+                "edit-time": 1643985917858,
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhaZ6icBwLv.png?alt=media&token=ea308865-7ab5-4654-b963-3dcfde606bdc": {
+                      "height": null,
+                      "width": 339
+                    }
+                  }
+                },
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhaZ6icBwLv.png?alt=media&token=ea308865-7ab5-4654-b963-3dcfde606bdc)",
+                "uid": "x2jUl1am8"
               }
             ],
             "create-time": 1615396908647,
@@ -42933,18 +42957,6 @@
                         "uid": "QK4_V3m2X"
                       },
                       {
-                        ":create/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        },
-                        "create-time": 1616548345749,
-                        "edit-time": 1616548345749,
-                        "string": "",
-                        "uid": "-4M2p0Urm"
-                      },
-                      {
                         ":block/refs": [
                           {
                             ":block/uid": "q9X-gs35m"
@@ -43508,11 +43520,11 @@
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
             },
             "create-time": 1615206518301,
-            "edit-time": 1615206523795,
-            "string": "3 max, currently",
+            "edit-time": 1643986790739,
+            "string": "as many as you want :)",
             "uid": "lPAUMpEto"
           }
         ],
@@ -43526,7 +43538,7 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         ":edit/user": {
-          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
         },
         "children": [
           {
@@ -43543,8 +43555,8 @@
           }
         ],
         "create-time": 1614775283077,
-        "edit-time": 1615207243812,
-        "string": "Where is hosted?",
+        "edit-time": 1643986804049,
+        "string": "Where is it hosted?",
         "uid": "KOASKods6"
       },
       {
@@ -43598,32 +43610,6 @@
         "edit-time": 1615207245268,
         "string": "Can I access it offline?",
         "uid": "i615rB54a"
-      },
-      {
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-        },
-        "children": [
-          {
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "create-time": 1615206535863,
-            "edit-time": 1615206540591,
-            "string": "Not yet, but it's coming soon...",
-            "uid": "e7zHiLlO7"
-          }
-        ],
-        "create-time": 1614775299575,
-        "edit-time": 1615207247812,
-        "string": "Can I buy more?",
-        "uid": "SlsZQ9ZO7"
       }
     ],
     "create-time": 1614775265043,
