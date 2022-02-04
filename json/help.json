@@ -847,18 +847,6 @@
         ],
         "string": "[[White Paper]]",
         "uid": "ykEjfqxxb"
-      },
-      {
-        ":create/user": {
-          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-        },
-        ":edit/user": {
-          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
-        },
-        "create-time": 1643801527246,
-        "edit-time": 1643801549547,
-        "string": "```javascript\n```",
-        "uid": "nF20ZxmjH"
       }
     ],
     "create-time": 1614230061149,
@@ -78238,5 +78226,18 @@
     "edit-time": 1643848724129,
     "title": "February 3rd, 2022",
     "uid": "02-03-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":log/id": 1643933370126,
+    "create-time": 1643933370127,
+    "edit-time": 1643933370127,
+    "title": "February 4th, 2022",
+    "uid": "02-04-2022"
   }
 ]
