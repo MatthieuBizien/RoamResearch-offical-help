@@ -3,8 +3,12 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [February 7th, 2022](<February 7th, 2022.md>)
+            - Update datascript to `1.3.9` [*](((IZesStqQa))) [*](((wBT317GzU)))
+                - Includes [performance improvements](https://github.com/tonsky/datascript/blob/master/CHANGELOG.md[130](<130.md>)) that might make extensions faster
             - Bug fixes related to Preparation work for graph load / memory improvements (stay tuned)
                 - Delayed full release of load performance improvements
+            - Fixed potential memory leak
+            - Bug fixes to our update / upgrade mechanism
         - [February 3rd, 2022](<February 3rd, 2022.md>)
             - Prevent clicking out of [Import](<Import.md>) while files are importing
                 - Also added text showing progress, similar to EDN restore

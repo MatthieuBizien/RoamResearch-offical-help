@@ -43722,6 +43722,48 @@
                   {
                     ":block/refs": [
                       {
+                        ":block/uid": "wBT317GzU"
+                      },
+                      {
+                        ":block/uid": "IZesStqQa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1644285696843,
+                        "edit-time": 1644285713290,
+                        "string": "Includes [performance improvements](https://github.com/tonsky/datascript/blob/master/CHANGELOG.md#130) that might make extensions faster",
+                        "uid": "EpvuRB_tV"
+                      }
+                    ],
+                    "create-time": 1644285687988,
+                    "edit-time": 1644285744950,
+                    "refs": [
+                      {
+                        "uid": "wBT317GzU"
+                      },
+                      {
+                        "uid": "IZesStqQa"
+                      }
+                    ],
+                    "string": "Update datascript to `1.3.9` [*](((IZesStqQa))) [*](((wBT317GzU)))",
+                    "uid": "7IqMCm6IK"
+                  },
+                  {
+                    ":block/refs": [
+                      {
                         ":block/uid": "fl5hlmHWj"
                       }
                     ],
@@ -43740,8 +43782,8 @@
                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                         },
                         "create-time": 1644282510607,
-                        "edit-time": 1644282517507,
-                        "string": "",
+                        "edit-time": 1644282541493,
+                        "string": "Delayed full release of load performance improvements",
                         "uid": "7bxZDIXIj"
                       }
                     ],
@@ -43754,6 +43796,30 @@
                     ],
                     "string": "Bug fixes related to ((fl5hlmHWj))",
                     "uid": "F2kwheNZF"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1644282759503,
+                    "edit-time": 1644282765502,
+                    "string": "Fixed potential memory leak",
+                    "uid": "8BhOOtqjp"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1644282741402,
+                    "edit-time": 1644282753351,
+                    "string": "Bug fixes to our update / upgrade mechanism",
+                    "uid": "vLt_47LWf"
                   }
                 ],
                 "create-time": 1644282482037,
@@ -78313,9 +78379,9 @@
     "uid": "02-07-2022"
   },
   {
-    ":log/id": 1644282518300,
-    "create-time": 1644282518302,
-    "edit-time": 1644282518302,
+    ":log/id": 1644287591642,
+    "create-time": 1644287591644,
+    "edit-time": 1644287591644,
     "title": "February 8th, 2022",
     "uid": "02-08-2022"
   }
