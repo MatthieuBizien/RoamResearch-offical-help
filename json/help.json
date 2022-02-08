@@ -43709,6 +43709,66 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "02-07-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fl5hlmHWj"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1644282510607,
+                        "edit-time": 1644282517507,
+                        "string": "",
+                        "uid": "7bxZDIXIj"
+                      }
+                    ],
+                    "create-time": 1644282486663,
+                    "edit-time": 1644282504048,
+                    "refs": [
+                      {
+                        "uid": "fl5hlmHWj"
+                      }
+                    ],
+                    "string": "Bug fixes related to ((fl5hlmHWj))",
+                    "uid": "F2kwheNZF"
+                  }
+                ],
+                "create-time": 1644282482037,
+                "edit-time": 1644282486272,
+                "refs": [
+                  {
+                    "uid": "02-07-2022"
+                  }
+                ],
+                "string": "[[February 7th, 2022]]",
+                "uid": "ajJ-d5Khd"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "02-03-2022"
                   }
                 ],
@@ -78251,5 +78311,12 @@
     "edit-time": 1644258058518,
     "title": "February 7th, 2022",
     "uid": "02-07-2022"
+  },
+  {
+    ":log/id": 1644282518300,
+    "create-time": 1644282518302,
+    "edit-time": 1644282518302,
+    "title": "February 8th, 2022",
+    "uid": "02-08-2022"
   }
 ]

@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[February 7th, 2022]]
+            - Bug fixes related to Preparation work for graph load / memory improvements (stay tuned)
+                - Delayed full release of load performance improvements
         - [[February 3rd, 2022]]
             - Prevent clicking out of [[Import]] while files are importing
                 - Also added text showing progress, similar to EDN restore
