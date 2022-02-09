@@ -2,6 +2,8 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[February 9th, 2022]]
+            - Fixed bug selecting multiple blocks in embeds and linked references
         - [[February 7th, 2022]]
             - Update datascript to `1.3.9` [*](((IZesStqQa))) [*](((wBT317GzU)))
                 - Includes [performance improvements](https://github.com/tonsky/datascript/blob/master/CHANGELOG.md#130) that might make extensions faster

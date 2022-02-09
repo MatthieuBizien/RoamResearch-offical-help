@@ -43709,6 +43709,42 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "02-09-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1644425961383,
+                    "edit-time": 1644425992174,
+                    "string": "Fixed bug selecting multiple blocks in embeds and linked references",
+                    "uid": "C9hbWRsH3"
+                  }
+                ],
+                "create-time": 1644425959600,
+                "edit-time": 1644425961399,
+                "refs": [
+                  {
+                    "uid": "02-09-2022"
+                  }
+                ],
+                "string": "[[February 9th, 2022]]",
+                "uid": "C5WPVy2TK"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "02-07-2022"
                   }
                 ],
@@ -78392,9 +78428,15 @@
     "uid": "02-08-2022"
   },
   {
-    ":log/id": 1644424192857,
-    "create-time": 1644424192859,
-    "edit-time": 1644424192859,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1644425949737,
+    "create-time": 1644425949738,
+    "edit-time": 1644425949738,
     "title": "February 9th, 2022",
     "uid": "02-09-2022"
   }
