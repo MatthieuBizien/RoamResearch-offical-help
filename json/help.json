@@ -57301,6 +57301,20 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1644476391883,
+                    "edit-time": 1644476433184,
+                    "string": "Epoch time in milliseconds (13-digit numbers)",
+                    "uid": "mGQx0ISsm"
+                  }
+                ],
                 "create-time": 1576024735064,
                 "edit-time": 1614783006310,
                 "refs": [
@@ -78441,9 +78455,15 @@
     "uid": "02-09-2022"
   },
   {
-    ":log/id": 1644470261580,
-    "create-time": 1644470261583,
-    "edit-time": 1644470261583,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1644476376318,
+    "create-time": 1644476376320,
+    "edit-time": 1644476376321,
     "title": "February 10th, 2022",
     "uid": "02-10-2022"
   }

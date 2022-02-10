@@ -36,6 +36,7 @@
     - create-time
         - description:: The time the object was created, measured in ms since unix epoch. If not supplied, the create-time of the object will be filled in by either the edit-time, or now.
         - type:: integer
+            - Epoch time in milliseconds (13-digit numbers)
     - edit-time
         - description:: The time the object was last edited, measured in ms since unix epoch. If not supplied, the edit-time of the object will be filled in by either the create-time, or now.
         - type:: integer
