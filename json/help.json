@@ -43709,6 +43709,112 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "02-11-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "s6_qhdpmE"
+                      },
+                      {
+                        ":block/uid": "N3Uq-2dil"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1644611640845,
+                            "edit-time": 1644611670148,
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FMgQBi2FROY.MP4?alt=media&token=10254893-b682-4a78-94e5-3ec85d632f1a}}",
+                            "uid": "A8XLDln8a"
+                          }
+                        ],
+                        "create-time": 1644611634559,
+                        "edit-time": 1644611637836,
+                        "string": "Before",
+                        "uid": "MvMo4dAoR"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1644611642466,
+                            "edit-time": 1644611715482,
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FXbMOzNrxpu.MP4?alt=media&token=42386235-418c-42a3-9b4c-5e6699a5cf0e}}",
+                            "uid": "JTqbGCtvh"
+                          }
+                        ],
+                        "create-time": 1644611637831,
+                        "edit-time": 1644611639579,
+                        "string": "After",
+                        "uid": "M--1iDBQV"
+                      }
+                    ],
+                    "create-time": 1644611604351,
+                    "edit-time": 1644611634564,
+                    "refs": [
+                      {
+                        "uid": "s6_qhdpmE"
+                      },
+                      {
+                        "uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "string": "Fix having to double click to edit text on [[iOS]] [[Safari]]",
+                    "uid": "wEUd-jf7d"
+                  }
+                ],
+                "create-time": 1644611601730,
+                "edit-time": 1644611604364,
+                "refs": [
+                  {
+                    "uid": "02-11-2022"
+                  }
+                ],
+                "string": "[[February 11th, 2022]]",
+                "uid": "vTkxA1HAJ"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "02-09-2022"
                   }
                 ],
@@ -78468,10 +78574,28 @@
     "uid": "02-10-2022"
   },
   {
-    ":log/id": 1644610772644,
-    "create-time": 1644610772646,
-    "edit-time": 1644610772646,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1644611596909,
+    "create-time": 1644611596910,
+    "edit-time": 1644611596910,
     "title": "February 11th, 2022",
     "uid": "02-11-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1644611629073,
+    "edit-time": 1644611629073,
+    "title": "iOS",
+    "uid": "N3Uq-2dil"
   }
 ]

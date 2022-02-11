@@ -2,6 +2,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Fix having to double click to edit text on [iOS](<iOS.md>) [Safari](<Safari.md>)
+
 - Fixed plaintext paste in [Safari](<Safari.md>)
 
 - The block info pop-up will no longer show up while dragging blocks on [Safari](<Safari.md>)

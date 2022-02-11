@@ -2,6 +2,12 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[February 11th, 2022]]
+            - Fix having to double click to edit text on [[iOS]] [[Safari]]
+                - Before
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FMgQBi2FROY.MP4?alt=media&token=10254893-b682-4a78-94e5-3ec85d632f1a}}
+                - After
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FXbMOzNrxpu.MP4?alt=media&token=42386235-418c-42a3-9b4c-5e6699a5cf0e}}
         - [[February 9th, 2022]]
             - Fixed bug selecting multiple blocks in embeds and linked references
         - [[February 7th, 2022]]
