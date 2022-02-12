@@ -43709,6 +43709,244 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "02-12-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fl5hlmHWj"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FlgY6E66Azc.png?alt=media&token=99a2a6c2-1fd2-4dc5-a6a9-53a1bc45fb53": {
+                                  ":height": null,
+                                  ":width": 416
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1644651417508,
+                            "edit-time": 1644651454168,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FlgY6E66Azc.png?alt=media&token=99a2a6c2-1fd2-4dc5-a6a9-53a1bc45fb53": {
+                                  "height": null,
+                                  "width": 416
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FlgY6E66Azc.png?alt=media&token=99a2a6c2-1fd2-4dc5-a6a9-53a1bc45fb53)",
+                            "uid": "J5IoFokNo"
+                          }
+                        ],
+                        "create-time": 1644651363875,
+                        "edit-time": 1644651417515,
+                        "string": "You may experience a longer load time on while your graph upgrades, you should see a message like this",
+                        "uid": "EzS0GbFue"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "NJQwgIgcT"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1644616209456,
+                                "edit-time": 1644651301978,
+                                "string": "up to 50% faster",
+                                "uid": "Tyomx9CO-"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1644651266734,
+                                "edit-time": 1644651301978,
+                                "string": "up to 66% less peak memory usage (during load)",
+                                "uid": "e9wfxVGiL"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1644616209456,
+                                "edit-time": 1644651301978,
+                                "string": "up to 20% reduction in idle memory usage (after app loads)",
+                                "uid": "deIXfZzBw"
+                              }
+                            ],
+                            "create-time": 1644616209456,
+                            "edit-time": 1644651301978,
+                            "string": "Loading from Roam's servers",
+                            "uid": "EU6KJQjfy"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1644616209456,
+                                "edit-time": 1644651301978,
+                                "string": "up to 16% faster",
+                                "uid": "3NlXnkdXH"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1644616209456,
+                                "edit-time": 1644651301978,
+                                "string": "up to 40% less peak memory usage (during load)",
+                                "uid": "MwoCS7ODb"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1644616209456,
+                                "edit-time": 1644651301978,
+                                "string": "up to 20% reduction in idle memory usage (after app loads)",
+                                "uid": "IOxVEmE9D"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1644616209456,
+                                "edit-time": 1644651301978,
+                                "string": "up to 33% reduction in used disk space",
+                                "uid": "_ehTR9e3l"
+                              }
+                            ],
+                            "create-time": 1644651272478,
+                            "edit-time": 1644651301978,
+                            "string": "Loading from Indexeddb (local)",
+                            "uid": "DVZy5Uett"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1644651487047,
+                            "edit-time": 1644651506889,
+                            "string": "https://www.loom.com/share/824de8dbd66c40e591eac1404e66198e",
+                            "uid": "mC0e2fBkh"
+                          }
+                        ],
+                        "create-time": 1644651372851,
+                        "edit-time": 1644651381079,
+                        "refs": [
+                          {
+                            "uid": "NJQwgIgcT"
+                          }
+                        ],
+                        "string": "[[Technical Details]]",
+                        "uid": "M-PochScT"
+                      }
+                    ],
+                    "create-time": 1644651167884,
+                    "edit-time": 1644651668910,
+                    "refs": [
+                      {
+                        "uid": "fl5hlmHWj"
+                      }
+                    ],
+                    "string": "Initial load memory and performance updates, related to ((fl5hlmHWj))",
+                    "uid": "zJnjUKvUC"
+                  }
+                ],
+                "create-time": 1644651164838,
+                "edit-time": 1644651167903,
+                "refs": [
+                  {
+                    "uid": "02-12-2022"
+                  }
+                ],
+                "string": "[[February 12th, 2022]]",
+                "uid": "ggtCfxcy9"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "02-11-2022"
                   }
                 ],
@@ -78599,10 +78837,28 @@
     "uid": "N3Uq-2dil"
   },
   {
-    ":log/id": 1644646919087,
-    "create-time": 1644646919089,
-    "edit-time": 1644646919089,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1644651156101,
+    "create-time": 1644651156102,
+    "edit-time": 1644651156102,
     "title": "February 12th, 2022",
     "uid": "02-12-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1644651381082,
+    "edit-time": 1644651381082,
+    "title": "Technical Details",
+    "uid": "NJQwgIgcT"
   }
 ]

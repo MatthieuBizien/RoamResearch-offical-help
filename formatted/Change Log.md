@@ -2,6 +2,21 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [February 12th, 2022](<February 12th, 2022.md>)
+            - Initial load memory and performance updates, related to Preparation work for graph load / memory improvements (stay tuned)
+                - You may experience a longer load time on while your graph upgrades, you should see a message like this
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FlgY6E66Azc.png?alt=media&token=99a2a6c2-1fd2-4dc5-a6a9-53a1bc45fb53)
+                - [Technical Details](<Technical Details.md>)
+                    - Loading from Roam's servers
+                        - up to 50% faster
+                        - up to 66% less peak memory usage (during load)
+                        - up to 20% reduction in idle memory usage (after app loads)
+                    - Loading from Indexeddb (local)
+                        - up to 16% faster
+                        - up to 40% less peak memory usage (during load)
+                        - up to 20% reduction in idle memory usage (after app loads)
+                        - up to 33% reduction in used disk space
+                    - https://www.loom.com/share/824de8dbd66c40e591eac1404e66198e
         - [February 11th, 2022](<February 11th, 2022.md>)
             - Fix having to double click to edit text on [iOS](<iOS.md>) [Safari](<Safari.md>)
                 - Before
