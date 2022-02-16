@@ -2,6 +2,13 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [February 16th, 2022](<February 16th, 2022.md>)
+            - Apple Silicon (M1) [Desktop App](<Desktop App.md>)
+                - Do you need to install the new App?
+                    - First [check if you are using a new M1 Mac](https://www.howtogeek.com/706226/how-to-check-if-your-mac-is-using-an-intel-or-apple-silicon-processor/)
+                    - If you are using an M1 Mac, then you should install the new app
+                        - It will be much faster than the old one
+                - See [our migration guide](((luVUlB7o8))) for how to migrate from our old (intel) desktop app to the new (Apple Silicon) one
         - [February 12th, 2022](<February 12th, 2022.md>)
             - Initial load memory and performance updates, related to Preparation work for graph load / memory improvements (stay tuned)
                 - You may experience a longer load time on while your graph upgrades, you should see a message like this

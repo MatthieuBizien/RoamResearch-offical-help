@@ -19136,6 +19136,278 @@
             "heading": 3,
             "string": "**How do I send console logs for debugging?**",
             "uid": "aqG84Trl1"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "hyL5OPFah"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1645043940960,
+                                "edit-time": 1645044382955,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2F3brain%2Fn7vz78ERUw.57.25.gif?alt=media&token=3f07309d-3754-4b8f-89b4-2a6055e04c78)",
+                                "uid": "HGOPPLERc"
+                              }
+                            ],
+                            "create-time": 1645043940960,
+                            "edit-time": 1645044382955,
+                            "string": "Open the local graph you want to export.  Click on 'export all' within the three dot menu.  Select EDN format for export. ",
+                            "uid": "SA3BBhUBg"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1645043940960,
+                            "edit-time": 1645044382955,
+                            "string": "Repeat for every local graph.   ",
+                            "uid": "Ck6BRfgX6"
+                          }
+                        ],
+                        "create-time": 1645043940960,
+                        "edit-time": 1645044382955,
+                        "string": "Process to export: ",
+                        "uid": "VG7TqDHL4"
+                      }
+                    ],
+                    "create-time": 1645043940960,
+                    "edit-time": 1645044382955,
+                    "string": "Export EDN backup of all local graphs in current desktop app before starting.",
+                    "uid": "MAk3xaTDj"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1645043940960,
+                            "edit-time": 1645044382955,
+                            "string": "and enter `~/Library/Application Support/Roam Research`",
+                            "uid": "115gcqoOn"
+                          }
+                        ],
+                        "create-time": 1645043940960,
+                        "edit-time": 1645044382955,
+                        "string": "To find this folder- Go to finder then type `cmd shift g`",
+                        "uid": "tfRdsIKHa"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1645043940960,
+                        "edit-time": 1645044382955,
+                        "string": "Then copy folder named `local-graph-uploads` to somewhere else (documents)",
+                        "uid": "5EYJ40TVS"
+                      }
+                    ],
+                    "create-time": 1645043940960,
+                    "edit-time": 1645044382955,
+                    "string": "Backup of local-graph-uploads",
+                    "uid": "v3jssZUyv"
+                  }
+                ],
+                "create-time": 1645043940960,
+                "edit-time": 1645044382955,
+                "string": "Before installing new M1 desktop app, if you have local graphs follow the following steps as a precaution: ",
+                "uid": "PstAKJErI"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1645043940960,
+                "edit-time": 1645044382955,
+                "string": "Uninstall Intel Roam Version",
+                "uid": "r_HdekFuc"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1645043940960,
+                        "edit-time": 1645044382955,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2F3brain%2F9-ddIojZz6.39.34.png?alt=media&token=cba332cd-6892-457f-894e-f8ffc11e821b)",
+                        "uid": "_PYYes1_o"
+                      }
+                    ],
+                    "create-time": 1645043940960,
+                    "edit-time": 1645044382955,
+                    "string": "Download new M1 version from www.roamresearch.com ",
+                    "text-align": "left",
+                    "uid": "n-bxorGsm"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1645043940960,
+                    "edit-time": 1645044382955,
+                    "string": "Unzip, double click to install.  Save to application folder",
+                    "uid": "rVB7we1cB"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1645043940960,
+                        "edit-time": 1645044382955,
+                        "string": "If you have any issues write to support@roamresearch.com.  ",
+                        "uid": "X2pEXeU-O"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1645043940960,
+                        "edit-time": 1645044382955,
+                        "string": "Don't panic, your data is safe, this is why we had you create a backup",
+                        "uid": "nib8QaFKp"
+                      }
+                    ],
+                    "create-time": 1645043940960,
+                    "edit-time": 1645044382955,
+                    "string": "If you have local graphs, check they are all there and that they work.  ",
+                    "uid": "3BRdLB392"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1645043940960,
+                    "edit-time": 1645044382955,
+                    "string": "Enjoy m1 m8.",
+                    "uid": "1E7K2C7Te"
+                  }
+                ],
+                "create-time": 1645043940960,
+                "edit-time": 1645044382955,
+                "string": "Install M1 Roam Version ",
+                "uid": "yxcNNBTFe"
+              }
+            ],
+            "create-time": 1645044005803,
+            "edit-time": 1645044486775,
+            "heading": 3,
+            "refs": [
+              {
+                "uid": "hyL5OPFah"
+              }
+            ],
+            "string": "**How do I migrate from the Intel **[[Desktop App]]** to the Apple Silicon (M1) desktop app?**",
+            "uid": "luVUlB7o8"
           }
         ],
         "create-time": 1615441179245,
@@ -43706,6 +43978,128 @@
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "02-16-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "hyL5OPFah"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1645045945824,
+                            "edit-time": 1645045984814,
+                            "string": "First [check if you are using a new M1 Mac](https://www.howtogeek.com/706226/how-to-check-if-your-mac-is-using-an-intel-or-apple-silicon-processor/)",
+                            "uid": "bB-M97Oat"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1645046007127,
+                                "edit-time": 1645046588270,
+                                "string": "It will be much faster than the old one",
+                                "uid": "gld8txA_X"
+                              }
+                            ],
+                            "create-time": 1645045986759,
+                            "edit-time": 1645046600928,
+                            "string": "If you are using an M1 Mac, then you should install the new app",
+                            "uid": "jiYlAsp1b"
+                          }
+                        ],
+                        "create-time": 1645045702460,
+                        "edit-time": 1645046769047,
+                        "string": "Do you need to install the new App?",
+                        "uid": "ovUfI7FO2"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "luVUlB7o8"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1645044573030,
+                        "edit-time": 1645045700207,
+                        "refs": [
+                          {
+                            "uid": "luVUlB7o8"
+                          }
+                        ],
+                        "string": "See [our migration guide](((luVUlB7o8))) for how to migrate from our old (intel) desktop app to the new (Apple Silicon) one",
+                        "uid": "hqMAuDKpn"
+                      }
+                    ],
+                    "create-time": 1645044551986,
+                    "edit-time": 1645046065018,
+                    "refs": [
+                      {
+                        "uid": "hyL5OPFah"
+                      }
+                    ],
+                    "string": "Apple Silicon (M1) [[Desktop App]]",
+                    "uid": "M3395pyFz"
+                  }
+                ],
+                "create-time": 1645044548285,
+                "edit-time": 1645044551998,
+                "refs": [
+                  {
+                    "uid": "02-16-2022"
+                  }
+                ],
+                "string": "[[February 16th, 2022]]",
+                "uid": "vCE0EN4rm"
+              },
               {
                 ":block/refs": [
                   {
@@ -78875,10 +79269,28 @@
     "uid": "02-15-2022"
   },
   {
-    ":log/id": 1645042767164,
-    "create-time": 1645042767167,
-    "edit-time": 1645042767167,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1645044026348,
+    "create-time": 1645044026349,
+    "edit-time": 1645044026349,
     "title": "February 16th, 2022",
     "uid": "02-16-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1645044467831,
+    "edit-time": 1645044467831,
+    "title": "Desktop App",
+    "uid": "hyL5OPFah"
   }
 ]

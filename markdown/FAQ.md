@@ -351,3 +351,23 @@
         - Please include these files in your bug reports or in any support emails to help us help you!
         -  
             - Please refer to our [[Change Log]] for the newest updates. 
+    - ### **How do I migrate from the Intel **[[Desktop App]]** to the Apple Silicon (M1) desktop app?**
+        - Before installing new M1 desktop app, if you have local graphs follow the following steps as a precaution: 
+            - Export EDN backup of all local graphs in current desktop app before starting.
+                - Process to export: 
+                    - Open the local graph you want to export.  Click on 'export all' within the three dot menu.  Select EDN format for export. 
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2F3brain%2Fn7vz78ERUw.57.25.gif?alt=media&token=3f07309d-3754-4b8f-89b4-2a6055e04c78)
+                    - Repeat for every local graph.   
+            - Backup of local-graph-uploads
+                - To find this folder- Go to finder then type `cmd shift g`
+                    - and enter `~/Library/Application Support/Roam Research`
+                - Then copy folder named `local-graph-uploads` to somewhere else (documents)
+        - Uninstall Intel Roam Version
+        - Install M1 Roam Version 
+            - Download new M1 version from www.roamresearch.com 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2F3brain%2F9-ddIojZz6.39.34.png?alt=media&token=cba332cd-6892-457f-894e-f8ffc11e821b)
+            - Unzip, double click to install.  Save to application folder
+            - If you have local graphs, check they are all there and that they work.  
+                - If you have any issues write to support@roamresearch.com.  
+                - Don't panic, your data is safe, this is why we had you create a backup
+            - Enjoy m1 m8.
