@@ -79294,9 +79294,15 @@
     "uid": "hyL5OPFah"
   },
   {
-    ":log/id": 1645075039518,
-    "create-time": 1645075039520,
-    "edit-time": 1645075039520,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1645076933428,
+    "create-time": 1645076933430,
+    "edit-time": 1645076933430,
     "title": "February 17th, 2022",
     "uid": "02-17-2022"
   }
