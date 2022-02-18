@@ -79307,9 +79307,15 @@
     "uid": "02-17-2022"
   },
   {
-    ":log/id": 1645143287818,
-    "create-time": 1645143287820,
-    "edit-time": 1645143287820,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":log/id": 1645145093374,
+    "create-time": 1645145093375,
+    "edit-time": 1645145093375,
     "title": "February 18th, 2022",
     "uid": "02-18-2022"
   }
