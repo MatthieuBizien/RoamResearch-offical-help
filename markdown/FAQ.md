@@ -336,6 +336,7 @@
         - ﻿We follow industry best practices for encryption - same as Evernote and Notion - but we make an additional guarantee in our [[Privacy Policy]] to not ever read your notes without your permission.
         - If you want more thorough encryption, you can use the [[Encrypted Block]]. For more details on how we treat our users data, you can see our [[Privacy Policy]].
     - ### **Where do I find the newest feature updates and bug fixes?**
+        - Please check our [[Change Log]]
     - ### **How do I send console logs for debugging?**
         - If you ever run into a problem with Roam, your best bet is to first check [GitHub](https://github.com/Roam-Research/issues/issues) and see if other users have faced the same issue, and whether or not the issue has been solved yet. 
         - If no one has reported the issue you are seeing, please file a [bug report]([[Bug Report]]) by [clicking here and filling out this template](https://github.com/Roam-Research/issues/issues/new?assignees=&labels=bug&template=bug_report.md&title=).
@@ -349,8 +350,6 @@
         - ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001690887/original/DBwTyxlqHaqacKPPPt87h7wkecGHauJxIw.png?1597194940)
         - **Remember!** When you take a screenshot of your console logs, ^^look for the red errors (not orange warning)^^ in the console log, and ^^ignore sentry/amplitude warnings^^.
         - Please include these files in your bug reports or in any support emails to help us help you!
-        -  
-            - Please refer to our [[Change Log]] for the newest updates. 
     - ### **How do I migrate from the Intel **[[Desktop App]]** to the Apple Silicon (M1) desktop app?**
         - Before installing new M1 desktop app, if you have local graphs follow the following steps as a precaution: 
             - Export EDN backup of all local graphs in current desktop app before starting.

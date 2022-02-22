@@ -481,5 +481,5 @@ graph TD
 
 # Backlinks
 ## [FAQ](<FAQ.md>)
-- Please refer to our [Change Log](<Change Log.md>)
+- Please check our [Change Log](<Change Log.md>)
 

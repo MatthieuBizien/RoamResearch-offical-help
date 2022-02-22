@@ -18966,6 +18966,30 @@
             ":edit/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ec97klr7x"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                },
+                ":edit/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                },
+                "create-time": 1645505233332,
+                "edit-time": 1645505265601,
+                "refs": [
+                  {
+                    "uid": "Ec97klr7x"
+                  }
+                ],
+                "string": "Please check our [[Change Log]]",
+                "uid": "LRgKMotoB"
+              }
+            ],
             "create-time": 1616393405368,
             "edit-time": 1616558189796,
             "heading": 3,
@@ -19093,42 +19117,6 @@
                 "edit-time": 1616393412754,
                 "string": "Please include these files in your bug reports or in any support emails to help us help you!",
                 "uid": "1OHNc1_BD"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "children": [
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "Ec97klr7x"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1615440831802,
-                    "edit-time": 1621194565484,
-                    "refs": [
-                      {
-                        "uid": "Ec97klr7x"
-                      }
-                    ],
-                    "string": "Please refer to our [[Change Log]] for the newest updates. ",
-                    "uid": "gDSf8UirG"
-                  }
-                ],
-                "create-time": 1615440750370,
-                "edit-time": 1616393405374,
-                "string": " ",
-                "uid": "2xN2GH5S4"
               }
             ],
             "create-time": 1616393411122,
