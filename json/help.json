@@ -79371,9 +79371,15 @@
     "uid": "02-22-2022"
   },
   {
-    ":log/id": 1645675565859,
-    "create-time": 1645675565861,
-    "edit-time": 1645675565862,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1645675941444,
+    "create-time": 1645675941446,
+    "edit-time": 1645675941446,
     "title": "February 24th, 2022",
     "uid": "02-24-2022"
   }
