@@ -100,7 +100,7 @@
         - You can't change the name of graphs just yet. As a work around for now, you can create a new graph with your preferred name, export your notes from your old graph, and import them to your new graph. Follow these steps:
             - 1) [[Export]] your graph (click the top right '...' menu and then 'Export All' as EDN format)
             - 2) Create a new graph with the name you want (click your graph name in the top left and then 'Graphs and Settings' from the dropdown)
-            - 3) Once you are in your new graph, you can import your old graph (click the top right '...' menu and then 'Graph Settings') and then restore this graph, and upload your EDN file. This has then created an identical copy of your graph, with your new name.
+            - 3) Once you are in your new graph, click the top right '...' menu and then 'Settings' -> 'Graph' and then [restore this graph](((3A1t8yx-P))), by uploading your EDN file. This has then created an identical copy of your graph, with your new name.
     - ### **Does Roam have a mobile app? Can I install it on my machine?**
         - Not yet, however Roam is available now as a webapp which gives you full access to your Roam and functions in a similar way to an app available through the appstore.
         - Here's how to install Roam as a webapp on your **phone** or **tablet**:

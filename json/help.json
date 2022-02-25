@@ -15732,11 +15732,21 @@
                     "uid": "aDpjxCWn5"
                   },
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3A1t8yx-P"
+                      }
+                    ],
                     ":edit/user": {
                       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                     },
-                    "edit-time": 1615316383173,
-                    "string": "3) Once you are in your new graph, you can import your old graph (click the top right '...' menu and then 'Graph Settings') and then restore this graph, and upload your EDN file. This has then created an identical copy of your graph, with your new name.",
+                    "edit-time": 1645807828942,
+                    "refs": [
+                      {
+                        "uid": "3A1t8yx-P"
+                      }
+                    ],
+                    "string": "3) Once you are in your new graph, click the top right '...' menu and then 'Settings' -> 'Graph' and then [restore this graph](((3A1t8yx-P))), by uploading your EDN file. This has then created an identical copy of your graph, with your new name.",
                     "uid": "dGbtxfTFL"
                   }
                 ],
@@ -79384,9 +79394,9 @@
     "uid": "02-24-2022"
   },
   {
-    ":log/id": 1645805165531,
-    "create-time": 1645805165534,
-    "edit-time": 1645805165534,
+    ":log/id": 1645808776150,
+    "create-time": 1645808776152,
+    "edit-time": 1645808776153,
     "title": "February 25th, 2022",
     "uid": "02-25-2022"
   }
