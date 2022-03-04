@@ -44003,6 +44003,56 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "03-03-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1646362419640,
+                        "edit-time": 1646362437880,
+                        "string": "(was a CSS bug introduced some time ago)",
+                        "uid": "ZnzGgjugp"
+                      }
+                    ],
+                    "create-time": 1646362272099,
+                    "edit-time": 1646362719487,
+                    "string": "Fixes \"All Pages\" view so that all columns (Word Count, Mentions, Updated, etc) can be seen when searched",
+                    "uid": "xrDEVX1yR"
+                  }
+                ],
+                "create-time": 1646362264578,
+                "edit-time": 1646362272115,
+                "refs": [
+                  {
+                    "uid": "03-03-2022"
+                  }
+                ],
+                "string": "[[March 3rd, 2022]]",
+                "uid": "yqvPEiYn7"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "02-16-2022"
                   }
                 ],
@@ -79394,10 +79444,29 @@
     "uid": "02-24-2022"
   },
   {
-    ":log/id": 1646360845568,
-    "create-time": 1646360845570,
-    "edit-time": 1646360845570,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1646362251181,
+    "create-time": 1646362251182,
+    "edit-time": 1646362251182,
     "title": "March 4th, 2022",
     "uid": "03-04-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1646244900000,
+    "create-time": 1646362272116,
+    "edit-time": 1646362272117,
+    "title": "March 3rd, 2022",
+    "uid": "03-03-2022"
   }
 ]

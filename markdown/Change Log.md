@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[March 3rd, 2022]]
+            - Fixes "All Pages" view so that all columns (Word Count, Mentions, Updated, etc) can be seen when searched
+                - (was a CSS bug introduced some time ago)
         - [[February 16th, 2022]]
             - Apple Silicon (M1) [[Desktop App]]
                 - Do you need to install the new App?
