@@ -5765,48 +5765,14 @@
             ":edit/user": {
               ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
             },
-            "children": [
-              {
-                ":block/props": {
-                  ":iframe": {
-                    "https://www.roamtips.com/home/create-tables-roam-research": {
-                      ":size": {
-                        ":height": 500,
-                        ":width": 527
-                      }
-                    }
-                  }
-                },
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "create-time": 1614881938935,
-                "edit-time": 1614881992852,
-                "props": {
-                  "iframe": {
-                    "https://www.roamtips.com/home/create-tables-roam-research": {
-                      "size": {
-                        "height": 500,
-                        "width": 527
-                      }
-                    }
-                  }
-                },
-                "string": "{{iframe: https://www.roamtips.com/home/create-tables-roam-research}}",
-                "uid": "Fq5VeMq4N"
-              }
-            ],
             "create-time": 1614880094150,
-            "edit-time": 1629703813954,
+            "edit-time": 1646654556472,
             "refs": [
               {
                 "uid": "TF3K-ab5g"
               }
             ],
-            "string": "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ((edit table))",
+            "string": "[How to build a table in Roam Research](https://web.archive.org/web/20201109133038/https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ",
             "uid": "u1drldhl1"
           }
         ],
@@ -79470,9 +79436,9 @@
     "uid": "03-03-2022"
   },
   {
-    ":log/id": 1646644140098,
-    "create-time": 1646644140102,
-    "edit-time": 1646644140102,
+    ":log/id": 1646654817787,
+    "create-time": 1646654817789,
+    "edit-time": 1646654817790,
     "title": "March 7th, 2022",
     "uid": "03-07-2022"
   }

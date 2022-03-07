@@ -1,8 +1,7 @@
 - #.doc-mode
 - {{[table](<table.md>)}}
 - **[## Articles](<## Articles.md>):**
-    - [How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [Roam Tips and Hacks](<Roam Tips and Hacks.md>) ((edit table))
-        - {{iframe: https://www.roamtips.com/home/create-tables-roam-research}}
+    - [How to build a table in Roam Research](https://web.archive.org/web/20201109133038/https://www.roamtips.com/home/create-tables-roam-research) - [Roam Tips and Hacks](<Roam Tips and Hacks.md>) 
 - **[## Community Videos](<## Community Videos.md>):**
     - ### How to Set Goals Using Tables in Roam Research by [Shu Omi](<Shu Omi.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=CPk5RSnlpDA}}

@@ -1,8 +1,7 @@
 - #.doc-mode
 - {{[[table]]}}
 - ## Articles::
-    - [How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ((edit table))
-        - {{iframe: https://www.roamtips.com/home/create-tables-roam-research}}
+    - [How to build a table in Roam Research](https://web.archive.org/web/20201109133038/https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] 
 - ## Community Videos::
     - ### How to Set Goals Using Tables in Roam Research by [[Shu Omi]]
         - {{[[video]]: https://www.youtube.com/watch?v=CPk5RSnlpDA}}
