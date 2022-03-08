@@ -79436,9 +79436,22 @@
     "uid": "03-03-2022"
   },
   {
-    ":log/id": 1646708754616,
-    "create-time": 1646708754619,
-    "edit-time": 1646708754619,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1646715029605,
+    "create-time": 1646715029606,
+    "edit-time": 1646715029606,
+    "title": "March 7th, 2022",
+    "uid": "03-07-2022"
+  },
+  {
+    ":log/id": 1646715952196,
+    "create-time": 1646715952198,
+    "edit-time": 1646715952198,
     "title": "March 8th, 2022",
     "uid": "03-08-2022"
   }
