@@ -2,6 +2,10 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [March 8th, 2022](<March 8th, 2022.md>)
+            - [Code Block](<Code Block.md>)
+                - [Solidiity](<Solidiity.md>) syntax highlighting support
+                - Fixed issue with color picker showing on the `constructor` keyword
         - [March 3rd, 2022](<March 3rd, 2022.md>)
             - Fixes "All Pages" view so that all columns (Word Count, Mentions, Updated, etc) can be seen when searched
                 - (was a CSS bug introduced some time ago)
