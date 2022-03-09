@@ -79556,9 +79556,15 @@
     "uid": "PUyfkoCOS"
   },
   {
-    ":log/id": 1646795173301,
-    "create-time": 1646795173304,
-    "edit-time": 1646795173304,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1646796510198,
+    "create-time": 1646796510200,
+    "edit-time": 1646796510200,
     "title": "March 9th, 2022",
     "uid": "03-09-2022"
   }
