@@ -79569,9 +79569,31 @@
     "uid": "03-09-2022"
   },
   {
-    ":log/id": 1646921166613,
-    "create-time": 1646921166615,
-    "edit-time": 1646921166615,
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1646924778967,
+    "children": [
+      {
+        ":edit/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        },
+        "children": [
+          {
+            ":edit/user": {
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+            },
+            "edit-time": 1646923625180,
+            "string": "test 2 from TestFlight ",
+            "uid": "NCade3uZD"
+          }
+        ],
+        "edit-time": 1646923614369,
+        "string": "[[March 10th, 2022]] at 15:46",
+        "uid": "Lme9kEWGh"
+      }
+    ],
+    "edit-time": 1646924778970,
     "title": "March 10th, 2022",
     "uid": "03-10-2022"
   }
