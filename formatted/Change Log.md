@@ -2,6 +2,9 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [March 10th, 2022](<March 10th, 2022.md>)
+            - Performance improvement to opening pages with a large amount of mentions while the mentions are closed (~4x faster for a page with 6.1k mentions)
+                - Note that this does not improve the performance of actually opening the mentions
         - [March 8th, 2022](<March 8th, 2022.md>)
             - [Code Block](<Code Block.md>)
                 - [Solidiity](<Solidiity.md>) syntax highlighting support

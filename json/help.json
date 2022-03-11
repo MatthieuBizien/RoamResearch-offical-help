@@ -43969,6 +43969,56 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "03-10-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1646964245725,
+                        "edit-time": 1646964558061,
+                        "string": "Note that this does not improve the performance of actually opening the mentions",
+                        "uid": "FVVx4nMXS"
+                      }
+                    ],
+                    "create-time": 1646964023195,
+                    "edit-time": 1646964579080,
+                    "string": "Performance improvement to opening pages with a large amount of mentions while the mentions are closed (~4x faster for a page with 6.1k mentions)",
+                    "uid": "U6Z--WVW9"
+                  }
+                ],
+                "create-time": 1646964019301,
+                "edit-time": 1646964022129,
+                "refs": [
+                  {
+                    "uid": "03-10-2022"
+                  }
+                ],
+                "string": "[[March 10th, 2022]]",
+                "uid": "vC5fQA5UU"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "03-08-2022"
                   }
                 ],
@@ -79570,35 +79620,17 @@
   },
   {
     ":edit/user": {
-      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "children": [
-      {
-        ":edit/user": {
-          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-        },
-        "children": [
-          {
-            ":edit/user": {
-              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-            },
-            "edit-time": 1646923625180,
-            "string": "test 2 from TestFlight ",
-            "uid": "NCade3uZD"
-          }
-        ],
-        "edit-time": 1646923614369,
-        "string": "[[March 10th, 2022]] at 15:46",
-        "uid": "Lme9kEWGh"
-      }
-    ],
-    "edit-time": 1646923625699,
-    "title": "March 10th, 2022"
+    ":log/id": 1646963511287,
+    "edit-time": 1646963511288,
+    "title": "March 10th, 2022",
+    "uid": "03-10-2022"
   },
   {
-    ":log/id": 1646962378111,
-    "create-time": 1646962378112,
-    "edit-time": 1646962378112,
+    ":log/id": 1646965552529,
+    "create-time": 1646965552531,
+    "edit-time": 1646965552531,
     "title": "March 11th, 2022",
     "uid": "03-11-2022"
   }
