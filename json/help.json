@@ -79631,7 +79631,6 @@
     ":edit/user": {
       ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     },
-    ":log/id": 1647299177506,
     "children": [
       {
         ":edit/user": {
@@ -79760,8 +79759,14 @@
         "uid": "ek9fk67MG"
       }
     ],
-    "edit-time": 1647299177509,
-    "title": "March 14th, 2022",
-    "uid": "03-14-2022"
+    "edit-time": 1647260021024,
+    "title": "March 14th, 2022"
+  },
+  {
+    ":log/id": 1647307965308,
+    "create-time": 1647307965310,
+    "edit-time": 1647307965310,
+    "title": "March 15th, 2022",
+    "uid": "03-15-2022"
   }
 ]
