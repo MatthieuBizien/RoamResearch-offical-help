@@ -79763,10 +79763,16 @@
     "title": "March 14th, 2022"
   },
   {
-    ":log/id": 1647554750674,
-    "create-time": 1647554750676,
-    "edit-time": 1647554750676,
-    "title": "March 17th, 2022",
-    "uid": "03-17-2022"
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":log/id": 1647557562523,
+    "create-time": 1647557562524,
+    "edit-time": 1647557562524,
+    "title": "March 18th, 2022",
+    "uid": "03-18-2022"
   }
 ]
