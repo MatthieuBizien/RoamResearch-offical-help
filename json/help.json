@@ -79623,8 +79623,8 @@
       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":log/id": 1646963511287,
-    "create-time": 1648224351782,
-    "edit-time": 1648224351783,
+    "create-time": 1648231563136,
+    "edit-time": 1648231563139,
     "title": "March 10th, 2022",
     "uid": "03-10-2022"
   },
@@ -79831,8 +79831,8 @@
         "uid": "ek9fk67MG"
       }
     ],
-    "create-time": 1648224351782,
-    "edit-time": 1648224351783,
+    "create-time": 1648231563137,
+    "edit-time": 1648231563139,
     "title": "March 14th, 2022",
     "uid": "03-14-2022"
   },
@@ -79889,9 +79889,15 @@
     "uid": "03-24-2022"
   },
   {
-    ":log/id": 1648224351779,
-    "create-time": 1648224351804,
-    "edit-time": 1648224351804,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1648227337753,
+    "create-time": 1648227337754,
+    "edit-time": 1648227337754,
     "title": "March 25th, 2022",
     "uid": "03-25-2022"
   }
