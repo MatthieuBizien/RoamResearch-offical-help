@@ -43969,6 +43969,93 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "04-04-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1649101283339,
+                    "edit-time": 1649101325138,
+                    "string": "Added the ability to remove email-password login if you are also signed in with Google",
+                    "uid": "g3h0_VivB"
+                  }
+                ],
+                "create-time": 1649101281113,
+                "edit-time": 1649101283263,
+                "refs": [
+                  {
+                    "uid": "04-04-2022"
+                  }
+                ],
+                "string": "[[April 4th, 2022]]",
+                "uid": "mDqAOAHzL"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "04-03-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1649101450807,
+                        "edit-time": 1649101747650,
+                        "string": "The Roam mobile app is now available for download on the [iOS](https://apps.apple.com/us/app/roam-mobile/id1609277273) (iphone and ipad) and [android](https://play.google.com/store/apps/details?id=com.roamresearch.relemma&hl=en_US&gl=US) app stores",
+                        "uid": "nbALu393W"
+                      }
+                    ],
+                    "create-time": 1649101436422,
+                    "edit-time": 1649101467652,
+                    "heading": 1,
+                    "string": "**Mobile App**",
+                    "uid": "CIYBnElhl"
+                  }
+                ],
+                "create-time": 1649101687585,
+                "edit-time": 1649101690806,
+                "refs": [
+                  {
+                    "uid": "04-03-2022"
+                  }
+                ],
+                "string": "[[April 3rd, 2022]]",
+                "uid": "kbVtIHN3m"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "03-10-2022"
                   }
                 ],
@@ -79947,10 +80034,29 @@
     "uid": "03-31-2022"
   },
   {
-    ":log/id": 1649088373356,
-    "create-time": 1649088373362,
-    "edit-time": 1649088373362,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1649101274639,
+    "create-time": 1649101274640,
+    "edit-time": 1649101274640,
     "title": "April 4th, 2022",
     "uid": "04-04-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1649015290099,
+    "create-time": 1649101690120,
+    "edit-time": 1649101690120,
+    "title": "April 3rd, 2022",
+    "uid": "04-03-2022"
   }
 ]

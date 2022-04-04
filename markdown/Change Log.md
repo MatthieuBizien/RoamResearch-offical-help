@@ -2,6 +2,11 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[April 4th, 2022]]
+            - Added the ability to remove email-password login if you are also signed in with Google
+        - [[April 3rd, 2022]]
+            - # **Mobile App**
+                - The Roam mobile app is now available for download on the [iOS](https://apps.apple.com/us/app/roam-mobile/id1609277273) (iphone and ipad) and [android](https://play.google.com/store/apps/details?id=com.roamresearch.relemma&hl=en_US&gl=US) app stores
         - [[March 10th, 2022]]
             - Performance improvement to opening pages with a large amount of mentions while the mentions are closed (~4x faster for a page with 6.1k mentions)
                 - Note that this does not improve the performance of actually opening the mentions
