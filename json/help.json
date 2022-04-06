@@ -80060,10 +80060,23 @@
     "uid": "04-03-2022"
   },
   {
-    ":log/id": 1649196340220,
-    "create-time": 1649196340224,
-    "edit-time": 1649196340224,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1649200100115,
+    "create-time": 1649200100116,
+    "edit-time": 1649200100116,
     "title": "April 5th, 2022",
     "uid": "04-05-2022"
+  },
+  {
+    ":log/id": 1649221608025,
+    "create-time": 1649221608028,
+    "edit-time": 1649221608028,
+    "title": "April 6th, 2022",
+    "uid": "04-06-2022"
   }
 ]
