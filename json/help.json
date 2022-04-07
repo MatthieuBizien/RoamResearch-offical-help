@@ -63528,6 +63528,18 @@
                 ],
                 "string": "{{[[video]]: https://www.youtube.com/watch?v=bwpVWyOBjHw}}\n#[[Daily Notes]] | #[[Page References]] | #[[Formatting]] | #[[Graph Overview]] | #[[Right Sidebar]] | #[[Linked References]] | #[[Navigation]] | #[[Block References]] | #[[Block Embed]] ",
                 "uid": "H48mQzKeO"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                },
+                ":edit/user": {
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                },
+                "create-time": 1649334443651,
+                "edit-time": 1649334445761,
+                "string": "---",
+                "uid": "53DINw4T7"
               }
             ],
             "create-time": 1616476801872,
@@ -63535,6 +63547,112 @@
             "heading": 3,
             "string": "\u270f\ufe0fC\u00f3mo TOMAR NOTAS con ROAM RESEARCH & ZETTELKASTEN | Tutorial en espa\u00f1ol by [[Emowe Aprendizaje]]",
             "uid": "qKbnuXoVI"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "7dRcr8oM7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+            },
+            ":edit/user": {
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "3tEUErz0E"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                },
+                ":edit/user": {
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                },
+                "create-time": 1649334517745,
+                "edit-time": 1649334524795,
+                "refs": [
+                  {
+                    "uid": "3tEUErz0E"
+                  }
+                ],
+                "string": "#Courses",
+                "uid": "3EiDVwUPk"
+              }
+            ],
+            "create-time": 1649334372640,
+            "edit-time": 1649334501532,
+            "heading": 3,
+            "refs": [
+              {
+                "uid": "7dRcr8oM7"
+              }
+            ],
+            "string": "[Curso Roamresearch \"Beta\"](https://www.youtube.com/playlist?list=PL2CI0VRuaLWcDOU6RQLVJQb6lwW4QRqAN) | by [[Jorge Arone]]",
+            "uid": "MWvxfIcLH"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+            },
+            ":edit/user": {
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+            },
+            "create-time": 1649334426875,
+            "edit-time": 1649334463271,
+            "string": "---",
+            "uid": "jhe7bY-N0"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "7dRcr8oM7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+            },
+            ":edit/user": {
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "3tEUErz0E"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                },
+                ":edit/user": {
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                },
+                "create-time": 1649334534822,
+                "edit-time": 1649334541374,
+                "refs": [
+                  {
+                    "uid": "3tEUErz0E"
+                  }
+                ],
+                "string": "#Courses",
+                "uid": "0Y5bbtHPK"
+              }
+            ],
+            "create-time": 1649334463266,
+            "edit-time": 1649334476364,
+            "heading": 3,
+            "refs": [
+              {
+                "uid": "7dRcr8oM7"
+              }
+            ],
+            "string": "[Curso Roamresearch \"Avanzado\"](https://www.youtube.com/playlist?list=PL2CI0VRuaLWchGZi3KZOwvwqPNDGBicXP) | by [[Jorge Arone]]",
+            "uid": "6D_ItUjI7"
           }
         ],
         "create-time": 1616476807848,
@@ -80073,9 +80191,21 @@
     "uid": "04-05-2022"
   },
   {
-    ":log/id": 1649325965606,
-    "create-time": 1649325965609,
-    "edit-time": 1649325965609,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    "create-time": 1649334426883,
+    "edit-time": 1649334426885,
+    "title": "Jorge Arone",
+    "uid": "7dRcr8oM7"
+  },
+  {
+    ":log/id": 1649343961456,
+    "create-time": 1649343961458,
+    "edit-time": 1649343961458,
     "title": "April 7th, 2022",
     "uid": "04-07-2022"
   }
