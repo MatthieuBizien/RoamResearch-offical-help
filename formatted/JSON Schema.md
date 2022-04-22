@@ -52,7 +52,8 @@
         - **[type](<type.md>):** string, "left" | "center" | "right" | "justify"
             - By default is left (as determined by the browser defaults)
 - **Example**
-    - ```[{:title        "December 10th 2018"
+    - ```javascript
+[{:title        "December 10th 2018"
   :create-email "josh@roamresearch.com"
   :create-time  1576025237000
   :children     [{:string   "[Meeting](<Meeting.md>) with [Tim](<Tim.md>)"

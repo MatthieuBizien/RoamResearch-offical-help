@@ -58599,11 +58599,11 @@
               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
             },
             "create-time": 1575939049028,
-            "edit-time": 1614783006310,
-            "string": "```[{:title        \"December 10th 2018\"\n  :create-email \"josh@roamresearch.com\"\n  :create-time  1576025237000\n  :children     [{:string   \"[[Meeting]] with [[Tim]]\"\n                  :children [{:string \"Meeting went well\"}]}\n                 {:string \"[[Call]] with [[John]]\"}]}\n {:title    \"December 11th 2018\"}]```",
+            "edit-time": 1650632327915,
+            "string": "```javascript\n[{:title        \"December 10th 2018\"\n  :create-email \"josh@roamresearch.com\"\n  :create-time  1576025237000\n  :children     [{:string   \"[[Meeting]] with [[Tim]]\"\n                  :children [{:string \"Meeting went well\"}]}\n                 {:string \"[[Call]] with [[John]]\"}]}\n {:title    \"December 11th 2018\"}]```",
             "uid": "nmiQLQW3J"
           },
           {
@@ -80213,9 +80213,9 @@
     "uid": "7dRcr8oM7"
   },
   {
-    ":log/id": 1650629257415,
-    "create-time": 1650629257419,
-    "edit-time": 1650629257419,
+    ":log/id": 1650633386975,
+    "create-time": 1650633386977,
+    "edit-time": 1650633386977,
     "title": "April 22nd, 2022",
     "uid": "04-22-2022"
   }
