@@ -6,10 +6,23 @@ This repository is automatically synchronized with the RoamResearch Help Databas
 
 You can use it to see what's new in Roam :)
 
-The directories are:
-- markdown/ for the raw markdown export of Roam
-- json/ for the raw json export of Roam
-- formatted for a cool formatting with backlinks
+## Directories
+
+<br>
+
+[`/markdown/`]
+
+  Raw `markdown` export of **Roam**.
+
+[`/json/`]
+
+  Raw `json` export of **Roam**.
+
+[`/formatted/`]
+
+  Cool formatting with backlinks.
+
+<br>
 
 Examples::
 - [All mentions of Conor White-Sullivan][Conor]
@@ -29,3 +42,7 @@ Examples::
 [Mentions]: formatted/Block%20Mentions.md
 [Conor]: formatted/Conor%20White-Sullivan.md
 [EDN]: edn
+
+[`/formatted/`]: formatted
+[`/markdown/`]: markdown
+[`/json/`]: json
