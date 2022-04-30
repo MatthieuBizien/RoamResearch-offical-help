@@ -1,10 +1,19 @@
 
-![Badge Workflow]
-
-
 # [RoamResearch Help Database]
 
 *Unofficial backup of the official database*
+
+<br>
+
+---
+
+<div align = center>
+
+![Badge Workflow]
+  
+</div>
+
+---
 
 <br>
 
