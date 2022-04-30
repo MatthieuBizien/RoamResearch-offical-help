@@ -1,10 +1,20 @@
-# Unofficial backup of the official [RoamResearch Help Database]
 
 ![Badge Workflow]
 
-This repository is automatically synchronized with the RoamResearch Help Database using [roam-to-git].
+
+# [RoamResearch Help Database]
+
+*Unofficial backup of the official database*
+
+<br>
+
+This repository is automatically synchronized with the <br>
+**RoamResearch Help Database** using [roam-to-git].
 
 You can use it to see what's new in Roam :)
+
+<br>
+<br>
 
 ## Directories
 
@@ -23,11 +33,16 @@ You can use it to see what's new in Roam :)
   Cool formatting with backlinks.
 
 <br>
+<br>
 
-Examples::
+## Examples
+
 - [All mentions of Conor White-Sullivan][Conor]
+
 - [All mentions of Design Challenges][Challenges]
+
 - [All mentions of Block Mentions][Mentions]
+
 - [The full EDN of the help database][EDN]
 
 
