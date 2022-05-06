@@ -1,6 +1,6 @@
 - #.doc-mode
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
-    - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)iFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
+    - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
         - [April 4th, 2022](<April 4th, 2022.md>)
             - Added the ability to remove email-password login if you are also signed in with Google

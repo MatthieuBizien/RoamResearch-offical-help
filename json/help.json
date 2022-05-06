@@ -43947,25 +43947,15 @@
             "uid": "SuFLMZnDt"
           },
           {
-            ":block/refs": [
-              {
-                ":block/uid": "kiQayH2o4"
-              }
-            ],
             ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             ":edit/user": {
-              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
             },
             "create-time": 1614802850362,
-            "edit-time": 1649663819520,
-            "refs": [
-              {
-                "uid": "kiQayH2o4"
-              }
-            ],
-            "string": "[Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)((kiQayH2o4))",
+            "edit-time": 1651852339729,
+            "string": "[Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)",
             "uid": "n4MQraKIM"
           },
           {
@@ -80213,9 +80203,15 @@
     "uid": "7dRcr8oM7"
   },
   {
-    ":log/id": 1651842939728,
-    "create-time": 1651842939730,
-    "edit-time": 1651842939731,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1651852350358,
+    "create-time": 1651852350358,
+    "edit-time": 1651852350358,
     "title": "May 6th, 2022",
     "uid": "05-06-2022"
   }
