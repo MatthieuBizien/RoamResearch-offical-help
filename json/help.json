@@ -43969,6 +43969,42 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "05-09-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1652121403180,
+                    "edit-time": 1652121424149,
+                    "string": "Fixed mobile quick capture page auto complete results",
+                    "uid": "eG3g__b2-"
+                  }
+                ],
+                "create-time": 1652121396840,
+                "edit-time": 1652121403201,
+                "refs": [
+                  {
+                    "uid": "05-09-2022"
+                  }
+                ],
+                "string": "[[May 9th, 2022]]",
+                "uid": "kCIz5Hgs1"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "04-04-2022"
                   }
                 ],
@@ -80216,9 +80252,15 @@
     "uid": "05-06-2022"
   },
   {
-    ":log/id": 1652116284579,
-    "create-time": 1652116284582,
-    "edit-time": 1652116284591,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1652121390992,
+    "create-time": 1652121390993,
+    "edit-time": 1652121390993,
     "title": "May 9th, 2022",
     "uid": "05-09-2022"
   }
