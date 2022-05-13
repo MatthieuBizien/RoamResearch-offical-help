@@ -80265,9 +80265,29 @@
     "uid": "05-09-2022"
   },
   {
-    ":log/id": 1652443752947,
-    "create-time": 1652443752949,
-    "edit-time": 1652443752949,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1652452488525,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        },
+        ":edit/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        },
+        "create-time": 1652452607998,
+        "edit-time": 1652452607998,
+        "string": "",
+        "uid": "-Lej4Bj4k"
+      }
+    ],
+    "create-time": 1652452488526,
+    "edit-time": 1652452488526,
     "title": "May 13th, 2022",
     "uid": "05-13-2022"
   }
