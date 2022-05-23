@@ -2,8 +2,10 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[May 23rd, 2022]]
+            - Fix [[mobile]] quick capture crashing when displaying old quick captures
         - [[May 9th, 2022]]
-            - Fixed mobile quick capture page auto complete results
+            - Fixed [[mobile]] quick capture page auto complete results
         - [[April 4th, 2022]]
             - Added the ability to remove email-password login if you are also signed in with Google
         - [[April 3rd, 2022]]

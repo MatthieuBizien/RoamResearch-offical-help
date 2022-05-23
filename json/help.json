@@ -43969,6 +43969,52 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "05-23-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1653334412658,
+                    "edit-time": 1653334486207,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "Fix [[mobile]] quick capture crashing when displaying old quick captures",
+                    "uid": "-mTsjOhWj"
+                  }
+                ],
+                "create-time": 1653334410280,
+                "edit-time": 1653334412679,
+                "refs": [
+                  {
+                    "uid": "05-23-2022"
+                  }
+                ],
+                "string": "[[May 23rd, 2022]]",
+                "uid": "6WbXFbIay"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "05-09-2022"
                   }
                 ],
@@ -43980,6 +44026,11 @@
                 },
                 "children": [
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
@@ -43987,8 +44038,13 @@
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
                     "create-time": 1652121403180,
-                    "edit-time": 1652121424149,
-                    "string": "Fixed mobile quick capture page auto complete results",
+                    "edit-time": 1653334511907,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "Fixed [[mobile]] quick capture page auto complete results",
                     "uid": "eG3g__b2-"
                   }
                 ],
@@ -80292,9 +80348,15 @@
     "uid": "05-13-2022"
   },
   {
-    ":log/id": 1653332729387,
-    "create-time": 1653332729390,
-    "edit-time": 1653332729390,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1653334075639,
+    "create-time": 1653334075640,
+    "edit-time": 1653334075640,
     "title": "May 23rd, 2022",
     "uid": "05-23-2022"
   }
