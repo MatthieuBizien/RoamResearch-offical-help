@@ -2,6 +2,15 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [May 25th, 2022](<May 25th, 2022.md>)
+            - Fix the parsing of bold in italics and italics in bold (and highlight and strikethrough). It no longer matters what order you put them in.
+                - **[Examples](<Examples.md>):**
+                    - `**__^^bih^^__**`: **__^^bih^^__**
+                    - `__**^^ibh^^**__`: __**^^ibh^^**__
+                    - `**^^__bhi__^^**`: **^^__bhi__^^**
+                    - `__**^^ibh^^**__`: __**^^ibh^^**__
+                    - `^^**__hbi__**^^`: ^^**__hbi__**^^
+                    - `**__^^bih^^__**`: **__^^bih^^__**
         - [May 23rd, 2022](<May 23rd, 2022.md>)
             - Fix [mobile](<mobile.md>) quick capture crashing when displaying old quick captures
         - [May 9th, 2022](<May 9th, 2022.md>)

@@ -43969,6 +43969,140 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "05-25-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "-77Q9kDnv"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653347999464,
+                            "edit-time": 1653493203381,
+                            "string": "`**__^^bih^^__**`: **__^^bih^^__**",
+                            "uid": "FoRLo2IJ3"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348004984,
+                            "edit-time": 1653493203381,
+                            "string": "`__**^^ibh^^**__`: __**^^ibh^^**__",
+                            "uid": "NvQv9gIWV"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348009560,
+                            "edit-time": 1653493203381,
+                            "string": "`**^^__bhi__^^**`: **^^__bhi__^^**",
+                            "uid": "VNJ4yZdVq"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348045231,
+                            "edit-time": 1653493203381,
+                            "string": "`__**^^ibh^^**__`: __**^^ibh^^**__",
+                            "uid": "KWVlpf7G-"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348020421,
+                            "edit-time": 1653493203381,
+                            "string": "`^^**__hbi__**^^`: ^^**__hbi__**^^",
+                            "uid": "6iemcUI0_"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348127536,
+                            "edit-time": 1653493203381,
+                            "string": "`**__^^bih^^__**`: **__^^bih^^__**",
+                            "uid": "roO3zkvjn"
+                          }
+                        ],
+                        "create-time": 1653493198001,
+                        "edit-time": 1653493202474,
+                        "refs": [
+                          {
+                            "uid": "-77Q9kDnv"
+                          }
+                        ],
+                        "string": "Examples::",
+                        "uid": "7t9Z_2DCk"
+                      }
+                    ],
+                    "create-time": 1653493104053,
+                    "edit-time": 1653493198007,
+                    "string": "Fix the parsing of bold in italics and italics in bold (and highlight and strikethrough). It no longer matters what order you put them in.",
+                    "uid": "nQ4TnZxud"
+                  }
+                ],
+                "create-time": 1653493101821,
+                "edit-time": 1653493104065,
+                "refs": [
+                  {
+                    "uid": "05-25-2022"
+                  }
+                ],
+                "string": "[[May 25th, 2022]]",
+                "uid": "RgECHSrOz"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "05-23-2022"
                   }
                 ],
