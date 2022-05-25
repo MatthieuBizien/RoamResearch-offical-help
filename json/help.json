@@ -80361,9 +80361,15 @@
     "uid": "05-23-2022"
   },
   {
-    ":log/id": 1653438231326,
-    "create-time": 1653438231327,
-    "edit-time": 1653438231328,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":log/id": 1653441433553,
+    "create-time": 1653441433554,
+    "edit-time": 1653441433554,
     "title": "May 25th, 2022",
     "uid": "05-25-2022"
   }
