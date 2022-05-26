@@ -11,6 +11,7 @@
                     - `__**^^ibh^^**__`: __**^^ibh^^**__
                     - `^^**__hbi__**^^`: ^^**__hbi__**^^
                     - `**__^^bih^^__**`: **__^^bih^^__**
+            - Small improvement to all pages search ((Longer debounce time and normalize the search value))
         - [[May 23rd, 2022]]
             - Fix [[mobile]] quick capture crashing when displaying old quick captures
         - [[May 9th, 2022]]

@@ -44088,6 +44088,18 @@
                     "edit-time": 1653493198007,
                     "string": "Fix the parsing of bold in italics and italics in bold (and highlight and strikethrough). It no longer matters what order you put them in.",
                     "uid": "nQ4TnZxud"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1653508267382,
+                    "edit-time": 1653509326707,
+                    "string": "Small improvement to all pages search ((Longer debounce time and normalize the search value))",
+                    "uid": "3bXO4E1fY"
                   }
                 ],
                 "create-time": 1653493101821,
@@ -80506,5 +80518,12 @@
     "edit-time": 1653441433554,
     "title": "May 25th, 2022",
     "uid": "05-25-2022"
+  },
+  {
+    ":log/id": 1653524508818,
+    "create-time": 1653524508822,
+    "edit-time": 1653524508822,
+    "title": "May 26th, 2022",
+    "uid": "05-26-2022"
   }
 ]
