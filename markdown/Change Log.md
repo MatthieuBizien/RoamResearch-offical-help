@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[June 2nd, 2022]]
+            - Fix bug with changing the code block language
+                - introduced by [parsing change](((nQ4TnZxud)))
         - [[May 25th, 2022]]
             - Fix the parsing of bold in italics and italics in bold (and highlight and strikethrough). It no longer matters what order you put them in.
                 - Examples::

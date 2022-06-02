@@ -43969,6 +43969,66 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-02-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "nQ4TnZxud"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1654185390765,
+                        "edit-time": 1654185581612,
+                        "refs": [
+                          {
+                            "uid": "nQ4TnZxud"
+                          }
+                        ],
+                        "string": "introduced by [parsing change](((nQ4TnZxud)))",
+                        "uid": "x8vOEWaqw"
+                      }
+                    ],
+                    "create-time": 1654185581610,
+                    "edit-time": 1654185624384,
+                    "string": "Fix bug with changing the code block language",
+                    "uid": "3XkUpjpkP"
+                  }
+                ],
+                "create-time": 1654185387178,
+                "edit-time": 1654185390782,
+                "refs": [
+                  {
+                    "uid": "06-02-2022"
+                  }
+                ],
+                "string": "[[June 2nd, 2022]]",
+                "uid": "EMjtFLri_"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "05-25-2022"
                   }
                 ],
@@ -80520,9 +80580,15 @@
     "uid": "05-25-2022"
   },
   {
-    ":log/id": 1654182512607,
-    "create-time": 1654182512626,
-    "edit-time": 1654182512627,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654185381844,
+    "create-time": 1654185381845,
+    "edit-time": 1654185381845,
     "title": "June 2nd, 2022",
     "uid": "06-02-2022"
   }
