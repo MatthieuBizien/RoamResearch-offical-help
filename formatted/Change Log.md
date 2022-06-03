@@ -5,6 +5,8 @@
         - [June 2nd, 2022](<June 2nd, 2022.md>)
             - Fix bug with changing the code block language
                 - introduced by [parsing change](((nQ4TnZxud)))
+            - Keep original block first in ordering of inline refs
+            - Password reset emails now use app.roamresearch.com
         - [May 25th, 2022](<May 25th, 2022.md>)
             - Fix the parsing of bold in italics and italics in bold (and highlight and strikethrough). It no longer matters what order you put them in.
                 - **[Examples](<Examples.md>):**
