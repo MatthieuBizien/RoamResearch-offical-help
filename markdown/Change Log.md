@@ -2,8 +2,11 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[June 3rd, 2022]]
+            - Fixed bug with namespaces not showing correctly
+                - introduced yesterday in Fixed bug with changing the code block language
         - [[June 2nd, 2022]]
-            - Fix bug with changing the code block language
+            - Fixed bug with changing the code block language
                 - introduced by [parsing change](((nQ4TnZxud)))
             - Keep original block first in ordering of inline refs
             - Password reset emails now use app.roamresearch.com

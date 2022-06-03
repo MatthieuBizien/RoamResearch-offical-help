@@ -43969,6 +43969,66 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-03-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "3XkUpjpkP"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1654285838449,
+                        "edit-time": 1654285846847,
+                        "refs": [
+                          {
+                            "uid": "3XkUpjpkP"
+                          }
+                        ],
+                        "string": "introduced yesterday in ((3XkUpjpkP))",
+                        "uid": "25QOhn57B"
+                      }
+                    ],
+                    "create-time": 1654285829106,
+                    "edit-time": 1654285859537,
+                    "string": "Fixed bug with namespaces not showing correctly",
+                    "uid": "7XB4uaEQE"
+                  }
+                ],
+                "create-time": 1654285824347,
+                "edit-time": 1654285829025,
+                "refs": [
+                  {
+                    "uid": "06-03-2022"
+                  }
+                ],
+                "string": "[[June 3rd, 2022]]",
+                "uid": "Uiq69w1UK"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-02-2022"
                   }
                 ],
@@ -44011,8 +44071,8 @@
                       }
                     ],
                     "create-time": 1654185581610,
-                    "edit-time": 1654185624384,
-                    "string": "Fix bug with changing the code block language",
+                    "edit-time": 1654285860721,
+                    "string": "Fixed bug with changing the code block language",
                     "uid": "3XkUpjpkP"
                   },
                   {
@@ -80617,9 +80677,15 @@
     "uid": "06-02-2022"
   },
   {
-    ":log/id": 1654283135860,
-    "create-time": 1654283135862,
-    "edit-time": 1654283135862,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654285749595,
+    "create-time": 1654285749596,
+    "edit-time": 1654285749596,
     "title": "June 3rd, 2022",
     "uid": "06-03-2022"
   }
