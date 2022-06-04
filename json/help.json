@@ -80690,9 +80690,15 @@
     "uid": "06-03-2022"
   },
   {
-    ":log/id": 1654348139891,
-    "create-time": 1654348139894,
-    "edit-time": 1654348139894,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654352409391,
+    "create-time": 1654352409392,
+    "edit-time": 1654352409392,
     "title": "June 4th, 2022",
     "uid": "06-04-2022"
   }
