@@ -43969,6 +43969,84 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-06-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1654545771129,
+                    "edit-time": 1654545781176,
+                    "string": "Sign in with Apple",
+                    "uid": "g9LIxHUfM"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c": {
+                              ":height": null,
+                              ":width": 261
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1654546214496,
+                        "edit-time": 1654546217769,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c": {
+                              "height": null,
+                              "width": 261
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c)",
+                        "uid": "XELvWThwy"
+                      }
+                    ],
+                    "create-time": 1654545965011,
+                    "edit-time": 1654546214504,
+                    "string": "Report this page for public graphs",
+                    "uid": "pBCrm6opY"
+                  }
+                ],
+                "create-time": 1654545769443,
+                "edit-time": 1654545771150,
+                "refs": [
+                  {
+                    "uid": "06-06-2022"
+                  }
+                ],
+                "string": "[[June 6th, 2022]]",
+                "uid": "g2fY6lQda"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-03-2022"
                   }
                 ],
@@ -80716,9 +80794,15 @@
     "uid": "06-05-2022"
   },
   {
-    ":log/id": 1654535294412,
-    "create-time": 1654535294426,
-    "edit-time": 1654535294426,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654545615073,
+    "create-time": 1654545615074,
+    "edit-time": 1654545615074,
     "title": "June 6th, 2022",
     "uid": "06-06-2022"
   }

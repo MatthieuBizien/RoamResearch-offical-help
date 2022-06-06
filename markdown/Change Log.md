@@ -2,6 +2,10 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[June 6th, 2022]]
+            - Sign in with Apple
+            - Report this page for public graphs
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c)
         - [[June 3rd, 2022]]
             - Fixed bug with namespaces not showing correctly
                 - introduced yesterday in Fixed bug with changing the code block language
