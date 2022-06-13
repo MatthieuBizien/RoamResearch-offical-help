@@ -43969,6 +43969,180 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-12-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "hyL5OPFah"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1655106439276,
+                        "edit-time": 1655106469423,
+                        "string": "Deep links that allow one to directly navigate to a graph/page/block in the desktop app",
+                        "uid": "gXFY_M2Wf"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1655106473112,
+                            "edit-time": 1655106481110,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://www.loom.com/share/fb5095868df041a597712b7403c87ed4}}",
+                            "uid": "aelHviuWo"
+                          }
+                        ],
+                        "create-time": 1655106469418,
+                        "edit-time": 1655106648270,
+                        "string": "Demo video (showing some convenient usage tricks too)",
+                        "uid": "DOrMuRNZ7"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1655106573489,
+                                "edit-time": 1655106596068,
+                                "string": "instead of `https://roamresearch.com/` we have `roam://`",
+                                "uid": "Yaml9H8C7"
+                              }
+                            ],
+                            "create-time": 1655106493264,
+                            "edit-time": 1655106508593,
+                            "string": "Similar format to normal Roam web links",
+                            "uid": "0jgZTwcgg"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1655106518069,
+                                "edit-time": 1655106601277,
+                                "string": "Roam web link: `https://roamresearch.com/#/app/help/page/hyL5OPFah`",
+                                "uid": "nvUym4kUc"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1655106529667,
+                                "edit-time": 1655106563332,
+                                "string": "Desktop app link: `roam://#/app/help/page/hyL5OPFah`",
+                                "uid": "UR3-USrS2"
+                              }
+                            ],
+                            "create-time": 1655106513628,
+                            "edit-time": 1655106517447,
+                            "string": "Example",
+                            "uid": "UPceZ9szm"
+                          }
+                        ],
+                        "create-time": 1655106479840,
+                        "edit-time": 1655106706672,
+                        "string": "URL Format",
+                        "uid": "RDx4TmsVC"
+                      }
+                    ],
+                    "create-time": 1655106426943,
+                    "edit-time": 1655106439281,
+                    "refs": [
+                      {
+                        "uid": "hyL5OPFah"
+                      }
+                    ],
+                    "string": "[[Desktop App]] Links",
+                    "uid": "y23-OKwHg"
+                  }
+                ],
+                "create-time": 1655106686723,
+                "edit-time": 1655106691153,
+                "refs": [
+                  {
+                    "uid": "06-12-2022"
+                  }
+                ],
+                "string": "[[June 12th, 2022]]",
+                "uid": "zNmjjTyW5"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-06-2022"
                   }
                 ],
@@ -80807,10 +80981,43 @@
     "uid": "06-06-2022"
   },
   {
-    ":log/id": 1655100398101,
-    "create-time": 1655100398115,
-    "edit-time": 1655100398115,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1655106387717,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "create-time": 1655106388692,
+        "edit-time": 1655106393614,
+        "string": "",
+        "uid": "moXaIp75Z"
+      }
+    ],
+    "create-time": 1655106387718,
+    "edit-time": 1655106387718,
     "title": "June 13th, 2022",
     "uid": "06-13-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1654971300000,
+    "create-time": 1655106691153,
+    "edit-time": 1655106691154,
+    "title": "June 12th, 2022",
+    "uid": "06-12-2022"
   }
 ]

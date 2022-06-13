@@ -2,6 +2,17 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [June 12th, 2022](<June 12th, 2022.md>)
+            - [Desktop App](<Desktop App.md>) Links
+                - Deep links that allow one to directly navigate to a graph/page/block in the desktop app
+                - Demo video (showing some convenient usage tricks too)
+                    - {{[video](<video.md>): https://www.loom.com/share/fb5095868df041a597712b7403c87ed4}}
+                - URL Format
+                    - Similar format to normal Roam web links
+                        - instead of `https://roamresearch.com/` we have `roam://`
+                    - Example
+                        - Roam web link: `https://roamresearch.com/#/app/help/page/hyL5OPFah`
+                        - Desktop app link: `roam://#/app/help/page/hyL5OPFah`
         - [June 6th, 2022](<June 6th, 2022.md>)
             - Sign in with Apple
             - Report this page for public graphs
