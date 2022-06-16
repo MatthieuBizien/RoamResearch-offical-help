@@ -2,8 +2,15 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [June 15th, 2022](<June 15th, 2022.md>)
+            - [mobile](<mobile.md>) [iOS](<iOS.md>)
+                - Apple sign in
+                - Native google sign in
+                - Fixed sharing text with newlines in it
+                - Password Manager autofill for login/password
         - [June 12th, 2022](<June 12th, 2022.md>)
             - [Desktop App](<Desktop App.md>) Links
+                - Requires [updating](((8Dqpa2XQ5))) the desktop app to `0.0.15`
                 - Deep links that allow one to directly navigate to a graph/page/block in the desktop app
                 - Demo video (showing some convenient usage tricks too)
                     - {{[video](<video.md>): https://www.loom.com/share/fb5095868df041a597712b7403c87ed4}}

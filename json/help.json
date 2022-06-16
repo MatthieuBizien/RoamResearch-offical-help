@@ -43969,6 +43969,108 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-15-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      },
+                      {
+                        ":block/uid": "N3Uq-2dil"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405824908,
+                        "edit-time": 1655405848188,
+                        "string": "Apple sign in",
+                        "uid": "MV7s2eCGg"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405875781,
+                        "edit-time": 1655405879651,
+                        "string": "Native google sign in",
+                        "uid": "AiD5Ocxuk"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405848183,
+                        "edit-time": 1655405874723,
+                        "string": "Fixed sharing text with newlines in it",
+                        "uid": "zKhXhAgKC"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405812822,
+                        "edit-time": 1655405830364,
+                        "string": "Password Manager autofill for login/password",
+                        "uid": "APGjsNwzq"
+                      }
+                    ],
+                    "create-time": 1655405768481,
+                    "edit-time": 1655405782424,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      },
+                      {
+                        "uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "string": "[[mobile]] [[iOS]]",
+                    "uid": "cY-xU-OOG"
+                  }
+                ],
+                "create-time": 1655405761639,
+                "edit-time": 1655405768374,
+                "refs": [
+                  {
+                    "uid": "06-15-2022"
+                  }
+                ],
+                "string": "[[June 15th, 2022]]",
+                "uid": "xq_YlVEnJ"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-12-2022"
                   }
                 ],
@@ -43992,6 +44094,28 @@
                       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
                     "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8Dqpa2XQ5"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655404737727,
+                        "edit-time": 1655404824129,
+                        "refs": [
+                          {
+                            "uid": "8Dqpa2XQ5"
+                          }
+                        ],
+                        "string": "Requires [updating](((8Dqpa2XQ5))) the desktop app to `0.0.15`",
+                        "uid": "GG6r_-mk-"
+                      },
                       {
                         ":create/user": {
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
@@ -54127,6 +54251,192 @@
                 "edit-time": 1614776827287,
                 "string": "**Just click on the update button and you'll get the new version**",
                 "uid": "FPW98x2QR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8Dqpa2XQ5"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1655404905147,
+                    "edit-time": 1655404944485,
+                    "refs": [
+                      {
+                        "uid": "8Dqpa2XQ5"
+                      }
+                    ],
+                    "string": "You can update the desktop app the same way you [update the web app](((8Dqpa2XQ5)))",
+                    "uid": "_SfCqUeY_"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655404954355,
+                        "edit-time": 1655405019858,
+                        "string": "Click on \"Roam Research\" in the menu bar",
+                        "uid": "baDkiv2Oy"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FE0zTsnZSy9.png?alt=media&token=519d559e-370f-4888-a158-c180365b9398": {
+                                  ":height": null,
+                                  ":width": 405
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1655405029358,
+                            "edit-time": 1655405032297,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FE0zTsnZSy9.png?alt=media&token=519d559e-370f-4888-a158-c180365b9398": {
+                                  "height": null,
+                                  "width": 405
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FE0zTsnZSy9.png?alt=media&token=519d559e-370f-4888-a158-c180365b9398)",
+                            "uid": "RGqHK9KV-"
+                          }
+                        ],
+                        "create-time": 1655405021725,
+                        "edit-time": 1655405029362,
+                        "string": "and click on \"Check for updates\"",
+                        "uid": "c-p5dI_GT"
+                      }
+                    ],
+                    "create-time": 1655404946308,
+                    "edit-time": 1655404954123,
+                    "string": "Alternatively, you can",
+                    "uid": "vX8hMwVIS"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405143168,
+                        "edit-time": 1655405404880,
+                        "string": "Click on \"Roam Research in the menu bar",
+                        "uid": "9o_aq5WUN"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405404874,
+                        "edit-time": 1655405411073,
+                        "string": "Click on \"About Roam Research\"",
+                        "uid": "gCguoOTY2"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpgWTozrsMG.png?alt=media&token=33c4183e-4dc2-4b52-ac9b-cf8b683fbf4a": {
+                                  ":height": null,
+                                  ":width": 274
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1655405422069,
+                            "edit-time": 1655405443119,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpgWTozrsMG.png?alt=media&token=33c4183e-4dc2-4b52-ac9b-cf8b683fbf4a": {
+                                  "height": null,
+                                  "width": 274
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpgWTozrsMG.png?alt=media&token=33c4183e-4dc2-4b52-ac9b-cf8b683fbf4a)",
+                            "uid": "X7RtY9kX1"
+                          }
+                        ],
+                        "create-time": 1655405411932,
+                        "edit-time": 1655405420649,
+                        "string": "You should get a popup like this",
+                        "uid": "oDEKxgpE1"
+                      }
+                    ],
+                    "create-time": 1655405127676,
+                    "edit-time": 1655405143172,
+                    "heading": 3,
+                    "string": "How do I know what version of the desktop app I am on?",
+                    "uid": "q4YgBFaCa"
+                  }
+                ],
+                "create-time": 1655404877659,
+                "edit-time": 1655404904992,
+                "heading": 3,
+                "string": "How do I update the desktop app?",
+                "uid": "rmPDNStXr"
               }
             ],
             "create-time": 1594455479192,
@@ -81021,10 +81331,29 @@
     "uid": "06-12-2022"
   },
   {
-    ":log/id": 1655399315408,
-    "create-time": 1655399315410,
-    "edit-time": 1655399315410,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1655404718746,
+    "create-time": 1655404718746,
+    "edit-time": 1655404718746,
     "title": "June 16th, 2022",
     "uid": "06-16-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1655319367665,
+    "create-time": 1655405767685,
+    "edit-time": 1655405767685,
+    "title": "June 15th, 2022",
+    "uid": "06-15-2022"
   }
 ]
