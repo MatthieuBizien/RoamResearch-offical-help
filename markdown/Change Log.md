@@ -2,6 +2,16 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[June 24th, 2022]]
+            - [[mobile]]
+                - [[iOS]]
+                    - Fixed tab, shift-tab, backspace, and arrow keys on ipad with an external keyboard
+                    - Fixed sign in flash on app restart
+                    - Fixed saving the last used graph across app restarts
+                - [[android]]
+                    - Fixed back gesture
+                    - Added native Google and Apple sign in
+                    - Added sign out
         - [[June 15th, 2022]]
             - [[mobile]] [[iOS]]
                 - Apple sign in

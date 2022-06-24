@@ -43969,6 +43969,162 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "06-24-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "N3Uq-2dil"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1656100180578,
+                            "string": "Fixed tab, shift-tab, backspace, and arrow keys on ipad with an external keyboard",
+                            "uid": "Ck82s-Fzi"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1656100180578,
+                            "string": "Fixed sign in flash on app restart",
+                            "uid": "06EguttO3"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1656100180578,
+                            "string": "Fixed saving the last used graph across app restarts",
+                            "uid": "16xAFm_wi"
+                          }
+                        ],
+                        "create-time": 1656100176560,
+                        "edit-time": 1656100179968,
+                        "refs": [
+                          {
+                            "uid": "N3Uq-2dil"
+                          }
+                        ],
+                        "string": "[[iOS]]",
+                        "uid": "AJSpP4l_2"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "LK8cfW7Xh"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1656100234387,
+                            "edit-time": 1656100236313,
+                            "string": "Fixed back gesture",
+                            "uid": "qmDhvYhyU"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1656100238767,
+                            "edit-time": 1656100238767,
+                            "string": "Added native Google and Apple sign in",
+                            "uid": "DYzIgF6tZ"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1656100187826,
+                            "edit-time": 1656100238769,
+                            "string": "Added sign out",
+                            "uid": "ZA-88rK_u"
+                          }
+                        ],
+                        "create-time": 1656100183909,
+                        "edit-time": 1656100187832,
+                        "refs": [
+                          {
+                            "uid": "LK8cfW7Xh"
+                          }
+                        ],
+                        "string": "[[android]]",
+                        "uid": "qlVmU0ReF"
+                      }
+                    ],
+                    "create-time": 1656100173724,
+                    "edit-time": 1656100176566,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "[[mobile]]",
+                    "uid": "PgmNW3SqV"
+                  }
+                ],
+                "create-time": 1656100170817,
+                "edit-time": 1656100173742,
+                "refs": [
+                  {
+                    "uid": "06-24-2022"
+                  }
+                ],
+                "string": "[[June 24th, 2022]]",
+                "uid": "J7Rh63mf4"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-15-2022"
                   }
                 ],
@@ -81357,10 +81513,28 @@
     "uid": "06-15-2022"
   },
   {
-    ":log/id": 1656090531020,
-    "create-time": 1656090531022,
-    "edit-time": 1656090531022,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1656100162168,
+    "create-time": 1656100162169,
+    "edit-time": 1656100162169,
     "title": "June 24th, 2022",
     "uid": "06-24-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1656100187833,
+    "edit-time": 1656100187834,
+    "title": "android",
+    "uid": "LK8cfW7Xh"
   }
 ]
