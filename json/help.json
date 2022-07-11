@@ -43969,6 +43969,68 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "07-11-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1657576345676,
+                        "edit-time": 1657576369361,
+                        "string": "Also added refocusing of the selected block when hitting `escape` to exit the command pallete",
+                        "uid": "kb0Zuwhsv"
+                      }
+                    ],
+                    "create-time": 1657573984802,
+                    "edit-time": 1657576345541,
+                    "string": "Fixed backspace deleting selected blocks when opening up the command pallete",
+                    "uid": "ragNmkQZT"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1657573942996,
+                    "edit-time": 1657573954797,
+                    "string": "Increase markdown import limit from 10 to 10,000",
+                    "uid": "onGCht7ei"
+                  }
+                ],
+                "create-time": 1657573940877,
+                "edit-time": 1657573943015,
+                "refs": [
+                  {
+                    "uid": "07-11-2022"
+                  }
+                ],
+                "string": "[[July 11th, 2022]]",
+                "uid": "oYh_OHkrQ"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "06-24-2022"
                   }
                 ],
@@ -81577,9 +81639,15 @@
     "uid": "07-09-2022"
   },
   {
-    ":log/id": 1657566362104,
-    "create-time": 1657566362106,
-    "edit-time": 1657566362106,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1657573876616,
+    "create-time": 1657573876617,
+    "edit-time": 1657573876617,
     "title": "July 11th, 2022",
     "uid": "07-11-2022"
   }

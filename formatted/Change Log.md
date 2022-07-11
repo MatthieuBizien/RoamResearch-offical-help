@@ -2,6 +2,10 @@
     - [Updating Roam]([Updating Roam](<Updating Roam.md>))
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [July 11th, 2022](<July 11th, 2022.md>)
+            - Fixed backspace deleting selected blocks when opening up the command pallete
+                - Also added refocusing of the selected block when hitting `escape` to exit the command pallete
+            - Increase markdown import limit from 10 to 10,000
         - [June 24th, 2022](<June 24th, 2022.md>)
             - [mobile](<mobile.md>)
                 - [iOS](<iOS.md>)
