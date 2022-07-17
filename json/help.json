@@ -81652,9 +81652,22 @@
     "uid": "07-11-2022"
   },
   {
-    ":log/id": 1658026454131,
-    "create-time": 1658026454133,
-    "edit-time": 1658026454133,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":log/id": 1658036582924,
+    "create-time": 1658036582925,
+    "edit-time": 1658036582925,
+    "title": "July 16th, 2022",
+    "uid": "07-16-2022"
+  },
+  {
+    ":log/id": 1658037971776,
+    "create-time": 1658037971778,
+    "edit-time": 1658037971778,
     "title": "July 17th, 2022",
     "uid": "07-17-2022"
   }
