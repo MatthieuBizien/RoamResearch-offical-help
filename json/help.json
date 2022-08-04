@@ -43947,25 +43947,15 @@
             "uid": "SuFLMZnDt"
           },
           {
-            ":block/refs": [
-              {
-                ":block/uid": "kiQayH2o4"
-              }
-            ],
             ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             ":edit/user": {
-              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
             },
             "create-time": 1614802850362,
-            "edit-time": 1649663819520,
-            "refs": [
-              {
-                "uid": "kiQayH2o4"
-              }
-            ],
-            "string": "[Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)((kiQayH2o4))",
+            "edit-time": 1651852339729,
+            "string": "[Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)",
             "uid": "n4MQraKIM"
           },
           {
@@ -43976,6 +43966,982 @@
               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "07-11-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1657576345676,
+                        "edit-time": 1657576369361,
+                        "string": "Also added refocusing of the selected block when hitting `escape` to exit the command pallete",
+                        "uid": "kb0Zuwhsv"
+                      }
+                    ],
+                    "create-time": 1657573984802,
+                    "edit-time": 1657576345541,
+                    "string": "Fixed backspace deleting selected blocks when opening up the command pallete",
+                    "uid": "ragNmkQZT"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1657573942996,
+                    "edit-time": 1657573954797,
+                    "string": "Increase markdown import limit from 10 to 10,000",
+                    "uid": "onGCht7ei"
+                  }
+                ],
+                "create-time": 1657573940877,
+                "edit-time": 1657573943015,
+                "refs": [
+                  {
+                    "uid": "07-11-2022"
+                  }
+                ],
+                "string": "[[July 11th, 2022]]",
+                "uid": "oYh_OHkrQ"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-24-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "N3Uq-2dil"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1656100180578,
+                            "string": "Fixed tab, shift-tab, backspace, and arrow keys on ipad with an external keyboard",
+                            "uid": "Ck82s-Fzi"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1656100180578,
+                            "string": "Fixed sign in flash on app restart",
+                            "uid": "06EguttO3"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1656100180578,
+                            "string": "Fixed saving the last used graph across app restarts",
+                            "uid": "16xAFm_wi"
+                          }
+                        ],
+                        "create-time": 1656100176560,
+                        "edit-time": 1656100179968,
+                        "refs": [
+                          {
+                            "uid": "N3Uq-2dil"
+                          }
+                        ],
+                        "string": "[[iOS]]",
+                        "uid": "AJSpP4l_2"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "LK8cfW7Xh"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1656100234387,
+                            "edit-time": 1656100236313,
+                            "string": "Fixed back gesture",
+                            "uid": "qmDhvYhyU"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1656100238767,
+                            "edit-time": 1656100238767,
+                            "string": "Added native Google and Apple sign in",
+                            "uid": "DYzIgF6tZ"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1656100187826,
+                            "edit-time": 1656100238769,
+                            "string": "Added sign out",
+                            "uid": "ZA-88rK_u"
+                          }
+                        ],
+                        "create-time": 1656100183909,
+                        "edit-time": 1656100187832,
+                        "refs": [
+                          {
+                            "uid": "LK8cfW7Xh"
+                          }
+                        ],
+                        "string": "[[android]]",
+                        "uid": "qlVmU0ReF"
+                      }
+                    ],
+                    "create-time": 1656100173724,
+                    "edit-time": 1656100176566,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "[[mobile]]",
+                    "uid": "PgmNW3SqV"
+                  }
+                ],
+                "create-time": 1656100170817,
+                "edit-time": 1656100173742,
+                "refs": [
+                  {
+                    "uid": "06-24-2022"
+                  }
+                ],
+                "string": "[[June 24th, 2022]]",
+                "uid": "J7Rh63mf4"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-15-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      },
+                      {
+                        ":block/uid": "N3Uq-2dil"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405824908,
+                        "edit-time": 1655405848188,
+                        "string": "Apple sign in",
+                        "uid": "MV7s2eCGg"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405875781,
+                        "edit-time": 1655405879651,
+                        "string": "Native google sign in",
+                        "uid": "AiD5Ocxuk"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405848183,
+                        "edit-time": 1655405874723,
+                        "string": "Fixed sharing text with newlines in it",
+                        "uid": "zKhXhAgKC"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405812822,
+                        "edit-time": 1655405830364,
+                        "string": "Password Manager autofill for login/password",
+                        "uid": "APGjsNwzq"
+                      }
+                    ],
+                    "create-time": 1655405768481,
+                    "edit-time": 1655405782424,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      },
+                      {
+                        "uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "string": "[[mobile]] [[iOS]]",
+                    "uid": "cY-xU-OOG"
+                  }
+                ],
+                "create-time": 1655405761639,
+                "edit-time": 1655405768374,
+                "refs": [
+                  {
+                    "uid": "06-15-2022"
+                  }
+                ],
+                "string": "[[June 15th, 2022]]",
+                "uid": "xq_YlVEnJ"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-12-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "hyL5OPFah"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8Dqpa2XQ5"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655404737727,
+                        "edit-time": 1655404824129,
+                        "refs": [
+                          {
+                            "uid": "8Dqpa2XQ5"
+                          }
+                        ],
+                        "string": "Requires [updating](((8Dqpa2XQ5))) the desktop app to `0.0.15`",
+                        "uid": "GG6r_-mk-"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1655106439276,
+                        "edit-time": 1655106469423,
+                        "string": "Deep links that allow one to directly navigate to a graph/page/block in the desktop app",
+                        "uid": "gXFY_M2Wf"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1655106473112,
+                            "edit-time": 1655106481110,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://www.loom.com/share/fb5095868df041a597712b7403c87ed4}}",
+                            "uid": "aelHviuWo"
+                          }
+                        ],
+                        "create-time": 1655106469418,
+                        "edit-time": 1655106648270,
+                        "string": "Demo video (showing some convenient usage tricks too)",
+                        "uid": "DOrMuRNZ7"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1655106573489,
+                                "edit-time": 1655106596068,
+                                "string": "instead of `https://roamresearch.com/` we have `roam://`",
+                                "uid": "Yaml9H8C7"
+                              }
+                            ],
+                            "create-time": 1655106493264,
+                            "edit-time": 1655106508593,
+                            "string": "Similar format to normal Roam web links",
+                            "uid": "0jgZTwcgg"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1655106518069,
+                                "edit-time": 1655106601277,
+                                "string": "Roam web link: `https://roamresearch.com/#/app/help/page/hyL5OPFah`",
+                                "uid": "nvUym4kUc"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1655106529667,
+                                "edit-time": 1655106563332,
+                                "string": "Desktop app link: `roam://#/app/help/page/hyL5OPFah`",
+                                "uid": "UR3-USrS2"
+                              }
+                            ],
+                            "create-time": 1655106513628,
+                            "edit-time": 1655106517447,
+                            "string": "Example",
+                            "uid": "UPceZ9szm"
+                          }
+                        ],
+                        "create-time": 1655106479840,
+                        "edit-time": 1655106706672,
+                        "string": "URL Format",
+                        "uid": "RDx4TmsVC"
+                      }
+                    ],
+                    "create-time": 1655106426943,
+                    "edit-time": 1655106439281,
+                    "refs": [
+                      {
+                        "uid": "hyL5OPFah"
+                      }
+                    ],
+                    "string": "[[Desktop App]] Links",
+                    "uid": "y23-OKwHg"
+                  }
+                ],
+                "create-time": 1655106686723,
+                "edit-time": 1655106691153,
+                "refs": [
+                  {
+                    "uid": "06-12-2022"
+                  }
+                ],
+                "string": "[[June 12th, 2022]]",
+                "uid": "zNmjjTyW5"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-06-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1654545771129,
+                    "edit-time": 1654545781176,
+                    "string": "Sign in with Apple",
+                    "uid": "g9LIxHUfM"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c": {
+                              ":height": null,
+                              ":width": 261
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1654546214496,
+                        "edit-time": 1654546217769,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c": {
+                              "height": null,
+                              "width": 261
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c)",
+                        "uid": "XELvWThwy"
+                      }
+                    ],
+                    "create-time": 1654545965011,
+                    "edit-time": 1654546214504,
+                    "string": "Report this page for public graphs",
+                    "uid": "pBCrm6opY"
+                  }
+                ],
+                "create-time": 1654545769443,
+                "edit-time": 1654545771150,
+                "refs": [
+                  {
+                    "uid": "06-06-2022"
+                  }
+                ],
+                "string": "[[June 6th, 2022]]",
+                "uid": "g2fY6lQda"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-03-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "3XkUpjpkP"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1654285838449,
+                        "edit-time": 1654285846847,
+                        "refs": [
+                          {
+                            "uid": "3XkUpjpkP"
+                          }
+                        ],
+                        "string": "introduced yesterday in ((3XkUpjpkP))",
+                        "uid": "25QOhn57B"
+                      }
+                    ],
+                    "create-time": 1654285829106,
+                    "edit-time": 1654285859537,
+                    "string": "Fixed bug with namespaces not showing correctly",
+                    "uid": "7XB4uaEQE"
+                  }
+                ],
+                "create-time": 1654285824347,
+                "edit-time": 1654285829025,
+                "refs": [
+                  {
+                    "uid": "06-03-2022"
+                  }
+                ],
+                "string": "[[June 3rd, 2022]]",
+                "uid": "Uiq69w1UK"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-02-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "nQ4TnZxud"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1654185390765,
+                        "edit-time": 1654185581612,
+                        "refs": [
+                          {
+                            "uid": "nQ4TnZxud"
+                          }
+                        ],
+                        "string": "introduced by [parsing change](((nQ4TnZxud)))",
+                        "uid": "x8vOEWaqw"
+                      }
+                    ],
+                    "create-time": 1654185581610,
+                    "edit-time": 1654285860721,
+                    "string": "Fixed bug with changing the code block language",
+                    "uid": "3XkUpjpkP"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1654211978234,
+                    "edit-time": 1654212003426,
+                    "string": "Keep original block first in ordering of inline refs",
+                    "uid": "PMNzGJMxX"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1654214290777,
+                    "edit-time": 1654214315068,
+                    "string": "Password reset emails now use app.roamresearch.com",
+                    "uid": "bHo7uy4Dq"
+                  }
+                ],
+                "create-time": 1654185387178,
+                "edit-time": 1654185390782,
+                "refs": [
+                  {
+                    "uid": "06-02-2022"
+                  }
+                ],
+                "string": "[[June 2nd, 2022]]",
+                "uid": "EMjtFLri_"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-25-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "-77Q9kDnv"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653347999464,
+                            "edit-time": 1653493203381,
+                            "string": "`**__^^bih^^__**`: **__^^bih^^__**",
+                            "uid": "FoRLo2IJ3"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348004984,
+                            "edit-time": 1653493203381,
+                            "string": "`__**^^ibh^^**__`: __**^^ibh^^**__",
+                            "uid": "NvQv9gIWV"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348009560,
+                            "edit-time": 1653493203381,
+                            "string": "`**^^__bhi__^^**`: **^^__bhi__^^**",
+                            "uid": "VNJ4yZdVq"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348045231,
+                            "edit-time": 1653493203381,
+                            "string": "`__**^^ibh^^**__`: __**^^ibh^^**__",
+                            "uid": "KWVlpf7G-"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348020421,
+                            "edit-time": 1653493203381,
+                            "string": "`^^**__hbi__**^^`: ^^**__hbi__**^^",
+                            "uid": "6iemcUI0_"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1653348127536,
+                            "edit-time": 1653493203381,
+                            "string": "`**__^^bih^^__**`: **__^^bih^^__**",
+                            "uid": "roO3zkvjn"
+                          }
+                        ],
+                        "create-time": 1653493198001,
+                        "edit-time": 1653493202474,
+                        "refs": [
+                          {
+                            "uid": "-77Q9kDnv"
+                          }
+                        ],
+                        "string": "Examples::",
+                        "uid": "7t9Z_2DCk"
+                      }
+                    ],
+                    "create-time": 1653493104053,
+                    "edit-time": 1653493198007,
+                    "string": "Fix the parsing of bold in italics and italics in bold (and highlight and strikethrough). It no longer matters what order you put them in.",
+                    "uid": "nQ4TnZxud"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1653508267382,
+                    "edit-time": 1653509326707,
+                    "string": "Small improvement to all pages search ((Longer debounce time and normalize the search value))",
+                    "uid": "3bXO4E1fY"
+                  }
+                ],
+                "create-time": 1653493101821,
+                "edit-time": 1653493104065,
+                "refs": [
+                  {
+                    "uid": "05-25-2022"
+                  }
+                ],
+                "string": "[[May 25th, 2022]]",
+                "uid": "RgECHSrOz"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-23-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1653334412658,
+                    "edit-time": 1653334486207,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "Fix [[mobile]] quick capture crashing when displaying old quick captures",
+                    "uid": "-mTsjOhWj"
+                  }
+                ],
+                "create-time": 1653334410280,
+                "edit-time": 1653334412679,
+                "refs": [
+                  {
+                    "uid": "05-23-2022"
+                  }
+                ],
+                "string": "[[May 23rd, 2022]]",
+                "uid": "6WbXFbIay"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-09-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1652121403180,
+                    "edit-time": 1653334511907,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "Fixed [[mobile]] quick capture page auto complete results",
+                    "uid": "eG3g__b2-"
+                  }
+                ],
+                "create-time": 1652121396840,
+                "edit-time": 1652121403201,
+                "refs": [
+                  {
+                    "uid": "05-09-2022"
+                  }
+                ],
+                "string": "[[May 9th, 2022]]",
+                "uid": "kCIz5Hgs1"
+              },
               {
                 ":block/refs": [
                   {
@@ -53503,6 +54469,192 @@
                 "edit-time": 1614776827287,
                 "string": "**Just click on the update button and you'll get the new version**",
                 "uid": "FPW98x2QR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8Dqpa2XQ5"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1655404905147,
+                    "edit-time": 1655404944485,
+                    "refs": [
+                      {
+                        "uid": "8Dqpa2XQ5"
+                      }
+                    ],
+                    "string": "You can update the desktop app the same way you [update the web app](((8Dqpa2XQ5)))",
+                    "uid": "_SfCqUeY_"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655404954355,
+                        "edit-time": 1655405019858,
+                        "string": "Click on \"Roam Research\" in the menu bar",
+                        "uid": "baDkiv2Oy"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FE0zTsnZSy9.png?alt=media&token=519d559e-370f-4888-a158-c180365b9398": {
+                                  ":height": null,
+                                  ":width": 405
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1655405029358,
+                            "edit-time": 1655405032297,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FE0zTsnZSy9.png?alt=media&token=519d559e-370f-4888-a158-c180365b9398": {
+                                  "height": null,
+                                  "width": 405
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FE0zTsnZSy9.png?alt=media&token=519d559e-370f-4888-a158-c180365b9398)",
+                            "uid": "RGqHK9KV-"
+                          }
+                        ],
+                        "create-time": 1655405021725,
+                        "edit-time": 1655405029362,
+                        "string": "and click on \"Check for updates\"",
+                        "uid": "c-p5dI_GT"
+                      }
+                    ],
+                    "create-time": 1655404946308,
+                    "edit-time": 1655404954123,
+                    "string": "Alternatively, you can",
+                    "uid": "vX8hMwVIS"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405143168,
+                        "edit-time": 1655405404880,
+                        "string": "Click on \"Roam Research in the menu bar",
+                        "uid": "9o_aq5WUN"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1655405404874,
+                        "edit-time": 1655405411073,
+                        "string": "Click on \"About Roam Research\"",
+                        "uid": "gCguoOTY2"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpgWTozrsMG.png?alt=media&token=33c4183e-4dc2-4b52-ac9b-cf8b683fbf4a": {
+                                  ":height": null,
+                                  ":width": 274
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1655405422069,
+                            "edit-time": 1655405443119,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpgWTozrsMG.png?alt=media&token=33c4183e-4dc2-4b52-ac9b-cf8b683fbf4a": {
+                                  "height": null,
+                                  "width": 274
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpgWTozrsMG.png?alt=media&token=33c4183e-4dc2-4b52-ac9b-cf8b683fbf4a)",
+                            "uid": "X7RtY9kX1"
+                          }
+                        ],
+                        "create-time": 1655405411932,
+                        "edit-time": 1655405420649,
+                        "string": "You should get a popup like this",
+                        "uid": "oDEKxgpE1"
+                      }
+                    ],
+                    "create-time": 1655405127676,
+                    "edit-time": 1655405143172,
+                    "heading": 3,
+                    "string": "How do I know what version of the desktop app I am on?",
+                    "uid": "q4YgBFaCa"
+                  }
+                ],
+                "create-time": 1655404877659,
+                "edit-time": 1655404904992,
+                "heading": 3,
+                "string": "How do I update the desktop app?",
+                "uid": "rmPDNStXr"
               }
             ],
             "create-time": 1594455479192,
@@ -80213,10 +81365,375 @@
     "uid": "7dRcr8oM7"
   },
   {
-    ":log/id": 1651341999414,
-    "create-time": 1651341999416,
-    "edit-time": 1651341999417,
-    "title": "April 30th, 2022",
-    "uid": "04-30-2022"
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1651852350358,
+    "create-time": 1651852350358,
+    "edit-time": 1651852350358,
+    "title": "May 6th, 2022",
+    "uid": "05-06-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1652121390992,
+    "create-time": 1652121390993,
+    "edit-time": 1652121390993,
+    "title": "May 9th, 2022",
+    "uid": "05-09-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1652452488525,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        },
+        ":edit/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        },
+        "create-time": 1652452607998,
+        "edit-time": 1652452607998,
+        "string": "",
+        "uid": "-Lej4Bj4k"
+      }
+    ],
+    "create-time": 1652452488526,
+    "edit-time": 1652452488526,
+    "title": "May 13th, 2022",
+    "uid": "05-13-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1653334075639,
+    "create-time": 1653334075640,
+    "edit-time": 1653334075640,
+    "title": "May 23rd, 2022",
+    "uid": "05-23-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":log/id": 1653441433553,
+    "create-time": 1653441433554,
+    "edit-time": 1653441433554,
+    "title": "May 25th, 2022",
+    "uid": "05-25-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654185381844,
+    "create-time": 1654185381845,
+    "edit-time": 1654185381845,
+    "title": "June 2nd, 2022",
+    "uid": "06-02-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654285749595,
+    "create-time": 1654285749596,
+    "edit-time": 1654285749596,
+    "title": "June 3rd, 2022",
+    "uid": "06-03-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654352409391,
+    "create-time": 1654352409392,
+    "edit-time": 1654352409392,
+    "title": "June 4th, 2022",
+    "uid": "06-04-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654485030172,
+    "create-time": 1654485030173,
+    "edit-time": 1654485030173,
+    "title": "June 5th, 2022",
+    "uid": "06-05-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654545615073,
+    "create-time": 1654545615074,
+    "edit-time": 1654545615074,
+    "title": "June 6th, 2022",
+    "uid": "06-06-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1655106387717,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "create-time": 1655106388692,
+        "edit-time": 1655106393614,
+        "string": "",
+        "uid": "moXaIp75Z"
+      }
+    ],
+    "create-time": 1655106387718,
+    "edit-time": 1655106387718,
+    "title": "June 13th, 2022",
+    "uid": "06-13-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1654971300000,
+    "create-time": 1655106691153,
+    "edit-time": 1655106691154,
+    "title": "June 12th, 2022",
+    "uid": "06-12-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1655404718746,
+    "create-time": 1655404718746,
+    "edit-time": 1655404718746,
+    "title": "June 16th, 2022",
+    "uid": "06-16-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1655319367665,
+    "create-time": 1655405767685,
+    "edit-time": 1655405767685,
+    "title": "June 15th, 2022",
+    "uid": "06-15-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1656100162168,
+    "create-time": 1656100162169,
+    "edit-time": 1656100162169,
+    "title": "June 24th, 2022",
+    "uid": "06-24-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1656100187833,
+    "edit-time": 1656100187834,
+    "title": "android",
+    "uid": "LK8cfW7Xh"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1656937493556,
+    "create-time": 1656937493557,
+    "edit-time": 1656937493557,
+    "title": "July 4th, 2022",
+    "uid": "07-04-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1657020432552,
+    "create-time": 1657020432553,
+    "edit-time": 1657020432553,
+    "title": "July 5th, 2022",
+    "uid": "07-05-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1657396510862,
+    "create-time": 1657396510863,
+    "edit-time": 1657396510863,
+    "title": "July 9th, 2022",
+    "uid": "07-09-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1657573876616,
+    "create-time": 1657573876617,
+    "edit-time": 1657573876617,
+    "title": "July 11th, 2022",
+    "uid": "07-11-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":log/id": 1658036582924,
+    "create-time": 1658036582925,
+    "edit-time": 1658036582925,
+    "title": "July 16th, 2022",
+    "uid": "07-16-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":log/id": 1658038323098,
+    "create-time": 1658038323098,
+    "edit-time": 1658038323098,
+    "title": "July 17th, 2022",
+    "uid": "07-17-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":log/id": 1658125861677,
+    "create-time": 1658125861791,
+    "edit-time": 1658125861792,
+    "title": "July 18th, 2022",
+    "uid": "07-18-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1658233195890,
+    "create-time": 1658233195891,
+    "edit-time": 1658233195891,
+    "title": "July 19th, 2022",
+    "uid": "07-19-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1658321512386,
+    "create-time": 1658321512387,
+    "edit-time": 1658321512387,
+    "title": "July 20th, 2022",
+    "uid": "07-20-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1659033301412,
+    "create-time": 1659033301413,
+    "edit-time": 1659033301413,
+    "title": "July 28th, 2022",
+    "uid": "07-28-2022"
+  },
+  {
+    ":log/id": 1659572608621,
+    "create-time": 1659572608625,
+    "edit-time": 1659572608625,
+    "title": "August 4th, 2022",
+    "uid": "08-04-2022"
   }
 ]

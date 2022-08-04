@@ -1,7 +1,65 @@
 - #.doc-mode
     - [Updating Roam]([[Updating Roam]])
-    - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)iFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
+    - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[July 11th, 2022]]
+            - Fixed backspace deleting selected blocks when opening up the command pallete
+                - Also added refocusing of the selected block when hitting `escape` to exit the command pallete
+            - Increase markdown import limit from 10 to 10,000
+        - [[June 24th, 2022]]
+            - [[mobile]]
+                - [[iOS]]
+                    - Fixed tab, shift-tab, backspace, and arrow keys on ipad with an external keyboard
+                    - Fixed sign in flash on app restart
+                    - Fixed saving the last used graph across app restarts
+                - [[android]]
+                    - Fixed back gesture
+                    - Added native Google and Apple sign in
+                    - Added sign out
+        - [[June 15th, 2022]]
+            - [[mobile]] [[iOS]]
+                - Apple sign in
+                - Native google sign in
+                - Fixed sharing text with newlines in it
+                - Password Manager autofill for login/password
+        - [[June 12th, 2022]]
+            - [[Desktop App]] Links
+                - Requires [updating](((8Dqpa2XQ5))) the desktop app to `0.0.15`
+                - Deep links that allow one to directly navigate to a graph/page/block in the desktop app
+                - Demo video (showing some convenient usage tricks too)
+                    - {{[[video]]: https://www.loom.com/share/fb5095868df041a597712b7403c87ed4}}
+                - URL Format
+                    - Similar format to normal Roam web links
+                        - instead of `https://roamresearch.com/` we have `roam://`
+                    - Example
+                        - Roam web link: `https://roamresearch.com/#/app/help/page/hyL5OPFah`
+                        - Desktop app link: `roam://#/app/help/page/hyL5OPFah`
+        - [[June 6th, 2022]]
+            - Sign in with Apple
+            - Report this page for public graphs
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c)
+        - [[June 3rd, 2022]]
+            - Fixed bug with namespaces not showing correctly
+                - introduced yesterday in Fixed bug with changing the code block language
+        - [[June 2nd, 2022]]
+            - Fixed bug with changing the code block language
+                - introduced by [parsing change](((nQ4TnZxud)))
+            - Keep original block first in ordering of inline refs
+            - Password reset emails now use app.roamresearch.com
+        - [[May 25th, 2022]]
+            - Fix the parsing of bold in italics and italics in bold (and highlight and strikethrough). It no longer matters what order you put them in.
+                - Examples::
+                    - `**__^^bih^^__**`: **__^^bih^^__**
+                    - `__**^^ibh^^**__`: __**^^ibh^^**__
+                    - `**^^__bhi__^^**`: **^^__bhi__^^**
+                    - `__**^^ibh^^**__`: __**^^ibh^^**__
+                    - `^^**__hbi__**^^`: ^^**__hbi__**^^
+                    - `**__^^bih^^__**`: **__^^bih^^__**
+            - Small improvement to all pages search ((Longer debounce time and normalize the search value))
+        - [[May 23rd, 2022]]
+            - Fix [[mobile]] quick capture crashing when displaying old quick captures
+        - [[May 9th, 2022]]
+            - Fixed [[mobile]] quick capture page auto complete results
         - [[April 4th, 2022]]
             - Added the ability to remove email-password login if you are also signed in with Google
         - [[April 3rd, 2022]]

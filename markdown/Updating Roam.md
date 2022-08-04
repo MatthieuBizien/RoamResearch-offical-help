@@ -8,6 +8,17 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FxHwW9WnzmE.png?alt=media&token=2c444187-3a33-4a9d-9233-a2e2ea60ec22)
         - **Just click on the update button and you'll get the new version**
             - (if you have issues see I clicked check updates, it didn't work/I don't see the new feature I'm looking for, whats going on?)
+        - ### How do I update the desktop app?
+            - You can update the desktop app the same way you [update the web app](((8Dqpa2XQ5)))
+            - Alternatively, you can
+                - Click on "Roam Research" in the menu bar
+                - and click on "Check for updates"
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FE0zTsnZSy9.png?alt=media&token=519d559e-370f-4888-a158-c180365b9398)
+            - ### How do I know what version of the desktop app I am on?
+                - Click on "Roam Research in the menu bar
+                - Click on "About Roam Research"
+                - You should get a popup like this
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpgWTozrsMG.png?alt=media&token=33c4183e-4dc2-4b52-ac9b-cf8b683fbf4a)
     - ### I clicked check updates, it didn't work/I don't see the new feature I'm looking for, whats going on?
         - Sometimes, updates can take awhile to reach you. If you close all tabs with Roam open and then reopen them, you can get the update faster/fix any problems you are having with getting the update.
             - If you have the installed app, just close it and reopen
