@@ -1,9 +1,30 @@
-- 
 - [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [August 11th, 2022](<August 11th, 2022.md>)
-        - 
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Search field to help you find the graph you want to switch to d
+                -  in sidebar 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FXqRHzdD9g9.png?alt=media&token=307c2373-aee6-4cc4-8321-8926a2aa7faa)
+                - on all-graphs page
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZldEt56a8N.png?alt=media&token=9f6292f0-3ec2-4117-8359-dae3760063ab)
+            - Update to the help database to remove custom styling
+    -  [July 25th, 2022](<July 25th, 2022.md>)
+        - [RoamDepot](<RoamDepot.md>) #[Plugins](<Plugins.md>)
+            - [PhonetoNote](<PhonetoNote.md>)
+                - Create a dedicated phone number to send and forward messages to a Roam graph + more
+                    - https://twitter.com/phonetonote/status/1551764556707397633?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ
+    -  [July 19th, 2022](<July 19th, 2022.md>)
+        - [RoamDepot](<RoamDepot.md>) #[Plugins](<Plugins.md>) 
+            -  [Matter](<Matter.md>) 
+                -  great way to sync highlights
+                - https://twitter.com/matter/status/1549490849595080704?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ
+    - [July 15th, 2022](<July 15th, 2022.md>)
+        - #[New Features](<New Features.md>) [RoamDepot](<RoamDepot.md>) #[Major Launch](<Major Launch.md>)
+            - https://twitter.com/RoamResearch/status/1547823281478066177?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ
+        - [RoamDepot](<RoamDepot.md>) [Plugins](<Plugins.md>) 
+            - [Bionic Text](<Bionic Text.md>)
+                - https://twitter.com/fbgallet/status/1548083399977340930?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ
     - [July 11th, 2022](<July 11th, 2022.md>)
         - Fixed backspace deleting selected blocks when opening up the command pallete
             - Also added refocusing of the selected block when hitting `escape` to exit the command pallete

@@ -1282,9 +1282,6 @@ span.rm-page-ref[data-tag="Alive"] {
 }```
 
 # Backlinks
-## [Roam Depot](<Roam Depot.md>)
-# [Themes]([Themes](<Themes.md>))
-
 ## [roam/css](<roam/css.md>)
 - Check out our [community-built themes for inspiration]([Themes](<Themes.md>))
 

@@ -5,6 +5,8 @@
 
 - [Quality of Life Improvements](<Quality of Life Improvements.md>)
 
+- [Quality of Life Improvements](<Quality of Life Improvements.md>)
+
 - [Code Block](<Code Block.md>) [Quality of Life Improvements](<Quality of Life Improvements.md>)
 
 - [Quality of Life Improvements](<Quality of Life Improvements.md>)
