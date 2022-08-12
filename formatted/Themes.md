@@ -1,4 +1,4 @@
-#.doc-mode
+[.--](<.--.md>)
     - ### [Request to be featured](https://roamresearch.typeform.com/to/g5W8uCqz)
     - ### Applying Custom Themes to you Graph by [Conor White-Sullivan](<Conor White-Sullivan.md>)
         - {{[video](<video.md>): https://youtu.be/UY-sAC2eGyI }}

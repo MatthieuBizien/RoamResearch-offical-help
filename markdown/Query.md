@@ -1,4 +1,4 @@
-- #.doc-mode
+- [[.--]]
     - # **Types of queries**
         - ### **and**
             - Find all blocks matching multiple conditions – i.e. blocks or their parents containing multiple page or block references.

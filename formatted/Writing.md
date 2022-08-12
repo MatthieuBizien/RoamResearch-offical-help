@@ -15,5 +15,5 @@
 - Cortex Futura's course covers the whole academic process from literature [research]([Research](<Research.md>)) over note-taking to [writing]([Writing](<Writing.md>))
 
 ## [Welcome to Roam](<Welcome to Roam.md>)
-- ## Roam is a tool geared for [Writing](<Writing.md>),
+- Roam is a tool geared for [Writing](<Writing.md>),
 

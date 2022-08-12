@@ -13,6 +13,9 @@
 ## [Date picker](<Date picker.md>)
 #[Date picker](<Date picker.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Tags](<Tags.md>)
 
+## [Features](<Features.md>)
+- `#` to find or create [Page References](<Page References.md>) as a [tag]([Tags](<Tags.md>))
+
 ## [Filter](<Filter.md>)
 #[Attributes](<Attributes.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Tags](<Tags.md>)
 

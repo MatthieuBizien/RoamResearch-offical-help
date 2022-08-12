@@ -1,4 +1,4 @@
-#.doc-mode
+Community Videos::
     - ### Roam Research Tutorials by [Shuyi Wang](<Shuyi Wang.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=TXKa0VbQZeY&list=PL-BErONJz2qEEUS3OjpuWHhtb9JjXKFBZ&index=2}}
 #[Page References](<Page References.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Block References](<Block References.md>) | #[Linked References](<Linked References.md>) | #[Graph Overview](<Graph Overview.md>)

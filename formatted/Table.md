@@ -1,4 +1,4 @@
-- #.doc-mode
+- [.--](<.--.md>)
 - {{[table](<table.md>)}}
 - **[## Articles](<## Articles.md>):**
     - [How to build a table in Roam Research](https://web.archive.org/web/20201109133038/https://www.roamtips.com/home/create-tables-roam-research) - [Roam Tips and Hacks](<Roam Tips and Hacks.md>) 
@@ -11,14 +11,14 @@
     - ### Tables with Complex Cells (no audio) by [Conor White-Sullivan](<Conor White-Sullivan.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=J_hH5vH2DTo}}
 #[Table](<Table.md>)
-- #.doc-mode
+- [.--](<.--.md>)
 
 # Backlinks
 ## [ Commands](< Commands.md>)
 - [Table](<Table.md>)
 
 ## [Features](<Features.md>)
-- ### [Table]([Table](<Table.md>))
+- ### [Table](<Table.md>)
 
 ## [Kids](<Kids.md>)
 #[Daily Notes](<Daily Notes.md>) | #[Page References](<Page References.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Task Management](<Task Management.md>) | #[Table](<Table.md>)

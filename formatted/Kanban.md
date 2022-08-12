@@ -1,4 +1,4 @@
-- #.doc-mode
+- [.--](<.--.md>)
 - ## Below is a [Kanban](<Kanban.md>) in Roam. Play around with it to see how you can use it!
     - Kanban example - [Roam Canon](<Roam Canon.md>)
         - {{[kanban](<kanban.md>)}}
@@ -63,7 +63,7 @@
 - **[## Articles](<## Articles.md>):**
     - ### [How to create a Kanban board on Roam](https://www.roamtips.com/home/roam-kanban-board) by [Roam Tips](<Roam Tips.md>)
 
-- #.doc-mode
+- [.--](<.--.md>)
 
 # Backlinks
 ## [Block Context Menu](<Block Context Menu.md>)
@@ -76,7 +76,7 @@
 - ### **How do I make a** [Kanban](<Kanban.md>)*
 
 ## [Features](<Features.md>)
-- ### [Kanban]([Kanban](<Kanban.md>))
+- ### [Kanban](<Kanban.md>)
 
 ## [Kanban](<Kanban.md>)
 - ## Below is a [Kanban](<Kanban.md>)

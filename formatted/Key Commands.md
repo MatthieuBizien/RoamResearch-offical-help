@@ -14,7 +14,7 @@ Turn key commands instruction on with custom components like this
 
 ## [Bidirectional linking](<Bidirectional linking.md>)
 - [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals) by [Maggie Appleton](<Maggie Appleton.md>)
-    - **[Key Commands](<Key Commands.md>):**
+- **[Key Commands](<Key Commands.md>):**
 
 ## [Block Context Menu](<Block Context Menu.md>)
 #[Version Control](<Version Control.md>) 
@@ -57,6 +57,9 @@ Turn key commands instruction on with custom components like this
 - **[Key Commands](<Key Commands.md>):**
 
 ## [Features](<Features.md>)
+- [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals) by [Maggie Appleton](<Maggie Appleton.md>)
+        - **[Key Commands](<Key Commands.md>):**
+
 - ### [Key Commands]([Key Commands](<Key Commands.md>))
 
 ## [Formatting](<Formatting.md>)
@@ -108,7 +111,7 @@ Turn key commands instruction on with custom components like this
 
 ## [Right Sidebar](<Right Sidebar.md>)
 - #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>) | #[Linked References](<Linked References.md>)
-    - **[Key Commands](<Key Commands.md>):**
+- **[Key Commands](<Key Commands.md>):**
 
 ## [Tags](<Tags.md>)
 - Usually used at the end of blocks or at the beginning, whereas normally [Page References](<Page References.md>) are used alone as parent block or inline as part of a sentence

@@ -1,4 +1,4 @@
-#.doc-mode
+[.--](<../.--.md>)
     - **[## Articles](<../## Articles.md>):**
     - ### [A closer look at roam/render](https://www.zsolt.blog/2021/02/a-closer-look-at-roamrender.html) by [Zsolt Viczian](<../Zsolt Viczian.md>)
         - {{iframe: https://www.zsolt.blog/2021/02/a-closer-look-at-roamrender.html}}
@@ -15,7 +15,7 @@
         - Rendered:
             - {{roam/render: ((FFwfsxVY1))}}
 
-Content #.hide
+Content #.h
     - ```clojure
 (ns roam.keycommand
   (:require

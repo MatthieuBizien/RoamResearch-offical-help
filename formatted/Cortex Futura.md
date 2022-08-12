@@ -28,6 +28,3 @@
 ## [Research](<Research.md>)
 - ### [In search of the Literature X-ray: Using Roam in academic research](https://www.roambrain.com/in-search-of-the-literature-x-ray/) by [Cortex Futura](<Cortex Futura.md>)
 
-## [Twitter](<Twitter.md>)
-- [Cortex Futura]([Cortex Futura](<Cortex Futura.md>))
-

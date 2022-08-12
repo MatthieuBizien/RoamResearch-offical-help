@@ -22,6 +22,11 @@
 
 #[Graph Overview](<Graph Overview.md>) | #[Sidebar](<Sidebar.md>) | #[Page References](<Page References.md>)
 
+## [Features](<Features.md>)
+- It doesn't matter what [page]([Pages](<Pages.md>)) you've written a note on, if you mention an idea, every place where you mentioned that idea will get collected underneath that page in the [Linked References](<Linked References.md>) section when you turn turn that idea into a [page reference]([Page References](<Page References.md>))
+
+- `#` to find or create [Page References](<Page References.md>)
+
 ## [Formatting](<Formatting.md>)
 - The way to alias a link is by writing `[Roam](https://roamresearch.com)`. You can link to blocks, pages or external websites like we've done here: [blocks](((M5invB9KO))), [pages]([Page References](<Page References.md>))
 
@@ -152,10 +157,6 @@
 - **Organizing information is effortless with** [page]([Page References](<Page References.md>))
 
 ## [Zettelkasten](<Zettelkasten.md>)
-#[Page References](<Page References.md>)
-
-#[Page References](<Page References.md>)
-
 #[Current time](<Current time.md>) | #[Page References](<Page References.md>)
 
 - #[Block References](<Block References.md>) | #[Page References](<Page References.md>)
@@ -165,4 +166,8 @@
 - #[Page References](<Page References.md>)
 
 - #[Page References](<Page References.md>)
+
+#[Page References](<Page References.md>)
+
+#[Page References](<Page References.md>)
 

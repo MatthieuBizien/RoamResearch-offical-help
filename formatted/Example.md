@@ -8,12 +8,12 @@
 - [Example](<Example.md>)
 
 - __handy way to discover or remember different keyboard shortcuts__
-                    - **[Example](<Example.md>):**
+                - **[Example](<Example.md>):**
 
 - [Example](<Example.md>)
 
 - Either type `/video timestamp` or hit `Cmd/Ctrl+Alt+t` under a video to enter a timestamp
-                - **[Example](<Example.md>):**
+            - **[Example](<Example.md>):**
 
 ## [September 21st, 2021](<September 21st, 2021.md>)
 - [Example](<Example.md>)

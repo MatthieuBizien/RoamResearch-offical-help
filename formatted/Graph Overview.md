@@ -1,5 +1,4 @@
-- #.doc-mode
-    - #.doc-mode
+- [.--](<.--.md>)
     - ### Open graph overview from left sidebar
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FjJz0CNicqY.gif?alt=media&token=1d8ca7df-25cd-458f-8f9e-09e130327c27)
     - 

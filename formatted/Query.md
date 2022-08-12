@@ -1,4 +1,4 @@
-- #.doc-mode
+- [.--](<.--.md>)
     - # **Types of queries**
         - ### **and**
             - Find all blocks matching multiple conditions – i.e. blocks or their parents containing multiple page or block references.
@@ -62,7 +62,7 @@
 #[Date picker](<Date picker.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Tags](<Tags.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Query](<Query.md>)
 
 ## [Features](<Features.md>)
-- ### [Query]([Query](<Query.md>))
+- ### [Query](<Query.md>)
 
 ## [Long Videos](<Long Videos.md>)
 #[roam/css](<roam/css.md>) | #[Extensions](<Extensions.md>) | #[roam/js](<roam/js.md>) | #[Sidebar](<Sidebar.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Query](<Query.md>)
@@ -110,9 +110,9 @@
 - The "tomorrow" function auto generates tomorrow's daily notes page, it will either give you a static result, or a variable result ("tomorrow" will always point to tomorrow's date, rather than a set date) when used in a [Query](<Query.md>)
 
 ## [Zettelkasten](<Zettelkasten.md>)
-#[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Query](<Query.md>)
-
 #[Current time](<Current time.md>) | #[Page References](<Page References.md>) | #[Block References](<Block References.md>) | #[Indentation](<Indentation.md>) | #[Daily Notes](<Daily Notes.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>) | #[Alias](<Alias.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Indentation](<Indentation.md>) | #[Query](<Query.md>)
+
+#[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Query](<Query.md>)
 
 ## [queries](<queries.md>)
 - See [Query](<Query.md>)

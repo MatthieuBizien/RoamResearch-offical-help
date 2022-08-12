@@ -24,10 +24,10 @@
 - Feel free to browse around [Features](<Features.md>), [Workflows](<Workflows.md>)
 
 ## [Roam Help](<Roam Help.md>)
-# [Workflows](<Workflows.md>)
+- # [Workflows](<Workflows.md>)
 
 ## [Welcome to Roam](<Welcome to Roam.md>)
-- # [Workflows]([Workflows](<Workflows.md>))
+- [Workflows](<Workflows.md>)
 
-- ## Roam is highly flexible and our community discovers new [workflows]([Workflows](<Workflows.md>))
+- Roam is highly flexible and our community discovers new [Workflows](<Workflows.md>)
 

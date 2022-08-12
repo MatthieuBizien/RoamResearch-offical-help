@@ -20,3 +20,7 @@
 - Upload from your local computer (the image gets uploaded to our server)
         - **[Team GIFs](<Team GIFs.md>):**
 
+## [Right Sidebar](<Right Sidebar.md>)
+#[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)
+- **[Team GIFs](<Team GIFs.md>):**
+

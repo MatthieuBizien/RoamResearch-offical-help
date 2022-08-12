@@ -1,4 +1,3 @@
-- #.doc-mode
 - ### [[Bold]]
     - Wrap your text in double asterisks `**like this**` to make it **bold**.
         - You can also press `cmd+b`(or `ctrl+b` on PC).
@@ -93,4 +92,3 @@
         - Blocks
         - Alphabetically
 - ### [[Adding soft line breaks in a block]]
-- #.doc-mode

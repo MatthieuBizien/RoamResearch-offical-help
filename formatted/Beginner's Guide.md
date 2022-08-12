@@ -20,5 +20,5 @@
 
 # Backlinks
 ## [Welcome to Roam](<Welcome to Roam.md>)
-- ### [Show me some video tutorials on where to begin]([Beginner's Guide](<Beginner's Guide.md>))
+- [Show me some video tutorials on where to begin]([Beginner's Guide](<Beginner's Guide.md>))
 

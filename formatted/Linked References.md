@@ -1,7 +1,6 @@
-#.doc-mode
-    - **[### Description](<### Description.md>):**
-        - The Linked References section at the bottom of each page collects all the references to that page that 
-        - You can [filter]([Filter](<Filter.md>)) the linked references based on the other pages referenced in the same parent path
+### Description::
+    - The Linked References section at the bottom of each page collects all the references to that page that 
+    - You can [filter]([Filter](<Filter.md>)) the linked references based on the other pages referenced in the same parent path
 
 # Backlinks
 ## [Attributes](<Attributes.md>)
@@ -34,6 +33,9 @@
 #[Linked References](<Linked References.md>)
 
 #[Date picker](<Date picker.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Tags](<Tags.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>)
+
+## [Features](<Features.md>)
+- It doesn't matter what [page]([Pages](<Pages.md>)) you've written a note on, if you mention an idea, every place where you mentioned that idea will get collected underneath that page in the [Linked References](<Linked References.md>)
 
 ## [Filter](<Filter.md>)
 #[Attributes](<Attributes.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>)
@@ -118,11 +120,11 @@
 - #[Attributes](<Attributes.md>) | #[Block References](<Block References.md>) | #[Linked References](<Linked References.md>)
 
 ## [Zettelkasten](<Zettelkasten.md>)
+- #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>)
+
+- #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>)
+
 #[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block References](<Block References.md>) | #[Linked References](<Linked References.md>)
 
 #[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Query](<Query.md>) | #[Linked References](<Linked References.md>)
-
-- #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>)
-
-- #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>)
 

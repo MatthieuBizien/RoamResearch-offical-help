@@ -1,4 +1,4 @@
-- #.doc-mode
+- [[.--]]
 - ## Below is a [[Kanban]] in Roam. Play around with it to see how you can use it!
     - Kanban example - [[Roam Canon]]
         - {{[[kanban]]}}
@@ -63,4 +63,4 @@
 - ## Articles::
     - ### [How to create a Kanban board on Roam](https://www.roamtips.com/home/roam-kanban-board) by [[Roam Tips]]
 
-- #.doc-mode
+- [[.--]]

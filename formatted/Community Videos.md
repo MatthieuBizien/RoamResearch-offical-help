@@ -19,7 +19,7 @@
 - **[Community Videos](<Community Videos.md>):**
 
 ## [Community](<Community.md>)
-- # [Videos]([Community Videos](<Community Videos.md>))
+- [Community Videos](<Community Videos.md>)
 
 ## [Date picker](<Date picker.md>)
 #[Linked References](<Linked References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Date picker](<Date picker.md>)
@@ -30,8 +30,7 @@
 - **[Community Videos](<Community Videos.md>):**
 
 ## [Longform writing](<Longform writing.md>)
-- #.doc-mode
-    - **[Community Videos](<Community Videos.md>):**
+- **[Community Videos](<Community Videos.md>):**
 
 ## [Mentions](<Mentions.md>)
 - {{[mentions](<mentions.md>): [White Paper](<White Paper.md>)}}
@@ -43,6 +42,13 @@
 
 ## [Pomodoro timer](<Pomodoro timer.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamanAuxilium%2F89YYx2fFe_.gif?alt=media&token=580a8107-d898-4b3e-a42a-4f06f6046cde)
+- **[Community Videos](<Community Videos.md>):**
+
+## [Right Sidebar](<Right Sidebar.md>)
+#[Right Sidebar](<Right Sidebar.md>) | #[Linked References](<Linked References.md>) | #[TODO/DONE](<TODO/DONE.md>)
+- **[Community Videos](<Community Videos.md>):**
+
+## [Studying](<Studying.md>)
 - **[Community Videos](<Community Videos.md>):**
 
 ## [Upload Files](<Upload Files.md>)

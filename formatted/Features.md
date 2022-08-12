@@ -1,27 +1,37 @@
-# **Fundamentals** #.rm-grid
-    - ### [Bidirectional linking]([Bidirectional linking](<Bidirectional linking.md>))
+# [Fundamentals](<Fundamentals.md>) 
+    - ### [Bidirectional linking](<Bidirectional linking.md>)
+        - It doesn't matter what [page]([Pages](<Pages.md>)) you've written a note on, if you mention an idea, every place where you mentioned that idea will get collected underneath that page in the [Linked References](<Linked References.md>) section when you turn turn that idea into a [page reference]([Page References](<Page References.md>))
+        - **[Roam Team Videos](<Roam Team Videos.md>):**
+            - {{[video](<video.md>): https://www.youtube.com/watch?v=v9s3pusI1JQ}}
+            - {{[video](<video.md>): https://www.youtube.com/watch?v=lHkMq3aqDtw&ab_channel=ConorWhite-Sullivan}}
+        - **[Articles](<Articles.md>):**
+            - [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals) by [Maggie Appleton](<Maggie Appleton.md>)
+        - **[Key Commands](<Key Commands.md>):**
+            - `[` to find or create [[Page References](<` to find or create [[Page References.md>)
+            - `cmd+u` (macOS) / `ctrl+u` (PC) to [Find or create page](<Find or create page.md>)
+            - `#` to find or create [Page References](<Page References.md>) as a [tag]([Tags](<Tags.md>))
     - ### [Navigation]([Navigation](<Navigation.md>))
     - ### [Formatting]([Formatting](<Formatting.md>))
     - ### [Search]([Search](<Search.md>))
     - ### [Key Commands]([Key Commands](<Key Commands.md>))
 # **Components** #.rm-grid
     - ## Basic
-        - ### [Blocks]([Blocks](<Blocks.md>))
+        - ### [Blocks](<Blocks.md>)
             - ### [Pages]([Pages](<Pages.md>))
-        - ### [Right Sidebar]([Right Sidebar](<Right Sidebar.md>))
-        - ### [/ Commands]([/ Commands](</ Commands.md>))
-        - ### [Daily Notes]([Daily Notes](<Daily Notes.md>))
-        - ### [TODO/DONE]([TODO/DONE](<TODO/DONE.md>))
-        - ### [Templates]([Templates](<Templates.md>))
-        - ### [Command Palette]([Command Palette](<Command Palette.md>))
+        - ### [Right Sidebar](<Right Sidebar.md>)
+        - ### [/ Commands](</ Commands.md>)
+        - ### [Daily Notes](<Daily Notes.md>)
+        - ### [TODO/DONE](<TODO/DONE.md>)
+        - ### [Templates](<Templates.md>)
+        - ### [Command Palette](<Command Palette.md>)
     - ## Advanced
-        - ### [Filter]([Filter](<Filter.md>))
-        - ### [Kanban]([Kanban](<Kanban.md>))
-        - ### [Table]([Table](<Table.md>))
-        - ### [Query]([Query](<Query.md>))
-        - ### [Slider]([Slider](<Slider.md>))
-        - ### [Calculator]([Calculator](<Calculator.md>))
-        - ### [Encryption]([Encrypted Block](<Encrypted Block.md>))
+        - ### [Filter](<Filter.md>)
+        - ### [Kanban](<Kanban.md>)
+        - ### [Table](<Table.md>)
+        - ### [Query](<Query.md>)
+        - ### [Slider](<Slider.md>)
+        - ### [Calculator](<Calculator.md>)
+        - ### [Encrypted Block](<Encrypted Block.md>)
     - ## Other
         - ### [Left Sidebar]([Left Sidebar](<Left Sidebar.md>))
         - ### [Reactions]([Reactions](<Reactions.md>))
@@ -47,8 +57,8 @@
 - Feel free to browse around [Features](<Features.md>),
 
 ## [Roam Help](<Roam Help.md>)
-# [Features](<Features.md>)
+- # [Features](<Features.md>)
 
 ## [Welcome to Roam](<Welcome to Roam.md>)
-- ## Check out [this page]([Features](<Features.md>))
+- Check out [this page]([Features](<Features.md>))
 

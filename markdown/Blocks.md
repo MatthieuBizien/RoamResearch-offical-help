@@ -1,5 +1,3 @@
-- #.doc-mode
-- #.doc-mode
 - **Each bullet you see is a __block__, and we write them inside pages like this one.**
     - We create new blocks by pressing `Enter`; and nest them using `Tab` (press`Shift+Tab` to unindent)-
         - This creates __children blocks__, which we can expand, collapse, and focus. 
@@ -48,4 +46,3 @@
     - ### Blocks in Roam Research: Part One - What Makes Them Unique by [[Lisa-Marie Cabrelli]]
         - {{[[video]]: https://www.youtube.com/watch?v=hGzTuIPXv7I}}
 #[[Blocks]] | #[[Block References]]
-- #.doc-mode

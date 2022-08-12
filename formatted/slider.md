@@ -10,7 +10,7 @@
 - **[certainty](<certainty.md>):** {{[slider](<slider.md>)}
 
 ## [Slider](<Slider.md>)
-Type `{{[slider](<slider.md>)}
+- Type `{{[slider](<slider.md>)}
 
 - {{[slider](<slider.md>)}
 

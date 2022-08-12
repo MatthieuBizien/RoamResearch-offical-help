@@ -1,5 +1,5 @@
 - [[Essay]] [[Paul Graham]]
-- [[Full Text]] #.doc-mode
+- [[Full Text]] 
     January 2004
     
         - Have you ever seen an old photo of yourself and been embarrassed at the way you looked? __Did we actually dress like that?__ We did. And we had no idea how silly we looked. It's the nature of fashion to be invisible, in the same way the movement of the earth is invisible to all of us riding on it.

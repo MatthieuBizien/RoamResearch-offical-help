@@ -1,4 +1,4 @@
-- Dev docs #.hide
+- Dev docs #.h
     - Tutorials::
     - How-to guides::
     - [[Reference]]
@@ -291,7 +291,7 @@
         - Areas of specialty::
         - Contact::
         - Price::
-- Docs #.hide
+- Docs #.h
     - {{[[TODO]]}} Introduction (few bullets) and some GIFs
     - Roam Team Videos::
         - {{[[TODO]]}} 
@@ -300,7 +300,7 @@
     - Community Videos::
         - {{[[TODO]]}} 
     - Key Commands::
-- Video/article #.hide
+- Video/article #.h
     - {{[[TODO]]}} [Article link]() or {{[[video]]: }}
         - Features mentioned::
             - Page refs to features 

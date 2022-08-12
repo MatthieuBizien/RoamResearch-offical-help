@@ -1,4 +1,3 @@
-- #.doc-mode
 - Encrypted block creates encrypted text that can only be unlocked with a secret password
     - Try clicking on the encrypted block below, and enter the passphrase `hello`
     - {{encrypt:U2FsdGVkX19S1e0ybaJH2keLGMifvVhqsBlVINdMpvPegcL01PWU6gjltQgbMGwzLoZWQdzrejJ8tJFNKIjNAUfBZ2o4d5XVpZRhDyICt8DoDCbPD65ATX9HHfM4Oa72zxv5jKUESYe0xku/Yqj3Lg==}}
@@ -12,5 +11,5 @@
 - If you want more thorough encryption, you can use the [Encrypted Block](<Encrypted Block.md>).
 
 ## [Features](<Features.md>)
-- ### [Encryption]([Encrypted Block](<Encrypted Block.md>))
+- ### [Encrypted Block](<Encrypted Block.md>)
 

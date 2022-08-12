@@ -131,10 +131,10 @@ About this Paper
 - {{[mentions](<mentions.md>): [White Paper](<White Paper.md>)}
 
 ## [Roam Help](<Roam Help.md>)
-# [White Paper](<White Paper.md>)
+- # [White Paper](<White Paper.md>)
 
 ## [Welcome to Roam](<Welcome to Roam.md>)
-- ## And if you really want to geek out, you should read our [White Paper](<White Paper.md>)
+- And if you really want to geek out, you should read our [White Paper](<White Paper.md>)
 
 ## [Why Roam?](<Why Roam?.md>)
 *Conor mentions the old help graph in this thread. If you are searching for the white paper, he mentioned, find it in this graph [here]([White Paper](<White Paper.md>))

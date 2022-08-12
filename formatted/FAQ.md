@@ -1,4 +1,3 @@
-- #.doc-mode
 - # [Account]([Account](<Account.md>))
     - ### **Can I change my profile picture?**
         - Unfortunately no you can't yet change your profile picture.
@@ -373,5 +372,5 @@
 
 # Backlinks
 ## [Roam Help](<Roam Help.md>)
-# [FAQ](<FAQ.md>)
+- # [FAQ](<FAQ.md>)
 

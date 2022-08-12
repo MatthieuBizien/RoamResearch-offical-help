@@ -11,14 +11,13 @@
         - {{[video](<video.md>): https://www.youtube.com/watch?v=kxWykFHUtNo}}
 - **[## Roam Team Videos](<## Roam Team Videos.md>):**
     - https://twitter.com/i/status/1209449973902802944
-- #.doc-mode
 
 # Backlinks
 ## [ Commands](< Commands.md>)
 - [Calculator](<Calculator.md>)
 
 ## [Features](<Features.md>)
-- ### [Calculator]([Calculator](<Calculator.md>))
+- ### [Calculator](<Calculator.md>)
 
 ## [Kids](<Kids.md>)
 - #[Pomodoro timer](<Pomodoro timer.md>) | #[KaTeX](<KaTeX.md>) | #[Calculator](<Calculator.md>)

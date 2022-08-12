@@ -18,6 +18,3 @@
 ## [Right Sidebar](<Right Sidebar.md>)
 - ### [How to use the Roam sidebar](https://www.roamtips.com/home/roam-research-sidebar) by [Roam Tips](<Roam Tips.md>)
 
-## [Twitter](<Twitter.md>)
-- [Roam Tips]([Roam Tips](<Roam Tips.md>))
-

@@ -6,7 +6,7 @@
 - All settings, including keyboard shortcut customizations accessible from [Command Palette](<Command Palette.md>)
 
 ## [Features](<Features.md>)
-- ### [Command Palette]([Command Palette](<Command Palette.md>))
+- ### [Command Palette](<Command Palette.md>)
 
 ## [September 28th, 2021](<September 28th, 2021.md>)
 - All settings, including keyboard shortcut customizations accessible from [Command Palette](<Command Palette.md>)

@@ -29,8 +29,6 @@
 - #[Daily Notes](<Daily Notes.md>) | #[Page References](<Page References.md>) | #[Indentation](<Indentation.md>)
 
 ## [Zettelkasten](<Zettelkasten.md>)
-#[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Query](<Query.md>) | #[Linked References](<Linked References.md>) | #[Indentation](<Indentation.md>)
-
 #[Current time](<Current time.md>) | #[Page References](<Page References.md>) | #[Block References](<Block References.md>) | #[Indentation](<Indentation.md>)
 
 #[Current time](<Current time.md>) | #[Page References](<Page References.md>) | #[Block References](<Block References.md>) | #[Indentation](<Indentation.md>) | #[Daily Notes](<Daily Notes.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>) | #[Alias](<Alias.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Indentation](<Indentation.md>)
@@ -38,4 +36,6 @@
 - #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>) | #[Unlinked References](<Unlinked References.md>) | #[Indentation](<Indentation.md>)
 
 - #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>) | #[Unlinked References](<Unlinked References.md>) | #[Indentation](<Indentation.md>)
+
+#[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Query](<Query.md>) | #[Linked References](<Linked References.md>) | #[Indentation](<Indentation.md>)
 

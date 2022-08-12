@@ -47,9 +47,6 @@
 ## [Themes](<Themes.md>)
 - ### Applying Custom Themes to you Graph by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
-## [Twitter](<Twitter.md>)
-- [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))
-
 ## [Zettelkasten](<Zettelkasten.md>)
 - ### Live Zettling on Roam by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 

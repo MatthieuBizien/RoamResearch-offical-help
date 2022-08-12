@@ -1,4 +1,3 @@
-- #.doc-mode
 - # [Account]([[Account]])
     - ### **Can I change my profile picture?**
         - Unfortunately no you can't yet change your profile picture.

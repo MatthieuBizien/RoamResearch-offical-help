@@ -3,6 +3,9 @@
 ## [Bidirectional linking](<Bidirectional linking.md>)
 - [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals) by [Maggie Appleton](<Maggie Appleton.md>)
 
+## [Features](<Features.md>)
+- [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals) by [Maggie Appleton](<Maggie Appleton.md>)
+
 ## [Themes](<Themes.md>)
 - **[Designer](<Designer.md>):** [Maggie Appleton](<Maggie Appleton.md>)
 

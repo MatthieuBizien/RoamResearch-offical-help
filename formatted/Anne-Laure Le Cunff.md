@@ -28,5 +28,5 @@
 - ### [Roam themes: how to style Roam Research with custom CSS](https://nesslabs.com/roam-research-themes-custom-styling-css) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>)
 
 ## [roam/js](<roam/js.md>)
-- ### [JavaScript plugins for Roam Research](https://nesslabs.com/roam-research-javascript-plugins) — [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>)
+### [JavaScript plugins for Roam Research](https://nesslabs.com/roam-research-javascript-plugins) — [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>)
 

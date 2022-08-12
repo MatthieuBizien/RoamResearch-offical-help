@@ -2,13 +2,13 @@
 # Backlinks
 ## [Coaching](<Coaching.md>)
 - # [R.J. Nestor]([R.J. Nestor](<R.J. Nestor.md>))
-            - **[Info](<Info.md>):**
+        - **[Info](<Info.md>):**
 
 - # [Cortex Futura]([Cortex Futura](<Cortex Futura.md>)) 
-            - **[Info](<Info.md>):**
+        - **[Info](<Info.md>):**
 
 - # [Maarten van Doorn](<Maarten van Doorn.md>)
-            - **[Info](<Info.md>):**
+        - **[Info](<Info.md>):**
 
 ## [roam/templates](<roam/templates.md>)
 - `plugin_name`

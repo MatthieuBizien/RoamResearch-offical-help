@@ -1,5 +1,5 @@
-- #.doc-mode
-- #.doc-mode
+- [.--](<.--.md>)
+- [.--](<.--.md>)
     - **[## Team GIFs](<## Team GIFs.md>):**
         - ### Filter includes
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F0Mny65tH21.gif?alt=media&token=2f6a477f-7386-4bfb-b3e1-60ef67657814)
@@ -34,7 +34,7 @@
 #[Date picker](<Date picker.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Tags](<Tags.md>) | #[Filter](<Filter.md>)
 
 ## [Features](<Features.md>)
-- ### [Filter]([Filter](<Filter.md>))
+- ### [Filter](<Filter.md>)
 
 ## [Filter](<Filter.md>)
 #[Attributes](<Attributes.md>) | #[Filter](<Filter.md>)

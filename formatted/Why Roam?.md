@@ -12,8 +12,8 @@ Community Videos::
 - # [Why Roam?](<Why Roam?.md>)
 
 ## [Roam Help](<Roam Help.md>)
-# [Why Roam?](<Why Roam?.md>)
+- # [Why Roam?](<Why Roam?.md>)
 
 ## [Welcome to Roam](<Welcome to Roam.md>)
-- ## If you want to learn more about why Roam is __different__, see [Why Roam?](<Why Roam?.md>)
+- If you want to learn more about why Roam is __different__, see [Why Roam?](<Why Roam?.md>)
 

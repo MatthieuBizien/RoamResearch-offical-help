@@ -222,8 +222,6 @@
 - #[Attributes](<Attributes.md>) | #[Block References](<Block References.md>)
 
 ## [Zettelkasten](<Zettelkasten.md>)
-#[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block References](<Block References.md>)
-
 #[Current time](<Current time.md>) | #[Page References](<Page References.md>) | #[Block References](<Block References.md>)
 
 - #[Block References](<Block References.md>)
@@ -231,4 +229,6 @@
 - #[Page References](<Page References.md>) | #[Block References](<Block References.md>)
 
 - #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>) | #[Unlinked References](<Unlinked References.md>) | #[Indentation](<Indentation.md>) | #[Block References](<Block References.md>)
+
+#[Page References](<Page References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block References](<Block References.md>)
 

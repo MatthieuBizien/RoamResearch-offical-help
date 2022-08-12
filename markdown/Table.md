@@ -1,4 +1,4 @@
-- #.doc-mode
+- [[.--]]
 - {{[[table]]}}
 - ## Articles::
     - [How to build a table in Roam Research](https://web.archive.org/web/20201109133038/https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] 
@@ -11,4 +11,4 @@
     - ### Tables with Complex Cells (no audio) by [[Conor White-Sullivan]]
         - {{[[video]]: https://www.youtube.com/watch?v=J_hH5vH2DTo}}
 #[[Table]]
-- #.doc-mode
+- [[.--]]

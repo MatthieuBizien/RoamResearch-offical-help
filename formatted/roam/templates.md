@@ -1,4 +1,4 @@
-- Dev docs #.hide
+- Dev docs #.h
     - **[Tutorials](<../Tutorials.md>):**
     - **[How-to guides](<../How-to guides.md>):**
     - [Reference](<../Reference.md>)
@@ -291,7 +291,7 @@
         - **[Areas of specialty](<../Areas of specialty.md>):**
         - **[Contact](<../Contact.md>):**
         - **[Price](<../Price.md>):**
-- Docs #.hide
+- Docs #.h
     - [ ] Introduction (few bullets) and some GIFs
     - **[Roam Team Videos](<../Roam Team Videos.md>):**
         - [ ] 
@@ -300,7 +300,7 @@
     - **[Community Videos](<../Community Videos.md>):**
         - [ ] 
     - **[Key Commands](<../Key Commands.md>):**
-- Video/article #.hide
+- Video/article #.h
     - [ ] [Article link]() or {{[video](<../video.md>): }}
         - **[Features mentioned](<../Features mentioned.md>):**
             - Page refs to features 

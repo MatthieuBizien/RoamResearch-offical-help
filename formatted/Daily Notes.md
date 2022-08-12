@@ -1,4 +1,4 @@
-#.doc-mode
+[.--](<.--.md>)
 ## **Daily Notes are the backbone of the Roam experience.**
 When you sign into Roam, you will start on a page with today's date.
 We encourage people to start writing on this page because it gives context to your notes.
@@ -38,7 +38,7 @@ Your future self will thank you!
 - If at the end of the pomodoro session I haven't returned to my [Daily Notes](<Daily Notes.md>)
 
 ## [Features](<Features.md>)
-- ### [Daily Notes]([Daily Notes](<Daily Notes.md>))
+- ### [Daily Notes](<Daily Notes.md>)
 
 ## [German](<German.md>)
 #[Graph Overview](<Graph Overview.md>) | #[Search](<Search.md>) | #[Daily Notes](<Daily Notes.md>)

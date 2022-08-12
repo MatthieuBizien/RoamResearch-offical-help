@@ -1,4 +1,4 @@
-#.doc-mode
+[[.--]]
 ## **Daily Notes are the backbone of the Roam experience.**
 When you sign into Roam, you will start on a page with today's date.
 We encourage people to start writing on this page because it gives context to your notes.

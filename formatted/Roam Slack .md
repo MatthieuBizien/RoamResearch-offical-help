@@ -5,5 +5,5 @@
 
 # Backlinks
 ## [Community](<Community.md>)
-- # [Slack]([Roam Slack ](<Roam Slack .md>))
+- [Roam Slack ](<Roam Slack .md>)
 
