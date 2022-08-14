@@ -79932,9 +79932,15 @@
     "uid": "08-13-2022"
   },
   {
-    ":log/id": 1660482687915,
-    "create-time": 1660482687917,
-    "edit-time": 1660482687917,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":log/id": 1660478971605,
+    "create-time": 1660478971678,
+    "edit-time": 1660478971682,
     "title": "August 14th, 2022",
     "uid": "08-14-2022"
   }
