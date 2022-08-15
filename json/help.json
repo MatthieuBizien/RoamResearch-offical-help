@@ -42267,6 +42267,7 @@
         },
         "create-time": 1615275082175,
         "edit-time": 1660326326589,
+        "heading": 2,
         "refs": [
           {
             "uid": "Qv91DliJE"
@@ -42284,6 +42285,7 @@
         },
         "create-time": 1614802850362,
         "edit-time": 1651852339729,
+        "heading": 2,
         "string": "[Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)",
         "uid": "n4MQraKIM"
       },
@@ -42408,20 +42410,46 @@
                     ":edit/user": {
                       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                     },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660569584306,
+                        "edit-time": 1660569630760,
+                        "string": "`var(--inline-highlight-color)` for the color of ^^highlights^^",
+                        "uid": "LuuLR5utg"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660569633348,
+                        "edit-time": 1660569673436,
+                        "string": "`var(--highlight-color)` for color of highlighted blocks due to zooming out in a embedded context like within backlinks, sidebar, or block refs.",
+                        "uid": "8LW3Mdix-"
+                      }
+                    ],
                     "create-time": 1660569548673,
-                    "edit-time": 1660569553992,
-                    "string": "Changed the ",
+                    "edit-time": 1660569582740,
+                    "string": "Changed the styling when you zoom out of a block in a context - like sidebar and moved the color into a css variable ",
                     "uid": "QyeefpJMU"
                   }
                 ],
                 "create-time": 1660569541178,
-                "edit-time": 1660569548680,
+                "edit-time": 1660569677513,
                 "refs": [
                   {
                     "uid": "yKQVOgmDS"
                   }
                 ],
-                "string": "[[CSS Changes]]",
+                "string": "#[[CSS Changes]]",
                 "uid": "SO5vqJigy"
               }
             ],
@@ -80044,7 +80072,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "g2fY6lQda"
+            ":block/uid": "rdJcOMHVE"
           }
         ],
         ":create/user": {
@@ -80054,26 +80082,14 @@
           ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
         },
         "create-time": 1660569319018,
-        "edit-time": 1660569351547,
+        "edit-time": 1660569695919,
         "refs": [
           {
-            "uid": "g2fY6lQda"
+            "uid": "rdJcOMHVE"
           }
         ],
-        "string": "{{embed-path: ((g2fY6lQda))}}",
+        "string": "{{embed-path: ((rdJcOMHVE))}}",
         "uid": "ZxmRGxjhI"
-      },
-      {
-        ":create/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        },
-        ":edit/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        },
-        "create-time": 1660569351539,
-        "edit-time": 1660569351539,
-        "string": "",
-        "uid": "RlMjIvhA2"
       }
     ],
     "create-time": 1660325911645,

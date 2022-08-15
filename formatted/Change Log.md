@@ -1,13 +1,15 @@
-- [Updating Roam]([Updating Roam](<Updating Roam.md>))
-- [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
+- ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
+- ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [August 15th, 2022](<August 15th, 2022.md>)
         - [New Features](<New Features.md>) #[Alpha](<Alpha.md>)
             - `{{embed-path: ((block-ref))}}` - Experimental new view of block embeds where path is visible and clickable - similar to what you'd see for the block in inline-references 
                 - [Problem it Solves](<Problem it Solves.md>)
                     - Often when viewing embeds, it is frustrating to not be able to see the context of the embed - the embed-path component lets you see the parent path of the block at a glance, and navigate to it quickly.
-        - [CSS Changes](<CSS Changes.md>)
-            - Changed the styling when you zoom out of a block in a context - like sidebar, 
+        - #[CSS Changes](<CSS Changes.md>)
+            - Changed the styling when you zoom out of a block in a context - like sidebar and moved the color into a css variable 
+                - `var(--inline-highlight-color)` for the color of ^^highlights^^
+                - `var(--highlight-color)` for color of highlighted blocks due to zooming out in a embedded context like within backlinks, sidebar, or block refs.
     - [August 11th, 2022](<August 11th, 2022.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - Search field to help you find the graph you want to switch to d
