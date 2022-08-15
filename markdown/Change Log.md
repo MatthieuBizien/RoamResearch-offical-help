@@ -1,6 +1,13 @@
 - [Updating Roam]([[Updating Roam]])
 - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[August 15th, 2022]]
+        - [[New Features]] #[[Alpha]]
+            - `{{embed-path: ((block-ref))}}` - Experimental new view of block embeds where path is visible and clickable - similar to what you'd see for the block in inline-references 
+                - [[Problem it Solves]]
+                    - Often when viewing embeds, it is frustrating to not be able to see the context of the embed - the embed-path component lets you see the parent path of the block at a glance, and navigate to it quickly.
+        - [[CSS Changes]]
+            - Changed the styling when you zoom out of a block in a context - like sidebar, 
     - [[August 11th, 2022]]
         - [[Quality of Life Improvements]]
             - Search field to help you find the graph you want to switch to d

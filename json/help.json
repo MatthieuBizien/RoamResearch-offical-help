@@ -42298,6 +42298,146 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-15-2022"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "odqZ-cQS3"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "MtgopsnbI"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660569480908,
+                            "edit-time": 1660569537859,
+                            "string": "Often when viewing embeds, it is frustrating to not be able to see the context of the embed - the embed-path component lets you see the parent path of the block at a glance, and navigate to it quickly.",
+                            "uid": "0TeNBg8DA"
+                          }
+                        ],
+                        "create-time": 1660569473736,
+                        "edit-time": 1660569480915,
+                        "refs": [
+                          {
+                            "uid": "MtgopsnbI"
+                          }
+                        ],
+                        "string": "[[Problem it Solves]]",
+                        "uid": "tNX6Z4KBj"
+                      }
+                    ],
+                    "create-time": 1660569386409,
+                    "edit-time": 1660569473395,
+                    "string": "`{{embed-path: ((block-ref))}}` - Experimental new view of block embeds where path is visible and clickable - similar to what you'd see for the block in inline-references ",
+                    "uid": "fTCE5kouH"
+                  }
+                ],
+                "create-time": 1660569363479,
+                "edit-time": 1660569391100,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "odqZ-cQS3"
+                  }
+                ],
+                "string": "[[New Features]] #[[Alpha]]",
+                "uid": "1FYt4brK6"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "yKQVOgmDS"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1660569548673,
+                    "edit-time": 1660569553992,
+                    "string": "Changed the ",
+                    "uid": "QyeefpJMU"
+                  }
+                ],
+                "create-time": 1660569541178,
+                "edit-time": 1660569548680,
+                "refs": [
+                  {
+                    "uid": "yKQVOgmDS"
+                  }
+                ],
+                "string": "[[CSS Changes]]",
+                "uid": "SO5vqJigy"
+              }
+            ],
+            "create-time": 1660569358115,
+            "edit-time": 1660569362578,
+            "refs": [
+              {
+                "uid": "08-15-2022"
+              }
+            ],
+            "string": "[[August 15th, 2022]]",
+            "uid": "rdJcOMHVE"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-11-2022"
               }
             ],
@@ -79900,6 +80040,42 @@
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
     ":log/id": 1660543200000,
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "g2fY6lQda"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1660569319018,
+        "edit-time": 1660569351547,
+        "refs": [
+          {
+            "uid": "g2fY6lQda"
+          }
+        ],
+        "string": "{{embed-path: ((g2fY6lQda))}}",
+        "uid": "ZxmRGxjhI"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1660569351539,
+        "edit-time": 1660569351539,
+        "string": "",
+        "uid": "RlMjIvhA2"
+      }
+    ],
     "create-time": 1660325911645,
     "edit-time": 1660325911645,
     "title": "August 15th, 2022",
@@ -79943,5 +80119,41 @@
     "edit-time": 1660478971682,
     "title": "August 14th, 2022",
     "uid": "08-14-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1660569386418,
+    "edit-time": 1660569386418,
+    "title": "Alpha",
+    "uid": "odqZ-cQS3"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1660569480917,
+    "edit-time": 1660569480917,
+    "title": "Problem it Solves",
+    "uid": "MtgopsnbI"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1660569548682,
+    "edit-time": 1660569548682,
+    "title": "CSS Changes",
+    "uid": "yKQVOgmDS"
   }
 ]
