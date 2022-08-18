@@ -1,5 +1,6 @@
 - # [Welcome to Roam](<Welcome to Roam.md>)
 - ---
+- # [Change Log](<Change Log.md>)
 - # [Workflows](<Workflows.md>)
 - # [Features](<Features.md>)
 - ---

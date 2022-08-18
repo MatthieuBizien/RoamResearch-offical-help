@@ -1,6 +1,60 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 17th, 2022](<August 17th, 2022.md>)
+        - [New Features](<New Features.md>)  #[Improvements](<Improvements.md>)
+            - [Latex](<Latex.md>) now will parse block references, including other latex so you can comp
+                - **[Example](<Example.md>):**
+                    - $$\Large$$\frac{$$n_1$$}{$$n^n$$}$$ + \sum_{i=1}^z $$\mapsto $$n^n$$$$ $$
+                        - ### Recursive Latex
+                            - $$\frac{$$n_1$$}{$$n^n$$}$$
+                                - $$n_1$$
+                                - $$n^n$$
+                        - ### Plain Text
+                            - \sum_{i=1}^z
+                                - ^z
+                                - i=1
+                        - ### Reference of Reference - to describe how variable used in another context
+                            - $$\mapsto $$n^n$$$$
+                                - Here you can describe the meaning of mapsto n^n
+                                - $$n^n$$
+                                    - Here you could describe the meaning of the n^n that is being described here
+                        - ### Sizing
+                            - \Large
+                                - Try changing \Large to 
+                                    - \Huge
+                                    - \Small
+                - **[Use Cases](<Use Cases.md>):**
+                    - Being able to separately describe each element of the equation.
+        - #[Quality of Life Improvements](<Quality of Life Improvements.md>) #[Bug Fixes](<Bug Fixes.md>) **[Feature Behavior Change](<Feature Behavior Change.md>)**
+            - Behavior of [Inline Calculator](<Inline Calculator.md>) `{{calc: }}` for parsing block references has changed 
+                - [Old State](<Old State.md>)
+                    - Previously, when you composed calculations across many blocks - all of the math text was pulled up and flattened - which could lead to unexpected behavior when building up statements and making calculations that depended on other calculations 
+                        - **[Example](<Example.md>):**
+                            - Wait? 2 times 4 doesn't equal 5! ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FeoLoaSY0y_.png?alt=media&token=0fb80ad2-894a-40b5-ba87-841b7fa3cd63)
+                                - **[After Change](<After Change.md>):** 2 times 4 = 8  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FC500DSjbn0.png?alt=media&token=5ea62b8f-f710-4e59-ba20-b7d4e25c474e)
+                        - The old hack to get around required you to wrap block references in a `( )` to make sure that that each component in the calculation was evaluated independently before the values were aggregated  After this update, every reference used in a calculation will be wrapped in a `()` automatically before calculation is applied remember [PEMDAS](<PEMDAS.md>)?
+                            - This is what is actually being evaluated now - if you're using lots of nested refs  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_0bfRasZfz.png?alt=media&token=edd56c7d-6590-44be-92e3-4b187a50fad2)
+                - [New State](<New State.md>)
+                    - After this update, every reference used in a calculation will be wrapped in a `()` automatically before calculation is applied
+                        - **[Example](<Example.md>):**
+                            - 2 times 4 = 8  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FC500DSjbn0.png?alt=media&token=5ea62b8f-f710-4e59-ba20-b7d4e25c474e)
+                                - [Try it here](((YdPt3ZIEV)))
+                        - 2 times 20 = 40, not 21
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FZCxS2W-TvQ.png?alt=media&token=64cd1702-a33f-4517-b198-ebad16f9836c)
+                    - **[New Features](<New Features.md>):**
+                        - Clicking the green text of the [calc](<calc.md>) function has always displayed content of the internals of the calcuation, but now if you click on the = sign after doing this, you can see the fully expanded function which is being evaluated, so you can confirm that everything is happening the way you want it to 
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvIZpt-B0OI.png?alt=media&token=a87650f5-0fcc-46c0-a31a-2231b01f9d6d)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F0QAGtWb2NP.png?alt=media&token=f7821d1a-5834-45bc-99c0-6240757cffcd)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_0bfRasZfz.png?alt=media&token=edd56c7d-6590-44be-92e3-4b187a50fad2)
+                            - ## Try it yourself
+                                - [Z](<Z.md>) {{[calc](<calc.md>): ((9VZ6lwlfx)) * ((zqspvHH4e))}}
+                                    - [X](<X.md>) {{calc: ((pJOOIdwKC)) + ((U35nxx0ha))}}
+                                        - 1
+                                        - 1
+                                    - [Y](<Y.md>) {{calc: ((xdm0aDOmu)) + ((k9UaJrwOM))}}
+                                        - 2
+                                        - 2
     - [August 15th, 2022](<August 15th, 2022.md>)
         - [New Features](<New Features.md>) #[Alpha](<Alpha.md>)
             - `{{embed-path: ((block-ref))}}` - Experimental new view of block embeds where path is visible and clickable - similar to what you'd see for the block in inline-references 
@@ -586,4 +640,10 @@ graph TD
 # Backlinks
 ## [FAQ](<FAQ.md>)
 - Please check our [Change Log](<Change Log.md>)
+
+## [Latex](<Latex.md>)
+- [Change Log](<Change Log.md>)
+
+## [Roam Help](<Roam Help.md>)
+- # [Change Log](<Change Log.md>)
 

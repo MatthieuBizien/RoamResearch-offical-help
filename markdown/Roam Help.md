@@ -1,5 +1,6 @@
 - # [[Welcome to Roam]]
 - ---
+- # [[Change Log]]
 - # [[Workflows]]
 - # [[Features]]
 - ---
