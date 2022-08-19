@@ -83683,9 +83683,15 @@
     "uid": "hGEYP9Zvf"
   },
   {
-    ":log/id": 1660910871227,
-    "create-time": 1660910871230,
-    "edit-time": 1660910871230,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1660918220407,
+    "create-time": 1660918220407,
+    "edit-time": 1660918220407,
     "title": "August 19th, 2022",
     "uid": "08-19-2022"
   }
