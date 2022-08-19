@@ -1,6 +1,71 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 18th, 2022](<August 18th, 2022.md>)
+        - [New Features](<New Features.md>) __sort of__ #[Tag Styles](<Tag Styles.md>)
+            - We decided to include some of the most useful [roam/css](<roam/css.md>) [Tag Styles](<Tag Styles.md>) we've developed for ourselves, you may find helpful/inspiring .rm-E  .rm-g  and .rm-hide
+                - ## .rm-E 
+                    - **[Behavior](<Behavior.md>):**
+                        - Blocks tagged with `#.rm-E` will display their immediate children next to them, 
+                            - rather than indented below them
+                    - **[Use Cases](<Use Cases.md>):**
+                        - When you want a sort of [Mind Map](<Mind Map.md>) light behavior, 
+                            - or just want to view things side by side
+                        - 🤷‍♂️ it's nice to have when you want it not much more to it than that
+                    - **[Example](<Example.md>):**
+                        - A #.rm-E 
+                            - B
+                                - Note that this only impacts the first level of nesting
+                            - C
+                                - If you want to go further, you have to keep using the tag
+                            - D [.rm-E](<.rm-E.md>)
+                                - Using the link, not the tag
+                                - so you can see where it is used
+                                - E [.rm-E](<.rm-E.md>) 
+                                    -  since this class hides itself when used as a tag
+                - ## .rm-g 
+                    - **[Behavior](<Behavior.md>):**
+                        - Blocks tagged with `#.rm-g` are hidden when they are open  - revealing the children nested within them 
+                            - Children are styled to look like they are one level higher in the block hiearchy than they are -- useful for adding meta-data tags without visually cluttering your outline.
+                    - **[Use Cases](<Use Cases.md>):**
+                        - when you want to group a collection of items and hide the block that contains them
+                    - **[Example](<Example.md>):**
+                        - [.rm-g](<.rm-g.md>) #[Fruits](<Fruits.md>) 
+                            - Apples
+                            - Pears
+                            - Cherries
+                - ## .rm-hide
+                    - **[Use Cases](<Use Cases.md>):**
+                        - When you want to add some info to a block without visually cluttering things up - but still allow the info to be discoverable easily
+                    - **[Behavior](<Behavior.md>):**
+                        - This block only displays when it is open - when it is closed, it is replaced with a very light bar across it's length
+                            - The bar get's darker on hover, and which
+                                - when you click it - it opens the block
+                        - In some ways a mirror of .rm-g  
+                    - **[Example](<Example.md>):**
+                        - [x] This is a task that I'm hiding the metadata for
+                            - **[Total Time](<Total Time.md>):** 2 min #.rm-hide  
+                                - **[Start time](<Start time.md>):** 17:26
+                                - **[End time](<End time.md>):** 17:28  
+                        - The block above me ((((jq0MYtn5U)))) has a hidden child - hover between us and click the bar to expand it - or arrow key up from me, or down from it, and you'll see it
+                            - Have some hidden children here too
+                            - #.rm-hide 
+                                - hidden children
+                            - Look between us!
+        - [CSS Changes](<CSS Changes.md>)
+            - Zooming out from sidebar, embed-path, or backlinks now outlines the block you were originally focused on, rather than coloring the block and all it's children with an obnoxious yellow
+                - **[Example](<Example.md>):**
+                    - Shift click on this reference [>](<>.md>) Socrates is Mortal and then click a breadcrumb in the sidebar and 
+                        - you'll see this  ->  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKfjpSlNswz.png?alt=media&token=7ab3240d-5f22-4292-b0d0-6ca3d217b115)
+            - Images now display inline (previously the forced a line break)
+            - References of blockquotes and Images now display inline
+                - Now it is easier to use them for building up compound statements
+                    - **[Example](<Example.md>):**
+                        - [>](<>.md>) All Men are Mortal
+                        - [>](<>.md>) Socrates is a Man
+                        - [>](<>.md>) Socrates is Mortal
+                        - > [IF](<IF.md>) [>](<>.md>) All Men are Mortal [AND](<AND.md>) [>](<>.md>) Socrates is a Man 
+[THEN](<THEN.md>) [>](<>.md>) Socrates is Mortal
     - [August 17th, 2022](<August 17th, 2022.md>)
         - [New Features](<New Features.md>)  #[Improvements](<Improvements.md>)
             - [Latex](<Latex.md>) now will parse block references, including other latex so you can comp

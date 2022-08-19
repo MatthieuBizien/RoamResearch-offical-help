@@ -17,6 +17,9 @@
 ## [Articles](<Articles.md>)
 - {{[roam/css](<../roam/css.md>)}
 
+## [Change Log](<Change Log.md>)
+- We decided to include some of the most useful [roam/css](<../roam/css.md>)
+
 ## [Features](<Features.md>)
 - ### [roam/css](<../roam/css.md>)
 
@@ -28,6 +31,11 @@
 
 ## [TODO/DONE](<TODO/DONE.md>)
 #[roam/css](<../roam/css.md>)
+
+## [Tag Styles](<Tag Styles.md>)
+- {{[roam/css](<../roam/css.md>)}
+
+- What you'll see if you hit turn on the [roam/css](<../roam/css.md>)
 
 ## [Themes](<Themes.md>)
 - {{[roam/css](<../roam/css.md>)}
