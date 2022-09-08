@@ -83940,9 +83940,15 @@
     "uid": "09-07-2022"
   },
   {
-    ":log/id": 1662618087988,
-    "create-time": 1662618087991,
-    "edit-time": 1662618087991,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1662645295845,
+    "create-time": 1662645295846,
+    "edit-time": 1662645295846,
     "title": "September 8th, 2022",
     "uid": "09-08-2022"
   }
