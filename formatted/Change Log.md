@@ -1,6 +1,16 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [September 7th, 2022](<September 7th, 2022.md>)
+        - [New Features](<New Features.md>)  #[Improvements](<Improvements.md>)
+            - [Blueprint Color](https://blueprintjs.com/docs/versions/3/[core](<core.md>)/colors) palettes for code blocks (these colors match what is used in Roam)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtBmBkVpT0d.png?alt=media&token=35ab4556-dbd5-4694-9621-63a726147657)
+        - #[Quality of Life Improvements](<Quality of Life Improvements.md>) #[Bug Fixes](<Bug Fixes.md>)
+            - Fixed checkbox alignment on [Firefox](<Firefox.md>)
+                - **Before**
+                    - ![Screenshot 2022-09-07 at 17 57 57](https://user-images.githubusercontent.com/285292/188948053-ba930d81-6bc4-4de9-8d13-d0fe9acc01f5.png)
+                - **After**
+                    - ![Screenshot 2022-09-07 at 17 58 16](https://user-images.githubusercontent.com/285292/188948064-96cd01d0-6822-4294-b3fb-19462121368a.png)
     - [August 18th, 2022](<August 18th, 2022.md>)
         - [New Features](<New Features.md>) __sort of__ #[Tag Styles](<Tag Styles.md>)
             - We decided to include some of the most useful [roam/css](<roam/css.md>) [Tag Styles](<Tag Styles.md>) we've developed for ourselves, you may find helpful/inspiring .rm-E  .rm-g  and .rm-hide

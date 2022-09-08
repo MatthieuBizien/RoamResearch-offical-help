@@ -42791,6 +42791,224 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "09-07-2022"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "aD6Ti3Y_u"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtBmBkVpT0d.png?alt=media&token=35ab4556-dbd5-4694-9621-63a726147657": {
+                              ":height": null,
+                              ":width": 356
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1662593727475,
+                        "edit-time": 1662593740886,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtBmBkVpT0d.png?alt=media&token=35ab4556-dbd5-4694-9621-63a726147657": {
+                              "height": null,
+                              "width": 356
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtBmBkVpT0d.png?alt=media&token=35ab4556-dbd5-4694-9621-63a726147657)",
+                        "uid": "CdU8B51Yk"
+                      }
+                    ],
+                    "create-time": 1662593697324,
+                    "edit-time": 1662593805440,
+                    "string": "[Blueprint Color](https://blueprintjs.com/docs/versions/3/#core/colors) palettes for code blocks (these colors match what is used in Roam)",
+                    "uid": "a1ngQkXdY"
+                  }
+                ],
+                "create-time": 1662593645095,
+                "edit-time": 1662593697331,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "aD6Ti3Y_u"
+                  }
+                ],
+                "string": "[[New Features]]  #[[Improvements]]",
+                "uid": "WcaKftS2t"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  },
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "R0zy2UaxE"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://user-images.githubusercontent.com/285292/188948053-ba930d81-6bc4-4de9-8d13-d0fe9acc01f5.png": {
+                                  ":height": null,
+                                  ":width": 186
+                                }
+                              }
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1662594579452,
+                            "props": {
+                              "image-size": {
+                                "https://user-images.githubusercontent.com/285292/188948053-ba930d81-6bc4-4de9-8d13-d0fe9acc01f5.png": {
+                                  "height": null,
+                                  "width": 186
+                                }
+                              }
+                            },
+                            "string": "![Screenshot 2022-09-07 at 17 57 57](https://user-images.githubusercontent.com/285292/188948053-ba930d81-6bc4-4de9-8d13-d0fe9acc01f5.png)",
+                            "uid": "nlevLLRid"
+                          }
+                        ],
+                        "edit-time": 1662594546880,
+                        "string": "**Before**",
+                        "uid": "G6gj37lYO"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://user-images.githubusercontent.com/285292/188948064-96cd01d0-6822-4294-b3fb-19462121368a.png": {
+                                  ":height": null,
+                                  ":width": 196
+                                }
+                              }
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1662594583990,
+                            "props": {
+                              "image-size": {
+                                "https://user-images.githubusercontent.com/285292/188948064-96cd01d0-6822-4294-b3fb-19462121368a.png": {
+                                  "height": null,
+                                  "width": 196
+                                }
+                              }
+                            },
+                            "string": "![Screenshot 2022-09-07 at 17 58 16](https://user-images.githubusercontent.com/285292/188948064-96cd01d0-6822-4294-b3fb-19462121368a.png)",
+                            "uid": "a1DGvdZKl"
+                          }
+                        ],
+                        "edit-time": 1662594543037,
+                        "string": "**After**",
+                        "uid": "FMp_y2AC-"
+                      }
+                    ],
+                    "create-time": 1662593883257,
+                    "edit-time": 1662595089599,
+                    "refs": [
+                      {
+                        "uid": "R0zy2UaxE"
+                      }
+                    ],
+                    "string": "Fixed checkbox alignment on [[Firefox]]",
+                    "uid": "jWQ4sjCL6"
+                  }
+                ],
+                "create-time": 1662593748927,
+                "edit-time": 1662593882069,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  },
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "#[[Quality of Life Improvements]] #[[Bug Fixes]]",
+                "uid": "Nq0QF48fw"
+              }
+            ],
+            "create-time": 1662593641892,
+            "edit-time": 1662593645119,
+            "refs": [
+              {
+                "uid": "09-07-2022"
+              }
+            ],
+            "string": "[[September 7th, 2022]]",
+            "uid": "qfYTJp-rj"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-18-2022"
               }
             ],
@@ -83709,10 +83927,23 @@
     "uid": "08-28-2022"
   },
   {
-    ":log/id": 1662591948966,
-    "create-time": 1662591948968,
-    "edit-time": 1662591948968,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1662593629980,
+    "create-time": 1662593629981,
+    "edit-time": 1662593629982,
     "title": "September 7th, 2022",
     "uid": "09-07-2022"
+  },
+  {
+    ":log/id": 1662601154659,
+    "create-time": 1662601154661,
+    "edit-time": 1662601154661,
+    "title": "September 8th, 2022",
+    "uid": "09-08-2022"
   }
 ]

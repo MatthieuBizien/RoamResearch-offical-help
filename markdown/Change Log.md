@@ -1,6 +1,16 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[September 7th, 2022]]
+        - [[New Features]]  #[[Improvements]]
+            - [Blueprint Color](https://blueprintjs.com/docs/versions/3/#core/colors) palettes for code blocks (these colors match what is used in Roam)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtBmBkVpT0d.png?alt=media&token=35ab4556-dbd5-4694-9621-63a726147657)
+        - #[[Quality of Life Improvements]] #[[Bug Fixes]]
+            - Fixed checkbox alignment on [[Firefox]]
+                - **Before**
+                    - ![Screenshot 2022-09-07 at 17 57 57](https://user-images.githubusercontent.com/285292/188948053-ba930d81-6bc4-4de9-8d13-d0fe9acc01f5.png)
+                - **After**
+                    - ![Screenshot 2022-09-07 at 17 58 16](https://user-images.githubusercontent.com/285292/188948064-96cd01d0-6822-4294-b3fb-19462121368a.png)
     - [[August 18th, 2022]]
         - [[New Features]] __sort of__ #[[Tag Styles]]
             - We decided to include some of the most useful [[roam/css]] [[Tag Styles]] we've developed for ourselves, you may find helpful/inspiring .rm-E  .rm-g  and .rm-hide
