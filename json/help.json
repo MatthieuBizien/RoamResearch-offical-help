@@ -42791,6 +42791,92 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "09-30-2022"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1664589322230,
+                "edit-time": 1664589371547,
+                "string": "Small fix: if a window already exists in the sidebar and it is tried to open again, it jumps up to the top of the sidebar",
+                "uid": "zXxAAWkeT"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RtfLGrv81"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1664589634944,
+                        "edit-time": 1664589719388,
+                        "string": "New addition: [Write actions](https://roamresearch.com/#/app/developer-documentation/page/J-hxpYKmK)",
+                        "uid": "-Z7DHaFrm"
+                      }
+                    ],
+                    "create-time": 1664589719386,
+                    "edit-time": 1664589719386,
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]]: Checkout [Roam Backend API (Beta) docs](https://roamresearch.com/#/app/developer-documentation/page/W4Po8pcHQ). ",
+                    "uid": "mdOnyeoHN"
+                  }
+                ],
+                "create-time": 1664589589933,
+                "edit-time": 1664589634951,
+                "string": "A number of changes throughout the last week for integration of write actions with the new backend API",
+                "uid": "L_5a5TTtB"
+              }
+            ],
+            "create-time": 1664589315516,
+            "edit-time": 1664589322250,
+            "refs": [
+              {
+                "uid": "09-30-2022"
+              }
+            ],
+            "string": "[[September 30th, 2022]]",
+            "uid": "12Y3C59NQ"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "09-07-2022"
               }
             ],
@@ -83953,9 +84039,28 @@
     "uid": "09-08-2022"
   },
   {
-    ":log/id": 1664584571721,
-    "create-time": 1664584571723,
-    "edit-time": 1664584571723,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1664496000000,
+    "create-time": 1664589322251,
+    "edit-time": 1664589322253,
+    "title": "September 30th, 2022",
+    "uid": "09-30-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1664589812230,
+    "create-time": 1664589812230,
+    "edit-time": 1664589812230,
     "title": "October 1st, 2022",
     "uid": "10-01-2022"
   }

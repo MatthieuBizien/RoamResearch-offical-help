@@ -1,6 +1,11 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [September 30th, 2022](<September 30th, 2022.md>)
+        - Small fix: if a window already exists in the sidebar and it is tried to open again, it jumps up to the top of the sidebar
+        - A number of changes throughout the last week for integration of write actions with the new backend API
+            - [Developer Notes](<Developer Notes.md>): Checkout [Roam Backend API (Beta) docs](https://roamresearch.com/#/app/developer-documentation/page/W4Po8pcHQ). 
+                - New addition: [Write actions](https://roamresearch.com/#/app/developer-documentation/page/J-hxpYKmK)
     - [September 7th, 2022](<September 7th, 2022.md>)
         - [New Features](<New Features.md>)  #[Improvements](<Improvements.md>)
             - [Blueprint Color](https://blueprintjs.com/docs/versions/3/[core](<core.md>)/colors) palettes for code blocks (these colors match what is used in Roam)
