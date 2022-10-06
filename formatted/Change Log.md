@@ -1,6 +1,21 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [October 6th, 2022](<October 6th, 2022.md>)
+        - [New Features](<New Features.md>)
+            - Single Block Multiselect Mode
+                - Select blocks but not their children or select non consecutive blocks and perform bulk actions on them
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCtabMYCHRV.png?alt=media&token=2ff14e70-6c2c-4e3b-8dc0-318966366c07)
+                - **How to use**
+                    - Toggle the mode on / off with `ctrl-m` (PC) or `cmd-m` (Mac) (customizable)
+                    - Then click a checkbox to select it
+                    - Shift click another checkbox to select a range between that checkbox and the last one selected
+                - **Available commands**
+                    - Drag and dropping blocks
+                    - Right click context menu
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956)
+                - This feature is still a work in progress.
+                    - Key commands (tab, shift-tab etc) do not work with it
     - [September 30th, 2022](<September 30th, 2022.md>)
         - Small fix: if a window already exists in the sidebar and it is tried to open again, it jumps up to the top of the sidebar
         - A number of changes throughout the last week for integration of write actions with the new backend API
