@@ -84310,10 +84310,23 @@
     "uid": "10-06-2022"
   },
   {
-    ":log/id": 1666099428623,
-    "create-time": 1666099428626,
-    "edit-time": 1666099428626,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1666104330423,
+    "create-time": 1666104330423,
+    "edit-time": 1666104330423,
     "title": "October 18th, 2022",
     "uid": "10-18-2022"
+  },
+  {
+    ":log/id": 1666157653859,
+    "create-time": 1666157653861,
+    "edit-time": 1666157653862,
+    "title": "October 19th, 2022",
+    "uid": "10-19-2022"
   }
 ]
