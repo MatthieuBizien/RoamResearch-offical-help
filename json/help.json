@@ -84323,9 +84323,15 @@
     "uid": "10-18-2022"
   },
   {
-    ":log/id": 1666786189344,
-    "create-time": 1666786189348,
-    "edit-time": 1666786189348,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1666793343848,
+    "create-time": 1666793343849,
+    "edit-time": 1666793343849,
     "title": "October 26th, 2022",
     "uid": "10-26-2022"
   }
