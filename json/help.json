@@ -84336,9 +84336,15 @@
     "uid": "10-26-2022"
   },
   {
-    ":log/id": 1667271567024,
-    "create-time": 1667271567026,
-    "edit-time": 1667271567026,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1667305582924,
+    "create-time": 1667305582925,
+    "edit-time": 1667305582925,
     "title": "November 1st, 2022",
     "uid": "11-01-2022"
   }
