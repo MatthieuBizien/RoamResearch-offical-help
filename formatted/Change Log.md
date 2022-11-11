@@ -1,6 +1,10 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [November 11th, 2022](<November 11th, 2022.md>)
+        - Small fixes
+            - Fixes issue on restore graph from EDN where some graphs would get stuck near completion
+            - Fixes "Roam was not built in a day" error that would arise sometimes when collapsing right sidebar windows corresponding to pages
     - [October 6th, 2022](<October 6th, 2022.md>)
         - [New Features](<New Features.md>)
             - Single Block Multiselect Mode

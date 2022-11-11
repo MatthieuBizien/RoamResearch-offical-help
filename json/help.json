@@ -42791,6 +42791,68 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "11-11-2022"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1668150817568,
+                    "edit-time": 1668150880473,
+                    "string": "Fixes issue on restore graph from EDN where some graphs would get stuck near completion",
+                    "uid": "2eaDxwoV3"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1668150880470,
+                    "edit-time": 1668150948542,
+                    "string": "Fixes \"Roam was not built in a day\" error that would arise sometimes when collapsing right sidebar windows corresponding to pages",
+                    "uid": "YTJOOKW9v"
+                  }
+                ],
+                "create-time": 1668150962673,
+                "edit-time": 1668150965355,
+                "string": "Small fixes",
+                "uid": "-EbXMWxT9"
+              }
+            ],
+            "create-time": 1668150812574,
+            "edit-time": 1668150817579,
+            "refs": [
+              {
+                "uid": "11-11-2022"
+              }
+            ],
+            "string": "[[November 11th, 2022]]",
+            "uid": "xIVkqOwv0"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "10-06-2022"
               }
             ],
@@ -84349,9 +84411,15 @@
     "uid": "11-01-2022"
   },
   {
-    ":log/id": 1668146819026,
-    "create-time": 1668146819028,
-    "edit-time": 1668146819028,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1668150791780,
+    "create-time": 1668150791780,
+    "edit-time": 1668150791780,
     "title": "November 11th, 2022",
     "uid": "11-11-2022"
   }
