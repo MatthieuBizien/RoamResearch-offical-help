@@ -84424,9 +84424,15 @@
     "uid": "11-11-2022"
   },
   {
-    ":log/id": 1669125973593,
-    "create-time": 1669125973596,
-    "edit-time": 1669125973596,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1669134840759,
+    "create-time": 1669134840759,
+    "edit-time": 1669134840759,
     "title": "November 22nd, 2022",
     "uid": "11-22-2022"
   }
