@@ -1,6 +1,41 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[November 29th, 2022]]
+        - [[Roam Extensions]]
+            - # Oura Ring
+                - Import your Oura Ring daily summaries on a given day into your daily note page!
+                - ## [🔗](https://github.com/dvargas92495/roamjs-oura-ring#usage)Usage
+                    - You'll first need to add your personal access token associated with your Oura Ring account to the Token field in your Roam Depot Settings. The extension needs this in order to access your personal data. [Click here](https://cloud.ouraring.com/personal-access-tokens), to generate your own personal access token.
+                    - To import your Oura Ring data to your daily note page, open the Command Palette and enter "Import Oura Ring". If the current page is a Daily note page, it will query the day before the page title, since you usually want to track last night's sleep. Otherwise, it will query yesterday's data by default. It will output the following text:
+                    - ```javascript
+Bedtime Start:: hh:mm:ss
+Bedtime End:: hh:mm:ss
+Sleep Duration:: hh:mm:ss
+Total Sleep:: hh:mm:ss
+Total Awake:: hh:mm:ss
+Light Sleep:: hh:mm:ss
+Rem Sleep:: hh:mm:ss
+Deep Sleep:: hh:mm:ss
+Day Start:: hh:mm:ss
+Day End:: hh:mm:ss
+Low Activity:: hh:mm:ss
+Medium Activity:: hh:mm:ss
+High Activity:: hh:mm:ss
+Rest Activity:: hh:mm:ss
+Readiness Score:: hh:mm:ss```
+                    - You can also import the data by creating a button by typing `{{import oura ring}}` into a page and clicking the button.
+            - # Roam native dark theme
+                - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)
+                - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hfj.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hfj.png)
+    - [[November 28th, 2022]]
+        - [[Roam Extensions]]
+            - # SamePage
+                - Official Roam client into [SamePage](https://samepage.network/) - the intra tool-for-thought protocol.
+                - Use SamePage to connect your Roam Graph to other notebooks to sync changes across them, perform cross notebook queries, and more! To get started, install this extension and request an invite code by emailing [support@samepage.network](mailto:support@samepage.network). Check out our docs at https://samepage.network/docs!
+                - ## WARNING
+                    - The SamePage family of extensions are still **in beta** and are not considered stable yet for real or sensitive data. All data shared on SamePage is considered public and probability of data loss is high.
+            - Previously, extensions were not listed on the change log, please check out our [github](https://github.com/Roam-Research/roam-depot) for a [full list of new extensions and updates](https://github.com/Roam-Research/roam-depot/pulls?q=is%3Apr+is%3Aclosed). From now on, all new extensions will be listed here
     - [[November 11th, 2022]]
         - Small fixes
             - Fixes issue on restore graph from EDN where some graphs would get stuck near completion
