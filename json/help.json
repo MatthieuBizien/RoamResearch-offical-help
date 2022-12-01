@@ -42791,6 +42791,288 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "11-30-2022"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1669858737315,
+                        "string": "show the path of the block reference",
+                        "uid": "9KTRfO5aw"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1669858737315,
+                        "string": "![](https://github.com/dive2Pro/roam-reference-expand/raw/49e028ae09c5ec50eeec4436bd81247b7a7e0685/SCR-20221124-d9c.png)",
+                        "uid": "wPwr2v0UW"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1669858737315,
+                        "string": "![](https://github.com/dive2Pro/roam-reference-expand/raw/master/reference%20extends.gif)",
+                        "uid": "yxtwRwOD-"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Rpk_r_faZ"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669858737315,
+                            "refs": [
+                              {
+                                "uid": "Rpk_r_faZ"
+                              }
+                            ],
+                            "string": "All configurations are stored on the\u00a0[[roam/reference extends/config]]\u00a0page and need to be removed manually if you want to uninstall the plugin cleanly.",
+                            "uid": "BKJR5hkL7"
+                          }
+                        ],
+                        "edit-time": 1669858737315,
+                        "heading": 1,
+                        "string": "Uninstall",
+                        "uid": "ZlUFRXBP5"
+                      }
+                    ],
+                    "edit-time": 1669858737315,
+                    "heading": 1,
+                    "string": "Roam reference expands",
+                    "uid": "W0y1ST1IL"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1669857899327,
+                        "string": "Render interactive maps directly in your graph!",
+                        "uid": "a24qRWYXc"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669857912538,
+                            "string": "Type\u00a0`{{maps}}`\u00a0in a block. When the block renders, an interactive map will render in its place!",
+                            "uid": "F9bJXJmaB"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669857899327,
+                            "string": "To position the map at a particular center, create a child block with text \"Center\". Under that block, put in the latitude and longitude coordinates of the center delimited by a comma.",
+                            "uid": "8GhWObQ0K"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669857899327,
+                            "string": "To start the map at a particular zoom level, create a child block with text \"Zoom\". Under that block, put in the zoom level value which should be a number. A minimum value of 0 is zoomed all the way out and a maximum value of 18 is zoomed all the way in.",
+                            "uid": "9mh0QVdT8"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669857899327,
+                            "string": "To add Markers to the map, create a child block with text \"Markers\". Under that block, add one child for every marker you want to include. In the block, write the text you'd like as the label of the block. As a child of\u00a0**that**\u00a0block, put the latitude and longitude coordinates of the marker.",
+                            "uid": "yamHPzcm5"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "children": [
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "edit-time": 1669857899327,
+                                    "string": "32.715736, -117.161087",
+                                    "uid": "f2FDPqNbT"
+                                  }
+                                ],
+                                "edit-time": 1669857899327,
+                                "string": "Center",
+                                "uid": "zaTOubVO_"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "children": [
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "edit-time": 1669857899327,
+                                    "string": "12",
+                                    "uid": "WmV64qEJu"
+                                  }
+                                ],
+                                "edit-time": 1669857899327,
+                                "string": "Zoom",
+                                "uid": "yEDQMIkqP"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "children": [
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "children": [
+                                      {
+                                        ":edit/user": {
+                                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                        },
+                                        "edit-time": 1669857899327,
+                                        "string": "32.7, -117.2",
+                                        "uid": "JpP95jnH7"
+                                      }
+                                    ],
+                                    "edit-time": 1669857899327,
+                                    "string": "David Vargas",
+                                    "uid": "kgnu8SU9G"
+                                  },
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "children": [
+                                      {
+                                        ":edit/user": {
+                                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                        },
+                                        "edit-time": 1669857899327,
+                                        "string": "32.72, -117.1",
+                                        "uid": "psiqmoMTO"
+                                      }
+                                    ],
+                                    "edit-time": 1669857899327,
+                                    "string": "RoamJS",
+                                    "uid": "2PDeUk1lY"
+                                  }
+                                ],
+                                "edit-time": 1669857899327,
+                                "string": "Markers",
+                                "uid": "UQc1O1f5_"
+                              }
+                            ],
+                            "edit-time": 1669857899327,
+                            "string": "For example, the following configuration will have to be set as the child of the block to produce the map below:",
+                            "uid": "6fRHD10Lm"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669857899327,
+                            "string": "If the Marker text is already a tag in your graph, clicking on the marker pin will take you to that page. Shift clicking the marker will open the tag in the sidebar.",
+                            "uid": "T1bfilykL"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669857899327,
+                            "string": "You could also filter the markers that are displayed on your map. Clicking the wrench icon on the top right will open the settings overlay, where you could specify a tag to filter by. All markers that are pages that have a block with the entered tag will remain on the map while the rest get filtered out.",
+                            "uid": "UQInxkUQe"
+                          }
+                        ],
+                        "edit-time": 1669857907894,
+                        "heading": 2,
+                        "string": "Usage",
+                        "uid": "j-NRskdbB"
+                      }
+                    ],
+                    "edit-time": 1669857899327,
+                    "heading": 1,
+                    "string": "Mapbox",
+                    "uid": "f6VObdeq4"
+                  }
+                ],
+                "create-time": 1669857894628,
+                "edit-time": 1669857898434,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Extensions]]",
+                "uid": "pbxnAoqA0"
+              }
+            ],
+            "create-time": 1669857891664,
+            "edit-time": 1669857894648,
+            "refs": [
+              {
+                "uid": "11-30-2022"
+              }
+            ],
+            "string": "[[November 30th, 2022]]",
+            "uid": "7vCfWCWTJ"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "11-29-2022"
               }
             ],
@@ -84732,10 +85014,35 @@
     "uid": "TpA4naC1T"
   },
   {
-    ":log/id": 1669849550359,
-    "create-time": 1669849550366,
-    "edit-time": 1669849550366,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1669857893913,
+    "create-time": 1669857893921,
+    "edit-time": 1669857893921,
     "title": "November 30th, 2022",
     "uid": "11-30-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1669858296757,
+    "edit-time": 1669858296766,
+    "title": "roam/reference extends/config",
+    "uid": "Rpk_r_faZ"
+  },
+  {
+    ":log/id": 1669871175415,
+    "create-time": 1669871175418,
+    "edit-time": 1669871175418,
+    "title": "December 1st, 2022",
+    "uid": "12-01-2022"
   }
 ]
