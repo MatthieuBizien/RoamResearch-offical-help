@@ -85039,10 +85039,23 @@
     "uid": "Rpk_r_faZ"
   },
   {
-    ":log/id": 1670364355320,
-    "create-time": 1670364355322,
-    "edit-time": 1670364355322,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1670373451532,
+    "create-time": 1670373451533,
+    "edit-time": 1670373451533,
     "title": "December 6th, 2022",
     "uid": "12-06-2022"
+  },
+  {
+    ":log/id": 1670400386189,
+    "create-time": 1670400386191,
+    "edit-time": 1670400386191,
+    "title": "December 7th, 2022",
+    "uid": "12-07-2022"
   }
 ]
