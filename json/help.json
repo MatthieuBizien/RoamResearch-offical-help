@@ -42791,6 +42791,52 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "12-20-2022"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "q9X-gs35m"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1671597716199,
+                "edit-time": 1671598024369,
+                "refs": [
+                  {
+                    "uid": "q9X-gs35m"
+                  }
+                ],
+                "string": "Fixes a couple of performance issues, should be noticeable especially for [[Local Graph]]s",
+                "uid": "tbXBaJsL7"
+              }
+            ],
+            "create-time": 1671597709111,
+            "edit-time": 1671597716214,
+            "refs": [
+              {
+                "uid": "12-20-2022"
+              }
+            ],
+            "string": "[[December 20th, 2022]]",
+            "uid": "2br_PU3S1"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "11-30-2022"
               }
             ],
@@ -85052,10 +85098,23 @@
     "uid": "12-06-2022"
   },
   {
-    ":log/id": 1671577558526,
-    "create-time": 1671577558528,
-    "edit-time": 1671577558528,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1671494400000,
+    "create-time": 1671597716215,
+    "edit-time": 1671597716218,
     "title": "December 20th, 2022",
     "uid": "12-20-2022"
+  },
+  {
+    ":log/id": 1671599141899,
+    "create-time": 1671599141903,
+    "edit-time": 1671599141903,
+    "title": "December 21st, 2022",
+    "uid": "12-21-2022"
   }
 ]

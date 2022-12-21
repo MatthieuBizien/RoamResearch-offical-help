@@ -1,6 +1,8 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[December 20th, 2022]]
+        - Fixes a couple of performance issues, should be noticeable especially for [[Local Graph]]s
     - [[November 30th, 2022]]
         - [[Roam Extensions]]
             - # Roam reference expands
