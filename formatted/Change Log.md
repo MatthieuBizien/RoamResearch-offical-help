@@ -1,17 +1,81 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [February 8th, 2023](<February 8th, 2023.md>)
+        - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - Multi-select move block up / down (Mac: `cmd-shift-up/down`, PC: `alt-shift-up/down`)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F6f-zVqgMxL.png?alt=media&token=dab07fd6-1a9b-49d2-82ca-6991f5284699)
+    - [February 7th, 2023](<February 7th, 2023.md>)
+        - ### [New Features](<New Features.md>) 🚀
+            - Open search in sidebar (alt-enter)
+                - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F5_JZnrFS-l.mp4?alt=media&token=b6bfe09e-14f3-42af-be58-02bb6a2fffbc}}
+        - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - If global filters are applied on the log, then show the filter icon so you can remove them
+    - [February 1st, 2023](<February 1st, 2023.md>)
+        - [Roam Extensions](<Roam Extensions.md>)
+            - ## [Self-Destructing Blocks](https://github.com/8bitgentleman/roam-depot-block-self-destruct)
+                - Set blocks to self-destruct (be deleted) after a period of time. Every hour the plugin will search for all blocks that reference #[self-destruct](<self-destruct.md>) (configurable to whatever you would like). Any of those references that are older than the time set will be deleted.
+                - A custom deletion time can be set by nesting an attribute below the block that you want deleted.
+                - ### [🔗](https://github.com/8bitgentleman/roam-depot-block-self-destruct[use-case-ideas](<use-case-ideas.md>))Use Case Ideas
+                    - Blocks left over from daily templates
+                    - Using queries on your Daily Notes page or old queries in general.
+                    - Keeping your graph lean and clean
+                - ### [🔗](https://github.com/8bitgentleman/roam-depot-block-self-destruct[examples](<examples.md>))Examples
+                    - ![](https://github.com/8bitgentleman/roam-depot-block-self-destruct/raw/main/example.png)[🔗](https://github.com/8bitgentleman/roam-depot-block-self-destruct/raw/main/example.png)
+            - ## [Hide Topbar Buttons](https://github.com/mlava/hide-topbar-buttons)
+                - Reduce unneccessary clutter!
+                - This extension allows you to take control of the appearance of your Roam Research topbar. You can choose to show or hide default Roam Research buttons in the topbar.
+                - ![image](https://user-images.githubusercontent.com/6857790/213940140-67f212c2-596f-4771-a92a-e5519136a80a.png)[🔗](https://user-images.githubusercontent.com/6857790/213940140-67f212c2-596f-4771-a92a-e5519136a80a.png)
+                - In the topbar you can choose to hide:
+                    - Page Filter button
+                    - Calendar button
+                    - Three Dot menu button
+                    - Page Width button
+                    - Help button
+                    - Right Sidebar button
+                - You can select to Hide on Mobile or Hide on All Platforms. This means you can have different settings for different purposes.
+                - For example, if you want to hide the Help button on mobile only but hide the Calendar button on all platforms, just select Hide on Mobile for Help and Hide on All Platforms for Calendar.
+                - TODO:
+                    - allow buttons from Roam Depot extensions to be hidden
+            - ## [Augmented Headings](https://github.com/mlava/augmented-headings)
+                - Add H4, H5 and H6 headings to your Roam Research graph!
+                - With this extension, you can create H4-H6 headings and control their CSS very easily. Simply install the extension and then modify the settings in Roam Depot. Note that if you don't change the font settings in Roam Depot settings you won't see any change in the text output even if you make that block a heading. You **must** set font settings to see any difference.
+                - **New:**
+                    - added setting to allow user-configured heading tags. If you don't want [h4](<h4.md>) you could use #.h4 or even [purple_elephant](<purple_elephant.md>) for that heading tag, and the extension will handle it.
+                - The new headings even work with my Sticky Headings and Table of Contents extension as well!
+                - ![image](https://user-images.githubusercontent.com/6857790/214956832-d2711867-ab73-4af0-9e29-074eaf0b3ac8.png)[🔗](https://user-images.githubusercontent.com/6857790/214956832-d2711867-ab73-4af0-9e29-074eaf0b3ac8.png)
+                - For each heading level you can configure:
+                    - font size
+                    - font weight
+                    - font style
+                    - font variant
+                - You can set a heading using the Command Palette. Click into a block and then select 'Toggle Heading - H4', 'Toggle Heading - H5' or 'Toggle Heading - H6'. Or, right click on the block bullet, go to Plugins and then select the Toggle commands from there.
+                - If your heading is H4 and you click to toggle H4, it will return to normal text. This is how Roam handles H1-H3. However, if you toggle to a different heading level (e.g. H4 -> H5) it will overwrite to the new level. Again, this is how Roam handles this case.
+    - [January 31st, 2023](<January 31st, 2023.md>)
+        - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+            - Fix plaintext paste (`ctrl-shift-v`) pasting twice on desktop app in linux and windows
+        - [Roam Extensions](<Roam Extensions.md>)
+            - ## [Roam Website Title Parser](https://github.com/dragonforce2010/roam-website-title-parser)
+                - This extension can parse the website title and transform the link to the markdown format when you paste a url into roam block
+                - For example, when you paste a link like this `https://developer.roamjs.com/`, this extension is gonna transform it to `[Introduction - RoamJS](https://developer.roamjs.com/)`
+    - [January 30th, 2023](<January 30th, 2023.md>)
+        - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+            - Fix Chinese language autocomplete not working in top level blocks in references
+            - Fix Chinese language showing the incorrect word count in all pages
+    - [January 24th, 2023](<January 24th, 2023.md>)
+        - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+            - Fix drag and drop on [android](<android.md>)
     - [December 20th, 2022](<December 20th, 2022.md>)
         - Fixes a couple of performance issues, should be noticeable especially for [Local Graph](<Local Graph.md>)s
     - [November 30th, 2022](<November 30th, 2022.md>)
         - [Roam Extensions](<Roam Extensions.md>)
-            - # Roam reference expands
+            - ## Roam reference expands
                 - show the path of the block reference
                 - ![](https://github.com/dive2Pro/roam-reference-expand/raw/49e028ae09c5ec50eeec4436bd81247b7a7e0685/SCR-20221124-d9c.png)
                 - ![](https://github.com/dive2Pro/roam-reference-expand/raw/master/reference%20extends.gif)
                 - # Uninstall
                     - All configurations are stored on the [roam/reference extends/config](<roam/reference extends/config.md>) page and need to be removed manually if you want to uninstall the plugin cleanly.
-            - # Mapbox
+            - ## Mapbox
                 - Render interactive maps directly in your graph!
                 - ## Usage
                     - Type `{{maps}}` in a block. When the block renders, an interactive map will render in its place!
@@ -32,7 +96,7 @@
                     - You could also filter the markers that are displayed on your map. Clicking the wrench icon on the top right will open the settings overlay, where you could specify a tag to filter by. All markers that are pages that have a block with the entered tag will remain on the map while the rest get filtered out.
     - [November 29th, 2022](<November 29th, 2022.md>)
         - [Roam Extensions](<Roam Extensions.md>)
-            - # Oura Ring
+            - ## Oura Ring
                 - Import your Oura Ring daily summaries on a given day into your daily note page!
                 - ## [🔗](https://github.com/dvargas92495/roamjs-oura-ring[usage](<usage.md>))Usage
                     - You'll first need to add your personal access token associated with your Oura Ring account to the Token field in your Roam Depot Settings. The extension needs this in order to access your personal data. [Click here](https://cloud.ouraring.com/personal-access-tokens), to generate your own personal access token.
@@ -54,12 +118,12 @@ High Activity:: hh:mm:ss
 Rest Activity:: hh:mm:ss
 Readiness Score:: hh:mm:ss```
                     - You can also import the data by creating a button by typing `{{import oura ring}}` into a page and clicking the button.
-            - # Roam native dark theme
+            - ## Roam native dark theme
                 - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)
                 - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hfj.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hfj.png)
     - [November 28th, 2022](<November 28th, 2022.md>)
         - [Roam Extensions](<Roam Extensions.md>)
-            - # SamePage
+            - ## SamePage
                 - Official Roam client into [SamePage](https://samepage.network/) - the intra tool-for-thought protocol.
                 - Use SamePage to connect your Roam Graph to other notebooks to sync changes across them, perform cross notebook queries, and more! To get started, install this extension and request an invite code by emailing [support@samepage.network](mailto:support@samepage.network). Check out our docs at https://samepage.network/docs!
                 - ## WARNING
