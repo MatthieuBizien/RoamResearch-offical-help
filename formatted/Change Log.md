@@ -5,6 +5,9 @@
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - Multi-select move block up / down (Mac: `cmd-shift-up/down`, PC: `alt-shift-up/down`)
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F6f-zVqgMxL.png?alt=media&token=dab07fd6-1a9b-49d2-82ca-6991f5284699)
+        - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+            - [mobile](<mobile.md>) [iOS](<iOS.md>) Fix sync issues that would sometimes appear when reinstating app from background
+                - [android](<android.md>) version did not have this issue but will be receiving an update as well in the next few days
     - [February 7th, 2023](<February 7th, 2023.md>)
         - ### [New Features](<New Features.md>) 🚀
             - Open search in sidebar (alt-enter)
