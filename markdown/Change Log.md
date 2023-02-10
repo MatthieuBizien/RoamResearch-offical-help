@@ -4,7 +4,7 @@
     - [[February 8th, 2023]]
         - ### [[Quality of Life Improvements]] ✨
             - Multi-select move block up / down (Mac: `cmd-shift-up/down`, PC: `alt-shift-up/down`)
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F6f-zVqgMxL.png?alt=media&token=dab07fd6-1a9b-49d2-82ca-6991f5284699)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FbibqCXYQLm.gif?alt=media&token=0c4f7e85-8b2c-418a-8017-1b42154ed0d9)
         - ### [[Bug Fixes]] 🛠
             - [[mobile]] [[iOS]] Fix sync issues that would sometimes appear when reinstating app from background
                 - [[android]] version did not have this issue but will be receiving an update as well in the next few days
