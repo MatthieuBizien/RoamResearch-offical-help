@@ -8,10 +8,10 @@
         - ### [[Bug Fixes]] 🛠
             - [[mobile]] [[iOS]] Fix sync issues that would sometimes appear when reinstating app from background
                 - [[android]] version did not have this issue but will be receiving an update as well in the next few days
-    - [[February 7th, 2023]]
         - ### [[New Features]] 🚀
-            - Open search in sidebar (alt-enter)
+            - Open search in sidebar (alt-enter or opt-enter)
                 - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F5_JZnrFS-l.mp4?alt=media&token=b6bfe09e-14f3-42af-be58-02bb6a2fffbc}}
+    - [[February 7th, 2023]]
         - ### [[Quality of Life Improvements]] ✨
             - If global filters are applied on the log, then show the filter icon so you can remove them
     - [[February 1st, 2023]]

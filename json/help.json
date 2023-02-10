@@ -42928,31 +42928,7 @@
                 ],
                 "string": "[[Bug Fixes]] \ud83d\udee0",
                 "uid": "gJCVkyVIX"
-              }
-            ],
-            "create-time": 1675872337807,
-            "edit-time": 1675872339958,
-            "refs": [
-              {
-                "uid": "02-08-2023"
-              }
-            ],
-            "string": "[[February 8th, 2023]]",
-            "uid": "n3ZCV0qGI"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "02-07-2023"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            ":edit/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            "children": [
+              },
               {
                 ":block/refs": [
                   {
@@ -42971,7 +42947,7 @@
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
                     ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
                     "children": [
                       {
@@ -42998,8 +42974,8 @@
                       }
                     ],
                     "create-time": 1675872118922,
-                    "edit-time": 1675872161545,
-                    "string": "Open search in sidebar (alt-enter)",
+                    "edit-time": 1676017866543,
+                    "string": "Open search in sidebar (alt-enter or opt-enter)",
                     "uid": "Imf3mqjqF"
                   }
                 ],
@@ -43013,7 +42989,31 @@
                 ],
                 "string": "[[New Features]] \ud83d\ude80",
                 "uid": "HIXwfUJRJ"
-              },
+              }
+            ],
+            "create-time": 1675872337807,
+            "edit-time": 1675872339958,
+            "refs": [
+              {
+                "uid": "02-08-2023"
+              }
+            ],
+            "string": "[[February 8th, 2023]]",
+            "uid": "n3ZCV0qGI"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "02-07-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
               {
                 ":block/refs": [
                   {
@@ -86186,9 +86186,22 @@
     "uid": "n7QxxSxUy"
   },
   {
-    ":log/id": 1676005564398,
-    "create-time": 1676005564400,
-    "edit-time": 1676005564402,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1671599335089,
+    "create-time": 1671599335090,
+    "edit-time": 1671599335090,
+    "title": "December 21st, 2022",
+    "uid": "12-21-2022"
+  },
+  {
+    ":log/id": 1676030850422,
+    "create-time": 1676030850426,
+    "edit-time": 1676030850426,
     "title": "February 10th, 2023",
     "uid": "02-10-2023"
   }

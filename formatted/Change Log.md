@@ -8,10 +8,10 @@
         - ### [Bug Fixes](<Bug Fixes.md>) 🛠
             - [mobile](<mobile.md>) [iOS](<iOS.md>) Fix sync issues that would sometimes appear when reinstating app from background
                 - [android](<android.md>) version did not have this issue but will be receiving an update as well in the next few days
-    - [February 7th, 2023](<February 7th, 2023.md>)
         - ### [New Features](<New Features.md>) 🚀
-            - Open search in sidebar (alt-enter)
+            - Open search in sidebar (alt-enter or opt-enter)
                 - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F5_JZnrFS-l.mp4?alt=media&token=b6bfe09e-14f3-42af-be58-02bb6a2fffbc}}
+    - [February 7th, 2023](<February 7th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - If global filters are applied on the log, then show the filter icon so you can remove them
     - [February 1st, 2023](<February 1st, 2023.md>)
