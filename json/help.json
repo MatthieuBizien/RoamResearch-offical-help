@@ -86210,5 +86210,103 @@
     "edit-time": 1676044939267,
     "title": "February 10th, 2023",
     "uid": "02-10-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1676066741472,
+        "edit-time": 1676066741472,
+        "string": "Thank you for installing the Numbered List extension for Roam Research. This page has been automatically generated to allow creation of a SmartBlock to allow you to refresh your numbered lists after you move things around and re-order them.",
+        "uid": "tTdAokmvy"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1676066741480,
+        "edit-time": 1676066741480,
+        "string": "Below the horizontal line is the Refresh Numbered List SmartBlock. Please don't change it unless you know what you are doing!",
+        "uid": "dweljrPmS"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1676066741497,
+        "edit-time": 1676066741497,
+        "string": "---",
+        "uid": "Maw2wtpud"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "fqX_kn4k-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1676066741517,
+            "edit-time": 1676066741517,
+            "string": "<%REFRESHNUMBEREDLIST%>",
+            "uid": "lt1qdqUDk"
+          }
+        ],
+        "create-time": 1676066741507,
+        "edit-time": 1676066741507,
+        "refs": [
+          {
+            "uid": "fqX_kn4k-"
+          }
+        ],
+        "string": "#SmartBlock Refresh Numbered List",
+        "uid": "k2OdqU_mk"
+      }
+    ],
+    "create-time": 1676066741450,
+    "edit-time": 1676066741450,
+    "title": "Numbered List Extension",
+    "uid": "VqNrWJvY2"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1676066741510,
+    "edit-time": 1676066741511,
+    "title": "SmartBlock",
+    "uid": "fqX_kn4k-"
   }
 ]

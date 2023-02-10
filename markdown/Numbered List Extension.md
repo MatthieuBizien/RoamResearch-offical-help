@@ -1,0 +1,5 @@
+- Thank you for installing the Numbered List extension for Roam Research. This page has been automatically generated to allow creation of a SmartBlock to allow you to refresh your numbered lists after you move things around and re-order them.
+- Below the horizontal line is the Refresh Numbered List SmartBlock. Please don't change it unless you know what you are doing!
+- ---
+- #SmartBlock Refresh Numbered List
+    - <%REFRESHNUMBEREDLIST%>
