@@ -86199,9 +86199,15 @@
     "uid": "12-21-2022"
   },
   {
-    ":log/id": 1676030850422,
-    "create-time": 1676030850426,
-    "edit-time": 1676030850426,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1676044939266,
+    "create-time": 1676044939267,
+    "edit-time": 1676044939267,
     "title": "February 10th, 2023",
     "uid": "02-10-2023"
   }
