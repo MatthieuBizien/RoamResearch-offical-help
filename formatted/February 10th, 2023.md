@@ -1,27 +1,27 @@
-- [[Project: 30 Demos in 6 Weeks]]
-    - {{[[DONE]]}} [[Experiment]] - Demo how it was possible to use the combination of [[roam/render]] and [[roam/templates]] to create a **factory template** the creates customizable dropdowns which add block-refs to a selected item from a particular list.
+- [Project: 30 Demos in 6 Weeks](<Project: 30 Demos in 6 Weeks.md>)
+    - [x] [Experiment](<Experiment.md>) - Demo how it was possible to use the combination of [roam/render](<roam/render.md>) and [roam/templates](<roam/templates.md>) to create a **factory template** the creates customizable dropdowns which add block-refs to a selected item from a particular list.
         - Video
-            - {{[[video]]: https://www.loom.com/share/1adf78d01db9435fb69bf4249a296a66}}
+            - {{[video](<video.md>): https://www.loom.com/share/1adf78d01db9435fb69bf4249a296a66}}
         - To use 
-            - {{[[TODO]]}} copy this block into your graph #.bp3-card
-                - ## Conor's [[Factory Template]] for creating Option Dropdowns based on block refences  #[[roam/templates]]
+            - [ ] copy this block into your graph #.bp3-card
+                - ## Conor's [Factory Template](<Factory Template.md>) for creating Option Dropdowns based on block refences  #[roam/templates](<roam/templates.md>)
                     - Congratulations! You have just created a new **Dropdown Template** 
                         - #.rm-g  #.rm-h 
-                            - {{[[TODO]]}} Edit the block below to change the template
-                                - [[RM/Component/Select]] an item from Dropdown List [[roam/templates]]
-                                    - {{[[roam/render]]: ((pBiRi-Hba)) ((iYpGdGk0B))}}
-                            - {{[[TODO]]}} Edit these blocks to change the items visible in the dropdown
+                            - [ ] Edit the block below to change the template
+                                - [RM/Component/Select](<RM/Component/Select.md>) an item from Dropdown List [roam/templates](<roam/templates.md>)
+                                    - {{[roam/render](<roam/render.md>): ((pBiRi-Hba)) ((iYpGdGk0B))}}
+                            - [ ] Edit these blocks to change the items visible in the dropdown
                                 - Dropdown List
                                     - A
                                     - B
                                     - C
-                    - {{[[TODO]]}}  Apply the template #.rm-E 
-                        - {{[[TODO]]}} type `;;`   
-                        - {{[[TODO]]}} search for the label you've given it here [->](((ovqdW0R_j))) 
+                    - [ ] Apply the template #.rm-E 
+                        - [ ] type `;;`   
+                        - [ ] search for the label you've given it here [->](((ovqdW0R_j))) 
                         -  This will produce a custom Select Component like this one 
-                            - {{[[roam/render]]: ((pBiRi-Hba)) ((iYpGdGk0B))}} 
+                            - {{[roam/render](<roam/render.md>): ((pBiRi-Hba)) ((iYpGdGk0B))}} 
                             - built off this  Dropdown List
-                    - This component is an experiment, and was built paritally as a demo of what you can do with  [[roam/render]] - a feature of roam that allows you to build interactive components out of code blocks written __inside__ your roam graph and referenced by the component in this format `{{[[roam/render]]: ((id for the code block goes here)) }}` 
+                    - This component is an experiment, and was built paritally as a demo of what you can do with  [roam/render](<roam/render.md>) - a feature of roam that allows you to build interactive components out of code blocks written __inside__ your roam graph and referenced by the component in this format `{{[roam/render](<roam/render.md>): ((id for the code block goes here)) }}` 
                         - If you'd like to edit the code for the template - you can edit it [here](((pBiRi-Hba)))
                             - ```clojure
 (ns niki.dropdown
@@ -38,7 +38,7 @@
         pattern (re-pattern
                   (str
                     "\\{\\{"
-                    "(?:\\[\\[)?roam/render(?:\\]\\])?:" ;; [[roam/render]]
+                    "(?:\\[\\[)?roam/render(?:\\]\\])?:" ;; [roam/render](<roam/render.md>)
                     "\\s*"
                     "\\(\\(([a-zA-Z0-9-]+)\\)\\)"        ;; render code block
                     "\\s*"
@@ -47,7 +47,7 @@
                     "(\\(\\(([a-zA-Z0-9-]+)\\)\\))?"     ;; selected block
                     "\\}\\}"))
         after   (str/replace before pattern
-                  (str "{{[[roam/render]]: (($1)) (($2)) ((" ref-uid "))}}"))]
+                  (str "{{[roam/render](<roam/render.md>): (($1)) (($2)) ((" ref-uid "))}}"))]
     (block/update
       {:block
        {:uid block-uid 
@@ -67,5 +67,5 @@
          :on-change #(replace-with-block-ref (:block/string c))}
         (:block/string c)])]))
 
-(defn main [{:keys [block-uid]} [_ opts-uid] & [[_ selected-uid]]]
+(defn main [{:keys [block-uid]} [_ opts-uid] & [_ selected-uid](<_ selected-uid.md>)]
   [view-children-clickable block-uid opts-uid selected-uid])```

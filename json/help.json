@@ -86206,6 +86206,607 @@
       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":log/id": 1676044939266,
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "uKZH_pceV"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "X7Mhc3nU8"
+              },
+              {
+                ":block/uid": "z3pJCF6p8"
+              },
+              {
+                ":block/uid": "fsPJ2C4FF"
+              },
+              {
+                ":block/uid": "qD_3Rh4ta"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "2h9V-FtAO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1676091994607,
+                    "edit-time": 1676091997769,
+                    "refs": [
+                      {
+                        "uid": "2h9V-FtAO"
+                      }
+                    ],
+                    "string": "{{[[video]]: https://www.loom.com/share/1adf78d01db9435fb69bf4249a296a66}}",
+                    "uid": "jSiCIa5lc"
+                  }
+                ],
+                "create-time": 1676091991617,
+                "edit-time": 1676091994615,
+                "string": "Video",
+                "uid": "2BYFmWKVk"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3VEv-jR5D"
+                      },
+                      {
+                        ":block/uid": "6r5zpRAp5"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "z3pJCF6p8"
+                          },
+                          {
+                            ":block/uid": "qkCWWggiH"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "KnkoPsb5q"
+                                  },
+                                  {
+                                    ":block/uid": "Zgt9SeZ3m"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "3VEv-jR5D"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "children": [
+                                      {
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "z3pJCF6p8"
+                                          },
+                                          {
+                                            ":block/uid": "iYpGdGk0B"
+                                          },
+                                          {
+                                            ":block/uid": "Hnv5nHppz"
+                                          }
+                                        ],
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "children": [
+                                          {
+                                            ":block/refs": [
+                                              {
+                                                ":block/uid": "X7Mhc3nU8"
+                                              },
+                                              {
+                                                ":block/uid": "iYpGdGk0B"
+                                              },
+                                              {
+                                                ":block/uid": "pBiRi-Hba"
+                                              }
+                                            ],
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            "create-time": 1676086812868,
+                                            "edit-time": 1676091352326,
+                                            "refs": [
+                                              {
+                                                "uid": "X7Mhc3nU8"
+                                              },
+                                              {
+                                                "uid": "iYpGdGk0B"
+                                              },
+                                              {
+                                                "uid": "pBiRi-Hba"
+                                              }
+                                            ],
+                                            "string": "{{[[roam/render]]: ((pBiRi-Hba)) ((iYpGdGk0B))}}",
+                                            "uid": "X_YrMsgru"
+                                          }
+                                        ],
+                                        "create-time": 1676086812868,
+                                        "edit-time": 1676091352326,
+                                        "refs": [
+                                          {
+                                            "uid": "z3pJCF6p8"
+                                          },
+                                          {
+                                            "uid": "iYpGdGk0B"
+                                          },
+                                          {
+                                            "uid": "Hnv5nHppz"
+                                          }
+                                        ],
+                                        "string": "[[RM/Component/Select]] an item from ((iYpGdGk0B)) [[roam/templates]]",
+                                        "uid": "ovqdW0R_j"
+                                      }
+                                    ],
+                                    "create-time": 1676087796012,
+                                    "edit-time": 1676091352326,
+                                    "refs": [
+                                      {
+                                        "uid": "3VEv-jR5D"
+                                      }
+                                    ],
+                                    "string": "{{[[TODO]]}} Edit the block below to change the template",
+                                    "uid": "WQIu_xzhu"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "3VEv-jR5D"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "children": [
+                                      {
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "children": [
+                                          {
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            "create-time": 1676086812868,
+                                            "edit-time": 1676091352326,
+                                            "string": "A",
+                                            "uid": "CUWBtGh8L"
+                                          },
+                                          {
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            "create-time": 1676086812868,
+                                            "edit-time": 1676091352326,
+                                            "string": "B",
+                                            "uid": "bCP7uyrg_"
+                                          },
+                                          {
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            "create-time": 1676086812868,
+                                            "edit-time": 1676091352326,
+                                            "string": "C",
+                                            "uid": "UeUlK2zen"
+                                          }
+                                        ],
+                                        "create-time": 1676086812868,
+                                        "edit-time": 1676091352326,
+                                        "string": "Dropdown List",
+                                        "uid": "iYpGdGk0B"
+                                      }
+                                    ],
+                                    "create-time": 1676087171774,
+                                    "edit-time": 1676091352326,
+                                    "refs": [
+                                      {
+                                        "uid": "3VEv-jR5D"
+                                      }
+                                    ],
+                                    "string": "{{[[TODO]]}} Edit these blocks to change the items visible in the dropdown",
+                                    "uid": "-2nNDooD3"
+                                  }
+                                ],
+                                "create-time": 1676087475491,
+                                "edit-time": 1676091352326,
+                                "refs": [
+                                  {
+                                    "uid": "KnkoPsb5q"
+                                  },
+                                  {
+                                    "uid": "Zgt9SeZ3m"
+                                  }
+                                ],
+                                "string": "#.rm-g  #.rm-h ",
+                                "uid": "B7Jge32Sb"
+                              }
+                            ],
+                            "create-time": 1676087148002,
+                            "edit-time": 1676091352326,
+                            "string": "Congratulations! You have just created a new **Dropdown Template** ",
+                            "uid": "Vz92zEmtp"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "3VEv-jR5D"
+                              },
+                              {
+                                ":block/uid": "X9D3IPXkB"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "3VEv-jR5D"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1676088386577,
+                                "edit-time": 1676091352326,
+                                "refs": [
+                                  {
+                                    "uid": "3VEv-jR5D"
+                                  }
+                                ],
+                                "string": "{{[[TODO]]}} type `;;`   ",
+                                "uid": "N27wWB4pZ"
+                              },
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "3VEv-jR5D"
+                                  },
+                                  {
+                                    ":block/uid": "ovqdW0R_j"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1676088213042,
+                                "edit-time": 1676091352326,
+                                "refs": [
+                                  {
+                                    "uid": "3VEv-jR5D"
+                                  },
+                                  {
+                                    "uid": "ovqdW0R_j"
+                                  }
+                                ],
+                                "string": "{{[[TODO]]}} search for the label you've given it here [->](((ovqdW0R_j))) ",
+                                "uid": "nknH6ltF_"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "X7Mhc3nU8"
+                                      },
+                                      {
+                                        ":block/uid": "iYpGdGk0B"
+                                      },
+                                      {
+                                        ":block/uid": "pBiRi-Hba"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1676088944529,
+                                    "edit-time": 1676091352326,
+                                    "refs": [
+                                      {
+                                        "uid": "X7Mhc3nU8"
+                                      },
+                                      {
+                                        "uid": "iYpGdGk0B"
+                                      },
+                                      {
+                                        "uid": "pBiRi-Hba"
+                                      }
+                                    ],
+                                    "string": "{{[[roam/render]]: ((pBiRi-Hba)) ((iYpGdGk0B))}} ",
+                                    "uid": "NdUOgtsVv"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "iYpGdGk0B"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1676088417860,
+                                    "edit-time": 1676091352326,
+                                    "refs": [
+                                      {
+                                        "uid": "iYpGdGk0B"
+                                      }
+                                    ],
+                                    "string": "built off this  ((iYpGdGk0B))",
+                                    "uid": "6im_PKGjJ"
+                                  }
+                                ],
+                                "create-time": 1676088949072,
+                                "edit-time": 1676091352326,
+                                "string": " This will produce a custom Select Component like this one ",
+                                "uid": "GjY1jlj60"
+                              }
+                            ],
+                            "create-time": 1676088433574,
+                            "edit-time": 1676091352326,
+                            "refs": [
+                              {
+                                "uid": "3VEv-jR5D"
+                              },
+                              {
+                                "uid": "X9D3IPXkB"
+                              }
+                            ],
+                            "string": "{{[[TODO]]}}  Apply the template #.rm-E ",
+                            "uid": "n6C56ATMq"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "X7Mhc3nU8"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "pBiRi-Hba"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1676086812868,
+                                    "edit-time": 1676091352326,
+                                    "string": "```clojure\n(ns niki.dropdown\n  (:require\n    [clojure.string :as str]\n    [roam.block :as block]\n    [roam.datascript.reactive :as dr]))\n\n(defn replace-with-block-ref [block-uid opts-uid ref-uid]\n  (let [before (->> [:block/uid block-uid]\n                 (dr/pull [:block/string])\n                 (deref)\n                 :block/string)\n        pattern (re-pattern\n                  (str\n                    \"\\\\{\\\\{\"\n                    \"(?:\\\\[\\\\[)?roam/render(?:\\\\]\\\\])?:\" ;; [[roam/render]]\n                    \"\\\\s*\"\n                    \"\\\\(\\\\(([a-zA-Z0-9-]+)\\\\)\\\\)\"        ;; render code block\n                    \"\\\\s*\"\n                    \"\\\\(\\\\((\" opts-uid \")\\\\)\\\\)\"         ;; options block\n                    \"\\\\s*\"\n                    \"(\\\\(\\\\(([a-zA-Z0-9-]+)\\\\)\\\\))?\"     ;; selected block\n                    \"\\\\}\\\\}\"))\n        after   (str/replace before pattern\n                  (str \"{{[[roam/render]]: (($1)) (($2)) ((\" ref-uid \"))}}\"))]\n    (block/update\n      {:block\n       {:uid block-uid \n        :string after}})))\n\n(defn view-children-clickable [block-uid opts-uid selected-uid]\n  (let [children (->> [:block/uid opts-uid]\n                   (dr/pull [{:block/children [:block/uid :block/string]}])\n                   deref\n                   :block/children)]\n    [:select {:id opts-uid\n              :on-change #(replace-with-block-ref block-uid opts-uid (-> % .-target .-value))}\n     (for [c children]\n       [:option\n        {:value    (:block/uid c)\n         :selected (= (:block/uid c) selected-uid)\n         :on-change #(replace-with-block-ref (:block/string c))}\n        (:block/string c)])]))\n\n(defn main [{:keys [block-uid]} [_ opts-uid] & [[_ selected-uid]]]\n  [view-children-clickable block-uid opts-uid selected-uid])```",
+                                    "uid": "pBiRi-Hba"
+                                  }
+                                ],
+                                "create-time": 1676088659738,
+                                "edit-time": 1676091352326,
+                                "refs": [
+                                  {
+                                    "uid": "pBiRi-Hba"
+                                  }
+                                ],
+                                "string": "If you'd like to edit the code for the template - you can edit it [here](((pBiRi-Hba)))",
+                                "uid": "AxL8QTvQj"
+                              }
+                            ],
+                            "create-time": 1676088878419,
+                            "edit-time": 1676091352326,
+                            "refs": [
+                              {
+                                "uid": "X7Mhc3nU8"
+                              }
+                            ],
+                            "string": "This component is an experiment, and was built paritally as a demo of what you can do with  [[roam/render]] - a feature of roam that allows you to build interactive components out of code blocks written __inside__ your roam graph and referenced by the component in this format `{{[[roam/render]]: ((id for the code block goes here)) }}` ",
+                            "uid": "guQKy7zZd"
+                          }
+                        ],
+                        "create-time": 1676087030896,
+                        "edit-time": 1676091593044,
+                        "heading": 2,
+                        "refs": [
+                          {
+                            "uid": "z3pJCF6p8"
+                          },
+                          {
+                            "uid": "qkCWWggiH"
+                          }
+                        ],
+                        "string": "Conor's [[Factory Template]] for creating Option Dropdowns based on block refences  #[[roam/templates]]",
+                        "uid": "Gr4pFT8M6"
+                      }
+                    ],
+                    "create-time": 1676091498925,
+                    "edit-time": 1676091614947,
+                    "refs": [
+                      {
+                        "uid": "3VEv-jR5D"
+                      },
+                      {
+                        "uid": "6r5zpRAp5"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} copy this block into your graph #.bp3-card",
+                    "uid": "bOciISUpS"
+                  }
+                ],
+                "create-time": 1676091518962,
+                "edit-time": 1676091518962,
+                "string": "To use ",
+                "uid": "0Y6DLgzEE"
+              }
+            ],
+            "create-time": 1676091355854,
+            "edit-time": 1676091779141,
+            "refs": [
+              {
+                "uid": "X7Mhc3nU8"
+              },
+              {
+                "uid": "z3pJCF6p8"
+              },
+              {
+                "uid": "fsPJ2C4FF"
+              },
+              {
+                "uid": "qD_3Rh4ta"
+              }
+            ],
+            "string": "{{[[DONE]]}} [[Experiment]] - Demo how it was possible to use the combination of [[roam/render]] and [[roam/templates]] to create a **factory template** the creates customizable dropdowns which add block-refs to a selected item from a particular list.",
+            "uid": "sxpAZBmCq"
+          }
+        ],
+        "create-time": 1676091334695,
+        "edit-time": 1676091348201,
+        "refs": [
+          {
+            "uid": "uKZH_pceV"
+          }
+        ],
+        "string": "[[Project: 30 Demos in 6 Weeks]]",
+        "uid": "hGrw_cwmZ"
+      }
+    ],
     "create-time": 1676044939267,
     "edit-time": 1676044939267,
     "title": "February 10th, 2023",
@@ -86310,9 +86911,69 @@
     "uid": "fqX_kn4k-"
   },
   {
-    ":log/id": 1676084765862,
-    "create-time": 1676084765864,
-    "edit-time": 1676084765864,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1676091348202,
+    "edit-time": 1676091348203,
+    "title": "Project: 30 Demos in 6 Weeks",
+    "uid": "uKZH_pceV"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1676091352357,
+    "edit-time": 1676091352358,
+    "title": ".rm-h",
+    "uid": "Zgt9SeZ3m"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1676091352377,
+    "edit-time": 1676091352377,
+    "title": "RM/Component/Select",
+    "uid": "Hnv5nHppz"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1676091370800,
+    "edit-time": 1676091370800,
+    "title": "Experiment",
+    "uid": "qD_3Rh4ta"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "create-time": 1676091560922,
+    "edit-time": 1676091560923,
+    "title": "Factory Template",
+    "uid": "qkCWWggiH"
+  },
+  {
+    ":log/id": 1676095567306,
+    "create-time": 1676095567307,
+    "edit-time": 1676095567307,
     "title": "February 11th, 2023",
     "uid": "02-11-2023"
   }

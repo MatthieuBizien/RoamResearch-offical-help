@@ -342,6 +342,21 @@ Content #.h
 ## [Features](<Features.md>)
 - ### [roam/render](<../roam/render.md>)
 
+## [February 10th, 2023](<February 10th, 2023.md>)
+- [x] [Experiment](<../Experiment.md>) - Demo how it was possible to use the combination of [roam/render](<../roam/render.md>)
+
+- {{[roam/render](<../roam/render.md>):
+
+- {{[roam/render](<../roam/render.md>):
+
+- This component is an experiment, and was built paritally as a demo of what you can do with  [roam/render](<../roam/render.md>)
+
+- This component is an experiment, and was built paritally as a demo of what you can do with  [roam/render](<../roam/render.md>) - a feature of roam that allows you to build interactive components out of code blocks written __inside__ your roam graph and referenced by the component in this format `{{[roam/render](<../roam/render.md>):
+
+"(?:\\[\\[)?roam/render(?:\\]\\])?:" ;; [roam/render](<../roam/render.md>)
+
+(str "{{[roam/render](<../roam/render.md>):
+
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - {{[roam/render](<../roam/render.md>):
 

@@ -309,6 +309,13 @@
 ## [FAQ](<FAQ.md>)
 - Check out some of our template collections here: [roam/templates](<../roam/templates.md>)
 
+## [February 10th, 2023](<February 10th, 2023.md>)
+- [x] [Experiment](<../Experiment.md>) - Demo how it was possible to use the combination of [roam/render](<../roam/render.md>) and [roam/templates](<../roam/templates.md>)
+
+- ## Conor's [Factory Template](<../Factory Template.md>) for creating Option Dropdowns based on block refences  #[roam/templates](<../roam/templates.md>)
+
+- [RM/Component/Select](<../RM/Component/Select.md>) an item from Dropdown List [roam/templates](<../roam/templates.md>)
+
 ## [Templates](<Templates.md>)
 #[roam/templates](<../roam/templates.md>)
 
