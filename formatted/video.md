@@ -306,6 +306,9 @@
 
 - {{[video](<video.md>):
 
+## [roam/render](<roam/render.md>)
+- {{[video](<video.md>):
+
 ## [roam/templates](<roam/templates.md>)
 - [ ] [Article link]() or {{[video](<video.md>):
 
