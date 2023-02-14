@@ -42967,6 +42967,247 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "02-11-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcGQgqUSI84.png?alt=media&token=d386efe3-ea41-46e4-92e6-c08d06428683": {
+                              ":height": null,
+                              ":width": 409
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1676375198547,
+                            "edit-time": 1676375204783,
+                            "string": "got this via `{{[[streak]]: [[Daily Highlight]]}}`",
+                            "uid": "v4Kxill82"
+                          }
+                        ],
+                        "create-time": 1676375151789,
+                        "edit-time": 1676375156036,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcGQgqUSI84.png?alt=media&token=d386efe3-ea41-46e4-92e6-c08d06428683": {
+                              "height": null,
+                              "width": 409
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcGQgqUSI84.png?alt=media&token=d386efe3-ea41-46e4-92e6-c08d06428683)",
+                        "uid": "IZ7Nynt40"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1676374732415,
+                        "edit-time": 1676375028738,
+                        "string": "Provide it a reference to one or more pages or blocks, it will generate a heatmap showing how often that ref pattern appeared in your daily notes. ",
+                        "uid": "bwaUAPK5L"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1676374726508,
+                        "edit-time": 1676374732417,
+                        "string": "Click any cell to open matching blocks in the sidebar",
+                        "uid": "mtuDZFcUg"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1676374610411,
+                        "edit-time": 1676374617002,
+                        "string": "use via `/streak`",
+                        "uid": "VHWzAAgQd"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1676374736900,
+                                "edit-time": 1676374833596,
+                                "string": "`{{[[streak]]: [[DONE]]}}`",
+                                "uid": "liPk_YuuT"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1676374744040,
+                                "edit-time": 1676374819548,
+                                "string": "`{{[[streak]]: [[DONE]] [[Solutions]]}}`",
+                                "uid": "QG9M5BNJp"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1676374784334,
+                                "edit-time": 1676374835913,
+                                "string": "`{{[[streak]]: {or: [[DONE]] [[Solutions]]}}}`",
+                                "uid": "nSOgCah7M"
+                              }
+                            ],
+                            "create-time": 1676374734817,
+                            "edit-time": 1676374736905,
+                            "string": "examples",
+                            "uid": "JA5nzWgPZ"
+                          }
+                        ],
+                        "create-time": 1676374617291,
+                        "edit-time": 1676374860522,
+                        "string": "you can pass in a single page, or pass in multiple pages, or even pass in query-type syntax!",
+                        "uid": "gHrGlvyAf"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "CV_O2qTlP"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1676374697040,
+                            "edit-time": 1676374697728,
+                            "string": "https://twitter.com/Conaw/status/1624154783560142848",
+                            "uid": "efx4VQg_P"
+                          }
+                        ],
+                        "create-time": 1676374692694,
+                        "edit-time": 1676374697043,
+                        "refs": [
+                          {
+                            "uid": "CV_O2qTlP"
+                          }
+                        ],
+                        "string": "[[Conor White-Sullivan]]'s tweet",
+                        "uid": "GrjV-auoP"
+                      }
+                    ],
+                    "create-time": 1676374599886,
+                    "edit-time": 1676374972475,
+                    "string": "Streak ",
+                    "uid": "OCz941_hE"
+                  }
+                ],
+                "create-time": 1676374599886,
+                "edit-time": 1676374599886,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80",
+                "uid": "JL6JrMMdP"
+              }
+            ],
+            "create-time": 1676374585185,
+            "edit-time": 1676374589938,
+            "refs": [
+              {
+                "uid": "02-11-2023"
+              }
+            ],
+            "string": "[[February 11th, 2023]]",
+            "uid": "w64IxojdR"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "02-08-2023"
               }
             ],
@@ -87160,9 +87401,22 @@
     "uid": "02-13-2023"
   },
   {
-    ":log/id": 1676362042422,
-    "create-time": 1676362042424,
-    "edit-time": 1676362042424,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1676073600000,
+    "create-time": 1676374589939,
+    "edit-time": 1676374589941,
+    "title": "February 11th, 2023",
+    "uid": "02-11-2023"
+  },
+  {
+    ":log/id": 1676387153405,
+    "create-time": 1676387153407,
+    "edit-time": 1676387153408,
     "title": "February 14th, 2023",
     "uid": "02-14-2023"
   }

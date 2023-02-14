@@ -1,6 +1,21 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[February 11th, 2023]]
+        - ### [[New Features]] 🚀
+            - Streak 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcGQgqUSI84.png?alt=media&token=d386efe3-ea41-46e4-92e6-c08d06428683)
+                    - got this via `{{[[streak]]: [[Daily Highlight]]}}`
+                - Provide it a reference to one or more pages or blocks, it will generate a heatmap showing how often that ref pattern appeared in your daily notes. 
+                - Click any cell to open matching blocks in the sidebar
+                - use via `/streak`
+                - you can pass in a single page, or pass in multiple pages, or even pass in query-type syntax!
+                    - examples
+                        - `{{[[streak]]: [[DONE]]}}`
+                        - `{{[[streak]]: [[DONE]] [[Solutions]]}}`
+                        - `{{[[streak]]: {or: [[DONE]] [[Solutions]]}}}`
+                - [[Conor White-Sullivan]]'s tweet
+                    - https://twitter.com/Conaw/status/1624154783560142848
     - [[February 8th, 2023]]
         - ### [[Quality of Life Improvements]] ✨
             - Multi-select move block up / down (Mac: `cmd-shift-up/down`, PC: `alt-shift-up/down`)

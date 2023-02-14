@@ -6,6 +6,9 @@
 ## [Block Context Menu](<Block Context Menu.md>)
 - Mermaid diagrams combined with version control in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
+## [Change Log](<Change Log.md>)
+- [Conor White-Sullivan](<Conor White-Sullivan.md>)'
+
 ## [Current time](<Current time.md>)
 - Task Management by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
