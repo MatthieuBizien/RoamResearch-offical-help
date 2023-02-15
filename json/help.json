@@ -42967,6 +42967,432 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "02-14-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FymqWiBfJcx.png?alt=media&token=5207037b-bbc8-45fc-9b13-3886207cad77": {
+                                  ":height": null,
+                                  ":width": 349
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676398665158,
+                            "edit-time": 1676398673631,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FymqWiBfJcx.png?alt=media&token=5207037b-bbc8-45fc-9b13-3886207cad77": {
+                                  "height": null,
+                                  "width": 349
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FymqWiBfJcx.png?alt=media&token=5207037b-bbc8-45fc-9b13-3886207cad77)",
+                            "uid": "82e1-ewaT"
+                          }
+                        ],
+                        "create-time": 1676398653194,
+                        "edit-time": 1676398661607,
+                        "string": "**Before**",
+                        "uid": "-v3e5-lve"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKlF9cmZNS1.png?alt=media&token=d8a1a734-bc0d-4ea7-88fe-10b25be02095": {
+                                  ":height": null,
+                                  ":width": 347
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676398688155,
+                            "edit-time": 1676398690168,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKlF9cmZNS1.png?alt=media&token=d8a1a734-bc0d-4ea7-88fe-10b25be02095": {
+                                  "height": null,
+                                  "width": 347
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKlF9cmZNS1.png?alt=media&token=d8a1a734-bc0d-4ea7-88fe-10b25be02095)",
+                            "uid": "Dko6awLcI"
+                          }
+                        ],
+                        "create-time": 1676398661600,
+                        "edit-time": 1676398663923,
+                        "string": "**After**",
+                        "uid": "sa3qU4_GA"
+                      }
+                    ],
+                    "create-time": 1676398638606,
+                    "edit-time": 1676398653200,
+                    "string": "Expand block references in templates auto complete",
+                    "uid": "Xv7Gnjuws"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1676397433471,
+                    "edit-time": 1676397468392,
+                    "string": "Typing `\"` or `'` with text selected will wrap the text with the matching character",
+                    "uid": "GR5QvMOrR"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FGFhJOF08A8.gif?alt=media&token=acb621be-8855-474c-b5f4-16898ef64446": {
+                              ":height": null,
+                              ":width": 369
+                            },
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FK41KwMynd-.gif?alt=media&token=a6d1c700-68de-4ccd-a78c-210d83d0c72b": {
+                              ":height": null,
+                              ":width": 413
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1676398340469,
+                        "edit-time": 1676398573794,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FGFhJOF08A8.gif?alt=media&token=acb621be-8855-474c-b5f4-16898ef64446": {
+                              "height": null,
+                              "width": 369
+                            },
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FK41KwMynd-.gif?alt=media&token=a6d1c700-68de-4ccd-a78c-210d83d0c72b": {
+                              "height": null,
+                              "width": 413
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FGFhJOF08A8.gif?alt=media&token=acb621be-8855-474c-b5f4-16898ef64446)",
+                        "uid": "47vrnuN95"
+                      }
+                    ],
+                    "create-time": 1676397339073,
+                    "edit-time": 1676397429795,
+                    "string": "Pasting a link with text selected will automatically wrap the selected text with a markdown link",
+                    "uid": "F4kgiAY60"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "wnfZeywR9"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3uyFe-uWQC.png?alt=media&token=36d28887-4178-4616-aff6-2c2f5c5471cf": {
+                                  ":height": null,
+                                  ":width": 309
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676397910668,
+                            "edit-time": 1676397911936,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3uyFe-uWQC.png?alt=media&token=36d28887-4178-4616-aff6-2c2f5c5471cf": {
+                                  "height": null,
+                                  "width": 309
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3uyFe-uWQC.png?alt=media&token=36d28887-4178-4616-aff6-2c2f5c5471cf)",
+                            "uid": "pquLHF6Hf"
+                          }
+                        ],
+                        "create-time": 1676397907056,
+                        "edit-time": 1676397922167,
+                        "string": "**Before**",
+                        "uid": "StIuxafT7"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FabUPk7Hjhs.png?alt=media&token=5bdcc815-e409-47dc-8ecf-6f667737d0b9": {
+                                  ":height": null,
+                                  ":width": 313
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676397914868,
+                            "edit-time": 1676397942801,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FabUPk7Hjhs.png?alt=media&token=5bdcc815-e409-47dc-8ecf-6f667737d0b9": {
+                                  "height": null,
+                                  "width": 313
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FabUPk7Hjhs.png?alt=media&token=5bdcc815-e409-47dc-8ecf-6f667737d0b9)",
+                            "uid": "wMnlx-1YA"
+                          }
+                        ],
+                        "create-time": 1676397912773,
+                        "edit-time": 1676397919219,
+                        "string": "**After**",
+                        "uid": "eXV8hfb_q"
+                      }
+                    ],
+                    "create-time": 1676397212199,
+                    "edit-time": 1676397348434,
+                    "refs": [
+                      {
+                        "uid": "wnfZeywR9"
+                      }
+                    ],
+                    "string": "Fix display of localhost links, i.e. http://localhost:8020/#/app/test103",
+                    "uid": "ooIvjzvB5"
+                  }
+                ],
+                "create-time": 1676397132317,
+                "edit-time": 1676397207812,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] \u2728",
+                "uid": "jEmLt4gni"
+              }
+            ],
+            "create-time": 1676397129356,
+            "edit-time": 1676397131937,
+            "refs": [
+              {
+                "uid": "02-14-2023"
+              }
+            ],
+            "string": "[[February 14th, 2023]]",
+            "uid": "OJza1kQ48"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "02-13-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "hyL5OPFah"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FgUXDFC3iyv.gif?alt=media&token=48f93162-7116-4c7d-a325-f630cac5d16c": {
+                              ":height": null,
+                              ":width": 429
+                            },
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FgZR7kIJwkV.gif?alt=media&token=35005667-7c45-41fd-a8a6-b692df1e14a8": {
+                              ":height": null,
+                              ":width": 580
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1676397018993,
+                        "edit-time": 1676398185050,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FgUXDFC3iyv.gif?alt=media&token=48f93162-7116-4c7d-a325-f630cac5d16c": {
+                              "height": null,
+                              "width": 429
+                            },
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FgZR7kIJwkV.gif?alt=media&token=35005667-7c45-41fd-a8a6-b692df1e14a8": {
+                              "height": null,
+                              "width": 580
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FgUXDFC3iyv.gif?alt=media&token=48f93162-7116-4c7d-a325-f630cac5d16c)",
+                        "uid": "4w_K7TncS"
+                      }
+                    ],
+                    "create-time": 1676396888215,
+                    "edit-time": 1676397090329,
+                    "refs": [
+                      {
+                        "uid": "hyL5OPFah"
+                      }
+                    ],
+                    "string": "`cmd-f` / `ctrl-f` find in page search for the [[Desktop App]] (version `0.0.16` or higher)",
+                    "uid": "X6moMeItW"
+                  }
+                ],
+                "create-time": 1676396864144,
+                "edit-time": 1676396876742,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80",
+                "uid": "Y3jLEIqQm"
+              }
+            ],
+            "create-time": 1676396861102,
+            "edit-time": 1676396863553,
+            "refs": [
+              {
+                "uid": "02-13-2023"
+              }
+            ],
+            "string": "[[February 13th, 2023]]",
+            "uid": "rcZJ_m5qD"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "02-11-2023"
               }
             ],
@@ -87414,10 +87840,35 @@
     "uid": "02-11-2023"
   },
   {
-    ":log/id": 1676390778712,
-    "create-time": 1676390778716,
-    "edit-time": 1676390778716,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1676390944035,
+    "create-time": 1676390944036,
+    "edit-time": 1676390944036,
     "title": "February 14th, 2023",
     "uid": "02-14-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1676397335775,
+    "edit-time": 1676397335795,
+    "title": "/app/test103",
+    "uid": "wnfZeywR9"
+  },
+  {
+    ":log/id": 1676420537383,
+    "create-time": 1676420537386,
+    "edit-time": 1676420537386,
+    "title": "February 15th, 2023",
+    "uid": "02-15-2023"
   }
 ]

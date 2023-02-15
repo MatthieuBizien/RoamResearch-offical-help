@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- `cmd-f` / `ctrl-f` find in page search for the [Desktop App](<Desktop App.md>)
+
 - [Desktop App](<Desktop App.md>)
 
 - Apple Silicon (M1) [Desktop App](<Desktop App.md>)

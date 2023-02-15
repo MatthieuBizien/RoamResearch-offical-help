@@ -1,6 +1,25 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [February 14th, 2023](<February 14th, 2023.md>)
+        - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - Expand block references in templates auto complete
+                - **Before**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FymqWiBfJcx.png?alt=media&token=5207037b-bbc8-45fc-9b13-3886207cad77)
+                - **After**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKlF9cmZNS1.png?alt=media&token=d8a1a734-bc0d-4ea7-88fe-10b25be02095)
+            - Typing `"` or `'` with text selected will wrap the text with the matching character
+            - Pasting a link with text selected will automatically wrap the selected text with a markdown link
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FGFhJOF08A8.gif?alt=media&token=acb621be-8855-474c-b5f4-16898ef64446)
+            - Fix display of localhost links, i.e. http://localhost:8020/#/app/test103
+                - **Before**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3uyFe-uWQC.png?alt=media&token=36d28887-4178-4616-aff6-2c2f5c5471cf)
+                - **After**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FabUPk7Hjhs.png?alt=media&token=5bdcc815-e409-47dc-8ecf-6f667737d0b9)
+    - [February 13th, 2023](<February 13th, 2023.md>)
+        - ### [New Features](<New Features.md>) 🚀
+            - `cmd-f` / `ctrl-f` find in page search for the [Desktop App](<Desktop App.md>) (version `0.0.16` or higher)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FgUXDFC3iyv.gif?alt=media&token=48f93162-7116-4c7d-a325-f630cac5d16c)
     - [February 11th, 2023](<February 11th, 2023.md>)
         - ### [New Features](<New Features.md>) 🚀
             - Streak 
