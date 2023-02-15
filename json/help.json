@@ -42992,6 +42992,50 @@
                 "children": [
                   {
                     ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2h9V-FtAO"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "edit-time": 1676446581672,
+                        "refs": [
+                          {
+                            "uid": "2h9V-FtAO"
+                          }
+                        ],
+                        "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}",
+                        "uid": "vKzYGB0sv"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1676445809012,
+                        "edit-time": 1676446918865,
+                        "string": "Currently you might see all commands nested under \"Ungrouped Extension Hotkeys\". Extension-wise groupings will be available once the extension migrates to the new API (If you're an extension dev, [more here](https://roamresearch.com/#/app/developer-documentation/page/Xf6HHUsb3))",
+                        "uid": "Q5NHh3P3U"
+                      }
+                    ],
+                    "create-time": 1676445249288,
+                    "edit-time": 1676445804021,
+                    "string": "Ability to set up hotkeys for commands set up by Extensions",
+                    "uid": "B2v48v-JR"
+                  },
+                  {
+                    ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
                     ":edit/user": {
@@ -43814,6 +43858,18 @@
                         ],
                         "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F5_JZnrFS-l.mp4?alt=media&token=b6bfe09e-14f3-42af-be58-02bb6a2fffbc}}",
                         "uid": "9Pxyc8lNh"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1676445305785,
+                        "edit-time": 1676445338949,
+                        "string": "One can also use the slash command for a persistent search view (i.e. type `/search`)",
+                        "uid": "bKWrk8PpU"
                       }
                     ],
                     "create-time": 1675872118922,
@@ -87865,9 +87921,15 @@
     "uid": "wnfZeywR9"
   },
   {
-    ":log/id": 1676420537383,
-    "create-time": 1676420537386,
-    "edit-time": 1676420537386,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1676447182283,
+    "create-time": 1676447182283,
+    "edit-time": 1676447182284,
     "title": "February 15th, 2023",
     "uid": "02-15-2023"
   }

@@ -3,6 +3,9 @@
 - ## **New Changes**
     - [February 14th, 2023](<February 14th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - Ability to set up hotkeys for commands set up by Extensions
+                - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}
+                - Currently you might see all commands nested under "Ungrouped Extension Hotkeys". Extension-wise groupings will be available once the extension migrates to the new API (If you're an extension dev, [more here](https://roamresearch.com/#/app/developer-documentation/page/Xf6HHUsb3))
             - Expand block references in templates auto complete
                 - **Before**
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FymqWiBfJcx.png?alt=media&token=5207037b-bbc8-45fc-9b13-3886207cad77)
@@ -45,6 +48,7 @@
         - ### [New Features](<New Features.md>) 🚀
             - Open search in sidebar (alt-enter or opt-enter)
                 - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F5_JZnrFS-l.mp4?alt=media&token=b6bfe09e-14f3-42af-be58-02bb6a2fffbc}}
+                - One can also use the slash command for a persistent search view (i.e. type `/search`)
     - [February 7th, 2023](<February 7th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - If global filters are applied on the log, then show the filter icon so you can remove them
