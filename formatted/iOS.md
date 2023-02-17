@@ -9,3 +9,5 @@
 
 - Fix having to double click to edit text on [iOS](<iOS.md>)
 
+- Fix upload issues in [iOS](<iOS.md>)
+

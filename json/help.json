@@ -42967,6 +42967,149 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "02-17-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "bFFLAQoLF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1676671022603,
+                        "edit-time": 1676671066956,
+                        "string": "You can find a user's display page title by hovering over a block they created",
+                        "uid": "cfeJBIdG5"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Y_UVaLrNm"
+                              },
+                              {
+                                ":block/uid": "_EqbjQSAF"
+                              },
+                              {
+                                ":block/uid": "kPXScOJpv"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676670220595,
+                            "edit-time": 1676670792174,
+                            "refs": [
+                              {
+                                "uid": "Y_UVaLrNm"
+                              },
+                              {
+                                "uid": "_EqbjQSAF"
+                              },
+                              {
+                                "uid": "kPXScOJpv"
+                              }
+                            ],
+                            "string": "{{[[query]]: {and: [[Quality of Life Improvements]] {by: [[Baibhav Bista]]}}}}",
+                            "uid": "ZZnFVi8h7"
+                          }
+                        ],
+                        "create-time": 1676670214714,
+                        "edit-time": 1676670220601,
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        "uid": "TfxUc8-e5"
+                      }
+                    ],
+                    "create-time": 1676670169585,
+                    "edit-time": 1676670247083,
+                    "refs": [
+                      {
+                        "uid": "bFFLAQoLF"
+                      }
+                    ],
+                    "string": "Filter [[queries]] by the author of blocks with `{by: [[user's display page]]}`",
+                    "uid": "EMGweoadY"
+                  }
+                ],
+                "create-time": 1676670154401,
+                "edit-time": 1676670169465,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] \u2728",
+                "uid": "20KSQtZc7"
+              }
+            ],
+            "create-time": 1676670151675,
+            "edit-time": 1676670154422,
+            "refs": [
+              {
+                "uid": "02-17-2023"
+              }
+            ],
+            "string": "[[February 17th, 2023]]",
+            "uid": "bxQukyYHP"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "02-14-2023"
               }
             ],
@@ -43316,7 +43459,7 @@
               }
             ],
             "create-time": 1676397129356,
-            "edit-time": 1676397131937,
+            "edit-time": 1676670211725,
             "refs": [
               {
                 "uid": "02-14-2023"
@@ -51419,15 +51562,25 @@
                 },
                 "children": [
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N3Uq-2dil"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
                     ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
                     "create-time": 1637897692207,
-                    "edit-time": 1637897725811,
-                    "string": "Fix upload issues in iOS ",
+                    "edit-time": 1676670800739,
+                    "refs": [
+                      {
+                        "uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "string": "Fix upload issues in [[iOS]] ",
                     "uid": "TrBH9GlMe"
                   },
                   {

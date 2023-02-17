@@ -1,6 +1,12 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [February 17th, 2023](<February 17th, 2023.md>)
+        - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - Filter [queries](<queries.md>) by the author of blocks with `{by: [user's display page](<user's display page.md>)}`
+                - You can find a user's display page title by hovering over a block they created
+                - **[Example](<Example.md>):**
+                    - {{[query](<query.md>): {and: [Quality of Life Improvements](<Quality of Life Improvements.md>) {by: [Baibhav Bista](<Baibhav Bista.md>)}}}}
     - [February 14th, 2023](<February 14th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - Ability to set up hotkeys for commands set up by Extensions
@@ -503,7 +509,7 @@ Readiness Score:: hh:mm:ss```
             - [Performance Improvements](<Performance Improvements.md>) for imports and queries
     - [November 26th, 2021](<November 26th, 2021.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
-            - Fix upload issues in iOS 
+            - Fix upload issues in [iOS](<iOS.md>) 
             - Automatic handling of snapshot issues
     - [November 17th, 2021](<November 17th, 2021.md>)
         - Natural Language Date suggestions now work in "Find or Create Page" search bar

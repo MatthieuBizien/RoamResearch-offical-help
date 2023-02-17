@@ -5,6 +5,9 @@
         - **[Example](<Example.md>):**
 
 ## [Change Log](<Change Log.md>)
+- You can find a user's display page title by hovering over a block they created
+                - **[Example](<Example.md>):**
+
 - 🤷‍♂️ it's nice to have when you want it not much more to it than that
                     - **[Example](<Example.md>):**
 
