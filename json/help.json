@@ -42980,6 +42980,257 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "N3Uq-2dil"
+                          },
+                          {
+                            ":block/uid": "LK8cfW7Xh"
+                          },
+                          {
+                            ":block/uid": "ziOfadhSb"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1676684558394,
+                        "edit-time": 1676684575817,
+                        "refs": [
+                          {
+                            "uid": "N3Uq-2dil"
+                          },
+                          {
+                            "uid": "LK8cfW7Xh"
+                          },
+                          {
+                            "uid": "ziOfadhSb"
+                          }
+                        ],
+                        "string": "Requires:: [[iOS]] 15.5 or greater (or [[android]])",
+                        "uid": "gSwpOrALc"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676680646961,
+                            "edit-time": 1676682642294,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FXcnjD59K61.MOV?alt=media&token=f2a52be0-21d8-4b59-b797-3985af297e4e}}",
+                            "uid": "5DXTN9ixG"
+                          }
+                        ],
+                        "create-time": 1676676974348,
+                        "edit-time": 1676682644168,
+                        "string": "**Before**",
+                        "uid": "4posP2C5W"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676680663915,
+                            "edit-time": 1676682642294,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2F6hyWxIeNdl.MOV?alt=media&token=7a0e5e66-ee37-46ae-9b5b-cf872c81d1a0}}",
+                            "uid": "gHYh5uP7W"
+                          }
+                        ],
+                        "create-time": 1676676975738,
+                        "edit-time": 1676682646299,
+                        "string": "**After**",
+                        "uid": "PkrDf7qOI"
+                      }
+                    ],
+                    "create-time": 1676682391613,
+                    "edit-time": 1676682483573,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "Fixed the screen jump that happens when clicking into a block in the [[mobile]] app",
+                    "uid": "jqQMAWPaC"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676680679750,
+                            "edit-time": 1676682608969,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FlWKgJmFnLk.MOV?alt=media&token=ed03d18a-e9c3-4665-a699-1bb76cb45f7c}}",
+                            "uid": "gQu7wwSBs"
+                          }
+                        ],
+                        "create-time": 1676676958817,
+                        "edit-time": 1676682611661,
+                        "string": "**Before**",
+                        "uid": "kQ9jvTUW1"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1676680698696,
+                            "edit-time": 1676682608969,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2Fu9q9wrvDQ6.MOV?alt=media&token=9e71a37f-9c0b-45c5-af8d-6c2f8dc4452e}}",
+                            "uid": "2ckxZuWlo"
+                          }
+                        ],
+                        "create-time": 1676676963679,
+                        "edit-time": 1676682614341,
+                        "string": "**After**",
+                        "uid": "fIdBCRCHx"
+                      }
+                    ],
+                    "create-time": 1676682445561,
+                    "edit-time": 1676684477767,
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "Fixed the block moving off screen when moving a block up or down on [[mobile]]",
+                    "uid": "BJJAA17Ie"
+                  }
+                ],
+                "create-time": 1676682379806,
+                "edit-time": 1676684326366,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] \ud83d\udee0",
+                "uid": "9zN7bG7FU"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "_EqbjQSAF"
                   }
                 ],
@@ -88111,5 +88362,24 @@
     "edit-time": 1676661199037,
     "title": "February 17th, 2023",
     "uid": "02-17-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1676684562497,
+    "edit-time": 1676684562498,
+    "title": "Requires",
+    "uid": "ziOfadhSb"
+  },
+  {
+    ":log/id": 1676700374357,
+    "create-time": 1676700374359,
+    "edit-time": 1676700374359,
+    "title": "February 18th, 2023",
+    "uid": "02-18-2023"
   }
 ]

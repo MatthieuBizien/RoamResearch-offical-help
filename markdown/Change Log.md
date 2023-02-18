@@ -2,6 +2,18 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [[February 17th, 2023]]
+        - ### [[Bug Fixes]] 🛠
+            - Fixed the screen jump that happens when clicking into a block in the [[mobile]] app
+                - Requires:: [[iOS]] 15.5 or greater (or [[android]])
+                - **Before**
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FXcnjD59K61.MOV?alt=media&token=f2a52be0-21d8-4b59-b797-3985af297e4e}}
+                - **After**
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2F6hyWxIeNdl.MOV?alt=media&token=7a0e5e66-ee37-46ae-9b5b-cf872c81d1a0}}
+            - Fixed the block moving off screen when moving a block up or down on [[mobile]]
+                - **Before**
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FlWKgJmFnLk.MOV?alt=media&token=ed03d18a-e9c3-4665-a699-1bb76cb45f7c}}
+                - **After**
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2Fu9q9wrvDQ6.MOV?alt=media&token=9e71a37f-9c0b-45c5-af8d-6c2f8dc4452e}}
         - ### [[Quality of Life Improvements]] ✨
             - Filter [[queries]] by the author of blocks with `{by: [[user's display page]]}`
                 - You can find a user's display page title by hovering over a block they created

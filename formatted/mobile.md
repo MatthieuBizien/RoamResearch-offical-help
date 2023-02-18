@@ -1,6 +1,10 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Fixed the screen jump that happens when clicking into a block in the [mobile](<mobile.md>)
+
+- Fixed the block moving off screen when moving a block up or down on [mobile](<mobile.md>)
+
 - [mobile](<mobile.md>)
 
 - [mobile](<mobile.md>)
