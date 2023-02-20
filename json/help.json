@@ -43215,6 +43215,54 @@
                     ],
                     "string": "Fixed the block moving off screen when moving a block up or down on [[mobile]]",
                     "uid": "BJJAA17Ie"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1676854233522,
+                        "edit-time": 1676854335988,
+                        "string": "for example, in some devices, it would float way up and then slowly float down. In others, it would get obscured. The behavior should be much better now across the board",
+                        "uid": "3wIj2R10a"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "gSwpOrALc"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1676854335984,
+                        "edit-time": 1676854350556,
+                        "refs": [
+                          {
+                            "uid": "gSwpOrALc"
+                          }
+                        ],
+                        "string": "((gSwpOrALc))",
+                        "uid": "bWzom-S_u"
+                      }
+                    ],
+                    "create-time": 1676854185181,
+                    "edit-time": 1676854500123,
+                    "string": "Fixed issues of mobile bar misbehaving",
+                    "uid": "F0FNkuveb"
                   }
                 ],
                 "create-time": 1676682379806,
@@ -88376,10 +88424,16 @@
     "uid": "ziOfadhSb"
   },
   {
-    ":log/id": 1676826369750,
-    "create-time": 1676826369754,
-    "edit-time": 1676826369754,
-    "title": "February 19th, 2023",
-    "uid": "02-19-2023"
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1676852148578,
+    "create-time": 1676852148579,
+    "edit-time": 1676852148579,
+    "title": "February 20th, 2023",
+    "uid": "02-20-2023"
   }
 ]

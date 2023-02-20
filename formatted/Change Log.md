@@ -14,6 +14,9 @@
                     - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FlWKgJmFnLk.MOV?alt=media&token=ed03d18a-e9c3-4665-a699-1bb76cb45f7c}}
                 - **After**
                     - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2Fu9q9wrvDQ6.MOV?alt=media&token=9e71a37f-9c0b-45c5-af8d-6c2f8dc4452e}}
+            - Fixed issues of mobile bar misbehaving
+                - for example, in some devices, it would float way up and then slowly float down. In others, it would get obscured. The behavior should be much better now across the board
+                - **[Requires](<Requires.md>):** [iOS](<iOS.md>) 15.5 or greater (or [android](<android.md>))
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - Filter [queries](<queries.md>) by the author of blocks with `{by: [user's display page](<user's display page.md>)}`
                 - You can find a user's display page title by hovering over a block they created
