@@ -3,6 +3,9 @@
 - ## **New Changes**
     - [February 27th, 2023](<February 27th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - `#.rm-hide-for-readers` css class / tag. Hides the block and it's descendants for people who only have read access to that block. 
+                - Useful for hiding a contributing guide on a public graph from those that can't edit
+                - It is only a visual change ((you can still find the block in the DOM)) so don't use it to hide any secret information
             - You can now sort [Roam Depot](<Roam Depot.md>) extensions by downloads, created time, updated time, or alphabetical
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FU-NrN02BGg.png?alt=media&token=15d8a284-e52e-4b10-a9f9-9cb2cdc080f1)
             - [Roam Depot](<Roam Depot.md>) search improvements

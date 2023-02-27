@@ -42991,6 +42991,44 @@
                 },
                 "children": [
                   {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1677535297650,
+                        "edit-time": 1677535375385,
+                        "string": "Useful for hiding a contributing guide on a public graph from those that can't edit",
+                        "uid": "oXvm2h4-I"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1677535375377,
+                        "edit-time": 1677535414331,
+                        "string": "It is only a visual change ((you can still find the block in the DOM)) so don't use it to hide any secret information",
+                        "uid": "JGyYJ1PJQ"
+                      }
+                    ],
+                    "create-time": 1677535223223,
+                    "edit-time": 1677535285893,
+                    "string": "`#.rm-hide-for-readers` css class / tag. Hides the block and it's descendants for people who only have read access to that block. ",
+                    "uid": "h0hgA7Z70"
+                  },
+                  {
                     ":block/refs": [
                       {
                         ":block/uid": "N8P6RYE7o"
