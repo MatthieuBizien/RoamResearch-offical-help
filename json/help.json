@@ -42967,6 +42967,349 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "02-27-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "43MRmPiT2"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "43MRmPiT2"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1677501250444,
+                        "edit-time": 1677501451946,
+                        "refs": [
+                          {
+                            "uid": "43MRmPiT2"
+                          }
+                        ],
+                        "string": "KaTeX (the LaTeX typesetting library we use) has been updated to the latest version, and ((43MRmPiT2)) have been set up",
+                        "uid": "vyN3v9jda"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZB3wt0PRFV.png?alt=media&token=76a9bae9-d167-49cb-a177-d0319d6ce85c": {
+                                  ":height": null,
+                                  ":width": 470
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1677501776242,
+                            "edit-time": 1677501806394,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZB3wt0PRFV.png?alt=media&token=76a9bae9-d167-49cb-a177-d0319d6ce85c": {
+                                  "height": null,
+                                  "width": 470
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZB3wt0PRFV.png?alt=media&token=76a9bae9-d167-49cb-a177-d0319d6ce85c)",
+                            "uid": "965MCsx4z"
+                          }
+                        ],
+                        "create-time": 1677501608184,
+                        "edit-time": 1677501823612,
+                        "string": "(demos below will not work if Roam has not updated to the latest version. A screenshot has been attached underneath this block)",
+                        "uid": "yIpCrzLz5"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1677500697800,
+                                "edit-time": 1677500700124,
+                                "string": "$$A_{\\angl n} + B_{\\angl g} + C_\\angln$$",
+                                "uid": "z9jzI15CX"
+                              }
+                            ],
+                            "create-time": 1677500701080,
+                            "edit-time": 1677500705538,
+                            "string": "angl and angln",
+                            "uid": "EBQapIyz1"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1677500773469,
+                                "edit-time": 1677500782055,
+                                "string": "$$\\Set{x \\| y}$$",
+                                "uid": "_hPv1CBqT"
+                              }
+                            ],
+                            "create-time": 1677500771057,
+                            "edit-time": 1677500773474,
+                            "string": "set",
+                            "uid": "runzyQnko"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1677501199114,
+                            "edit-time": 1677501203126,
+                            "string": "etc.",
+                            "uid": "RHR35N1M1"
+                          }
+                        ],
+                        "create-time": 1677500689180,
+                        "edit-time": 1677501042302,
+                        "string": "Examples of some new supported syntax",
+                        "uid": "IyjOMB3QM"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1677501466931,
+                                "edit-time": 1677501519336,
+                                "string": "these definition blocks need to be visible in order for them to be registered",
+                                "uid": "__mI1ZGiZ"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1676887730316,
+                                "edit-time": 1677501131075,
+                                "string": "$$\n\\gdef\\matrix#1{\\begin{bmatrix}#1\\end{bmatrix}}\n$$",
+                                "uid": "ZuBkOxzTa"
+                              }
+                            ],
+                            "create-time": 1676890405432,
+                            "edit-time": 1677501525068,
+                            "string": "macro definition",
+                            "uid": "mHRxuI-Dw"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1676887720651,
+                                "edit-time": 1677501131075,
+                                "string": "$$\n\\matrix{1&2&4\\\\1&2&3}\n$$",
+                                "uid": "jAA2V7T9s"
+                              }
+                            ],
+                            "create-time": 1676890408156,
+                            "edit-time": 1677501192277,
+                            "string": "katex blocks using the matrix macro defined above",
+                            "uid": "iZo3t14qa"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1677501285171,
+                            "edit-time": 1677501292761,
+                            "string": "[More info on using macros](https://katex.org/docs/supported.html#macros)",
+                            "uid": "jG_2rTmv7"
+                          }
+                        ],
+                        "create-time": 1677501043880,
+                        "edit-time": 1677501045849,
+                        "string": "Macros",
+                        "uid": "43MRmPiT2"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1677500484212,
+                            "edit-time": 1677501221039,
+                            "string": "We're now on v0.16.4",
+                            "uid": "4PmpHqrFu"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1677500544217,
+                            "edit-time": 1677500564536,
+                            "string": "If that does not resolve the issue, please contact Roam Support",
+                            "uid": "yEdbLhARn"
+                          }
+                        ],
+                        "create-time": 1677500511538,
+                        "edit-time": 1677501207952,
+                        "string": "If you run into any issues with your latex blocks, please checkout the migration guide: https://katex.org/docs/migration.html",
+                        "uid": "MWfOyz1ze"
+                      }
+                    ],
+                    "create-time": 1677500334616,
+                    "edit-time": 1677501331808,
+                    "refs": [
+                      {
+                        "uid": "43MRmPiT2"
+                      }
+                    ],
+                    "string": "New syntax supported in LaTeX. Now also supports ((43MRmPiT2))!",
+                    "uid": "_TNwTMjCq"
+                  }
+                ],
+                "create-time": 1677500317273,
+                "edit-time": 1677500328595,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] \u2728",
+                "uid": "_bi8zaaJ4"
+              }
+            ],
+            "create-time": 1677500314244,
+            "edit-time": 1677500317288,
+            "refs": [
+              {
+                "uid": "02-27-2023"
+              }
+            ],
+            "string": "[[February 27th, 2023]]",
+            "uid": "13c_MW5BZ"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "02-17-2023"
               }
             ],

@@ -1,6 +1,32 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [February 27th, 2023](<February 27th, 2023.md>)
+        - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - New syntax supported in LaTeX. Now also supports Macros!
+                - KaTeX (the LaTeX typesetting library we use) has been updated to the latest version, and Macros have been set up
+                - (demos below will not work if Roam has not updated to the latest version. A screenshot has been attached underneath this block)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZB3wt0PRFV.png?alt=media&token=76a9bae9-d167-49cb-a177-d0319d6ce85c)
+                - Examples of some new supported syntax
+                    - angl and angln
+                        - $$A_{\angl n} + B_{\angl g} + C_\angln$$
+                    - set
+                        - $$\Set{x \| y}$$
+                    - etc.
+                - Macros
+                    - macro definition
+                        - these definition blocks need to be visible in order for them to be registered
+                        - $$
+\gdef\matrix[1](<1.md>){\begin{bmatrix}[1](<1.md>)\end{bmatrix}}
+$$
+                    - katex blocks using the matrix macro defined above
+                        - $$
+\matrix{1&2&4\\1&2&3}
+$$
+                    - [More info on using macros](https://katex.org/docs/supported.html[macros](<macros.md>))
+                - If you run into any issues with your latex blocks, please checkout the migration guide: https://katex.org/docs/migration.html
+                    - We're now on v0.16.4
+                    - If that does not resolve the issue, please contact Roam Support
     - [February 17th, 2023](<February 17th, 2023.md>)
         - ### [Bug Fixes](<Bug Fixes.md>) 🛠
             - Fixed the screen jump that happens when clicking into a block in the [mobile](<mobile.md>) app
