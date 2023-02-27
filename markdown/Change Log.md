@@ -3,6 +3,12 @@
 - ## **New Changes**
     - [[February 27th, 2023]]
         - ### [[Quality of Life Improvements]] ✨
+            - You can now sort [[Roam Depot]] extensions by downloads, created time, updated time, or alphabetical
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FU-NrN02BGg.png?alt=media&token=15d8a284-e52e-4b10-a9f9-9cb2cdc080f1)
+            - [[Roam Depot]] search improvements
+                - Now it searches through authors, tags, full descriptions, and handles partial matches better
+                - You can search for all the extensions by an author
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3Kf40HxZ1Z.png?alt=media&token=c1692a8c-e61a-4dc1-8751-3e0a59da6781)
             - New syntax supported in LaTeX. Now also supports Macros!
                 - KaTeX (the LaTeX typesetting library we use) has been updated to the latest version, and Macros have been set up
                 - (demos below will not work if Roam has not updated to the latest version. A screenshot has been attached underneath this block)
@@ -388,19 +394,19 @@ Readiness Score:: hh:mm:ss```
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZldEt56a8N.png?alt=media&token=9f6292f0-3ec2-4117-8359-dae3760063ab)
             - Update to the help database to remove custom styling
     -  [[July 25th, 2022]]
-        - [[RoamDepot]] #[[Plugins]]
+        - [[Roam Depot]] #[[Plugins]]
             - [[PhonetoNote]]
                 - Create a dedicated phone number to send and forward messages to a Roam graph + more
                     - https://twitter.com/phonetonote/status/1551764556707397633?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ
     -  [[July 19th, 2022]]
-        - [[RoamDepot]] #[[Plugins]] 
+        - [[Roam Depot]] #[[Plugins]] 
             -  [[Matter]] 
                 -  great way to sync highlights
                 - https://twitter.com/matter/status/1549490849595080704?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ
     - [[July 15th, 2022]]
-        - #[[New Features]] [[RoamDepot]] #[[Major Launch]]
+        - #[[New Features]] [[Roam Depot]] #[[Major Launch]]
             - https://twitter.com/RoamResearch/status/1547823281478066177?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ
-        - [[RoamDepot]] #Plugins 
+        - [[Roam Depot]] #Plugins 
             - [[Bionic Text]]
                 - https://twitter.com/fbgallet/status/1548083399977340930?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ
     - [[July 11th, 2022]]

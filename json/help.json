@@ -488,17 +488,17 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         ":edit/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
         },
         "create-time": 1614231777234,
-        "edit-time": 1660324769697,
+        "edit-time": 1677519632576,
         "heading": 1,
         "refs": [
           {
             "uid": "N8P6RYE7o"
           }
         ],
-        "string": "[[RoamDepot]]",
+        "string": "[[Roam Depot]]",
         "uid": "qTGuhURGk"
       },
       {
@@ -42993,6 +42993,136 @@
                   {
                     ":block/refs": [
                       {
+                        ":block/uid": "N8P6RYE7o"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FU-NrN02BGg.png?alt=media&token=15d8a284-e52e-4b10-a9f9-9cb2cdc080f1": {
+                              ":height": null,
+                              ":width": 290
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1677519660253,
+                        "edit-time": 1677519681154,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FU-NrN02BGg.png?alt=media&token=15d8a284-e52e-4b10-a9f9-9cb2cdc080f1": {
+                              "height": null,
+                              "width": 290
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FU-NrN02BGg.png?alt=media&token=15d8a284-e52e-4b10-a9f9-9cb2cdc080f1)",
+                        "uid": "WPrADrM7p"
+                      }
+                    ],
+                    "create-time": 1677519569818,
+                    "edit-time": 1677519723958,
+                    "refs": [
+                      {
+                        "uid": "N8P6RYE7o"
+                      }
+                    ],
+                    "string": "You can now sort [[Roam Depot]] extensions by downloads, created time, updated time, or alphabetical",
+                    "uid": "lapWCLLnO"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N8P6RYE7o"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1677519725017,
+                        "edit-time": 1677520056943,
+                        "string": "Now it searches through authors, tags, full descriptions, and handles partial matches better",
+                        "uid": "oxIMKQZ2C"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3Kf40HxZ1Z.png?alt=media&token=c1692a8c-e61a-4dc1-8751-3e0a59da6781": {
+                                  ":height": null,
+                                  ":width": 215
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1677519929814,
+                            "edit-time": 1677519957643,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3Kf40HxZ1Z.png?alt=media&token=c1692a8c-e61a-4dc1-8751-3e0a59da6781": {
+                                  "height": null,
+                                  "width": 215
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3Kf40HxZ1Z.png?alt=media&token=c1692a8c-e61a-4dc1-8751-3e0a59da6781)",
+                            "uid": "ye9US4ct0"
+                          }
+                        ],
+                        "create-time": 1677519918230,
+                        "edit-time": 1677519929822,
+                        "string": "You can search for all the extensions by an author",
+                        "uid": "1F38Hmdix"
+                      }
+                    ],
+                    "create-time": 1677519906766,
+                    "edit-time": 1677519906766,
+                    "refs": [
+                      {
+                        "uid": "N8P6RYE7o"
+                      }
+                    ],
+                    "string": "[[Roam Depot]] search improvements",
+                    "uid": "cNlcEgnvn"
+                  },
+                  {
+                    ":block/refs": [
+                      {
                         ":block/uid": "43MRmPiT2"
                       }
                     ],
@@ -49356,7 +49486,7 @@
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "children": [
                   {
@@ -49411,7 +49541,7 @@
                   }
                 ],
                 "create-time": 1660325016657,
-                "edit-time": 1660325272453,
+                "edit-time": 1677519632576,
                 "refs": [
                   {
                     "uid": "mOo2CZLs0"
@@ -49420,7 +49550,7 @@
                     "uid": "N8P6RYE7o"
                   }
                 ],
-                "string": "[[RoamDepot]] #[[Plugins]]",
+                "string": "[[Roam Depot]] #[[Plugins]]",
                 "uid": "mdnjJzbiv"
               }
             ],
@@ -49460,7 +49590,7 @@
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "children": [
                   {
@@ -49513,7 +49643,7 @@
                   }
                 ],
                 "create-time": 1660324638150,
-                "edit-time": 1660325258496,
+                "edit-time": 1677519632576,
                 "refs": [
                   {
                     "uid": "mOo2CZLs0"
@@ -49522,7 +49652,7 @@
                     "uid": "N8P6RYE7o"
                   }
                 ],
-                "string": "[[RoamDepot]] #[[Plugins]] ",
+                "string": "[[Roam Depot]] #[[Plugins]] ",
                 "uid": "MCZvGgWrs"
               }
             ],
@@ -49565,7 +49695,7 @@
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "children": [
                   {
@@ -49582,7 +49712,7 @@
                   }
                 ],
                 "create-time": 1660325367423,
-                "edit-time": 1660325397543,
+                "edit-time": 1677519632576,
                 "refs": [
                   {
                     "uid": "h_pvMVa7e"
@@ -49594,7 +49724,7 @@
                     "uid": "8CmAMnb77"
                   }
                 ],
-                "string": "#[[New Features]] [[RoamDepot]] #[[Major Launch]]",
+                "string": "#[[New Features]] [[Roam Depot]] #[[Major Launch]]",
                 "uid": "YzDdNFh4_"
               },
               {
@@ -49610,7 +49740,7 @@
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "children": [
                   {
@@ -49651,7 +49781,7 @@
                   }
                 ],
                 "create-time": 1660325224280,
-                "edit-time": 1660325248554,
+                "edit-time": 1677519632576,
                 "refs": [
                   {
                     "uid": "mOo2CZLs0"
@@ -49660,7 +49790,7 @@
                     "uid": "N8P6RYE7o"
                   }
                 ],
-                "string": "[[RoamDepot]] #Plugins ",
+                "string": "[[Roam Depot]] #Plugins ",
                 "uid": "SdPFC337Z"
               }
             ],
@@ -86516,7 +86646,7 @@
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
     ":edit/user": {
-      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     "children": [
       {
@@ -86673,8 +86803,8 @@
       }
     ],
     "create-time": 1660324765841,
-    "edit-time": 1660324765842,
-    "title": "RoamDepot",
+    "edit-time": 1677519632576,
+    "title": "Roam Depot",
     "uid": "N8P6RYE7o"
   },
   {

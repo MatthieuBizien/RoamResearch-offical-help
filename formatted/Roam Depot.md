@@ -8,14 +8,18 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
-- [RoamDepot](<RoamDepot.md>)
+- You can now sort [Roam Depot](<Roam Depot.md>)
 
-- [RoamDepot](<RoamDepot.md>)
+- [Roam Depot](<Roam Depot.md>)
 
-- #[New Features](<New Features.md>) [RoamDepot](<RoamDepot.md>)
+- [Roam Depot](<Roam Depot.md>)
 
-- [RoamDepot](<RoamDepot.md>)
+- [Roam Depot](<Roam Depot.md>)
+
+- #[New Features](<New Features.md>) [Roam Depot](<Roam Depot.md>)
+
+- [Roam Depot](<Roam Depot.md>)
 
 ## [Roam Help](<Roam Help.md>)
-- # [RoamDepot](<RoamDepot.md>)
+- # [Roam Depot](<Roam Depot.md>)
 
