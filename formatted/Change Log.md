@@ -1,6 +1,9 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [March 1st, 2023](<March 1st, 2023.md>)
+        - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+            - 
     - [February 27th, 2023](<February 27th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - `#.rm-hide-for-readers` css class / tag. Hides the block and it's descendants for people who only have read access to that block. 
