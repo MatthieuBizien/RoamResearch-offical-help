@@ -2,8 +2,10 @@
     - ### Warning #.bg-red-200
         - If you forget your password for an encrypted graph
             - **We cannot retrieve or reset it, and we cannot recover your encrypted notes**
-        - [[roam/js]] extensions running in an encrypted graph will have access to the unencrypted data
+        - [[Roam Depot]] and [[roam/js]] extensions running in an encrypted graph will have access to the unencrypted data
             - If you want to be sure your notes are secure **do not use** [[roam/js]] extensions that you did not write yourself
+            - Roam Depot extensions undergo a review process which includes a security review, so they should be okay for most purposes. 
+                - If the data is very critical, you may want to not use any Roam Depot extensions either
     - [[Quick Capture]] is disabled
     - Existing graphs cannot be encrypted
         - We recommend creating a new encrypted graph and importing the existing graph, then delete the existing graph

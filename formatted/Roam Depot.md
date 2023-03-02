@@ -20,6 +20,9 @@
 
 - [Roam Depot](<Roam Depot.md>)
 
+## [Encrypted Graphs](<Encrypted Graphs.md>)
+- [Roam Depot](<Roam Depot.md>)
+
 ## [Roam Help](<Roam Help.md>)
 - # [Roam Depot](<Roam Depot.md>)
 

@@ -4,7 +4,7 @@
 
 # Backlinks
 ## [Encrypted Graphs](<Encrypted Graphs.md>)
-- [roam/js](<../roam/js.md>)
+- [Roam Depot](<../Roam Depot.md>) and [roam/js](<../roam/js.md>)
 
 - If you want to be sure your notes are secure **do not use** [roam/js](<../roam/js.md>)
 

@@ -84764,13 +84764,16 @@
                 ":block/refs": [
                   {
                     ":block/uid": "nBCwjGuI7"
+                  },
+                  {
+                    ":block/uid": "N8P6RYE7o"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 "children": [
                   {
@@ -84794,16 +84797,45 @@
                     ],
                     "string": "If you want to be sure your notes are secure **do not use** [[roam/js]] extensions that you did not write yourself",
                     "uid": "S16povajT"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1677733887337,
+                        "edit-time": 1677733992012,
+                        "string": "If the data is very critical, you may want to not use any Roam Depot extensions either",
+                        "uid": "LOp-c_pEX"
+                      }
+                    ],
+                    "create-time": 1677733975009,
+                    "edit-time": 1677733975009,
+                    "string": "Roam Depot extensions undergo a review process which includes a security review, so they should be okay for most purposes. ",
+                    "uid": "lxAcO4mQj"
                   }
                 ],
                 "create-time": 1639015913769,
-                "edit-time": 1643441824345,
+                "edit-time": 1677733882176,
                 "refs": [
                   {
                     "uid": "nBCwjGuI7"
+                  },
+                  {
+                    "uid": "N8P6RYE7o"
                   }
                 ],
-                "string": "[[roam/js]] extensions running in an encrypted graph will have access to the unencrypted data",
+                "string": "[[Roam Depot]] and [[roam/js]] extensions running in an encrypted graph will have access to the unencrypted data",
                 "uid": "-53rC8sor"
               }
             ],
@@ -89095,9 +89127,9 @@
     "uid": "03-01-2023"
   },
   {
-    ":log/id": 1677721536875,
-    "create-time": 1677721536880,
-    "edit-time": 1677721536880,
+    ":log/id": 1677734301353,
+    "create-time": 1677734301355,
+    "edit-time": 1677734301355,
     "title": "March 2nd, 2023",
     "uid": "03-02-2023"
   }
