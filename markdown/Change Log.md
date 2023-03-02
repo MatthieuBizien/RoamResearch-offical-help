@@ -2,8 +2,10 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [[March 1st, 2023]]
+        - ### [[Quality of Life Improvements]] ✨
+            - Added Go, Markdown, and TOML [[Code Block]] languages
         - ### [[Bug Fixes]] 🛠
-            - 
+            - Fix astrolabe spinning off center
     - [[February 27th, 2023]]
         - ### [[Quality of Life Improvements]] ✨
             - `#.rm-hide-for-readers` css class / tag. Hides the block and it's descendants for people who only have read access to that block. 

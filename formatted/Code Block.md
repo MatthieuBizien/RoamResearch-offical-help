@@ -39,6 +39,8 @@ h1 {
 - [Code Block](<Code Block.md>)
 
 ## [Change Log](<Change Log.md>)
+- Added Go, Markdown, and TOML [Code Block](<Code Block.md>)
+
 - [Code Block](<Code Block.md>)
 
 - [Code Block](<Code Block.md>)
