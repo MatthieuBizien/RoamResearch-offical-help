@@ -30,13 +30,13 @@
                 - Macros
                     - macro definition
                         - these definition blocks need to be visible in order for them to be registered
-                        - $$
-\gdef\matrix#1{\begin{bmatrix}#1\end{bmatrix}}
-$$
+                        - $$\gdef\matrix#1{\begin{bmatrix}#1\end{bmatrix}}$$
+                            - `\gdef\matrix#1{\begin{bmatrix}#1\end{bmatrix}}`
                     - katex blocks using the matrix macro defined above
                         - $$
 \matrix{1&2&4\\1&2&3}
 $$
+                            - `\matrix{1&2&4\\1&2&3}`
                     - [More info on using macros](https://katex.org/docs/supported.html#macros)
                 - If you run into any issues with your latex blocks, please checkout the migration guide: https://katex.org/docs/migration.html
                     - We're now on v0.16.4

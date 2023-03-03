@@ -118,11 +118,11 @@ Turn key commands instruction on with custom components like this
 - **[Key Commands](<Key Commands.md>):**
 
 ## [Today](<Today.md>)
-- A variable result: {{[query](<query.md>): {and: [today](<today.md>) [tomorrow](<tomorrow.md>)} {not: [query](<query.md>)}}}
+- A variable result: {{[query](<query.md>): {and: [today](<today.md>) [tomorrow](<tomorrow.md>) {not: [query](<query.md>)}}}}
 - **[Key Commands](<Key Commands.md>):**
 
 ## [Tomorrow](<Tomorrow.md>)
-- A variable result: {{[query](<query.md>): {and: [today](<today.md>) [tomorrow](<tomorrow.md>)} {not: [query](<query.md>)}}}
+- A variable result: {{[query](<query.md>): {and: [today](<today.md>) [tomorrow](<tomorrow.md>) {not: [query](<query.md>)}}}}
 - **[Key Commands](<Key Commands.md>):**
 
 ## [Upload Files](<Upload Files.md>)

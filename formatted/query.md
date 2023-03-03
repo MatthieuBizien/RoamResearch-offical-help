@@ -10,12 +10,12 @@
 ## [Today](<Today.md>)
 - A variable result: {{[query](<query.md>):
 
-- A variable result: {{[query](<query.md>): {and: [today](<today.md>) [tomorrow](<tomorrow.md>)} {not: [query](<query.md>)}
+- A variable result: {{[query](<query.md>): {and: [today](<today.md>) [tomorrow](<tomorrow.md>) {not: [query](<query.md>)}
 
 ## [Tomorrow](<Tomorrow.md>)
 - A variable result: {{[query](<query.md>):
 
-- A variable result: {{[query](<query.md>): {and: [today](<today.md>) [tomorrow](<tomorrow.md>)} {not: [query](<query.md>)}
+- A variable result: {{[query](<query.md>): {and: [today](<today.md>) [tomorrow](<tomorrow.md>) {not: [query](<query.md>)}
 
 ## [roam/templates](<roam/templates.md>)
 - {{[query](<query.md>):

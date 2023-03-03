@@ -30216,10 +30216,10 @@
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             "create-time": 1615210968190,
-            "edit-time": 1615211037724,
+            "edit-time": 1677794513033,
             "refs": [
               {
                 "uid": "V2Anu0om_"
@@ -30231,7 +30231,7 @@
                 "uid": "Y_UVaLrNm"
               }
             ],
-            "string": "A variable result: {{[[query]]: {and: [[today]] [[tomorrow]]} {not: [[query]]}}}",
+            "string": "A variable result: {{[[query]]: {and: [[today]] [[tomorrow]] {not: [[query]]}}}}",
             "uid": "uQH1jXBBt"
           }
         ],
@@ -30346,10 +30346,10 @@
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             "create-time": 1615211062260,
-            "edit-time": 1615211062260,
+            "edit-time": 1677794495159,
             "refs": [
               {
                 "uid": "V2Anu0om_"
@@ -30361,7 +30361,7 @@
                 "uid": "Y_UVaLrNm"
               }
             ],
-            "string": "A variable result: {{[[query]]: {and: [[today]] [[tomorrow]]} {not: [[query]]}}}",
+            "string": "A variable result: {{[[query]]: {and: [[today]] [[tomorrow]] {not: [[query]]}}}}",
             "uid": "0yjK64t4I"
           }
         ],
@@ -43451,15 +43451,29 @@
                               },
                               {
                                 ":create/user": {
-                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 },
                                 ":edit/user": {
-                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 },
-                                "create-time": 1676887730316,
-                                "edit-time": 1677501131075,
-                                "string": "$$\n\\gdef\\matrix#1{\\begin{bmatrix}#1\\end{bmatrix}}\n$$",
-                                "uid": "ZuBkOxzTa"
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "create-time": 1676887730316,
+                                    "edit-time": 1677781506479,
+                                    "string": "`\\gdef\\matrix#1{\\begin{bmatrix}#1\\end{bmatrix}}`",
+                                    "uid": "ZuBkOxzTa"
+                                  }
+                                ],
+                                "create-time": 1677781488161,
+                                "edit-time": 1677781515370,
+                                "string": "$$\\gdef\\matrix#1{\\begin{bmatrix}#1\\end{bmatrix}}$$",
+                                "uid": "Uflnw2h3i"
                               }
                             ],
                             "create-time": 1676890405432,
@@ -43482,6 +43496,20 @@
                                 ":edit/user": {
                                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                                 },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "create-time": 1677781530731,
+                                    "edit-time": 1677781534310,
+                                    "string": "`\\matrix{1&2&4\\\\1&2&3}`",
+                                    "uid": "Bbs39CdYK"
+                                  }
+                                ],
                                 "create-time": 1676887720651,
                                 "edit-time": 1677501131075,
                                 "string": "$$\n\\matrix{1&2&4\\\\1&2&3}\n$$",
@@ -89127,10 +89155,23 @@
     "uid": "03-01-2023"
   },
   {
-    ":log/id": 1677770439370,
-    "create-time": 1677770439373,
-    "edit-time": 1677770439373,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1677794336785,
+    "create-time": 1677794336785,
+    "edit-time": 1677794336785,
     "title": "March 2nd, 2023",
     "uid": "03-02-2023"
+  },
+  {
+    ":log/id": 1677818832892,
+    "create-time": 1677818832896,
+    "edit-time": 1677818832896,
+    "title": "March 3rd, 2023",
+    "uid": "03-03-2023"
   }
 ]
