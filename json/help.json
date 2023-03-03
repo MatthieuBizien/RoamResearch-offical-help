@@ -44088,22 +44088,16 @@
                     },
                     "children": [
                       {
-                        ":block/refs": [
-                          {
-                            ":block/uid": "2h9V-FtAO"
-                          }
-                        ],
-                        ":edit/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                         },
-                        "edit-time": 1676446581672,
-                        "refs": [
-                          {
-                            "uid": "2h9V-FtAO"
-                          }
-                        ],
-                        "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}",
-                        "uid": "vKzYGB0sv"
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1677874288249,
+                        "edit-time": 1677874302637,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F7bpy58-iBH.gif?alt=media&token=a86d51dc-b3fc-4c1c-a9c2-c45feabeaa1d)",
+                        "uid": "E4-7b3hfk"
                       },
                       {
                         ":create/user": {
@@ -44116,6 +44110,38 @@
                         "edit-time": 1676446918865,
                         "string": "Currently you might see all commands nested under \"Ungrouped Extension Hotkeys\". Extension-wise groupings will be available once the extension migrates to the new API (If you're an extension dev, [more here](https://roamresearch.com/#/app/developer-documentation/page/Xf6HHUsb3))",
                         "uid": "Q5NHh3P3U"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "edit-time": 1676446581672,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}",
+                            "uid": "vKzYGB0sv"
+                          }
+                        ],
+                        "create-time": 1677874280393,
+                        "edit-time": 1677874282729,
+                        "string": "Video",
+                        "uid": "aEn-meBw4"
                       }
                     ],
                     "create-time": 1676445249288,
@@ -89175,6 +89201,20 @@
       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":log/id": 1677862508545,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "create-time": 1677873662661,
+        "edit-time": 1677874261513,
+        "string": "",
+        "uid": "jDAMYotbT"
+      }
+    ],
     "create-time": 1677862508546,
     "edit-time": 1677862508546,
     "title": "March 3rd, 2023",

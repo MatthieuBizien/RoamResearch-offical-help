@@ -65,8 +65,10 @@ $$
     - [February 14th, 2023](<February 14th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - Ability to set up hotkeys for commands set up by Extensions
-                - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F7bpy58-iBH.gif?alt=media&token=a86d51dc-b3fc-4c1c-a9c2-c45feabeaa1d)
                 - Currently you might see all commands nested under "Ungrouped Extension Hotkeys". Extension-wise groupings will be available once the extension migrates to the new API (If you're an extension dev, [more here](https://roamresearch.com/#/app/developer-documentation/page/Xf6HHUsb3))
+                - Video
+                    - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}
             - Expand block references in templates auto complete
                 - **Before**
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FymqWiBfJcx.png?alt=media&token=5207037b-bbc8-45fc-9b13-3886207cad77)
