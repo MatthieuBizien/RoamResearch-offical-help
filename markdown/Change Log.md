@@ -1,6 +1,40 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[March 9th, 2023]]
+        - [[Roam Extensions]]
+            - ## [Link Preview](https://github.com/dive2Pro/roam-link-preview)
+                - Show brief information for external links in roam
+                    - ![image](https://user-images.githubusercontent.com/23192045/219956966-43781827-285d-4b66-a493-cdfdd7ea2c01.png)[🔗](https://user-images.githubusercontent.com/23192045/219956966-43781827-285d-4b66-a493-cdfdd7ea2c01.png)
+                    - ![image](https://user-images.githubusercontent.com/23192045/219956975-20999ad0-f2ff-4a60-8891-9ee766a7c348.png)[🔗](https://user-images.githubusercontent.com/23192045/219956975-20999ad0-f2ff-4a60-8891-9ee766a7c348.png)
+                - ## [🔗](https://github.com/dive2Pro/roam-link-preview/tree/388b5b724f6c5ddc264ac222c15b5719c9755d34#how-to-use)How to use
+                    - You can create a custom component: link-preview with the URL as the argument
+                    - {{link-preview https://google.com}}
+                        - You can write the currently copied link into Roam using a custom shortcut key
+                    - ![image](https://user-images.githubusercontent.com/23192045/219956992-d574628e-959d-4247-be9b-b3a3d6c81e16.png)[🔗](https://user-images.githubusercontent.com/23192045/219956992-d574628e-959d-4247-be9b-b3a3d6c81e16.png)
+                        - You can use the context block menu to transform all links in the entire block.
+                    - ![image](https://user-images.githubusercontent.com/23192045/223105097-8920f688-d22e-477c-af7e-461179d4dc47.png)[🔗](https://user-images.githubusercontent.com/23192045/223105097-8920f688-d22e-477c-af7e-461179d4dc47.png)
+            - ## [Quick Insert Block](https://github.com/dive2Pro/roam-quick-insert-block)
+                - When you need to insert a block above or below the target block , this plugin can help you reduce the number of steps.
+                - ![embed mode](https://user-images.githubusercontent.com/23192045/219314019-b3cd117c-81a8-4616-b251-633aac968dc6.gif)[🔗](https://user-images.githubusercontent.com/23192045/219314019-b3cd117c-81a8-4616-b251-633aac968dc6.gif)
+            - ## [Sidebar Separators](https://github.com/mlava/sidebar-separators)
+                - Organize your left sidebar shortcuts with separators.
+                - Sometimes you just want some visual separation between your list of shortcuts. This extension allows you to add a horizontal line or blank space between any of your shortcuts, so you can achieve just that.
+                - ![image](https://user-images.githubusercontent.com/6857790/219263679-cd1ab703-bc54-49c3-a7a0-a82016b66199.png)[🔗](https://user-images.githubusercontent.com/6857790/219263679-cd1ab703-bc54-49c3-a7a0-a82016b66199.png)
+                - In the above image I've inserted a horizontal line after my second shortcut and a blank line after my sixth shortcut.
+                - You can configure each separator in the Roam Depot settings. Use an integer to state where to insert the separator - it will be inserted after that numbered shortcut.
+                - You can have up to three separators, but if there's a need I'll add the option to create more.
+            - ## [Roam Depot Format Hotkeys](https://github.com/8bitgentleman/roam-depot-format-hotkeys)
+                - Adds hotkeys for various block formatting options including:
+                    - Justify Block (Left, Center, Right, Full)
+                    - View As Numbered List
+            - ## [Page references counter](https://github.com/fbgallet/roam-extension-ref-count)
+                - ### [🔗](https://github.com/fbgallet/roam-extension-ref-count/tree/0de3d685be89d75b62e0e99883e589ac4b62bbc8#inline-count-for-page-references-tags-and-attributes-as-superscript-like-vanilla-inline-block-reference-counter)Inline count for page references, tags and attributes as superscript (like vanilla inline block reference counter).
+                    - 🔎 References counts are also displayed when you search for a reference, inline or in Quick search, in the autocomplete box, what is particularly useful to identify the actually used pages and the unused or wrong spellings!
+                    - ![ref-count-v1](https://user-images.githubusercontent.com/74436347/218118672-4d7e74aa-e47f-49fb-ac95-7e59e2b1b854.gif)[🔗](https://user-images.githubusercontent.com/74436347/218118672-4d7e74aa-e47f-49fb-ac95-7e59e2b1b854.gif)
+                    - By default, inline counts are always displayed. As an option, you can make the count appear only on hover over a given page reference. You can toggle separately inline count and search count with dedicated commands in command palette (with customizable hotkeys).
+                - ### [🔗](https://github.com/fbgallet/roam-extension-ref-count/tree/0de3d685be89d75b62e0e99883e589ac4b62bbc8#for-any-question-or-suggestion-dm-me-on-twitter-and-follow-me-to-be-informed-of-updates-and-new-extensions--fbgallet)For any question or suggestion, DM me on **Twitter** and follow me to be informed of updates and new extensions : [@fbgallet](https://twitter.com/fbgallet).
+                    - To report some issue, follow [this link (Github)](https://github.com/fbgallet/roam-extension-stats/issues) and click on 'New issue'.
     - [[March 1st, 2023]]
         - ### [[Quality of Life Improvements]] ✨
             - Added Go, Markdown, and TOML [[Code Block]] languages

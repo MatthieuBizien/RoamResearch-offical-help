@@ -42967,6 +42967,350 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "03-09-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678399405342,
+                            "string": "![image](https://user-images.githubusercontent.com/23192045/219956966-43781827-285d-4b66-a493-cdfdd7ea2c01.png)[\ud83d\udd17](https://user-images.githubusercontent.com/23192045/219956966-43781827-285d-4b66-a493-cdfdd7ea2c01.png)",
+                            "uid": "zKmP3o1id"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678399405342,
+                            "string": "![image](https://user-images.githubusercontent.com/23192045/219956975-20999ad0-f2ff-4a60-8891-9ee766a7c348.png)[\ud83d\udd17](https://user-images.githubusercontent.com/23192045/219956975-20999ad0-f2ff-4a60-8891-9ee766a7c348.png)",
+                            "uid": "tOHYZwF8U"
+                          }
+                        ],
+                        "edit-time": 1678399405342,
+                        "string": "Show brief information for external links in roam",
+                        "uid": "A_QN9nWUB"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678399405342,
+                            "string": "You can create a custom component: link-preview with the URL as the argument",
+                            "uid": "VPK6c6BNQ"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1678399405342,
+                                "string": "You can write the currently copied link into Roam using a custom shortcut key",
+                                "uid": "RVcmO1nUO"
+                              }
+                            ],
+                            "edit-time": 1678399405342,
+                            "string": "{{link-preview https://google.com}}",
+                            "uid": "ZWmGsRM3I"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1678399405342,
+                                "string": "You can use the context block menu to transform all links in the entire block.",
+                                "uid": "yxHTxoIMz"
+                              }
+                            ],
+                            "edit-time": 1678399405342,
+                            "string": "![image](https://user-images.githubusercontent.com/23192045/219956992-d574628e-959d-4247-be9b-b3a3d6c81e16.png)[\ud83d\udd17](https://user-images.githubusercontent.com/23192045/219956992-d574628e-959d-4247-be9b-b3a3d6c81e16.png)",
+                            "uid": "5G6_5IKD6"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678399405342,
+                            "string": "![image](https://user-images.githubusercontent.com/23192045/223105097-8920f688-d22e-477c-af7e-461179d4dc47.png)[\ud83d\udd17](https://user-images.githubusercontent.com/23192045/223105097-8920f688-d22e-477c-af7e-461179d4dc47.png)",
+                            "uid": "DfSVD6VwI"
+                          }
+                        ],
+                        "edit-time": 1678399405342,
+                        "heading": 2,
+                        "string": "[\ud83d\udd17](https://github.com/dive2Pro/roam-link-preview/tree/388b5b724f6c5ddc264ac222c15b5719c9755d34#how-to-use)How to use",
+                        "uid": "2D_j8XbGI"
+                      }
+                    ],
+                    "edit-time": 1678399438282,
+                    "heading": 2,
+                    "string": "[Link Preview](https://github.com/dive2Pro/roam-link-preview)",
+                    "uid": "IVGjuM_bj"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1678397690729,
+                        "string": "When you need to insert a block above or below the target block , this plugin can help you reduce the number of steps.",
+                        "uid": "CMsMwRbn1"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1678397690729,
+                        "string": "![embed mode](https://user-images.githubusercontent.com/23192045/219314019-b3cd117c-81a8-4616-b251-633aac968dc6.gif)[\ud83d\udd17](https://user-images.githubusercontent.com/23192045/219314019-b3cd117c-81a8-4616-b251-633aac968dc6.gif)",
+                        "uid": "E8lOwll3u"
+                      }
+                    ],
+                    "edit-time": 1678397775433,
+                    "heading": 2,
+                    "string": "[Quick Insert Block](https://github.com/dive2Pro/roam-quick-insert-block)",
+                    "uid": "5ZHn2DOGw"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1678395837728,
+                        "string": "Organize your left sidebar shortcuts with separators.",
+                        "uid": "PlKdf5NMP"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1678395830396,
+                        "string": "Sometimes you just want some visual separation between your list of shortcuts. This extension allows you to add a horizontal line or blank space between any of your shortcuts, so you can achieve just that.",
+                        "uid": "q2bRSObWK"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1678395830396,
+                        "string": "![image](https://user-images.githubusercontent.com/6857790/219263679-cd1ab703-bc54-49c3-a7a0-a82016b66199.png)[\ud83d\udd17](https://user-images.githubusercontent.com/6857790/219263679-cd1ab703-bc54-49c3-a7a0-a82016b66199.png)",
+                        "uid": "yj86vseWX"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1678395830396,
+                        "string": "In the above image I've inserted a horizontal line after my second shortcut and a blank line after my sixth shortcut.",
+                        "uid": "f9cQvjrJ2"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1678395830396,
+                        "string": "You can configure each separator in the Roam Depot settings. Use an integer to state where to insert the separator - it will be inserted after that numbered shortcut.",
+                        "uid": "VyCFFz9uA"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1678395830396,
+                        "string": "You can have up to three separators, but if there's a need I'll add the option to create more.",
+                        "uid": "Vt4AK5SXr"
+                      }
+                    ],
+                    "create-time": 1678395810747,
+                    "edit-time": 1678397722442,
+                    "heading": 2,
+                    "string": "[Sidebar Separators](https://github.com/mlava/sidebar-separators)",
+                    "uid": "0jOQDGs2_"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678395338518,
+                            "string": "Justify Block (Left, Center, Right, Full)",
+                            "uid": "iR5p3tdF-"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678395338518,
+                            "string": "View As Numbered List",
+                            "uid": "D89aZOGJ7"
+                          }
+                        ],
+                        "edit-time": 1678395338518,
+                        "string": "Adds hotkeys for various block formatting options including:",
+                        "uid": "eCsr3NdSh"
+                      }
+                    ],
+                    "create-time": 1678395325015,
+                    "edit-time": 1678397734728,
+                    "heading": 2,
+                    "string": "[Roam Depot Format Hotkeys](https://github.com/8bitgentleman/roam-depot-format-hotkeys)",
+                    "uid": "id8Rh5Vnx"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678387914009,
+                            "string": "\ud83d\udd0e\u00a0References counts are also displayed when you search for a reference, inline or in Quick search, in the autocomplete box, what is particularly useful to identify the actually used pages and the unused or wrong spellings!",
+                            "uid": "nGoWOaM3V"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678387914009,
+                            "string": "![ref-count-v1](https://user-images.githubusercontent.com/74436347/218118672-4d7e74aa-e47f-49fb-ac95-7e59e2b1b854.gif)[\ud83d\udd17](https://user-images.githubusercontent.com/74436347/218118672-4d7e74aa-e47f-49fb-ac95-7e59e2b1b854.gif)",
+                            "uid": "0Ml4Dxqqe"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678387914009,
+                            "string": "By default, inline counts are always displayed. As an option, you can make the count appear only on hover over a given page reference. You can toggle separately inline count and search count with dedicated commands in command palette (with customizable hotkeys).",
+                            "uid": "u2_7wabBj"
+                          }
+                        ],
+                        "edit-time": 1678387914009,
+                        "heading": 3,
+                        "string": "[\ud83d\udd17](https://github.com/fbgallet/roam-extension-ref-count/tree/0de3d685be89d75b62e0e99883e589ac4b62bbc8#inline-count-for-page-references-tags-and-attributes-as-superscript-like-vanilla-inline-block-reference-counter)Inline count for page references, tags and attributes as superscript (like vanilla inline block reference counter).",
+                        "uid": "3c8x1pN6l"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1678387914009,
+                            "string": "To report some issue, follow\u00a0[this link (Github)](https://github.com/fbgallet/roam-extension-stats/issues)\u00a0and click on 'New issue'.",
+                            "uid": "H-4SCPrLC"
+                          }
+                        ],
+                        "edit-time": 1678387914009,
+                        "heading": 3,
+                        "string": "[\ud83d\udd17](https://github.com/fbgallet/roam-extension-ref-count/tree/0de3d685be89d75b62e0e99883e589ac4b62bbc8#for-any-question-or-suggestion-dm-me-on-twitter-and-follow-me-to-be-informed-of-updates-and-new-extensions--fbgallet)For any question or suggestion, DM me on\u00a0**Twitter**\u00a0and follow me to be informed of updates and new extensions :\u00a0[@fbgallet](https://twitter.com/fbgallet).",
+                        "uid": "a5aW-KkoY"
+                      }
+                    ],
+                    "edit-time": 1678387989397,
+                    "heading": 2,
+                    "string": "[Page references counter](https://github.com/fbgallet/roam-extension-ref-count)",
+                    "uid": "N0d9YUTDX"
+                  }
+                ],
+                "create-time": 1678387906745,
+                "edit-time": 1678387911926,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Extensions]]",
+                "uid": "fifpLKf4w"
+              }
+            ],
+            "create-time": 1678387901022,
+            "edit-time": 1678387906369,
+            "refs": [
+              {
+                "uid": "03-09-2023"
+              }
+            ],
+            "string": "[[March 9th, 2023]]",
+            "uid": "sfqwGtM8C"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "03-01-2023"
               }
             ],
@@ -89221,10 +89565,23 @@
     "uid": "03-03-2023"
   },
   {
-    ":log/id": 1678363694564,
-    "create-time": 1678363694568,
-    "edit-time": 1678363694568,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1678387892874,
+    "create-time": 1678387892875,
+    "edit-time": 1678387892875,
     "title": "March 9th, 2023",
     "uid": "03-09-2023"
+  },
+  {
+    ":log/id": 1678424777141,
+    "create-time": 1678424777145,
+    "edit-time": 1678424777145,
+    "title": "March 10th, 2023",
+    "uid": "03-10-2023"
   }
 ]
