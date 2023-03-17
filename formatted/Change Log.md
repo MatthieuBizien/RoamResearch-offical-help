@@ -1,6 +1,9 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [March 16th, 2023](<March 16th, 2023.md>)
+        - ### [Bug Fixes](<Bug Fixes.md>) 🛠
+            - Fixes Roam Depot issue where "blank extensions" would appear in "Installed Extensions" section
     - [March 9th, 2023](<March 9th, 2023.md>)
         - [Roam Extensions](<Roam Extensions.md>)
             - ## [Link Preview](https://github.com/dive2Pro/roam-link-preview)
