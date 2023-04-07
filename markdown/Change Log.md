@@ -1,6 +1,26 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[April 6th, 2023]]
+        - [[Roam Extensions]]
+            - ## [Roam Portal](https://github.com/dkapila/Roam-Portal)
+                - One of the most loved Roam extensions, now available in Roam Depot!
+                - An easy-to-use but super-powerful search engine designed to help you explore your data visually.
+                - Here are just a few ideas for things you can do via this extension:
+                    - **Filter blocks by user:** Filter blocks modified by a particular user.
+                    - **View recently edited blocks:** View your recently edited blocks.
+                    - **Search for reactions:** Search for reactions from users. 
+                    - **References**: Study frequent pages and blocks mentioned in your search
+                    - **Time**: Analyze results over time
+                    - In other words, it's an easy to use
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FP-owbAhtRb.png?alt=media&token=078687d0-3cf1-41b1-8b8a-ca190f17ec80)
+                - ### [🔗](https://github.com/dkapila/Roam-Portal#getting-started) How to use
+                    - After installing the extension, simply click on the Roam Portal icon located in the top right corner of the toolbar. 
+                    - For a video tutorial on how to use Roam Portal, [click here](https://www.loom.com/share/717fa8b788844c23aa08dd7d448bf0bf).
+            - ## [Roam To SMS](https://github.com/mlava/roam-sms)
+                - Send SMS messages from within Roam Research!
+                - This extension allows you to send the contents of a block to an SMS contact using the Nexmo / Vonage API.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FofvGhtact3.png?alt=media&token=5841c323-03f9-4f3e-a105-01809e77d2aa)
     - [[March 16th, 2023]]
         - ### [[Bug Fixes]] 🛠
             - Fixes Roam Depot issue where "blank extensions" would appear in "Installed Extensions" section

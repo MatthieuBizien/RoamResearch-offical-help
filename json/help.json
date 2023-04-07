@@ -42967,6 +42967,273 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "04-06-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1680827484787,
+                        "edit-time": 1680827505150,
+                        "string": "One of the most loved Roam extensions, now available in Roam Depot!",
+                        "uid": "nNPBoMYm-"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1680827434662,
+                        "edit-time": 1680828375836,
+                        "string": "An easy-to-use but super-powerful search engine designed to help you explore your data visually.",
+                        "uid": "30t_iqrmJ"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1680827726674,
+                            "edit-time": 1680827726674,
+                            "string": "**Filter blocks by user:**\u00a0Filter blocks modified by a particular user.",
+                            "uid": "lMHotjEEa"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1680827747099,
+                            "edit-time": 1680827747099,
+                            "string": "**View recently edited blocks:**\u00a0View your recently edited blocks.",
+                            "uid": "W4X-0mrBa"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1680827670941,
+                            "edit-time": 1680827770433,
+                            "string": "**Search for reactions:**\u00a0Search for reactions from users. ",
+                            "uid": "CP1S0k3SL"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1680827880415,
+                            "edit-time": 1680827881357,
+                            "string": "**References**: Study frequent pages and blocks mentioned in your search",
+                            "uid": "cbnO75PFq"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1680827888371,
+                            "edit-time": 1680827894575,
+                            "string": "**Time**: Analyze results over time",
+                            "uid": "OUI6xuTgq"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1680827906850,
+                            "edit-time": 1680827916852,
+                            "string": "In other words, it's an easy to use",
+                            "uid": "pnzxF0B_R"
+                          }
+                        ],
+                        "create-time": 1680827717981,
+                        "edit-time": 1680827717981,
+                        "string": "Here are just a few ideas for things you can do via this extension:",
+                        "uid": "q5RdHFsz2"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1680827506381,
+                        "edit-time": 1680827544532,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FP-owbAhtRb.png?alt=media&token=078687d0-3cf1-41b1-8b8a-ca190f17ec80)",
+                        "uid": "q67-qvbBS"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1680827943206,
+                            "edit-time": 1680827943206,
+                            "string": "After installing the extension, simply click on the Roam Portal icon located in the top right corner of the toolbar. ",
+                            "uid": "HWAlsmFM-"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1680827574342,
+                            "edit-time": 1680827943208,
+                            "string": "For a video tutorial on how to use Roam Portal,\u00a0[click here](https://www.loom.com/share/717fa8b788844c23aa08dd7d448bf0bf).",
+                            "uid": "C33Uez1yY"
+                          }
+                        ],
+                        "create-time": 1680827555716,
+                        "edit-time": 1680827579872,
+                        "heading": 3,
+                        "string": "[\ud83d\udd17](https://github.com/dkapila/Roam-Portal#getting-started) How to use",
+                        "uid": "KGVAcciBv"
+                      }
+                    ],
+                    "create-time": 1680827387838,
+                    "edit-time": 1680827652841,
+                    "heading": 2,
+                    "string": "[Roam Portal](https://github.com/dkapila/Roam-Portal)",
+                    "uid": "e8uAsat2i"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "edit-time": 1680828035713,
+                        "string": "Send SMS messages from within Roam Research!",
+                        "uid": "pEw0BR9yb"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "edit-time": 1680828035713,
+                        "string": "This extension allows you to send the contents of a block to an SMS contact using the Nexmo / Vonage API.",
+                        "uid": "yVRxfQF18"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1680828243116,
+                        "edit-time": 1680828248216,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FofvGhtact3.png?alt=media&token=5841c323-03f9-4f3e-a105-01809e77d2aa)",
+                        "uid": "aoqwqkVlO"
+                      }
+                    ],
+                    "create-time": 1680827976269,
+                    "edit-time": 1680828019322,
+                    "heading": 2,
+                    "string": "[Roam To SMS](https://github.com/mlava/roam-sms)",
+                    "uid": "MunszZhmX"
+                  }
+                ],
+                "create-time": 1680827364216,
+                "edit-time": 1680827369585,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Extensions]]",
+                "uid": "Wlrfg3kZS"
+              }
+            ],
+            "create-time": 1680827360385,
+            "edit-time": 1680827364231,
+            "refs": [
+              {
+                "uid": "04-06-2023"
+              }
+            ],
+            "string": "[[April 6th, 2023]]",
+            "uid": "8DZxW7ngA"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "03-16-2023"
               }
             ],
@@ -89665,9 +89932,28 @@
     "uid": "03-20-2023"
   },
   {
-    ":log/id": 1680789956167,
-    "create-time": 1680789956171,
-    "edit-time": 1680789956171,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1680827347727,
+    "create-time": 1680827347728,
+    "edit-time": 1680827347728,
+    "title": "April 7th, 2023",
+    "uid": "04-07-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1680739200000,
+    "create-time": 1680827364232,
+    "edit-time": 1680827364234,
     "title": "April 6th, 2023",
     "uid": "04-06-2023"
   }
