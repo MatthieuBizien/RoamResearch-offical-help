@@ -8,6 +8,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Released fixes for issues related to [Roam Depot](<Roam Depot.md>)
+
 - You can now sort [Roam Depot](<Roam Depot.md>)
 
 - [Roam Depot](<Roam Depot.md>)

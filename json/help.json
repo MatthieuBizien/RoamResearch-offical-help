@@ -42967,6 +42967,429 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "04-13-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "hl0tzki39"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1681376999141,
+                    "edit-time": 1681377014150,
+                    "string": "Excalidraw is a virtual hand-drawn style whiteboard. We've now upgraded to the latest version (v0.14)",
+                    "uid": "TwK0wk5V_"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1681374407679,
+                    "edit-time": 1681376999145,
+                    "string": "You can create a drawing via the slash menu: `/excalidraw`",
+                    "uid": "GcigsVabY"
+                  },
+                  {
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-JEizrN2ki.png?alt=media&token=4b2242fc-7063-4889-8985-26f906ca50c0": {
+                          ":height": null,
+                          ":width": 550
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":excalidraw/elements-json": "[{\"type\":\"text\",\"version\":418,\"versionNonce\":1249702735,\"isDeleted\":false,\"id\":\"3yNtTpFtFDKAMwIG9TYBW\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":1114.2323189885885,\"y\":378.00897553455206,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":470,\"height\":36,\"seed\":1717901775,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":1,\"text\":\"updated to latest version (v0.14)\",\"baseline\":25,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"updated to latest version (v0.14)\"},{\"type\":\"text\",\"version\":287,\"versionNonce\":1585048865,\"isDeleted\":false,\"id\":\"g6wRPiH71Z-cLAMTdpy7Q\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":909.3576211920708,\"y\":466.2308949314893,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":508,\"height\":36,\"seed\":1044540335,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":1,\"text\":\"use via slash command: \\\"/excalidraw\\\"\",\"baseline\":25,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"use via slash command: \\\"/excalidraw\\\"\"},{\"type\":\"text\",\"version\":329,\"versionNonce\":1913771279,\"isDeleted\":false,\"id\":\"D9q2piGkJympOn8kdiU88\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":662.3465189054857,\"y\":581.0015852178949,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":345,\"height\":36,\"seed\":1472490209,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":1,\"text\":\"  Some notable upgrades\",\"baseline\":25,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"  Some notable upgrades\"},{\"type\":\"text\",\"version\":376,\"versionNonce\":1349322593,\"isDeleted\":false,\"id\":\"M0qx0OoTha2MOiUxhvbjf\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":696.2114433963625,\"y\":640.6328264470017,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":403,\"height\":25,\"seed\":1161097135,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Supports images inside of the drawings\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Supports images inside of the drawings\"},{\"type\":\"text\",\"version\":375,\"versionNonce\":2119326511,\"isDeleted\":false,\"id\":\"zY_yG2wagNNuXgZfo7Z_A\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":696.3676933963625,\"y\":675.6328264470017,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":329,\"height\":25,\"seed\":144074433,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Dark mode, Canvas Background\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Dark mode, Canvas Background\"},{\"type\":\"text\",\"version\":375,\"versionNonce\":183989057,\"isDeleted\":false,\"id\":\"WQc_3HhS3ardGVpyuVP0v\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":696.3676933963625,\"y\":710.6328264470017,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":439,\"height\":25,\"seed\":1064903119,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Ability to resize the drawings in view mode\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Ability to resize the drawings in view mode\"},{\"type\":\"text\",\"version\":319,\"versionNonce\":1490885967,\"isDeleted\":false,\"id\":\"cZTlElWE580KmdbeU7KEp\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":696.3676933963625,\"y\":745.6328264470017,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":559,\"height\":25,\"seed\":1769858721,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Text elements within the drawing can now be searched\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Text elements within the drawing can now be searched\"},{\"type\":\"text\",\"version\":110,\"versionNonce\":1344017601,\"isDeleted\":true,\"id\":\"bz5c_FClDIIailK5sp8BD\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":783.2936354283768,\"y\":760.0364450268503,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":12,\"height\":25,\"seed\":1655836655,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"\"},{\"type\":\"text\",\"version\":415,\"versionNonce\":84501281,\"isDeleted\":false,\"id\":\"uSx3mf0cfGTwSSnu1rcS3\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":697.2889372937495,\"y\":785.6792391548192,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":211,\"height\":25,\"seed\":1697278593,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Better pen support\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Better pen support\"},{\"type\":\"text\",\"version\":415,\"versionNonce\":889887599,\"isDeleted\":false,\"id\":\"ZGngnwdJI_ZF_f6yOu2NU\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":697.2889372937495,\"y\":820.6792391548192,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":53,\"height\":25,\"seed\":686307855,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- etc\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- etc\"},{\"type\":\"image\",\"version\":892,\"versionNonce\":684720623,\"isDeleted\":false,\"id\":\"XlXi_DT3EzO-hAhIePTGR\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":827.6157573479977,\"y\":196.9844308312526,\"strokeColor\":\"transparent\",\"backgroundColor\":\"transparent\",\"width\":261.74428969610307,\"height\":214.55481439031524,\"seed\":1146838959,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"customData\":{\"firebaseUrl\":\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FTrRLsbKxJOexcalidraw-uuidae5de780-4b7b-436b-a1d9-9819c174b872?alt=media&token=c72169bc-4978-4d72-a474-52a97428c08a\"},\"status\":\"saved\",\"fileId\":\"ff7cbe88817620fe5724897af4aa25f4010b5276\",\"scale\":[1,1]},{\"type\":\"image\",\"version\":353,\"versionNonce\":228366465,\"isDeleted\":false,\"id\":\"MM9inOfypbCXHIbVQQEn0\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":1299.2432083387062,\"y\":542.249657776955,\"strokeColor\":\"transparent\",\"backgroundColor\":\"transparent\",\"width\":485.750120123792,\"height\":338.09023035869797,\"seed\":563033729,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"customData\":{\"firebaseUrl\":\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FoFtuQLXTYwexcalidraw-uuid06d0e668-27a7-4db3-96dc-2177f5482394?alt=media&token=399fe811-9041-4250-8812-80b5c7e1cc4b\"},\"status\":\"saved\",\"fileId\":\"875e4724a24eb02aabbf610548d4398506cf9b32\",\"scale\":[1,1]},{\"type\":\"text\",\"version\":4,\"versionNonce\":444066831,\"isDeleted\":true,\"id\":\"4u7MQcxkSnRfL3X2YDUYK\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":1590.928418065763,\"y\":516.8701602257443,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":16,\"height\":36,\"seed\":380248961,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":1,\"text\":\"\",\"baseline\":25,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"\"},{\"type\":\"text\",\"version\":3,\"versionNonce\":854264609,\"isDeleted\":true,\"id\":\"40O1TbSe1j4jBA6YAx4Dr\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":1016.8302782175665,\"y\":583.7525710060494,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":10,\"height\":32,\"seed\":1469395759,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376886302,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":2,\"text\":\"\",\"baseline\":26,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"\"},{\"type\":\"text\",\"version\":3,\"versionNonce\":1394000879,\"isDeleted\":true,\"id\":\"aurO3FPd_45Rzjq4w3UoU\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":744.6053386651355,\"y\":680.7832425296882,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":10,\"height\":32,\"seed\":1467609793,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376890758,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":2,\"text\":\"\",\"baseline\":26,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"\"}]",
+                              ":excalidraw/instance-id": "8fb804b5-7d09-4e4e-a002-1030d4efe7cb",
+                              ":excalidraw/state-json": "{\"showWelcomeScreen\":true,\"theme\":\"light\",\"collaborators\":{},\"currentChartType\":\"bar\",\"currentItemBackgroundColor\":\"transparent\",\"currentItemEndArrowhead\":\"arrow\",\"currentItemFillStyle\":\"hachure\",\"currentItemFontFamily\":2,\"currentItemFontSize\":28,\"currentItemOpacity\":100,\"currentItemRoughness\":1,\"currentItemStartArrowhead\":null,\"currentItemStrokeColor\":\"#000000\",\"currentItemRoundness\":\"round\",\"currentItemStrokeStyle\":\"solid\",\"currentItemStrokeWidth\":1,\"currentItemTextAlign\":\"left\",\"cursorButton\":\"up\",\"draggingElement\":null,\"editingElement\":null,\"editingGroupId\":null,\"editingLinearElement\":null,\"activeTool\":{\"type\":\"selection\",\"customType\":null,\"locked\":false,\"lastActiveTool\":null},\"penMode\":false,\"penDetected\":false,\"errorMessage\":null,\"exportBackground\":true,\"exportScale\":2,\"exportEmbedScene\":false,\"exportWithDarkMode\":false,\"fileHandle\":null,\"gridSize\":null,\"isBindingEnabled\":true,\"isSidebarDocked\":false,\"isLoading\":false,\"isResizing\":false,\"isRotating\":false,\"lastPointerDownWith\":\"mouse\",\"multiElement\":null,\"name\":\"Untitled-2023-04-13-1444\",\"contextMenu\":null,\"openMenu\":null,\"openPopup\":null,\"openSidebar\":null,\"openDialog\":null,\"pasteDialog\":{\"shown\":false,\"data\":null},\"previousSelectedElementIds\":{\"D9q2piGkJympOn8kdiU88\":true,\"M0qx0OoTha2MOiUxhvbjf\":true,\"zY_yG2wagNNuXgZfo7Z_A\":true,\"WQc_3HhS3ardGVpyuVP0v\":true,\"cZTlElWE580KmdbeU7KEp\":true,\"uSx3mf0cfGTwSSnu1rcS3\":true,\"ZGngnwdJI_ZF_f6yOu2NU\":true,\"1i-5keWokVj_xuho3GJD7\":true,\"EcP32MvW0jR_F7AyYQ0WD\":true,\"4Vpr9LkK-i-F6c6pbMFA2\":true},\"resizingElement\":null,\"scrolledOutside\":false,\"scrollX\":1613.7790386455306,\"scrollY\":961.1287662345959,\"selectedElementIds\":{\"uyVMJSGPHBD-EZAoKJt4u\":true},\"selectedGroupIds\":{},\"selectionElement\":null,\"shouldCacheIgnoreZoom\":false,\"showStats\":false,\"startBoundElement\":null,\"suggestedBindings\":[],\"toast\":null,\"viewBackgroundColor\":\"#edf2ff\",\"zenModeEnabled\":false,\"zoom\":{\"value\":0.3710167046636342},\"viewModeEnabled\":false,\"pendingImageElementId\":null,\"showHyperlinkPopup\":false,\"selectedLinearElement\":null,\"offsetLeft\":0,\"offsetTop\":0,\"width\":2160,\"height\":1178.75}",
+                              ":excalidraw/version": "0.14.2",
+                              ":image-size": {
+                                ":height": null,
+                                ":width": 562
+                              }
+                            },
+                            ":block/refs": [
+                              {
+                                ":block/uid": "DDfH2aHY0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1681375087653,
+                            "edit-time": 1681376915369,
+                            "props": {
+                              "elements-json": "[{\"type\":\"text\",\"version\":418,\"versionNonce\":1249702735,\"isDeleted\":false,\"id\":\"3yNtTpFtFDKAMwIG9TYBW\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":1114.2323189885885,\"y\":378.00897553455206,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":470,\"height\":36,\"seed\":1717901775,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":1,\"text\":\"updated to latest version (v0.14)\",\"baseline\":25,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"updated to latest version (v0.14)\"},{\"type\":\"text\",\"version\":287,\"versionNonce\":1585048865,\"isDeleted\":false,\"id\":\"g6wRPiH71Z-cLAMTdpy7Q\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":909.3576211920708,\"y\":466.2308949314893,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":508,\"height\":36,\"seed\":1044540335,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":1,\"text\":\"use via slash command: \\\"/excalidraw\\\"\",\"baseline\":25,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"use via slash command: \\\"/excalidraw\\\"\"},{\"type\":\"text\",\"version\":329,\"versionNonce\":1913771279,\"isDeleted\":false,\"id\":\"D9q2piGkJympOn8kdiU88\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":662.3465189054857,\"y\":581.0015852178949,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":345,\"height\":36,\"seed\":1472490209,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":1,\"text\":\"  Some notable upgrades\",\"baseline\":25,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"  Some notable upgrades\"},{\"type\":\"text\",\"version\":376,\"versionNonce\":1349322593,\"isDeleted\":false,\"id\":\"M0qx0OoTha2MOiUxhvbjf\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":696.2114433963625,\"y\":640.6328264470017,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":403,\"height\":25,\"seed\":1161097135,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Supports images inside of the drawings\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Supports images inside of the drawings\"},{\"type\":\"text\",\"version\":375,\"versionNonce\":2119326511,\"isDeleted\":false,\"id\":\"zY_yG2wagNNuXgZfo7Z_A\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":696.3676933963625,\"y\":675.6328264470017,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":329,\"height\":25,\"seed\":144074433,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Dark mode, Canvas Background\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Dark mode, Canvas Background\"},{\"type\":\"text\",\"version\":375,\"versionNonce\":183989057,\"isDeleted\":false,\"id\":\"WQc_3HhS3ardGVpyuVP0v\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":696.3676933963625,\"y\":710.6328264470017,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":439,\"height\":25,\"seed\":1064903119,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Ability to resize the drawings in view mode\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Ability to resize the drawings in view mode\"},{\"type\":\"text\",\"version\":319,\"versionNonce\":1490885967,\"isDeleted\":false,\"id\":\"cZTlElWE580KmdbeU7KEp\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":696.3676933963625,\"y\":745.6328264470017,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":559,\"height\":25,\"seed\":1769858721,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Text elements within the drawing can now be searched\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Text elements within the drawing can now be searched\"},{\"type\":\"text\",\"version\":110,\"versionNonce\":1344017601,\"isDeleted\":true,\"id\":\"bz5c_FClDIIailK5sp8BD\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":783.2936354283768,\"y\":760.0364450268503,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":12,\"height\":25,\"seed\":1655836655,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"\"},{\"type\":\"text\",\"version\":415,\"versionNonce\":84501281,\"isDeleted\":false,\"id\":\"uSx3mf0cfGTwSSnu1rcS3\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":697.2889372937495,\"y\":785.6792391548192,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":211,\"height\":25,\"seed\":1697278593,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- Better pen support\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- Better pen support\"},{\"type\":\"text\",\"version\":415,\"versionNonce\":889887599,\"isDeleted\":false,\"id\":\"ZGngnwdJI_ZF_f6yOu2NU\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":697.2889372937495,\"y\":820.6792391548192,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":53,\"height\":25,\"seed\":686307855,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376911839,\"link\":null,\"locked\":false,\"fontSize\":20,\"fontFamily\":1,\"text\":\"- etc\",\"baseline\":18,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"- etc\"},{\"type\":\"image\",\"version\":892,\"versionNonce\":684720623,\"isDeleted\":false,\"id\":\"XlXi_DT3EzO-hAhIePTGR\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":827.6157573479977,\"y\":196.9844308312526,\"strokeColor\":\"transparent\",\"backgroundColor\":\"transparent\",\"width\":261.74428969610307,\"height\":214.55481439031524,\"seed\":1146838959,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"customData\":{\"firebaseUrl\":\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FTrRLsbKxJOexcalidraw-uuidae5de780-4b7b-436b-a1d9-9819c174b872?alt=media&token=c72169bc-4978-4d72-a474-52a97428c08a\"},\"status\":\"saved\",\"fileId\":\"ff7cbe88817620fe5724897af4aa25f4010b5276\",\"scale\":[1,1]},{\"type\":\"image\",\"version\":353,\"versionNonce\":228366465,\"isDeleted\":false,\"id\":\"MM9inOfypbCXHIbVQQEn0\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":1299.2432083387062,\"y\":542.249657776955,\"strokeColor\":\"transparent\",\"backgroundColor\":\"transparent\",\"width\":485.750120123792,\"height\":338.09023035869797,\"seed\":563033729,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"customData\":{\"firebaseUrl\":\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FoFtuQLXTYwexcalidraw-uuid06d0e668-27a7-4db3-96dc-2177f5482394?alt=media&token=399fe811-9041-4250-8812-80b5c7e1cc4b\"},\"status\":\"saved\",\"fileId\":\"875e4724a24eb02aabbf610548d4398506cf9b32\",\"scale\":[1,1]},{\"type\":\"text\",\"version\":4,\"versionNonce\":444066831,\"isDeleted\":true,\"id\":\"4u7MQcxkSnRfL3X2YDUYK\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":1590.928418065763,\"y\":516.8701602257443,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":16,\"height\":36,\"seed\":380248961,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376864346,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":1,\"text\":\"\",\"baseline\":25,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"\"},{\"type\":\"text\",\"version\":3,\"versionNonce\":854264609,\"isDeleted\":true,\"id\":\"40O1TbSe1j4jBA6YAx4Dr\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":1016.8302782175665,\"y\":583.7525710060494,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":10,\"height\":32,\"seed\":1469395759,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376886302,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":2,\"text\":\"\",\"baseline\":26,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"\"},{\"type\":\"text\",\"version\":3,\"versionNonce\":1394000879,\"isDeleted\":true,\"id\":\"aurO3FPd_45Rzjq4w3UoU\",\"fillStyle\":\"hachure\",\"strokeWidth\":1,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"angle\":0,\"x\":744.6053386651355,\"y\":680.7832425296882,\"strokeColor\":\"#000000\",\"backgroundColor\":\"transparent\",\"width\":10,\"height\":32,\"seed\":1467609793,\"groupIds\":[],\"roundness\":null,\"boundElements\":[],\"updated\":1681376890758,\"link\":null,\"locked\":false,\"fontSize\":28,\"fontFamily\":2,\"text\":\"\",\"baseline\":26,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"containerId\":null,\"originalText\":\"\"}]",
+                              "image-size": {
+                                "height": null,
+                                "width": 562
+                              },
+                              "instance-id": "8fb804b5-7d09-4e4e-a002-1030d4efe7cb",
+                              "state-json": "{\"showWelcomeScreen\":true,\"theme\":\"light\",\"collaborators\":{},\"currentChartType\":\"bar\",\"currentItemBackgroundColor\":\"transparent\",\"currentItemEndArrowhead\":\"arrow\",\"currentItemFillStyle\":\"hachure\",\"currentItemFontFamily\":2,\"currentItemFontSize\":28,\"currentItemOpacity\":100,\"currentItemRoughness\":1,\"currentItemStartArrowhead\":null,\"currentItemStrokeColor\":\"#000000\",\"currentItemRoundness\":\"round\",\"currentItemStrokeStyle\":\"solid\",\"currentItemStrokeWidth\":1,\"currentItemTextAlign\":\"left\",\"cursorButton\":\"up\",\"draggingElement\":null,\"editingElement\":null,\"editingGroupId\":null,\"editingLinearElement\":null,\"activeTool\":{\"type\":\"selection\",\"customType\":null,\"locked\":false,\"lastActiveTool\":null},\"penMode\":false,\"penDetected\":false,\"errorMessage\":null,\"exportBackground\":true,\"exportScale\":2,\"exportEmbedScene\":false,\"exportWithDarkMode\":false,\"fileHandle\":null,\"gridSize\":null,\"isBindingEnabled\":true,\"isSidebarDocked\":false,\"isLoading\":false,\"isResizing\":false,\"isRotating\":false,\"lastPointerDownWith\":\"mouse\",\"multiElement\":null,\"name\":\"Untitled-2023-04-13-1444\",\"contextMenu\":null,\"openMenu\":null,\"openPopup\":null,\"openSidebar\":null,\"openDialog\":null,\"pasteDialog\":{\"shown\":false,\"data\":null},\"previousSelectedElementIds\":{\"D9q2piGkJympOn8kdiU88\":true,\"M0qx0OoTha2MOiUxhvbjf\":true,\"zY_yG2wagNNuXgZfo7Z_A\":true,\"WQc_3HhS3ardGVpyuVP0v\":true,\"cZTlElWE580KmdbeU7KEp\":true,\"uSx3mf0cfGTwSSnu1rcS3\":true,\"ZGngnwdJI_ZF_f6yOu2NU\":true,\"1i-5keWokVj_xuho3GJD7\":true,\"EcP32MvW0jR_F7AyYQ0WD\":true,\"4Vpr9LkK-i-F6c6pbMFA2\":true},\"resizingElement\":null,\"scrolledOutside\":false,\"scrollX\":1613.7790386455306,\"scrollY\":961.1287662345959,\"selectedElementIds\":{\"uyVMJSGPHBD-EZAoKJt4u\":true},\"selectedGroupIds\":{},\"selectionElement\":null,\"shouldCacheIgnoreZoom\":false,\"showStats\":false,\"startBoundElement\":null,\"suggestedBindings\":[],\"toast\":null,\"viewBackgroundColor\":\"#edf2ff\",\"zenModeEnabled\":false,\"zoom\":{\"value\":0.3710167046636342},\"viewModeEnabled\":false,\"pendingImageElementId\":null,\"showHyperlinkPopup\":false,\"selectedLinearElement\":null,\"offsetLeft\":0,\"offsetTop\":0,\"width\":2160,\"height\":1178.75}",
+                              "version": "0.14.2"
+                            },
+                            "refs": [
+                              {
+                                "uid": "DDfH2aHY0"
+                              }
+                            ],
+                            "string": "{{[[excalidraw]]}} {{-: Text elements in drawing: updated to latest version (v0.14) ; use via slash command: \"/excalidraw\" ;   Some notable upgrades ; - Supports images inside of the drawings ; - Dark mode, Canvas Background ; - Ability to resize the drawings in view mode ; - Text elements within the drawing can now be searched ; - Better pen support ; - etc }}",
+                            "uid": "Lz1xLfZiP"
+                          }
+                        ],
+                        "create-time": 1681377119378,
+                        "edit-time": 1681377436991,
+                        "string": "above is an image so that it displays properly in older Roam clients. If you'd like to play with it, the excalidraw drawing itself is nested underneath this block",
+                        "uid": "SyNQsH9zK"
+                      }
+                    ],
+                    "create-time": 1681377117369,
+                    "edit-time": 1681377122714,
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-JEizrN2ki.png?alt=media&token=4b2242fc-7063-4889-8985-26f906ca50c0": {
+                          "height": null,
+                          "width": 550
+                        }
+                      }
+                    },
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-JEizrN2ki.png?alt=media&token=4b2242fc-7063-4889-8985-26f906ca50c0)",
+                    "uid": "y-b49z1cq"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1681374566424,
+                        "edit-time": 1681376324576,
+                        "string": "Supports images inside of the drawings",
+                        "uid": "HnXAXPR3M"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1681374693361,
+                        "edit-time": 1681376324576,
+                        "string": "Dark mode, Canvas Background",
+                        "uid": "Oc8vJub6y"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1681374703140,
+                        "edit-time": 1681376324576,
+                        "string": "Ability to resize the drawings in view mode",
+                        "uid": "pnbmO9YqQ"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1681374766642,
+                            "edit-time": 1681376324576,
+                            "string": "Works for all new drawings. For old drawings, you have to open them once in edit/fullscreen mode",
+                            "uid": "jIMLSRdJC"
+                          }
+                        ],
+                        "create-time": 1681374927670,
+                        "edit-time": 1681376324576,
+                        "string": "Text elements within the drawing can now be searched ",
+                        "uid": "5Iy46SwFs"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1681374569161,
+                        "edit-time": 1681376324576,
+                        "string": "Better pen support",
+                        "uid": "m7WqslJse"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1681374576911,
+                        "edit-time": 1681376324576,
+                        "string": "etc",
+                        "uid": "3XFzHPjWr"
+                      }
+                    ],
+                    "create-time": 1681374556867,
+                    "edit-time": 1681376924609,
+                    "string": "Some notable upgrades",
+                    "uid": "K4zQudCT9"
+                  }
+                ],
+                "create-time": 1681376965190,
+                "edit-time": 1681377028095,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "hl0tzki39"
+                  }
+                ],
+                "string": "[[Excalidraw]] update",
+                "uid": "AWFiRITP0"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Zl4MvhXnM"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1681378011615,
+                    "edit-time": 1681378025278,
+                    "refs": [
+                      {
+                        "uid": "Zl4MvhXnM"
+                      }
+                    ],
+                    "string": "Added JSON and JSON-LD [[Code Block]] languages",
+                    "uid": "3X3qNwt8P"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "yKQVOgmDS"
+                      },
+                      {
+                        ":block/uid": "JNfK4m2zX"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1681378366574,
+                            "edit-time": 1681378370929,
+                            "string": "```css\n.rm-code-block--json, .rm-code-block--json-ld {\n  // colors inspired from VS Code\n  .cmt-propertyName {\n    color: #22509F;\n  }\n  .cmt-bool {\n    color: #0000ff;\n  }\n  .cmt-number {\n    color: #458A64;\n  }\n  .cmt-string {\n    color: #95261F\n  }\n\n}\n\n.rm-code-block--json-ld {\n  // json-ld seems to use cmt-atom for booleans and cmt-meta for property names that begin with @\n  .cmt-atom {\n    color: #0000ff;\n  }\n  .cmt-meta {\n    color: #22509fb6; // a lighter version of cmt-propertyName\n  }\n}```",
+                            "uid": "zG-xmuIPB"
+                          }
+                        ],
+                        "create-time": 1681378219075,
+                        "edit-time": 1681378406623,
+                        "string": "As an example, here are the customized CSS we're using for the new JSON and JSON-LD languages (color scheme inspired from VS Code)",
+                        "uid": "fSLPLcPB3"
+                      }
+                    ],
+                    "create-time": 1681378025385,
+                    "edit-time": 1681378218477,
+                    "refs": [
+                      {
+                        "uid": "yKQVOgmDS"
+                      },
+                      {
+                        "uid": "JNfK4m2zX"
+                      }
+                    ],
+                    "string": "Theme Authors and [[CSS]] hackers can now target code blocks for specific languages via new CSS classes of the format `.rm-code-block--{lang}`. For example: `.rm-code-block--js` for javascript code blocks, `.rm-code-block--clj` for Clojure code blocks #[[CSS Changes]]",
+                    "uid": "BJSfJtS33"
+                  }
+                ],
+                "create-time": 1681377032603,
+                "edit-time": 1681378011224,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] \u2728",
+                "uid": "J3mmEFtIA"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N8P6RYE7o"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1681379565614,
+                        "edit-time": 1681379591704,
+                        "string": "If you're still encountering issues after this update, please contact us at support@roamresearch.com",
+                        "uid": "Pl0KPW3dC"
+                      }
+                    ],
+                    "create-time": 1681379115680,
+                    "edit-time": 1681379200036,
+                    "refs": [
+                      {
+                        "uid": "N8P6RYE7o"
+                      }
+                    ],
+                    "string": "Released fixes for issues related to [[Roam Depot]] extensions and non-persistence of user settings",
+                    "uid": "AkRP9TKII"
+                  }
+                ],
+                "create-time": 1681379100495,
+                "edit-time": 1681379109965,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] \ud83d\udee0",
+                "uid": "BIjP07Go4"
+              }
+            ],
+            "create-time": 1681376320078,
+            "edit-time": 1681376323952,
+            "refs": [
+              {
+                "uid": "04-13-2023"
+              }
+            ],
+            "string": "[[April 13th, 2023]]",
+            "uid": "xPBbFKmDn"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "04-06-2023"
               }
             ],
@@ -89958,10 +90381,52 @@
     "uid": "04-06-2023"
   },
   {
-    ":log/id": 1681369577506,
-    "create-time": 1681369577508,
-    "edit-time": 1681369577509,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1681376303057,
+    "create-time": 1681376303058,
+    "edit-time": 1681376303058,
     "title": "April 13th, 2023",
     "uid": "04-13-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1681376324582,
+    "edit-time": 1681376324584,
+    "title": "Excalidraw",
+    "uid": "hl0tzki39"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1681376341454,
+    "edit-time": 1681376341455,
+    "title": "excalidraw",
+    "uid": "DDfH2aHY0"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1681378203716,
+    "edit-time": 1681378203716,
+    "title": "CSS",
+    "uid": "JNfK4m2zX"
   }
 ]

@@ -1,6 +1,55 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[April 13th, 2023]]
+        - ### [[Excalidraw]] update
+            - Excalidraw is a virtual hand-drawn style whiteboard. We've now upgraded to the latest version (v0.14)
+            - You can create a drawing via the slash menu: `/excalidraw`
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-JEizrN2ki.png?alt=media&token=4b2242fc-7063-4889-8985-26f906ca50c0)
+                - above is an image so that it displays properly in older Roam clients. If you'd like to play with it, the excalidraw drawing itself is nested underneath this block
+                    - {{[[excalidraw]]}} {{-: Text elements in drawing: updated to latest version (v0.14) ; use via slash command: "/excalidraw" ;   Some notable upgrades ; - Supports images inside of the drawings ; - Dark mode, Canvas Background ; - Ability to resize the drawings in view mode ; - Text elements within the drawing can now be searched ; - Better pen support ; - etc }}
+            - Some notable upgrades
+                - Supports images inside of the drawings
+                - Dark mode, Canvas Background
+                - Ability to resize the drawings in view mode
+                - Text elements within the drawing can now be searched 
+                    - Works for all new drawings. For old drawings, you have to open them once in edit/fullscreen mode
+                - Better pen support
+                - etc
+        - ### [[Quality of Life Improvements]] ✨
+            - Added JSON and JSON-LD [[Code Block]] languages
+            - Theme Authors and [[CSS]] hackers can now target code blocks for specific languages via new CSS classes of the format `.rm-code-block--{lang}`. For example: `.rm-code-block--js` for javascript code blocks, `.rm-code-block--clj` for Clojure code blocks #[[CSS Changes]]
+                - As an example, here are the customized CSS we're using for the new JSON and JSON-LD languages (color scheme inspired from VS Code)
+                    - ```css
+.rm-code-block--json, .rm-code-block--json-ld {
+  // colors inspired from VS Code
+  .cmt-propertyName {
+    color: #22509F;
+  }
+  .cmt-bool {
+    color: #0000ff;
+  }
+  .cmt-number {
+    color: #458A64;
+  }
+  .cmt-string {
+    color: #95261F
+  }
+
+}
+
+.rm-code-block--json-ld {
+  // json-ld seems to use cmt-atom for booleans and cmt-meta for property names that begin with @
+  .cmt-atom {
+    color: #0000ff;
+  }
+  .cmt-meta {
+    color: #22509fb6; // a lighter version of cmt-propertyName
+  }
+}```
+        - ### [[Bug Fixes]] 🛠
+            - Released fixes for issues related to [[Roam Depot]] extensions and non-persistence of user settings
+                - If you're still encountering issues after this update, please contact us at support@roamresearch.com
     - [[April 6th, 2023]]
         - [[Roam Extensions]]
             - ## [Roam Portal](https://github.com/dkapila/Roam-Portal)

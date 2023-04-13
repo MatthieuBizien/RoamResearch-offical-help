@@ -7,6 +7,8 @@
 
 - ### [Quality of Life Improvements](<Quality of Life Improvements.md>)
 
+- ### [Quality of Life Improvements](<Quality of Life Improvements.md>)
+
 - {{[query](<query.md>): {and: [Quality of Life Improvements](<Quality of Life Improvements.md>)
 
 - ### [Quality of Life Improvements](<Quality of Life Improvements.md>)
