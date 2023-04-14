@@ -42967,6 +42967,161 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "04-14-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "cm7dtTTHy"
+                      },
+                      {
+                        ":block/uid": "-d5iHtZzE"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1681499833260,
+                        "edit-time": 1681499834960,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FmikHhmNdg1.png?alt=media&token=354991dc-d7c2-43fa-9f43-6c6b229a19ec)",
+                        "uid": "RQ3sIvDGA"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1681499798220,
+                                "edit-time": 1681499813069,
+                                "string": "Then type the letter of the block view you wish to use as displayed on the screen",
+                                "uid": "0sxFLRg-b"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1681500114110,
+                                "edit-time": 1681500130655,
+                                "string": "You can also set a hotkey for it",
+                                "uid": "h-EmknQJv"
+                              }
+                            ],
+                            "create-time": 1681499643833,
+                            "edit-time": 1681499703036,
+                            "string": "You can change the current block view by searching in the command palette (`cmd-p`) for \"Change Block View\"",
+                            "uid": "tGCv1hbr4"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1681499715717,
+                            "edit-time": 1681499776632,
+                            "string": "Block views are still experimental and many parts of Roam don't work seamlessly with them yet",
+                            "uid": "Z4fDwIcQA"
+                          }
+                        ],
+                        "create-time": 1681499620263,
+                        "edit-time": 1681499643840,
+                        "string": "If you haven't heard of block views yet",
+                        "uid": "zr2u2Th-r"
+                      }
+                    ],
+                    "create-time": 1681499601270,
+                    "edit-time": 1681499658140,
+                    "refs": [
+                      {
+                        "uid": "cm7dtTTHy"
+                      },
+                      {
+                        "uid": "-d5iHtZzE"
+                      }
+                    ],
+                    "string": "Tabs [[block view]] #[[Experimental]]",
+                    "uid": "IbHsCWkry"
+                  }
+                ],
+                "create-time": 1681499573709,
+                "edit-time": 1681499601277,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80",
+                "uid": "jfatNpbXQ"
+              }
+            ],
+            "create-time": 1681499569959,
+            "edit-time": 1681499573563,
+            "refs": [
+              {
+                "uid": "04-14-2023"
+              }
+            ],
+            "string": "[[April 14th, 2023]]",
+            "uid": "N28d_30vJ"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "04-13-2023"
               }
             ],
@@ -90430,10 +90585,40 @@
     "uid": "JNfK4m2zX"
   },
   {
-    ":log/id": 1681481147202,
-    "create-time": 1681481147205,
-    "edit-time": 1681481147205,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1681499503558,
+    "create-time": 1681499503560,
+    "edit-time": 1681499503560,
     "title": "April 14th, 2023",
     "uid": "04-14-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1681499620271,
+    "edit-time": 1681499620272,
+    "title": "block view",
+    "uid": "cm7dtTTHy"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1681499658142,
+    "edit-time": 1681499658143,
+    "title": "Experimental",
+    "uid": "-d5iHtZzE"
   }
 ]

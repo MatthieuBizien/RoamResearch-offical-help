@@ -1,6 +1,15 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [April 14th, 2023](<April 14th, 2023.md>)
+        - ### [New Features](<New Features.md>) 🚀
+            - Tabs [block view](<block view.md>) #[Experimental](<Experimental.md>)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FmikHhmNdg1.png?alt=media&token=354991dc-d7c2-43fa-9f43-6c6b229a19ec)
+                - If you haven't heard of block views yet
+                    - You can change the current block view by searching in the command palette (`cmd-p`) for "Change Block View"
+                        - Then type the letter of the block view you wish to use as displayed on the screen
+                        - You can also set a hotkey for it
+                    - Block views are still experimental and many parts of Roam don't work seamlessly with them yet
     - [April 13th, 2023](<April 13th, 2023.md>)
         - ### [Excalidraw](<Excalidraw.md>) update
             - Excalidraw is a virtual hand-drawn style whiteboard. We've now upgraded to the latest version (v0.14)
