@@ -42967,6 +42967,58 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "04-17-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  },
+                  {
+                    ":block/uid": "Lgp0csam2"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1681786492668,
+                "edit-time": 1681786860301,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  },
+                  {
+                    "uid": "Lgp0csam2"
+                  }
+                ],
+                "string": "[[Performance Improvements]] and [[Bug Fixes]] for block autocomplete search i.e. the search you get when pressing `((`",
+                "uid": "b3XQRsqtZ"
+              }
+            ],
+            "create-time": 1681786483793,
+            "edit-time": 1681786832536,
+            "refs": [
+              {
+                "uid": "04-17-2023"
+              }
+            ],
+            "string": "[[April 17th, 2023]]",
+            "uid": "JiwRj5jLb"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "04-14-2023"
               }
             ],
@@ -90622,9 +90674,22 @@
     "uid": "-d5iHtZzE"
   },
   {
-    ":log/id": 1681781572748,
-    "create-time": 1681781572751,
-    "edit-time": 1681781572751,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1681689600000,
+    "create-time": 1681786832539,
+    "edit-time": 1681786832540,
+    "title": "April 17th, 2023",
+    "uid": "04-17-2023"
+  },
+  {
+    ":log/id": 1681787159367,
+    "create-time": 1681787159371,
+    "edit-time": 1681787159371,
     "title": "April 18th, 2023",
     "uid": "04-18-2023"
   }

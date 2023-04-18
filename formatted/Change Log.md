@@ -1,6 +1,8 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [April 17th, 2023](<April 17th, 2023.md>)
+        - [Performance Improvements](<Performance Improvements.md>) and [Bug Fixes](<Bug Fixes.md>) for block autocomplete search i.e. the search you get when pressing `((`
     - [April 14th, 2023](<April 14th, 2023.md>)
         - ### [New Features](<New Features.md>) 🚀
             - Tabs [block view](<block view.md>) #[Experimental](<Experimental.md>)
