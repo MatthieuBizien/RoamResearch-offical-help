@@ -3,6 +3,9 @@
 ## [Bidirectional linking](<Bidirectional linking.md>)
 - `cmd+u` (macOS) / `ctrl+u` (PC) to [Find or create page](<Find or create page.md>)
 
+## [Change Log](<Change Log.md>)
+- [Find or create page](<Find or create page.md>)
+
 ## [Features](<Features.md>)
 - `cmd+u` (macOS) / `ctrl+u` (PC) to [Find or create page](<Find or create page.md>)
 
