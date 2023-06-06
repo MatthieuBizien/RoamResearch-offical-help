@@ -2,6 +2,9 @@
     - {{[video](<video.md>): https://www.youtube.com/watch?v=nROryUttSr0}}`
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- Small [Performance Improvement](<Performance Improvement.md>) to [Unlinked References](<Unlinked References.md>)
+
 ## [Korean](<Korean.md>)
 - #[Right Sidebar](<Right Sidebar.md>) | #[Block References](<Block References.md>) | #[Block Embed](<Block Embed.md>) | #[Daily Notes](<Daily Notes.md>) | #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>) | #[Indentation](<Indentation.md>) | #[Unlinked References](<Unlinked References.md>)
 

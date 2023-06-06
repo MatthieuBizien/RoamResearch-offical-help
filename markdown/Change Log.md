@@ -1,6 +1,20 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[June 6th, 2023]]
+        - ### [[Quality of Life Improvements]] ✨
+            - [[Performance Improvement]] to [[Filters]]
+                - Opening filters is 4-5x faster
+                - Adding or removing a filter is 15-30x faster
+                - Memory usage is a lot less
+                - This is assuming [[Linked References]] is closed, because displaying all of the references is still very slow
+                    - We will be releasing an improvement to linked references to solve this problem soon
+                - Internally we completely rewrote how these work to use the same logic as queries, so that in the future we can add OR filters
+                - The counts for tags changed inside of linked refs filter
+                    - The counts now represent how many of the linked references have that tag. When you filter for "includes" a tag, it will show you that many references
+            - Small [[Performance Improvement]] to [[Unlinked References]]
+            - Small [[Performance Improvement]] to [[Streak]]
+            - [Another](((g3OZJ86Le))) small [[Performance Improvement]] to [[All Pages]]
     - [[May 19th, 2023]]
         - [[Quality of Life Improvements]] ✨
             - [[Find or create page]] performance improvement

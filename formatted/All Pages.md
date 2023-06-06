@@ -18,6 +18,9 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F4Qv1CNFt4D.gif?alt=media&token=21c2a442-8ac3-4ca3-9cad-0c00322812a9)
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- [Another](((g3OZJ86Le))) small [Performance Improvement](<Performance Improvement.md>) to [All Pages](<All Pages.md>)
+
 ## [FAQ](<FAQ.md>)
 - From the [All Pages](<All Pages.md>)
 

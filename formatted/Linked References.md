@@ -16,6 +16,8 @@
 #[Linked References](<Linked References.md>)
 
 ## [Change Log](<Change Log.md>)
+- This is assuming [Linked References](<Linked References.md>)
+
 - Made [Query](<Query.md>) and [Linked References](<Linked References.md>)
 
 - Fixed bug which created orphan blocks when deleting in [Linked References](<Linked References.md>)

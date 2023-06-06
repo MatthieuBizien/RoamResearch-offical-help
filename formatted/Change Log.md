@@ -1,6 +1,20 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [June 6th, 2023](<June 6th, 2023.md>)
+        - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - [Performance Improvement](<Performance Improvement.md>) to [Filters](<Filters.md>)
+                - Opening filters is 4-5x faster
+                - Adding or removing a filter is 15-30x faster
+                - Memory usage is a lot less
+                - This is assuming [Linked References](<Linked References.md>) is closed, because displaying all of the references is still very slow
+                    - We will be releasing an improvement to linked references to solve this problem soon
+                - Internally we completely rewrote how these work to use the same logic as queries, so that in the future we can add OR filters
+                - The counts for tags changed inside of linked refs filter
+                    - The counts now represent how many of the linked references have that tag. When you filter for "includes" a tag, it will show you that many references
+            - Small [Performance Improvement](<Performance Improvement.md>) to [Unlinked References](<Unlinked References.md>)
+            - Small [Performance Improvement](<Performance Improvement.md>) to [Streak](<Streak.md>)
+            - [Another](((g3OZJ86Le))) small [Performance Improvement](<Performance Improvement.md>) to [All Pages](<All Pages.md>)
     - [May 19th, 2023](<May 19th, 2023.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - [Find or create page](<Find or create page.md>) performance improvement

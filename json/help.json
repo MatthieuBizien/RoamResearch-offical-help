@@ -42967,6 +42967,269 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-06-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "yT04rKSMg"
+                      },
+                      {
+                        ":block/uid": "5gKGzmwz2"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1686063040383,
+                        "string": "Opening filters is 4-5x faster",
+                        "uid": "qI6ucCsHK"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1686063040383,
+                        "string": "Adding or removing a filter is 15-30x faster",
+                        "uid": "_VZfgN9Xr"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1686063040383,
+                        "string": "Memory usage is a lot less",
+                        "uid": "Im51Lhj6-"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "D8ld3cXC3"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1686061934958,
+                            "edit-time": 1686063040383,
+                            "string": "We will be releasing an improvement to linked references to solve this problem soon",
+                            "uid": "xJc8NYhDU"
+                          }
+                        ],
+                        "edit-time": 1686067270106,
+                        "refs": [
+                          {
+                            "uid": "D8ld3cXC3"
+                          }
+                        ],
+                        "string": "This is assuming [[Linked References]] is closed, because displaying all of the references is still very slow",
+                        "uid": "wg_Z3pbHO"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1686061008859,
+                        "edit-time": 1686063040383,
+                        "string": "Internally we completely rewrote how these work to use the same logic as queries, so that in the future we can add OR filters",
+                        "uid": "YocCSDMqb"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1686062018460,
+                            "edit-time": 1686063040383,
+                            "string": "The counts now represent how many of the linked references have that tag. When you filter for \"includes\" a tag, it will show you that many references",
+                            "uid": "6ftjaqVkM"
+                          }
+                        ],
+                        "create-time": 1686061868767,
+                        "edit-time": 1686063040383,
+                        "string": "The counts for tags changed inside of linked refs filter",
+                        "uid": "_JewaZnq_"
+                      }
+                    ],
+                    "create-time": 1686060997853,
+                    "edit-time": 1686067259957,
+                    "refs": [
+                      {
+                        "uid": "yT04rKSMg"
+                      },
+                      {
+                        "uid": "5gKGzmwz2"
+                      }
+                    ],
+                    "string": "[[Performance Improvement]] to [[Filters]]",
+                    "uid": "IqhbMXRCr"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "iuHyHwocI"
+                      },
+                      {
+                        ":block/uid": "yT04rKSMg"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1686067240780,
+                    "edit-time": 1686067252719,
+                    "refs": [
+                      {
+                        "uid": "iuHyHwocI"
+                      },
+                      {
+                        "uid": "yT04rKSMg"
+                      }
+                    ],
+                    "string": "Small [[Performance Improvement]] to [[Unlinked References]]",
+                    "uid": "XaMNuBXID"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "yT04rKSMg"
+                      },
+                      {
+                        ":block/uid": "gM1I7QA62"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1686067224330,
+                    "edit-time": 1686067240787,
+                    "refs": [
+                      {
+                        "uid": "yT04rKSMg"
+                      },
+                      {
+                        "uid": "gM1I7QA62"
+                      }
+                    ],
+                    "string": "Small [[Performance Improvement]] to [[Streak]]",
+                    "uid": "Nl95z0rt3"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "efPNR-GTi"
+                      },
+                      {
+                        ":block/uid": "g3OZJ86Le"
+                      },
+                      {
+                        ":block/uid": "yT04rKSMg"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1686059346475,
+                    "edit-time": 1686059380167,
+                    "refs": [
+                      {
+                        "uid": "efPNR-GTi"
+                      },
+                      {
+                        "uid": "g3OZJ86Le"
+                      },
+                      {
+                        "uid": "yT04rKSMg"
+                      }
+                    ],
+                    "string": "[Another](((g3OZJ86Le))) small [[Performance Improvement]] to [[All Pages]]",
+                    "uid": "uYPZWL2ZS"
+                  }
+                ],
+                "create-time": 1686061737898,
+                "edit-time": 1686061738535,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] \u2728",
+                "uid": "wVTYaZX0Y"
+              }
+            ],
+            "create-time": 1686059342102,
+            "edit-time": 1686059346488,
+            "refs": [
+              {
+                "uid": "06-06-2023"
+              }
+            ],
+            "string": "[[June 6th, 2023]]",
+            "uid": "PXzEn8Qft"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "05-19-2023"
               }
             ],
@@ -92473,10 +92736,52 @@
     "uid": "06-05-2023"
   },
   {
-    ":log/id": 1686042356443,
-    "create-time": 1686042356445,
-    "edit-time": 1686042356445,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1686059153472,
+    "create-time": 1686059153475,
+    "edit-time": 1686059153475,
     "title": "June 6th, 2023",
     "uid": "06-06-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1686059365476,
+    "edit-time": 1686059365495,
+    "title": "Performance Improvement",
+    "uid": "yT04rKSMg"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1686063040408,
+    "edit-time": 1686063040409,
+    "title": "Filters",
+    "uid": "5gKGzmwz2"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1686067240788,
+    "edit-time": 1686067240789,
+    "title": "Streak",
+    "uid": "gM1I7QA62"
   }
 ]
