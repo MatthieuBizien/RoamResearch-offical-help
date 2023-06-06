@@ -15,6 +15,9 @@
             - Small [Performance Improvement](<Performance Improvement.md>) to [Unlinked References](<Unlinked References.md>)
             - Small [Performance Improvement](<Performance Improvement.md>) to [Streak](<Streak.md>)
             - [Another](((g3OZJ86Le))) small [Performance Improvement](<Performance Improvement.md>) to [All Pages](<All Pages.md>)
+            - Fixed bug that caused versions to be reordered
+            - Fixed old daily notes loading on scroll
+                - previously it could get stuck and you would have to hover over the new note
     - [May 19th, 2023](<May 19th, 2023.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - [Find or create page](<Find or create page.md>) performance improvement

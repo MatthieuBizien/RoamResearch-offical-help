@@ -43203,6 +43203,44 @@
                     ],
                     "string": "[Another](((g3OZJ86Le))) small [[Performance Improvement]] to [[All Pages]]",
                     "uid": "uYPZWL2ZS"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1686083368752,
+                    "edit-time": 1686083392640,
+                    "string": "Fixed bug that caused versions to be reordered",
+                    "uid": "SoKiSHV1A"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1686084688952,
+                        "edit-time": 1686084703098,
+                        "string": "previously it could get stuck and you would have to hover over the new note",
+                        "uid": "5o0isoAkM"
+                      }
+                    ],
+                    "create-time": 1686083777470,
+                    "edit-time": 1686084688862,
+                    "string": "Fixed old daily notes loading on scroll",
+                    "uid": "coPkw72Gl"
                   }
                 ],
                 "create-time": 1686061737898,

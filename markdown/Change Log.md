@@ -15,6 +15,9 @@
             - Small [[Performance Improvement]] to [[Unlinked References]]
             - Small [[Performance Improvement]] to [[Streak]]
             - [Another](((g3OZJ86Le))) small [[Performance Improvement]] to [[All Pages]]
+            - Fixed bug that caused versions to be reordered
+            - Fixed old daily notes loading on scroll
+                - previously it could get stuck and you would have to hover over the new note
     - [[May 19th, 2023]]
         - [[Quality of Life Improvements]] ✨
             - [[Find or create page]] performance improvement
