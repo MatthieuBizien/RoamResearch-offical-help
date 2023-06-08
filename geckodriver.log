@@ -34444,3 +34444,51 @@ console.error: ({})
 
 (firefox:3106): GLib-GObject-CRITICAL **: 11:07:42.293: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1686222463324	Marionette	INFO	Stopped listening on port 34301
+1686226025492	geckodriver	INFO	Listening on 127.0.0.1:56325
+1686226026288	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileb6sHhc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1686226031152	Marionette	INFO	Marionette enabled
+1686226031171	Marionette	INFO	Listening on port 39475
+Read port: 39475
+1686226032165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 1951, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-wsZZD0/firefox-114.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1951): GLib-GObject-CRITICAL **: 12:07:37.269: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1686226058680	Marionette	INFO	Stopped listening on port 39475
+1686226059669	geckodriver	INFO	Listening on 127.0.0.1:37169
+1686226060678	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile0qyMVs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1686226061050	Marionette	INFO	Marionette enabled
+1686226061056	Marionette	INFO	Listening on port 38311
+Read port: 38311
+1686226061218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2482, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-wsZZD0/firefox-114.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2482): GLib-GObject-CRITICAL **: 12:08:07.614: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1686226089247	Marionette	INFO	Stopped listening on port 38311
+1686226090228	geckodriver	INFO	Listening on 127.0.0.1:48803
+1686226090236	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileeOgLCU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1686226090610	Marionette	INFO	Marionette enabled
+1686226090615	Marionette	INFO	Listening on port 40045
+Read port: 40045
+1686226090780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2961, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-wsZZD0/firefox-114.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2961): GLib-GObject-CRITICAL **: 12:08:32.131: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1686226113884	Marionette	INFO	Stopped listening on port 40045
