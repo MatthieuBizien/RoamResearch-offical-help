@@ -1,6 +1,9 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [June 9th, 2023](<June 9th, 2023.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Editing `{{excalidraw}}` drawings or `{{slider}}`s also updates the last edited time
     - [June 6th, 2023](<June 6th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - [Performance Improvement](<Performance Improvement.md>) to [Filters](<Filters.md>)

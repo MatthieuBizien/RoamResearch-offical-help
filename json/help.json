@@ -42967,6 +42967,66 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-09-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1686331411266,
+                    "edit-time": 1686331448383,
+                    "string": "Editing `{{excalidraw}}` drawings or `{{slider}}`s also updates the last edited time",
+                    "uid": "mIy5HQHn3"
+                  }
+                ],
+                "create-time": 1686331401281,
+                "edit-time": 1686331411273,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]]",
+                "uid": "WQgdBElwS"
+              }
+            ],
+            "create-time": 1686331397335,
+            "edit-time": 1686331401295,
+            "refs": [
+              {
+                "uid": "06-09-2023"
+              }
+            ],
+            "string": "[[June 9th, 2023]]",
+            "uid": "O3JfglQsT"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-06-2023"
               }
             ],
@@ -92823,9 +92883,15 @@
     "uid": "gM1I7QA62"
   },
   {
-    ":log/id": 1686319567706,
-    "create-time": 1686319567709,
-    "edit-time": 1686319567709,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1686331391996,
+    "create-time": 1686331391997,
+    "edit-time": 1686331391997,
     "title": "June 9th, 2023",
     "uid": "06-09-2023"
   }
