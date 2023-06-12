@@ -3,6 +3,25 @@
 - ## **New Changes**
     - [June 12th, 2023](<June 12th, 2023.md>)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
+            - ## [Magic Tags](https://github.com/rcvd/magic-tags)
+                - Magic Tags transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.
+                - ![Demo of magic tags in action](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)
+                - ### How does it work
+                    - Select the Icon Theme. [Blueprint](https://blueprintjs.com/docs/versions/3/[icons](<icons.md>)) is the default for Roam Research. Roam Studio provides [Feather Icons](https://feathericons.com/).
+                    - Select the first magic word - this is the name of the tag (e.g., if your tag is [love](<love.md>), your magic word is "love")
+                    - Select an icon from the predefined list
+                    - Select a color from the predefined list
+                    - Select the lightness of the color
+                    - **Notes** You can use the same icon for multiple tags - with different colors if you like. An example of this would be a marker for high and critical tasks, which both would use the alert icon, but in yellow for high and red for critical.
+                    - ![Settings showing tags using the same icon but different colors](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)
+                - ### Feature Requests, Bugs, and Feedback
+                    - If you need an additional icon, have an idea for a new feature, or find a bug, file it under [Issues](https://github.com/rcvd/MagicTags/issues) with a short description and a screenshot. If you have any additional comments or suggestions, please send them to [alex@goedel.io](mailto:alex@goedel.io).
+                - ### If you want to support my work
+                    - [Become a GitHub Sponsor](https://github.com/sponsors/rcvd)
+                    - [Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)
+                    - [Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)
+                    - [Flattr](https://flattr.com/@rcvd)
+                    - [Paypal](https://paypal.me/rcvd)
             - ## [Roam Power Previewer](https://github.com/dragonforce2010/roam-power-previewer)
                 - Allows you to preview a website in a side drawer, without having to go out of Roam!
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FjnZuhSGODA.gif?alt=media&token=02e9465f-5ab4-4da7-847d-0d2f6691c23f)

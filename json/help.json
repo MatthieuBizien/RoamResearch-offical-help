@@ -42991,6 +42991,180 @@
                 },
                 "children": [
                   {
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1686584570914,
+                        "string": "Magic Tags transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.",
+                        "uid": "4iFq0xMFb"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1686584570914,
+                        "string": "![Demo of magic tags in action](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)[\ud83d\udd17](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)",
+                        "uid": "mbYDdyUOG"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "Select the Icon Theme.\u00a0[Blueprint](https://blueprintjs.com/docs/versions/3/#icons)\u00a0is the default for Roam Research. Roam Studio provides\u00a0[Feather Icons](https://feathericons.com/).",
+                            "uid": "mSYFYz94d"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "qXFB6VJSQ"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "refs": [
+                              {
+                                "uid": "qXFB6VJSQ"
+                              }
+                            ],
+                            "string": "Select the first magic word - this is the name of the tag (e.g., if your tag is #love, your magic word is \"love\")",
+                            "uid": "2Bgzbx3Bz"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "Select an icon from the predefined list",
+                            "uid": "MoY5Xyxfm"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "Select a color from the predefined list",
+                            "uid": "5MmpNd1qm"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "Select the lightness of the color",
+                            "uid": "qCWd9Dx4S"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "**Notes**\u00a0You can use the same icon for multiple tags - with different colors if you like. An example of this would be a marker for high and critical tasks, which both would use the alert icon, but in yellow for high and red for critical.",
+                            "uid": "D4XK4mKLV"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "![Settings showing tags using the same icon but different colors](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)[\ud83d\udd17](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)",
+                            "uid": "nr_IfrfEL"
+                          }
+                        ],
+                        "edit-time": 1686584643469,
+                        "heading": 3,
+                        "string": "How does it work",
+                        "uid": "DQ5Qew3nY"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "If you need an additional icon, have an idea for a new feature, or find a bug, file it under\u00a0[Issues](https://github.com/rcvd/MagicTags/issues)\u00a0with a short description and a screenshot. If you have any additional comments or suggestions, please send them to\u00a0[alex@goedel.io](mailto:alex@goedel.io).",
+                            "uid": "dJdbOrny5"
+                          }
+                        ],
+                        "edit-time": 1686584617740,
+                        "heading": 3,
+                        "string": "Feature Requests, Bugs, and Feedback",
+                        "uid": "13CNDO8CR"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "[Become a GitHub Sponsor](https://github.com/sponsors/rcvd)",
+                            "uid": "IdfL-QU_w"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "[Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)",
+                            "uid": "37qgg7T6f"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "[Become a supporter on g\u00f6del.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)",
+                            "uid": "u8OS-yj1U"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "[Flattr](https://flattr.com/@rcvd)",
+                            "uid": "ZPCPsUrn_"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1686584570914,
+                            "string": "[Paypal](https://paypal.me/rcvd)",
+                            "uid": "mZAxW5Jif"
+                          }
+                        ],
+                        "edit-time": 1686584609019,
+                        "heading": 3,
+                        "string": "If you want to support my work",
+                        "uid": "Vd4tfb1a8"
+                      }
+                    ],
+                    "edit-time": 1686584593237,
+                    "heading": 2,
+                    "string": "[Magic Tags](https://github.com/rcvd/magic-tags)",
+                    "uid": "GS4eUfKaP"
+                  },
+                  {
                     ":create/user": {
                       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
@@ -93075,5 +93249,17 @@
     "edit-time": 1686562135834,
     "title": "June 12th, 2023",
     "uid": "06-12-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1686584570912,
+    "edit-time": 1686584570914,
+    "title": "love",
+    "uid": "qXFB6VJSQ"
   }
 ]
