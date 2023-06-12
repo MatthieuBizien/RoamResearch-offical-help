@@ -1,6 +1,21 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [June 12th, 2023](<June 12th, 2023.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
+            - ## [Roam Power Previewer](https://github.com/dragonforce2010/roam-power-previewer)
+                - Allows you to preview a website in a side drawer, without having to go out of Roam!
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FjnZuhSGODA.gif?alt=media&token=02e9465f-5ab4-4da7-847d-0d2f6691c23f)
+                - Usage
+                    - After installing the extension from Roam Depot, just click on a link
+                    - Please note that If you don't want to preview the website content in the sidedrawer or sometimes the website you are tring to preview has a iframe securty policy which forbids to do so, then you can simply press the following keys(ctrl, meta, shift) when click the link, to view the website in a new tab in browser
+            - ## [Automatic DNP](https://github.com/mlava/auto-DNP)
+                - Automatically paste in your preferred daily note page template when you open your DNP for the first time each day.
+                - This extension allows you to define templates for every day of the week, or for weekdays and weekends if you prefer to keep it simple.
+                - Usage
+                    - Use the Roam Depot settings panel to choose either Daily or Weekday/Weekend for Preferred Mode.
+                    - Then, paste in the block reference of a template to the corresponding fields in the Roam Depot settings screen. The example below shows the configuration for Weekday/Weekend mode:
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774)
     - [June 9th, 2023](<June 9th, 2023.md>)
         - [Bug Fixes](<Bug Fixes.md>)
             - Editing `{{excalidraw}}` drawings or `{{slider}}`s also updates the last edited time
@@ -46,7 +61,7 @@
                 - You can change the threshold for when to get the warning in user settings
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FckUnHuP2ba.png?alt=media&token=c2805de1-db28-4287-93ed-701f51957aaa)
     - [May 15th, 2023](<May 15th, 2023.md>)
-        - [Roam Extensions](<Roam Extensions.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## [Switch+](https://github.com/dive2Pro/roam-switch-plus)
                 - An awesome new extension by [hyc](<hyc.md>) which will change the way you navigate between blocks on a page. 
                 - Has a number of different modes: text mode, tag mode, line mode, sidebar mode, latest changes mode. 
@@ -84,8 +99,6 @@ Then, just start typing to search
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - Delete button in Mobile App Quick Capture
                 - [Screenshots](<Screenshots.md>)
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad)
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b)
     - [May 9th, 2023](<May 9th, 2023.md>)
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - Fixes for sign in via Google/Apple issues
@@ -170,7 +183,7 @@ Then, just start typing to search
             - Released fixes for issues related to [Roam Depot](<Roam Depot.md>) extensions and non-persistence of user settings
                 - If you're still encountering issues after this update, please contact us at support@roamresearch.com
     - [April 6th, 2023](<April 6th, 2023.md>)
-        - [Roam Extensions](<Roam Extensions.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## [Roam Portal](https://github.com/dkapila/Roam-Portal)
                 - One of the most loved Roam extensions, now available in Roam Depot!
                 - An easy-to-use but super-powerful search engine designed to help you explore your data visually.
@@ -193,7 +206,7 @@ Then, just start typing to search
         - ### [Bug Fixes](<Bug Fixes.md>) 🛠
             - Fixes Roam Depot issue where "blank extensions" would appear in "Installed Extensions" section
     - [March 9th, 2023](<March 9th, 2023.md>)
-        - [Roam Extensions](<Roam Extensions.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## [Link Preview](https://github.com/dive2Pro/roam-link-preview)
                 - Show brief information for external links in roam
                     - ![image](https://user-images.githubusercontent.com/23192045/219956966-43781827-285d-4b66-a493-cdfdd7ea2c01.png)[🔗](https://user-images.githubusercontent.com/23192045/219956966-43781827-285d-4b66-a493-cdfdd7ea2c01.png)
@@ -341,7 +354,7 @@ $$
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
             - If global filters are applied on the log, then show the filter icon so you can remove them
     - [February 1st, 2023](<February 1st, 2023.md>)
-        - [Roam Extensions](<Roam Extensions.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## [Self-Destructing Blocks](https://github.com/8bitgentleman/roam-depot-block-self-destruct)
                 - Set blocks to self-destruct (be deleted) after a period of time. Every hour the plugin will search for all blocks that reference #[self-destruct](<self-destruct.md>) (configurable to whatever you would like). Any of those references that are older than the time set will be deleted.
                 - A custom deletion time can be set by nesting an attribute below the block that you want deleted.
@@ -383,7 +396,7 @@ $$
     - [January 31st, 2023](<January 31st, 2023.md>)
         - ### [Bug Fixes](<Bug Fixes.md>) 🛠
             - Fix plaintext paste (`ctrl-shift-v`) pasting twice on desktop app in linux and windows
-        - [Roam Extensions](<Roam Extensions.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## [Roam Website Title Parser](https://github.com/dragonforce2010/roam-website-title-parser)
                 - This extension can parse the website title and transform the link to the markdown format when you paste a url into roam block
                 - For example, when you paste a link like this `https://developer.roamjs.com/`, this extension is gonna transform it to `[Introduction - RoamJS](https://developer.roamjs.com/)`
@@ -397,7 +410,7 @@ $$
     - [December 20th, 2022](<December 20th, 2022.md>)
         - Fixes a couple of performance issues, should be noticeable especially for [Local Graph](<Local Graph.md>)s
     - [November 30th, 2022](<November 30th, 2022.md>)
-        - [Roam Extensions](<Roam Extensions.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## Roam reference expands
                 - show the path of the block reference
                 - ![](https://github.com/dive2Pro/roam-reference-expand/raw/49e028ae09c5ec50eeec4436bd81247b7a7e0685/SCR-20221124-d9c.png)
@@ -424,7 +437,7 @@ $$
                     - If the Marker text is already a tag in your graph, clicking on the marker pin will take you to that page. Shift clicking the marker will open the tag in the sidebar.
                     - You could also filter the markers that are displayed on your map. Clicking the wrench icon on the top right will open the settings overlay, where you could specify a tag to filter by. All markers that are pages that have a block with the entered tag will remain on the map while the rest get filtered out.
     - [November 29th, 2022](<November 29th, 2022.md>)
-        - [Roam Extensions](<Roam Extensions.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## Oura Ring
                 - Import your Oura Ring daily summaries on a given day into your daily note page!
                 - ## [🔗](https://github.com/dvargas92495/roamjs-oura-ring[usage](<usage.md>))Usage
@@ -451,7 +464,7 @@ Readiness Score:: hh:mm:ss```
                 - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)
                 - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hfj.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hfj.png)
     - [November 28th, 2022](<November 28th, 2022.md>)
-        - [Roam Extensions](<Roam Extensions.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## SamePage
                 - Official Roam client into [SamePage](https://samepage.network/) - the intra tool-for-thought protocol.
                 - Use SamePage to connect your Roam Graph to other notebooks to sync changes across them, perform cross notebook queries, and more! To get started, install this extension and request an invite code by emailing [support@samepage.network](mailto:support@samepage.network). Check out our docs at https://samepage.network/docs!

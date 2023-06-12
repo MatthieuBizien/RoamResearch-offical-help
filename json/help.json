@@ -42967,6 +42967,232 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-12-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "edit-time": 1686563857172,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FjnZuhSGODA.gif?alt=media&token=02e9465f-5ab4-4da7-847d-0d2f6691c23f)",
+                            "uid": "m4nc9Ej7c"
+                          }
+                        ],
+                        "create-time": 1686562375689,
+                        "edit-time": 1686562560980,
+                        "string": "Allows you to preview a website in a side drawer, without having to go out of Roam!",
+                        "uid": "2g7FiwHj8"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1686563884197,
+                            "edit-time": 1686563904058,
+                            "string": "After installing the extension from Roam Depot, just click on a link",
+                            "uid": "26c_ZNM2N"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "edit-time": 1686563956952,
+                            "string": "Please note that\u00a0If you don't want to preview the website content in the sidedrawer or sometimes the website you are tring to preview has a iframe securty policy which forbids to do so, then you can simply press the following keys(ctrl,\u00a0meta,\u00a0shift) when click the link, to view the website in a new tab in browser",
+                            "uid": "kJXpzAfRl"
+                          }
+                        ],
+                        "create-time": 1686563882140,
+                        "edit-time": 1686563884201,
+                        "string": "Usage",
+                        "uid": "e7gsMP32v"
+                      }
+                    ],
+                    "create-time": 1686562253631,
+                    "edit-time": 1686562515469,
+                    "heading": 2,
+                    "string": "[Roam Power Previewer](https://github.com/dragonforce2010/roam-power-previewer)",
+                    "uid": "qgZPQ2k32"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1686562502142,
+                        "edit-time": 1686562502142,
+                        "string": "Automatically paste in your preferred daily note page template when you open your DNP for the first time each day.",
+                        "uid": "3Pdnpcnim"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1686562502142,
+                        "edit-time": 1686562502142,
+                        "string": "This extension allows you to define templates for every day of the week, or for weekdays and weekends if you prefer to keep it simple.",
+                        "uid": "GW3qVlAIt"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1686562502142,
+                            "edit-time": 1686562502142,
+                            "string": "Use the Roam Depot settings panel to choose either Daily or Weekday/Weekend for Preferred Mode.",
+                            "uid": "UzEgS8zFS"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774": {
+                                      ":height": null,
+                                      ":width": 332
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1686562502142,
+                                "edit-time": 1686563970267,
+                                "props": {
+                                  "image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774": {
+                                      "height": null,
+                                      "width": 332
+                                    }
+                                  }
+                                },
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774)",
+                                "uid": "bXNXTit1I"
+                              }
+                            ],
+                            "create-time": 1686562502142,
+                            "edit-time": 1686562502142,
+                            "string": "Then, paste in the block reference of a template to the corresponding fields in the Roam Depot settings screen. The example below shows the configuration for Weekday/Weekend mode:",
+                            "uid": "AruRxpNa0"
+                          }
+                        ],
+                        "create-time": 1686562502142,
+                        "edit-time": 1686562502142,
+                        "string": "Usage",
+                        "uid": "Njdo4EF5I"
+                      }
+                    ],
+                    "create-time": 1686562502142,
+                    "edit-time": 1686562700016,
+                    "heading": 2,
+                    "string": "[Automatic DNP](https://github.com/mlava/auto-DNP)",
+                    "uid": "DFCNaVNyv"
+                  }
+                ],
+                "create-time": 1686562231256,
+                "edit-time": 1686562314579,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "KbgPwIJm4"
+              }
+            ],
+            "create-time": 1686562226424,
+            "edit-time": 1686562231264,
+            "refs": [
+              {
+                "uid": "06-12-2023"
+              }
+            ],
+            "string": "[[June 12th, 2023]]",
+            "uid": "CvPOZldyl"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-09-2023"
               }
             ],
@@ -44217,13 +44443,13 @@
                   }
                 ],
                 "create-time": 1684143629213,
-                "edit-time": 1684143637305,
+                "edit-time": 1686562314579,
                 "refs": [
                   {
                     "uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 "uid": "IljN1VlPe"
               }
             ],
@@ -44283,64 +44509,6 @@
                         ":edit/user": {
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
-                        "children": [
-                          {
-                            ":block/props": {
-                              ":image-size": {
-                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad": {
-                                  ":height": null,
-                                  ":width": 239
-                                }
-                              }
-                            },
-                            ":create/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            "create-time": 1683781565469,
-                            "edit-time": 1683781588990,
-                            "props": {
-                              "image-size": {
-                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad": {
-                                  "height": null,
-                                  "width": 239
-                                }
-                              }
-                            },
-                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad)",
-                            "uid": "xsiRWW1BS"
-                          },
-                          {
-                            ":block/props": {
-                              ":image-size": {
-                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b": {
-                                  ":height": null,
-                                  ":width": 239.01214599609375
-                                }
-                              }
-                            },
-                            ":create/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            "create-time": 1683781587033,
-                            "edit-time": 1683781601054,
-                            "props": {
-                              "image-size": {
-                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b": {
-                                  "height": null,
-                                  "width": 239.01214599609375
-                                }
-                              }
-                            },
-                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b)",
-                            "uid": "i_uWT6HZl"
-                          }
-                        ],
                         "create-time": 1683781612901,
                         "edit-time": 1683781784077,
                         "refs": [
@@ -45669,13 +45837,13 @@
                   }
                 ],
                 "create-time": 1680827364216,
-                "edit-time": 1680827369585,
+                "edit-time": 1686562314579,
                 "refs": [
                   {
                     "uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 "uid": "Wlrfg3kZS"
               }
             ],
@@ -45773,7 +45941,7 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 "children": [
                   {
@@ -46074,13 +46242,13 @@
                   }
                 ],
                 "create-time": 1678387906745,
-                "edit-time": 1678387911926,
+                "edit-time": 1686562314579,
                 "refs": [
                   {
                     "uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 "uid": "fifpLKf4w"
               }
             ],
@@ -48229,7 +48397,7 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 "children": [
                   {
@@ -48605,13 +48773,13 @@
                   }
                 ],
                 "create-time": 1675875166878,
-                "edit-time": 1675875171586,
+                "edit-time": 1686562314579,
                 "refs": [
                   {
                     "uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 "uid": "Qjwu3ePXO"
               }
             ],
@@ -48685,7 +48853,7 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 "children": [
                   {
@@ -48717,13 +48885,13 @@
                   }
                 ],
                 "create-time": 1675875048709,
-                "edit-time": 1675875052621,
+                "edit-time": 1686562314579,
                 "refs": [
                   {
                     "uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 "uid": "9M1_oLyvF"
               }
             ],
@@ -48950,7 +49118,7 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 "children": [
                   {
@@ -49189,13 +49357,13 @@
                   }
                 ],
                 "create-time": 1669857894628,
-                "edit-time": 1669857898434,
+                "edit-time": 1686562314579,
                 "refs": [
                   {
                     "uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 "uid": "pbxnAoqA0"
               }
             ],
@@ -49232,7 +49400,7 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 "children": [
                   {
@@ -49326,13 +49494,13 @@
                   }
                 ],
                 "create-time": 1669769892309,
-                "edit-time": 1669769900638,
+                "edit-time": 1686562314579,
                 "refs": [
                   {
                     "uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 "uid": "RGKRF8rF_"
               }
             ],
@@ -49369,7 +49537,7 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 "children": [
                   {
@@ -49432,13 +49600,13 @@
                   }
                 ],
                 "create-time": 1669769579751,
-                "edit-time": 1669769900638,
+                "edit-time": 1686562314579,
                 "refs": [
                   {
                     "uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 "uid": "u5zZKc0ml"
               }
             ],
@@ -91315,7 +91483,7 @@
       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     "children": [
       {
@@ -91344,8 +91512,8 @@
       }
     ],
     "create-time": 1669769636189,
-    "edit-time": 1669769900638,
-    "title": "Roam Extensions",
+    "edit-time": 1686562314579,
+    "title": "Roam Depot Extensions",
     "uid": "TpA4naC1T"
   },
   {
@@ -92896,9 +93064,15 @@
     "uid": "06-09-2023"
   },
   {
-    ":log/id": 1686553563294,
-    "create-time": 1686553563296,
-    "edit-time": 1686553563296,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1686562135833,
+    "create-time": 1686562135834,
+    "edit-time": 1686562135834,
     "title": "June 12th, 2023",
     "uid": "06-12-2023"
   }
