@@ -43097,15 +43097,25 @@
                 "children": [
                   {
                     ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
                     "children": [
                       {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "W8BQTGEBd"
+                          }
+                        ],
                         ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
-                        "edit-time": 1686584570914,
-                        "string": "Magic Tags transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.",
+                        "edit-time": 1686630688733,
+                        "refs": [
+                          {
+                            "uid": "W8BQTGEBd"
+                          }
+                        ],
+                        "string": "Magic Tags by [[Alexander Rink]] transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.",
                         "uid": "4iFq0xMFb"
                       },
                       {
@@ -43214,7 +43224,7 @@
                       },
                       {
                         ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
                         "children": [
                           {
@@ -43258,13 +43268,13 @@
                             "uid": "mZAxW5Jif"
                           }
                         ],
-                        "edit-time": 1686584609019,
+                        "edit-time": 1686630627713,
                         "heading": 3,
-                        "string": "If you want to support my work",
+                        "string": "If you want to support Alex's work",
                         "uid": "Vd4tfb1a8"
                       }
                     ],
-                    "edit-time": 1686584593237,
+                    "edit-time": 1686630558764,
                     "heading": 2,
                     "string": "[Magic Tags](https://github.com/rcvd/magic-tags)",
                     "uid": "GS4eUfKaP"
@@ -93547,9 +93557,95 @@
     "uid": "H0gWSfyQm"
   },
   {
-    ":log/id": 1686625568649,
-    "create-time": 1686625568651,
-    "edit-time": 1686625568651,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "TpA4naC1T"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1686630740727,
+                "edit-time": 1686630741174,
+                "string": "Discover a wide range of themes for Roam Research that are beautiful and highly customizable, with various options and modules to choose from.",
+                "uid": "_ms5e8vmX"
+              }
+            ],
+            "create-time": 1686630711313,
+            "edit-time": 1686630751286,
+            "string": "[Roam Studio](https://github.com/rcvd/RoamStudio)",
+            "uid": "8t0VvvZ1R"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "GS4eUfKaP"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1686630723423,
+            "edit-time": 1686630729370,
+            "refs": [
+              {
+                "uid": "GS4eUfKaP"
+              }
+            ],
+            "string": "((GS4eUfKaP))",
+            "uid": "Cg2aYZTlv"
+          }
+        ],
+        "create-time": 1686630706615,
+        "edit-time": 1686630711317,
+        "refs": [
+          {
+            "uid": "TpA4naC1T"
+          }
+        ],
+        "string": "[[Roam Depot Extensions]]",
+        "uid": "xjHcsaExR"
+      }
+    ],
+    "create-time": 1686630688734,
+    "edit-time": 1686630688734,
+    "title": "Alexander Rink",
+    "uid": "W8BQTGEBd"
+  },
+  {
+    ":log/id": 1686658066500,
+    "create-time": 1686658066503,
+    "edit-time": 1686658066503,
     "title": "June 13th, 2023",
     "uid": "06-13-2023"
   }

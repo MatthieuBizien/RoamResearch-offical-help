@@ -10,7 +10,7 @@
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F58Rma4DQAw.png?alt=media&token=542425e8-6a9d-422e-a06b-dcce8f8c1b61)
         - [[Roam Depot Extensions]]
             - ## [Magic Tags](https://github.com/rcvd/magic-tags)
-                - Magic Tags transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.
+                - Magic Tags by [[Alexander Rink]] transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.
                 - ![Demo of magic tags in action](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)
                 - ### How does it work
                     - Select the Icon Theme. [Blueprint](https://blueprintjs.com/docs/versions/3/#icons) is the default for Roam Research. Roam Studio provides [Feather Icons](https://feathericons.com/).
@@ -22,7 +22,7 @@
                     - ![Settings showing tags using the same icon but different colors](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)
                 - ### Feature Requests, Bugs, and Feedback
                     - If you need an additional icon, have an idea for a new feature, or find a bug, file it under [Issues](https://github.com/rcvd/MagicTags/issues) with a short description and a screenshot. If you have any additional comments or suggestions, please send them to [alex@goedel.io](mailto:alex@goedel.io).
-                - ### If you want to support my work
+                - ### If you want to support Alex's work
                     - [Become a GitHub Sponsor](https://github.com/sponsors/rcvd)
                     - [Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)
                     - [Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)
