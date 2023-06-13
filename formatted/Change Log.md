@@ -2,6 +2,12 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [June 12th, 2023](<June 12th, 2023.md>)
+        - ### [Quality of Life Improvements](<Quality of Life Improvements.md>) ✨
+            - [Performance Improvements](<Performance Improvements.md>) and new search feature for [linked references](<linked references.md>)
+                - Linked references now load lazily, which means it should open __much__ faster than before.
+                - The downside is that you can no longer search through them with `cmd-f` or `ctrl-f`, you need to use the built in search component.
+                - The new search looks through all of the references, the paths of the references, or the children if the children are open.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F58Rma4DQAw.png?alt=media&token=542425e8-6a9d-422e-a06b-dcce8f8c1b61)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## [Magic Tags](https://github.com/rcvd/magic-tags)
                 - Magic Tags transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.
@@ -22,6 +28,24 @@
                     - [Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)
                     - [Flattr](https://flattr.com/@rcvd)
                     - [Paypal](https://paypal.me/rcvd)
+            - ## [roam-depot-todo-progress-bar](https://github.com/8bitgentleman/roam-depot-todo-progress-bar)
+                - Roam Research progress bar component for visually tracking TODOs in a list.
+                - ### Example
+                    - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/example.gif)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/example.gif)
+                - ### Setup
+                    - First make sure that **User code** is enabled in your settings. This allows custom components in your graph.
+                    - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/settings.png)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/settings.png)
+                - ### Usage
+                    - Easiest way to insert the component is though Roam's native template menu. Simply type ;; and look for **TODO Progress Bar**
+                    - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/template.png)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/template.png)
+            - ## [oblique-strategies](https://github.com/mlava/oblique-strategies)
+                - Overcome creative block by using an Oblique Strategy.
+                - Originally create by Brian Eno and Peter Schmidt as a way to encourage lateral thinking, Oblique Strategies were originally available as a stack of cards from which you would draw a random card which held a simple prompt. See also: https://en.wikipedia.org/wiki/Oblique_Strategies for more information.
+                - ![image](https://user-images.githubusercontent.com/6857790/238811874-8d73b616-2bc1-49c4-89b0-f3755ed1a5a3.png)[🔗](https://user-images.githubusercontent.com/6857790/238811874-8d73b616-2bc1-49c4-89b0-f3755ed1a5a3.png)
+                - There have been six editions. This extension for Roam Research provides the ability to draw from any of the first five editions, or a combined list containing all of the prompts from the first five editions. The prompts were sourced from https://github.com/noaoh/oblique-stratagems with thanks.
+                - An Oblique Strategy prompt can be obtained using a Command Palette command or Roam Research Hotkey.
+                - The following commands are available:
+                - Random Oblique Strategy Random Oblique Strategy - 1st Edition Random Oblique Strategy - 2nd Edition Random Oblique Strategy - 3rd Edition Random Oblique Strategy - 4th Edition Random Oblique Strategy - 5th Edition
             - ## [Roam Power Previewer](https://github.com/dragonforce2010/roam-power-previewer)
                 - Allows you to preview a website in a side drawer, without having to go out of Roam!
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FjnZuhSGODA.gif?alt=media&token=02e9465f-5ab4-4da7-847d-0d2f6691c23f)
