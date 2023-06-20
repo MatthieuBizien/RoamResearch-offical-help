@@ -3,6 +3,8 @@
 ## [Change Log](<Change Log.md>)
 - [Bug Fixes](<Bug Fixes.md>)
 
+- [Bug Fixes](<Bug Fixes.md>)
+
 - [Performance Improvements](<Performance Improvements.md>) and [Bug Fixes](<Bug Fixes.md>)
 
 - ### [Bug Fixes](<Bug Fixes.md>)

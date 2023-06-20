@@ -42967,6 +42967,146 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-20-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1687278806192,
+                    "edit-time": 1687278839363,
+                    "string": "Fix filtering `{{mentions}}` and `{{children-mentions}}` components",
+                    "uid": "Hm7k2hDPt"
+                  }
+                ],
+                "create-time": 1687278799868,
+                "edit-time": 1687278806199,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]]",
+                "uid": "IRylzNpJy"
+              }
+            ],
+            "create-time": 1687278796190,
+            "edit-time": 1687278799688,
+            "refs": [
+              {
+                "uid": "06-20-2023"
+              }
+            ],
+            "string": "[[June 20th, 2023]]",
+            "uid": "jUib3wjzG"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "06-15-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "-d5iHtZzE"
+                  },
+                  {
+                    ":block/uid": "oT8B3uSXq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1687278873529,
+                        "edit-time": 1687278957241,
+                        "string": "Like linked references but it also collects the linked references from all of the children blocks of `[[page]]`. you can also use it with a block reference",
+                        "uid": "vFRfkrr6I"
+                      }
+                    ],
+                    "create-time": 1687278861487,
+                    "edit-time": 1687278872314,
+                    "string": "`{{children-mentions: [[page]]}}`",
+                    "uid": "vyz2nmMS6"
+                  }
+                ],
+                "create-time": 1687278850191,
+                "edit-time": 1687278980321,
+                "refs": [
+                  {
+                    "uid": "-d5iHtZzE"
+                  },
+                  {
+                    "uid": "oT8B3uSXq"
+                  }
+                ],
+                "string": "[[Experimental]] [[New Feature]]",
+                "uid": "-i2kfBded"
+              }
+            ],
+            "create-time": 1687278839356,
+            "edit-time": 1687278849965,
+            "refs": [
+              {
+                "uid": "06-15-2023"
+              }
+            ],
+            "string": "[[June 15th, 2023]]",
+            "uid": "vnn5KPPN_"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-12-2023"
               }
             ],
@@ -93643,10 +93783,41 @@
     "uid": "W8BQTGEBd"
   },
   {
-    ":log/id": 1687266460396,
-    "create-time": 1687266460399,
-    "edit-time": 1687266460399,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1687278785987,
+    "create-time": 1687278785990,
+    "edit-time": 1687278785990,
     "title": "June 20th, 2023",
     "uid": "06-20-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1686787200000,
+    "create-time": 1687278849968,
+    "edit-time": 1687278849993,
+    "title": "June 15th, 2023",
+    "uid": "06-15-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1687278980323,
+    "edit-time": 1687278980324,
+    "title": "New Feature",
+    "uid": "oT8B3uSXq"
   }
 ]

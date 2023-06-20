@@ -1,6 +1,13 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[June 20th, 2023]]
+        - [[Bug Fixes]]
+            - Fix filtering `{{mentions}}` and `{{children-mentions}}` components
+    - [[June 15th, 2023]]
+        - [[Experimental]] [[New Feature]]
+            - `{{children-mentions: [[page]]}}`
+                - Like linked references but it also collects the linked references from all of the children blocks of `[[page]]`. you can also use it with a block reference
     - [[June 12th, 2023]]
         - ### [[Quality of Life Improvements]] ✨
             - [[Performance Improvements]] and new search feature for [[linked references]]
