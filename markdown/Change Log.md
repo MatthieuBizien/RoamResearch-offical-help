@@ -1,6 +1,11 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[June 26th, 2023]]
+        - Changes to the block context menu
+            - New button and key command for copying embed
+                - Original button still works to copy the block ref
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FywRWXjCVNW.png?alt=media&token=630eaa4f-819e-433c-96ba-a0735c5cdb51)
     - [[June 20th, 2023]]
         - [[Bug Fixes]]
             - Fix filtering `{{mentions}}` and `{{children-mentions}}` components
