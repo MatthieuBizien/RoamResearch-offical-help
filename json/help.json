@@ -42967,6 +42967,174 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-01-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "z3pJCF6p8"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "t92PqcryG"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "children": [
+                                  {
+                                    ":block/props": {
+                                      ":slider": {
+                                        "dkrWimjDPURurZhoRjXsD9Wwebg1": 9
+                                      }
+                                    },
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "EncSzlqV6"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "create-time": 1690913805048,
+                                    "edit-time": 1690913839648,
+                                    "props": {
+                                      "slider": {
+                                        "dkrWimjDPURurZhoRjXsD9Wwebg1": 9
+                                      }
+                                    },
+                                    "refs": [
+                                      {
+                                        "uid": "EncSzlqV6"
+                                      }
+                                    ],
+                                    "string": "{{[[slider]]}}",
+                                    "uid": "1xOsAeQ9E"
+                                  }
+                                ],
+                                "create-time": 1690913792051,
+                                "edit-time": 1690913834282,
+                                "refs": [
+                                  {
+                                    "uid": "t92PqcryG"
+                                  }
+                                ],
+                                "string": "How is my mood? [*](((t92PqcryG)))",
+                                "uid": "PWVctDyto"
+                              }
+                            ],
+                            "create-time": 1690913778821,
+                            "edit-time": 1690913827465,
+                            "refs": [
+                              {
+                                "uid": "z3pJCF6p8"
+                              }
+                            ],
+                            "string": "#roam/templates Daily mood template that tracks itself",
+                            "uid": "t92PqcryG"
+                          }
+                        ],
+                        "create-time": 1690913902402,
+                        "edit-time": 1690913907063,
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        "uid": "CmA23fPvu"
+                      }
+                    ],
+                    "create-time": 1690913770311,
+                    "edit-time": 1690913900731,
+                    "string": "You can also now reference templates inside themselves to track the usage of them",
+                    "uid": "0JvA7Cyfy"
+                  }
+                ],
+                "create-time": 1690913625614,
+                "edit-time": 1690913769929,
+                "string": "Templates will now apply the state of `{{sliders}}`, `{{excalidraw}}`, `{{diagram}}` and other `{{}}` components",
+                "uid": "HrxXa1nAZ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1690909729557,
+                "edit-time": 1690909887483,
+                "string": "When selecting a block with shift-arrow, scroll the block into view",
+                "uid": "9tJqGuhHk"
+              }
+            ],
+            "create-time": 1690909726150,
+            "edit-time": 1690909729572,
+            "refs": [
+              {
+                "uid": "08-01-2023"
+              }
+            ],
+            "string": "[[August 1st, 2023]]",
+            "uid": "mXw9BTeaN"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-26-2023"
               }
             ],
@@ -93923,9 +94091,15 @@
     "uid": "06-30-2023"
   },
   {
-    ":log/id": 1690888396235,
-    "create-time": 1690888396237,
-    "edit-time": 1690888396237,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1690909717793,
+    "create-time": 1690909717795,
+    "edit-time": 1690909717795,
     "title": "August 1st, 2023",
     "uid": "08-01-2023"
   }

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- {{[slider](<slider.md>)}
+
 ## [Precise Links](<Precise Links.md>)
 - **[certainty](<certainty.md>):** {{[slider](<slider.md>)}
 

@@ -1,6 +1,14 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 1st, 2023](<August 1st, 2023.md>)
+        - Templates will now apply the state of `{{sliders}}`, `{{excalidraw}}`, `{{diagram}}` and other `{{}}` components
+            - You can also now reference templates inside themselves to track the usage of them
+                - **[Example](<Example.md>):**
+                    - [roam](<roam.md>)/templates Daily mood template that tracks itself
+                        - How is my mood? [*](((t92PqcryG)))
+                            - {{[slider](<slider.md>)}}
+        - When selecting a block with shift-arrow, scroll the block into view
     - [June 26th, 2023](<June 26th, 2023.md>)
         - Changes to the block context menu
             - New button and key command for copying embed
