@@ -2,13 +2,20 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [[August 1st, 2023]]
-        - Templates will now apply the state of `{{sliders}}`, `{{excalidraw}}`, `{{diagram}}` and other `{{}}` components
-            - You can also now reference templates inside themselves to track the usage of them
-                - Example::
-                    - #roam/templates Daily mood template that tracks itself
-                        - How is my mood? [*](((t92PqcryG)))
-                            - {{[[slider]]}}
-        - When selecting a block with shift-arrow, scroll the block into view
+        - [[Quality of Life Improvements]]
+            - Changes to `{{video}}` `{{video-timestamp}}`
+                - Video timestamps now include a block reference to the video they belong to
+                    - They can be dragged anywhere in Roam, and you can see all of the timestamps of a video from the linked references
+                    - Old video timestamps will still work, but they are not auto updated to include the block reference
+                - Fixed a bug where timestamps would play a video hidden in the zoom path
+                - Inserting a timestamp now automatically adds a space after the timestamp
+            - Templates will now apply the state of `{{sliders}}`, `{{excalidraw}}`, `{{diagram}}` and other `{{}}` components
+                - You can also now reference templates inside themselves to track the usage of them
+                    - Example::
+                        - #roam/templates Daily mood template that tracks itself
+                            - How is my mood? [*](((t92PqcryG)))
+                                - {{[[slider]]}}
+            - When selecting a block with shift-arrow up or down, scroll the block into view
     - [[June 26th, 2023]]
         - Changes to the block context menu
             - New button and key command for copying embed

@@ -6,7 +6,7 @@
 
 ## [Change Log](<Change Log.md>)
 - You can also now reference templates inside themselves to track the usage of them
-                - **[Example](<Example.md>):**
+                    - **[Example](<Example.md>):**
 
 - Fixed double digit numbered lists inside of the `{{search: }}` component
                 - **[Example](<Example.md>):**
