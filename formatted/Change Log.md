@@ -1,6 +1,48 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 7th, 2023](<August 7th, 2023.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
+            - # Paste from PDF
+                - When some text copied from a PDF is in the clipboard, the command Paste PDF text from clipboard, removing undue line breaks replace line breaks by space and paste the text in the current block, at the current cursor position.
+                - Provide also the corresponding SmartBlocks command: REPLACENEWLINEBYSPACE with the text to paste as first argument. You can use it with the following SmartBlock (it can also be installed from the SmartBlocks Store).
+                - - [SmartBlock](<SmartBlock.md>) Paste text from pdf (replace new line by space)
+    - <%SET:cbText,<%CLIPBOARDPASTETEXT%>%><%REPLACENEWLINEBYSPACE:<%GET:cbText%>%>
+                - ### [🔗](https://github.com/fbgallet/roam-extension-paste-from-pdf/tree/d52fd10913df564c6b9d3df45b90753912cbc1a5[for-any-question-or-suggestion-dm-me-on-twitter-and-follow-me-to-be-informed-of-updates-and-new-extensions--fbgallet](<for-any-question-or-suggestion-dm-me-on-twitter-and-follow-me-to-be-informed-of-updates-and-new-extensions--fbgallet.md>))For any question or suggestion, DM me on **Twitter** and follow me to be informed of updates and new extensions : [@fbgallet](https://twitter.com/fbgallet).
+            - # Roam Tabs
+                - Manage your working pages with tabs.
+                - ![image](https://user-images.githubusercontent.com/23192045/246862057-8423abe5-8697-4b9e-949d-cd707711a4b6.png)[🔗](https://user-images.githubusercontent.com/23192045/246862057-8423abe5-8697-4b9e-949d-cd707711a4b6.png)
+                - ## Open Page In a New Tab
+                    - You can open the switch palette by pressing Ctrl or the Meta key and clicking the link (page or block reference). This will open a new tab.
+                    - You can enable the "Auto" mode, after which just **clicking** will open a tab (if the page tab exists, it will focus on that tab).
+                    - ![image](https://user-images.githubusercontent.com/23192045/246862399-08b26378-8358-43fa-8924-4ae6c23975bf.png)[🔗](https://user-images.githubusercontent.com/23192045/246862399-08b26378-8358-43fa-8924-4ae6c23975bf.png)
+                - ## Switch Tab
+                    - ![image](https://user-images.githubusercontent.com/23192045/249030317-820e8902-0532-4a6e-ab3b-4d1f2d4f123a.png)[🔗](https://user-images.githubusercontent.com/23192045/249030317-820e8902-0532-4a6e-ab3b-4d1f2d4f123a.png)
+                    - You can open the switch palette by
+                        - Command Pallete ![image](https://user-images.githubusercontent.com/23192045/249029975-212bdf80-1c5c-4da3-b545-9db90b8a405d.png)[🔗](https://user-images.githubusercontent.com/23192045/249029975-212bdf80-1c5c-4da3-b545-9db90b8a405d.png)
+                        - custom hotkeys ![image](https://user-images.githubusercontent.com/23192045/249029837-5fe48402-a157-490e-b408-3b57e35bbb25.png)[🔗](https://user-images.githubusercontent.com/23192045/249029837-5fe48402-a157-490e-b408-3b57e35bbb25.png)
+                - ## Remember scroll position
+                    - Each tab can remember your scroll position and reback to it when you switch back to the tab
+                    - ![remember tab position](https://user-images.githubusercontent.com/23192045/249031404-d2413b24-8859-429e-a7a8-44241897aedc.gif)[🔗](https://user-images.githubusercontent.com/23192045/249031404-d2413b24-8859-429e-a7a8-44241897aedc.gif)
+                - ## Open Tab in Sidebar
+                    - **Shift** + click on tabs
+            - # Auto Hide
+                - Auto Hide is a module for [Roam Research](https://roamresearch.com/) that hides the topbar when you scroll down.
+                - ## Main Features
+                    - Hides the topbar when you scroll down and shows it when you hover with the mouse on the original location.
+                    - Offers a setting to show the topbar when you scroll up
+                    - Offers a setting for setting the topbar background color to match your personal theme. Not needed for Roam Studio.
+                - ## If you want to support my work
+                    - [Become a GitHub Sponsor](https://github.com/sponsors/rcvd)
+                    - [Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)
+                    - [Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)
+                    - [Flattr](https://flattr.com/@rcvd)
+                    - [Paypal](https://paypal.me/rcvd)
+            - # Save Scrollbar Position
+                - A simple Roam Research extension that saves the position of the scrollbar on each page, and when you return to this page, it reverts to the position you last viewed.
+                - It just saves the position of the scrollbar in the browser's memory, so when you refresh the browser, the last saved data will be cleared.
+                - Demo1: ![demo1](https://github.com/studyduck/roam-save-scrollbar-position/raw/main/demo1.gif)[🔗](https://github.com/studyduck/roam-save-scrollbar-position/blob/main/demo1.gif)
+                - Demo2: ![demo2](https://github.com/studyduck/roam-save-scrollbar-position/raw/main/demo2.gif)[🔗](https://github.com/studyduck/roam-save-scrollbar-position/blob/main/demo2.gif)
     - [August 1st, 2023](<August 1st, 2023.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - Changes to `{{video}}` `{{video-timestamp}}`
