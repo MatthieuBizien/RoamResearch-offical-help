@@ -42980,6 +42980,128 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "7NcTb9GoQ"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1691516029383,
+                        "edit-time": 1691516035146,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FHu0-7f3pv7.png?alt=media&token=9c4cf03c-01c9-418c-b449-1488d18346c4)",
+                        "uid": "0x_gelw3j"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1691516045690,
+                        "edit-time": 1691516477585,
+                        "string": "Graph overview now works with very large graphs!",
+                        "uid": "tzlkFsJIw"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1691516484259,
+                            "edit-time": 1691516655809,
+                            "string": "Add pages to see how they connect, what other pages link into them, or what pages they link to.",
+                            "uid": "tDU6TCeHy"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1691516600042,
+                            "edit-time": 1691516606415,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FokRLHhG1iU.png?alt=media&token=c8939b2f-7f21-4ede-b99b-d9a2d19ab906)",
+                            "uid": "NImY0dgBh"
+                          }
+                        ],
+                        "create-time": 1691516477576,
+                        "edit-time": 1691516484268,
+                        "string": "New \"Explore\" Feature",
+                        "uid": "phhOYnki_"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1691516082541,
+                        "edit-time": 1691516470847,
+                        "string": "The default layout is now a force directed layout, we unfortunetly had to remove the dagre and cose layouts (which only worked with very small graphs anyway)",
+                        "uid": "pR6foiH2h"
+                      }
+                    ],
+                    "create-time": 1691516020530,
+                    "edit-time": 1691516028926,
+                    "refs": [
+                      {
+                        "uid": "7NcTb9GoQ"
+                      }
+                    ],
+                    "string": "New [[Graph Overview]]",
+                    "uid": "cZdnsEl3K"
+                  }
+                ],
+                "create-time": 1691516015940,
+                "edit-time": 1691516020539,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]]",
+                "uid": "nRe1dH5MR"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "TpA4naC1T"
                   }
                 ],

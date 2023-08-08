@@ -18,6 +18,9 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FzO8buehcAl.gif?alt=media&token=0de4cdf5-26a2-440c-a0af-57ede8199623)
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- New [Graph Overview](<Graph Overview.md>)
+
 ## [Chinese](<Chinese.md>)
 #[Page References](<Page References.md>) | #[Bidirectional linking](<Bidirectional linking.md>) | #[Block References](<Block References.md>) | #[Linked References](<Linked References.md>) | #[Graph Overview](<Graph Overview.md>)
 

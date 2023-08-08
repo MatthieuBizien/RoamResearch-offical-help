@@ -2,6 +2,14 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [[August 8th, 2023]]
+        - [[New Features]]
+            - New [[Graph Overview]]
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FHu0-7f3pv7.png?alt=media&token=9c4cf03c-01c9-418c-b449-1488d18346c4)
+                - Graph overview now works with very large graphs!
+                - New "Explore" Feature
+                    - Add pages to see how they connect, what other pages link into them, or what pages they link to.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FokRLHhG1iU.png?alt=media&token=c8939b2f-7f21-4ede-b99b-d9a2d19ab906)
+                - The default layout is now a force directed layout, we unfortunetly had to remove the dagre and cose layouts (which only worked with very small graphs anyway)
         - [[Roam Depot Extensions]]
             - # Graph Radar
                 - A Roam Research component to show the last edited pages in a graph. Useful for multiplayer graph or graphs not visited often.
