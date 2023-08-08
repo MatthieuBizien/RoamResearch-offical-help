@@ -42967,6 +42967,279 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-08-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1691508404072,
+                        "string": "A Roam Research component to show the last edited pages in a graph. Useful for multiplayer graph or graphs not visited often.",
+                        "uid": "07HzH1wS4"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691508404072,
+                            "string": "![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif)[\ud83d\udd17](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif)",
+                            "uid": "oexCdJvxo"
+                          }
+                        ],
+                        "edit-time": 1691508418961,
+                        "heading": 2,
+                        "string": "Example",
+                        "uid": "Jh2g2lEyT"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691508404072,
+                            "string": "First make sure that\u00a0**User code**\u00a0is enabled in your settings. This allows custom components in your graph.",
+                            "uid": "oMx_f5juv"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691508404072,
+                            "string": "![](https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/settings.png)[\ud83d\udd17](https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/settings.png)",
+                            "uid": "t9nb-oAcr"
+                          }
+                        ],
+                        "edit-time": 1691508411599,
+                        "heading": 2,
+                        "string": "Setup",
+                        "uid": "UJ2DMFuLE"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691508404072,
+                            "string": "Easiest way to insert the component is though Roam's native template menu. Simply type\u00a0;;\u00a0and look for\u00a0**EXTENSION NAME HERE**",
+                            "uid": "Pyv972tZy"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691508404072,
+                            "string": "![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/template.png)[\ud83d\udd17](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/template.png)",
+                            "uid": "XxOhd77KH"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691508404072,
+                            "string": "![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png)[\ud83d\udd17](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png)",
+                            "uid": "qJ6aFcfpb"
+                          }
+                        ],
+                        "edit-time": 1691508425433,
+                        "heading": 2,
+                        "string": "Usage",
+                        "uid": "2EcvPd24-"
+                      }
+                    ],
+                    "create-time": 1691508379574,
+                    "edit-time": 1691508392256,
+                    "heading": 1,
+                    "string": "Graph Radar",
+                    "uid": "92Bb98mjv"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\u3010\"",
+                            "uid": "jUKdysNs2"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\uff08\"",
+                            "uid": "CSCMVwIBo"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\u300c\"",
+                            "uid": "cBYoQA0PQ"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\u300e\"",
+                            "uid": "IoTv54kDh"
+                          }
+                        ],
+                        "edit-time": 1691511896336,
+                        "string": "Automatically pair the following CJK(Chinese, Japanese, and Korean) brackets and quotation marks entered when the CJK input methods are activated.",
+                        "uid": "_RVt-oJu7"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "NyTsivWho"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "refs": [
+                              {
+                                "uid": "NyTsivWho"
+                              }
+                            ],
+                            "string": "\"\u3010\u3010\u3011\u3011\": \"[[]]\"",
+                            "uid": "d2fRkxDZK"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\uff08\uff08\uff09\uff09\": \"(())\"",
+                            "uid": "qDhIQ310u"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\u300e\u300c\u300f\u300d\": \"{{}}\"",
+                            "uid": "nOODVua1U"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\u300c\u300e\u300d\u300f\": \"{{}}\"",
+                            "uid": "K2BG-UZgy"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\u300e\u300e\u300f\u300f\": \"{{}}\"",
+                            "uid": "vIMI2oRcF"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1691511896336,
+                            "string": "\"\u300c\u300c\u300d\u300d\": \"{{}}\"",
+                            "uid": "H-qsuN8yO"
+                          }
+                        ],
+                        "edit-time": 1691511896336,
+                        "string": "Convert following consecutive inputs CJK(Chinese, Japanese, and Korean) brackets and quotation marks - a usage which does not exist in these languages - into corresponding Roam Research citation brackets or symbols when the CJK input methods are activated.",
+                        "uid": "A-FW9EwpH"
+                      }
+                    ],
+                    "edit-time": 1691511905612,
+                    "heading": 1,
+                    "string": "Marco Polo - CJK Symbols Converter",
+                    "uid": "zZ80JmgEo"
+                  }
+                ],
+                "create-time": 1691508375532,
+                "edit-time": 1691508379581,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "LKlVo4YpX"
+              }
+            ],
+            "create-time": 1691508372933,
+            "edit-time": 1691508375417,
+            "refs": [
+              {
+                "uid": "08-08-2023"
+              }
+            ],
+            "string": "[[August 8th, 2023]]",
+            "uid": "78m6PCatD"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-07-2023"
               }
             ],
@@ -94624,9 +94897,15 @@
     "uid": "08-07-2023"
   },
   {
-    ":log/id": 1691507802107,
-    "create-time": 1691507802108,
-    "edit-time": 1691507802108,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1691508362171,
+    "create-time": 1691508362172,
+    "edit-time": 1691508362172,
     "title": "August 8th, 2023",
     "uid": "08-08-2023"
   }

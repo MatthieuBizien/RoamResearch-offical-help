@@ -1,6 +1,32 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 8th, 2023](<August 8th, 2023.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
+            - # Graph Radar
+                - A Roam Research component to show the last edited pages in a graph. Useful for multiplayer graph or graphs not visited often.
+                - ## Example
+                    - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif)
+                - ## Setup
+                    - First make sure that **User code** is enabled in your settings. This allows custom components in your graph.
+                    - ![](https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/settings.png)[🔗](https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/settings.png)
+                - ## Usage
+                    - Easiest way to insert the component is though Roam's native template menu. Simply type ;; and look for **EXTENSION NAME HERE**
+                    - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/template.png)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/template.png)
+                    - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png)
+            - # Marco Polo - CJK Symbols Converter
+                - Automatically pair the following CJK(Chinese, Japanese, and Korean) brackets and quotation marks entered when the CJK input methods are activated.
+                    - "【"
+                    - "（"
+                    - "「"
+                    - "『"
+                - Convert following consecutive inputs CJK(Chinese, Japanese, and Korean) brackets and quotation marks - a usage which does not exist in these languages - into corresponding Roam Research citation brackets or symbols when the CJK input methods are activated.
+                    - "【【】】": "[[]]"
+                    - "（（））": "(())"
+                    - "『「』」": "{{}}"
+                    - "「『」』": "{{}}"
+                    - "『『』』": "{{}}"
+                    - "「「」」": "{{}}"
     - [August 7th, 2023](<August 7th, 2023.md>)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - # Paste from PDF
