@@ -1,6 +1,31 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[August 14th, 2023]]
+        - [[Roam Depot Extensions]]
+            - # [Send To Graph](https://github.com/8bitgentleman/roam-depot-send-to-graph)
+                - A Roam Research extension to send blocks from one graph to another. The destination graph does not need to be open. This is a one-way push. The blocks are added to the new graph as if you had created them manually yourself.
+                - ## Features
+                    - Send blocks to another graph with a simple right-click command or via hotkey.
+                    - Configure multiple graphs to send blocks to.
+                    - Option to nest sent blocks under a parent block (for example an __#inbox__ tag) in the destination graph.
+                - ## Setup
+                    - This extension uses the new Roam backend API to allow sending of blocks to graphs that you do not have open. Note: only the creator of a graph can create new API tokens.
+                        - In your destination graph go to the Graph Settings page and select New API Token
+                            - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-1.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-1.png)
+                        - Name the token however you want but make sure to set the Access Scope to Edit Access. This gives the extention edit permissions to the graph.
+                            - Note: When sending blocks I __ONLY__ add to the destination graph. There is no code to modify or delete __ANYTHING__.
+                            - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-2.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-2.png)
+                        - Select Create to generate your unique graph API token. Make sure to save the generated token before navigating away as it is not possible to see the token again once you have navigated away.
+                        - Open up the Source Graph and navigate to the Send To Graph settings page.
+                        - Add the Graph name and Edit Access token for the destination graph to the settings panel and hit the plus symbol. If either of these is incorrect in any way blocks you attempt to send will not go through. You can add as many graphs as you like.
+                            - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-3.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-3.png)
+                - ## Usage
+                    - There are 2 ways of using the Send-To-Graph extension:
+                        - Right-click on a block and select "Send to Graph". If you have multiple graphs configured, you will be asked to select the destination graph.
+                        - Alternatively, assign a hotkey via the settings panel to send the currently focused block to another graph.
+                - ## Example
+                    - {{video: https://github.com/8bitgentleman/roam-depot-send-to-graph/assets/4028391/fee66356-1a15-4432-9b73-52ece2c4d6d9}}
     - [[August 8th, 2023]]
         - [[New Features]]
             - New [[Graph Overview]]

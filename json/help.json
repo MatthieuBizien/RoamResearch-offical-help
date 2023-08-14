@@ -42967,6 +42967,285 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-14-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "edit-time": 1692027261660,
+                        "string": "A Roam Research extension to send blocks from one graph to another. The destination graph does not need to be open. This is a one-way push. The blocks are added to the new graph as if you had created them manually yourself.",
+                        "uid": "tV5SFA2fr"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1692027261660,
+                            "string": "Send blocks to another graph with a simple right-click command or via hotkey.",
+                            "uid": "BFLGABgdg"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1692027261660,
+                            "string": "Configure multiple graphs to send blocks to.",
+                            "uid": "EZz8QV86s"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "3Fa9mpuHH"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1692027261660,
+                            "refs": [
+                              {
+                                "uid": "3Fa9mpuHH"
+                              }
+                            ],
+                            "string": "Option to nest sent blocks under a parent block (for example an\u00a0__#inbox__\u00a0tag) in the destination graph.",
+                            "uid": "CbLR0T9iX"
+                          }
+                        ],
+                        "edit-time": 1692027268393,
+                        "heading": 2,
+                        "string": "Features",
+                        "uid": "iAKdffxnz"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "children": [
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "edit-time": 1692027261660,
+                                    "string": "![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-1.png)[\ud83d\udd17](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-1.png)",
+                                    "uid": "WPeCj-1DX"
+                                  }
+                                ],
+                                "edit-time": 1692027261660,
+                                "string": "In your destination graph go to the Graph Settings page and select\u00a0New API Token",
+                                "uid": "vMQHMHJi-"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "children": [
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "edit-time": 1692027261660,
+                                    "string": "Note: When sending blocks I\u00a0__ONLY__\u00a0add to the destination graph. There is no code to modify or delete\u00a0__ANYTHING__.",
+                                    "uid": "6Nrg6kAyO"
+                                  },
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "edit-time": 1692027261660,
+                                    "string": "![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-2.png)[\ud83d\udd17](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-2.png)",
+                                    "uid": "lCoO-FFDR"
+                                  }
+                                ],
+                                "edit-time": 1692027261660,
+                                "string": "Name the token however you want but make sure to set the Access Scope to\u00a0Edit Access. This gives the extention edit permissions to the graph.",
+                                "uid": "WZBXi5ovi"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1692027261660,
+                                "string": "Select Create to generate your unique graph API token. Make sure to save the generated token before navigating away as it is not possible to see the token again once you have navigated away.",
+                                "uid": "8TYybbvO7"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1692027261660,
+                                "string": "Open up the Source Graph and navigate to the Send To Graph settings page.",
+                                "uid": "G4eM3Ltxk"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "children": [
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "edit-time": 1692027261660,
+                                    "string": "![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-3.png)[\ud83d\udd17](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-3.png)",
+                                    "uid": "5SZ1kIygf"
+                                  }
+                                ],
+                                "edit-time": 1692027261660,
+                                "string": "Add the Graph name and Edit Access token for the destination graph to the settings panel and hit the plus symbol. If either of these is incorrect in any way blocks you attempt to send will not go through. You can add as many graphs as you like.",
+                                "uid": "zwrTwp0l-"
+                              }
+                            ],
+                            "edit-time": 1692027261660,
+                            "string": "This extension uses the new Roam backend API to allow sending of blocks to graphs that you do not have open. Note: only the creator of a graph can create new API tokens.",
+                            "uid": "evScNY73A"
+                          }
+                        ],
+                        "edit-time": 1692027274425,
+                        "heading": 2,
+                        "string": "Setup",
+                        "uid": "-CAc6_MWQ"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1692027261660,
+                                "string": "Right-click on a block and select \"Send to Graph\". If you have multiple graphs configured, you will be asked to select the destination graph.",
+                                "uid": "uoZgW3GLq"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1692027261660,
+                                "string": "Alternatively, assign a hotkey via the settings panel to send the currently focused block to another graph.",
+                                "uid": "TSPcI0hbw"
+                              }
+                            ],
+                            "edit-time": 1692027261660,
+                            "string": "There are 2 ways of using the Send-To-Graph extension:",
+                            "uid": "Z8QAb1I_n"
+                          }
+                        ],
+                        "edit-time": 1692027284906,
+                        "heading": 2,
+                        "string": "Usage",
+                        "uid": "Xu_YBLPY1"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1692027325451,
+                            "edit-time": 1692027366418,
+                            "string": "{{video: https://github.com/8bitgentleman/roam-depot-send-to-graph/assets/4028391/fee66356-1a15-4432-9b73-52ece2c4d6d9}}",
+                            "uid": "aHAgVmY5U"
+                          }
+                        ],
+                        "create-time": 1692027322103,
+                        "edit-time": 1692027325457,
+                        "heading": 2,
+                        "string": "Example",
+                        "uid": "MfbxS24Te"
+                      }
+                    ],
+                    "create-time": 1692027221350,
+                    "edit-time": 1692027300205,
+                    "heading": 1,
+                    "string": "[Send To Graph](https://github.com/8bitgentleman/roam-depot-send-to-graph)",
+                    "uid": "XiyBvvc3k"
+                  }
+                ],
+                "create-time": 1692027213371,
+                "edit-time": 1692027221356,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "TUjexUnWQ"
+              }
+            ],
+            "create-time": 1692027210295,
+            "edit-time": 1692027213384,
+            "refs": [
+              {
+                "uid": "08-14-2023"
+              }
+            ],
+            "string": "[[August 14th, 2023]]",
+            "uid": "ut6KNsL9X"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-08-2023"
               }
             ],
@@ -95032,10 +95311,28 @@
     "uid": "08-08-2023"
   },
   {
-    ":log/id": 1692026083106,
-    "create-time": 1692026083107,
-    "edit-time": 1692026083107,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1692027149061,
+    "create-time": 1692027149062,
+    "edit-time": 1692027149062,
     "title": "August 14th, 2023",
     "uid": "08-14-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1692027261655,
+    "edit-time": 1692027261660,
+    "title": "inbox__",
+    "uid": "3Fa9mpuHH"
   }
 ]
