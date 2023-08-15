@@ -1,6 +1,11 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[August 15th, 2023]]
+        - Small fixes to [[Graph Overview]]
+            - Saves last used settings locally
+            - Fix selected pages not always being highlighted
+            - Rename "Connect Selected Pages" to "Show links between" to clarify that it does not change your graph
     - [[August 14th, 2023]]
         - ### New and Updated [[Raycast]] extension for Roam!!
             - MacOS users, watch the demo video below to get a sense of the power of having your Roam graph (or graphs 😉) at your fingertips:
@@ -598,43 +603,44 @@ $$
     - [[January 24th, 2023]]
         - ### [[Bug Fixes]] 🛠
             - Fix drag and drop on [[android]]
-    - [[December 20th, 2022]]
-        - Fixes a couple of performance issues, should be noticeable especially for [[Local Graph]]s
-    - [[November 30th, 2022]]
-        - [[Roam Depot Extensions]]
-            - ## Roam reference expands
-                - show the path of the block reference
-                - ![](https://github.com/dive2Pro/roam-reference-expand/raw/49e028ae09c5ec50eeec4436bd81247b7a7e0685/SCR-20221124-d9c.png)
-                - ![](https://github.com/dive2Pro/roam-reference-expand/raw/master/reference%20extends.gif)
-                - # Uninstall
-                    - All configurations are stored on the [[roam/reference extends/config]] page and need to be removed manually if you want to uninstall the plugin cleanly.
-            - ## Mapbox
-                - Render interactive maps directly in your graph!
-                - ## Usage
-                    - Type `{{maps}}` in a block. When the block renders, an interactive map will render in its place!
-                    - To position the map at a particular center, create a child block with text "Center". Under that block, put in the latitude and longitude coordinates of the center delimited by a comma.
-                    - To start the map at a particular zoom level, create a child block with text "Zoom". Under that block, put in the zoom level value which should be a number. A minimum value of 0 is zoomed all the way out and a maximum value of 18 is zoomed all the way in.
-                    - To add Markers to the map, create a child block with text "Markers". Under that block, add one child for every marker you want to include. In the block, write the text you'd like as the label of the block. As a child of **that** block, put the latitude and longitude coordinates of the marker.
-                    - For example, the following configuration will have to be set as the child of the block to produce the map below:
-                        - Center
-                            - 32.715736, -117.161087
-                        - Zoom
-                            - 12
-                        - Markers
-                            - David Vargas
-                                - 32.7, -117.2
-                            - RoamJS
-                                - 32.72, -117.1
-                    - If the Marker text is already a tag in your graph, clicking on the marker pin will take you to that page. Shift clicking the marker will open the tag in the sidebar.
-                    - You could also filter the markers that are displayed on your map. Clicking the wrench icon on the top right will open the settings overlay, where you could specify a tag to filter by. All markers that are pages that have a block with the entered tag will remain on the map while the rest get filtered out.
-    - [[November 29th, 2022]]
-        - [[Roam Depot Extensions]]
-            - ## Oura Ring
-                - Import your Oura Ring daily summaries on a given day into your daily note page!
-                - ## [🔗](https://github.com/dvargas92495/roamjs-oura-ring#usage)Usage
-                    - You'll first need to add your personal access token associated with your Oura Ring account to the Token field in your Roam Depot Settings. The extension needs this in order to access your personal data. [Click here](https://cloud.ouraring.com/personal-access-tokens), to generate your own personal access token.
-                    - To import your Oura Ring data to your daily note page, open the Command Palette and enter "Import Oura Ring". If the current page is a Daily note page, it will query the day before the page title, since you usually want to track last night's sleep. Otherwise, it will query yesterday's data by default. It will output the following text:
-                    - ```javascript
+    - ### [[2022]]
+        - [[December 20th, 2022]]
+            - Fixes a couple of performance issues, should be noticeable especially for [[Local Graph]]s
+        - [[November 30th, 2022]]
+            - [[Roam Depot Extensions]]
+                - ## Roam reference expands
+                    - show the path of the block reference
+                    - ![](https://github.com/dive2Pro/roam-reference-expand/raw/49e028ae09c5ec50eeec4436bd81247b7a7e0685/SCR-20221124-d9c.png)
+                    - ![](https://github.com/dive2Pro/roam-reference-expand/raw/master/reference%20extends.gif)
+                    - # Uninstall
+                        - All configurations are stored on the [[roam/reference extends/config]] page and need to be removed manually if you want to uninstall the plugin cleanly.
+                - ## Mapbox
+                    - Render interactive maps directly in your graph!
+                    - ## Usage
+                        - Type `{{maps}}` in a block. When the block renders, an interactive map will render in its place!
+                        - To position the map at a particular center, create a child block with text "Center". Under that block, put in the latitude and longitude coordinates of the center delimited by a comma.
+                        - To start the map at a particular zoom level, create a child block with text "Zoom". Under that block, put in the zoom level value which should be a number. A minimum value of 0 is zoomed all the way out and a maximum value of 18 is zoomed all the way in.
+                        - To add Markers to the map, create a child block with text "Markers". Under that block, add one child for every marker you want to include. In the block, write the text you'd like as the label of the block. As a child of **that** block, put the latitude and longitude coordinates of the marker.
+                        - For example, the following configuration will have to be set as the child of the block to produce the map below:
+                            - Center
+                                - 32.715736, -117.161087
+                            - Zoom
+                                - 12
+                            - Markers
+                                - David Vargas
+                                    - 32.7, -117.2
+                                - RoamJS
+                                    - 32.72, -117.1
+                        - If the Marker text is already a tag in your graph, clicking on the marker pin will take you to that page. Shift clicking the marker will open the tag in the sidebar.
+                        - You could also filter the markers that are displayed on your map. Clicking the wrench icon on the top right will open the settings overlay, where you could specify a tag to filter by. All markers that are pages that have a block with the entered tag will remain on the map while the rest get filtered out.
+        - [[November 29th, 2022]]
+            - [[Roam Depot Extensions]]
+                - ## Oura Ring
+                    - Import your Oura Ring daily summaries on a given day into your daily note page!
+                    - ## [🔗](https://github.com/dvargas92495/roamjs-oura-ring#usage)Usage
+                        - You'll first need to add your personal access token associated with your Oura Ring account to the Token field in your Roam Depot Settings. The extension needs this in order to access your personal data. [Click here](https://cloud.ouraring.com/personal-access-tokens), to generate your own personal access token.
+                        - To import your Oura Ring data to your daily note page, open the Command Palette and enter "Import Oura Ring". If the current page is a Daily note page, it will query the day before the page title, since you usually want to track last night's sleep. Otherwise, it will query yesterday's data by default. It will output the following text:
+                        - ```javascript
 Bedtime Start:: hh:mm:ss
 Bedtime End:: hh:mm:ss
 Sleep Duration:: hh:mm:ss
@@ -650,38 +656,37 @@ Medium Activity:: hh:mm:ss
 High Activity:: hh:mm:ss
 Rest Activity:: hh:mm:ss
 Readiness Score:: hh:mm:ss```
-                    - You can also import the data by creating a button by typing `{{import oura ring}}` into a page and clicking the button.
-            - ## Roam native dark theme
-                - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)
-                - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hfj.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hfj.png)
-    - [[November 28th, 2022]]
-        - [[Roam Depot Extensions]]
-            - ## SamePage
-                - Official Roam client into [SamePage](https://samepage.network/) - the intra tool-for-thought protocol.
-                - Use SamePage to connect your Roam Graph to other notebooks to sync changes across them, perform cross notebook queries, and more! To get started, install this extension and request an invite code by emailing [support@samepage.network](mailto:support@samepage.network). Check out our docs at https://samepage.network/docs!
-                - ## WARNING
-                    - The SamePage family of extensions are still **in beta** and are not considered stable yet for real or sensitive data. All data shared on SamePage is considered public and probability of data loss is high.
-            - Previously, extensions were not listed on the change log, please check out our [github](https://github.com/Roam-Research/roam-depot) for a [full list of new extensions and updates](https://github.com/Roam-Research/roam-depot/pulls?q=is%3Apr+is%3Aclosed). From now on, all new extensions will be listed here
-    - [[November 11th, 2022]]
-        - Small fixes
-            - Fixes issue on restore graph from EDN where some graphs would get stuck near completion
-            - Fixes "Roam was not built in a day" error that would arise sometimes when collapsing right sidebar windows corresponding to pages
-    - [[October 6th, 2022]]
-        - [[New Features]]
-            - Single Block Multiselect Mode
-                - Select blocks but not their children or select non consecutive blocks and perform bulk actions on them
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCtabMYCHRV.png?alt=media&token=2ff14e70-6c2c-4e3b-8dc0-318966366c07)
-                - **How to use**
-                    - Toggle the mode on / off with `ctrl-m` (PC) or `cmd-m` (Mac) (customizable)
-                    - Then click a checkbox to select it
-                    - Shift click another checkbox to select a range between that checkbox and the last one selected
-                - **Available commands**
-                    - Drag and dropping blocks
-                    - Right click context menu
-                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956)
-                - This feature is still a work in progress.
-                    - Key commands (tab, shift-tab etc) do not work with it
-    - ### More of [[2022]]
+                        - You can also import the data by creating a button by typing `{{import oura ring}}` into a page and clicking the button.
+                - ## Roam native dark theme
+                    - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)
+                    - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hfj.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hfj.png)
+        - [[November 28th, 2022]]
+            - [[Roam Depot Extensions]]
+                - ## SamePage
+                    - Official Roam client into [SamePage](https://samepage.network/) - the intra tool-for-thought protocol.
+                    - Use SamePage to connect your Roam Graph to other notebooks to sync changes across them, perform cross notebook queries, and more! To get started, install this extension and request an invite code by emailing [support@samepage.network](mailto:support@samepage.network). Check out our docs at https://samepage.network/docs!
+                    - ## WARNING
+                        - The SamePage family of extensions are still **in beta** and are not considered stable yet for real or sensitive data. All data shared on SamePage is considered public and probability of data loss is high.
+                - Previously, extensions were not listed on the change log, please check out our [github](https://github.com/Roam-Research/roam-depot) for a [full list of new extensions and updates](https://github.com/Roam-Research/roam-depot/pulls?q=is%3Apr+is%3Aclosed). From now on, all new extensions will be listed here
+        - [[November 11th, 2022]]
+            - Small fixes
+                - Fixes issue on restore graph from EDN where some graphs would get stuck near completion
+                - Fixes "Roam was not built in a day" error that would arise sometimes when collapsing right sidebar windows corresponding to pages
+        - [[October 6th, 2022]]
+            - [[New Features]]
+                - Single Block Multiselect Mode
+                    - Select blocks but not their children or select non consecutive blocks and perform bulk actions on them
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCtabMYCHRV.png?alt=media&token=2ff14e70-6c2c-4e3b-8dc0-318966366c07)
+                    - **How to use**
+                        - Toggle the mode on / off with `ctrl-m` (PC) or `cmd-m` (Mac) (customizable)
+                        - Then click a checkbox to select it
+                        - Shift click another checkbox to select a range between that checkbox and the last one selected
+                    - **Available commands**
+                        - Drag and dropping blocks
+                        - Right click context menu
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956)
+                    - This feature is still a work in progress.
+                        - Key commands (tab, shift-tab etc) do not work with it
         - [[September 30th, 2022]]
             - Small fix: if a window already exists in the sidebar and it is tried to open again, it jumps up to the top of the sidebar
             - A number of changes throughout the last week for integration of write actions with the new backend API
@@ -1100,7 +1105,7 @@ Readiness Score:: hh:mm:ss```
                 - Fixed bug for removing window via front-end API
                 - Fixed bug for opening mentions in sidebar via front-end API
         - [[August 11th, 2021]]
-            - ### [[New Features]] ��
+            - ### [[New Features]] 🚀
                 - You can now use [[Video Timestamps]] for Youtube videos!
                 - Either type `/video timestamp` or hit `Cmd/Ctrl+Alt+t` under a video to enter a timestamp
                 - Example::

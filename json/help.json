@@ -42967,6 +42967,90 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-15-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "7NcTb9GoQ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1692101847952,
+                    "edit-time": 1692101952062,
+                    "string": "Saves last used settings locally",
+                    "uid": "7_-SK4L7A"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1692101869909,
+                    "edit-time": 1692101882584,
+                    "string": "Fix selected pages not always being highlighted",
+                    "uid": "PaaQiQnCB"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1692101889090,
+                    "edit-time": 1692101921157,
+                    "string": "Rename \"Connect Selected Pages\" to \"Show links between\" to clarify that it does not change your graph",
+                    "uid": "UiXuh_Q3b"
+                  }
+                ],
+                "create-time": 1692101781957,
+                "edit-time": 1692101847958,
+                "refs": [
+                  {
+                    "uid": "7NcTb9GoQ"
+                  }
+                ],
+                "string": "Small fixes to [[Graph Overview]]",
+                "uid": "aA_M-RmZX"
+              }
+            ],
+            "create-time": 1692101613194,
+            "edit-time": 1692101781969,
+            "refs": [
+              {
+                "uid": "08-15-2023"
+              }
+            ],
+            "string": "[[August 15th, 2023]]",
+            "uid": "wSO75ErYE"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-14-2023"
               }
             ],
@@ -50166,10 +50250,10 @@
               }
             ],
             ":create/user": {
-              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             ":edit/user": {
-              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             "children": [
               {
@@ -50390,15 +50474,15 @@
                 "uid": "JL6JrMMdP"
               }
             ],
-            "create-time": 1676374585185,
-            "edit-time": 1676374589938,
+            "create-time": 1692101705838,
+            "edit-time": 1692101710841,
             "refs": [
               {
                 "uid": "02-11-2023"
               }
             ],
             "string": "[[February 11th, 2023]]",
-            "uid": "w64IxojdR"
+            "uid": "Q59LZx5ZI"
           },
           {
             ":block/refs": [
@@ -51364,53 +51448,7 @@
           {
             ":block/refs": [
               {
-                ":block/uid": "12-20-2022"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-            },
-            ":edit/user": {
-              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-            },
-            "children": [
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "q9X-gs35m"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                },
-                ":edit/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                },
-                "create-time": 1671597716199,
-                "edit-time": 1671598024369,
-                "refs": [
-                  {
-                    "uid": "q9X-gs35m"
-                  }
-                ],
-                "string": "Fixes a couple of performance issues, should be noticeable especially for [[Local Graph]]s",
-                "uid": "tbXBaJsL7"
-              }
-            ],
-            "create-time": 1671597709111,
-            "edit-time": 1671597716214,
-            "refs": [
-              {
-                "uid": "12-20-2022"
-              }
-            ],
-            "string": "[[December 20th, 2022]]",
-            "uid": "2br_PU3S1"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "11-30-2022"
+                ":block/uid": "e7EI78aEn"
               }
             ],
             ":create/user": {
@@ -51423,92 +51461,138 @@
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "TpA4naC1T"
+                    ":block/uid": "12-20-2022"
                   }
                 ],
                 ":create/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 ":edit/user": {
                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 "children": [
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "q9X-gs35m"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
                     ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1671597716199,
+                    "edit-time": 1671598024369,
+                    "refs": [
+                      {
+                        "uid": "q9X-gs35m"
+                      }
+                    ],
+                    "string": "Fixes a couple of performance issues, should be noticeable especially for [[Local Graph]]s",
+                    "uid": "tbXBaJsL7"
+                  }
+                ],
+                "create-time": 1671597709111,
+                "edit-time": 1671597716214,
+                "refs": [
+                  {
+                    "uid": "12-20-2022"
+                  }
+                ],
+                "string": "[[December 20th, 2022]]",
+                "uid": "2br_PU3S1"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "11-30-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "TpA4naC1T"
+                      }
+                    ],
+                    ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
                     "children": [
                       {
                         ":edit/user": {
                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                         },
-                        "edit-time": 1669858737315,
-                        "string": "show the path of the block reference",
-                        "uid": "9KTRfO5aw"
-                      },
-                      {
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "edit-time": 1669858737315,
-                        "string": "![](https://github.com/dive2Pro/roam-reference-expand/raw/49e028ae09c5ec50eeec4436bd81247b7a7e0685/SCR-20221124-d9c.png)",
-                        "uid": "wPwr2v0UW"
-                      },
-                      {
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "edit-time": 1669858737315,
-                        "string": "![](https://github.com/dive2Pro/roam-reference-expand/raw/master/reference%20extends.gif)",
-                        "uid": "yxtwRwOD-"
-                      },
-                      {
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
                         "children": [
                           {
-                            ":block/refs": [
-                              {
-                                ":block/uid": "Rpk_r_faZ"
-                              }
-                            ],
                             ":edit/user": {
                               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                             },
                             "edit-time": 1669858737315,
-                            "refs": [
+                            "string": "show the path of the block reference",
+                            "uid": "9KTRfO5aw"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669858737315,
+                            "string": "![](https://github.com/dive2Pro/roam-reference-expand/raw/49e028ae09c5ec50eeec4436bd81247b7a7e0685/SCR-20221124-d9c.png)",
+                            "uid": "wPwr2v0UW"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669858737315,
+                            "string": "![](https://github.com/dive2Pro/roam-reference-expand/raw/master/reference%20extends.gif)",
+                            "uid": "yxtwRwOD-"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
                               {
-                                "uid": "Rpk_r_faZ"
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "Rpk_r_faZ"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669858737315,
+                                "refs": [
+                                  {
+                                    "uid": "Rpk_r_faZ"
+                                  }
+                                ],
+                                "string": "All configurations are stored on the\u00a0[[roam/reference extends/config]]\u00a0page and need to be removed manually if you want to uninstall the plugin cleanly.",
+                                "uid": "BKJR5hkL7"
                               }
                             ],
-                            "string": "All configurations are stored on the\u00a0[[roam/reference extends/config]]\u00a0page and need to be removed manually if you want to uninstall the plugin cleanly.",
-                            "uid": "BKJR5hkL7"
+                            "edit-time": 1669858737315,
+                            "heading": 1,
+                            "string": "Uninstall",
+                            "uid": "ZlUFRXBP5"
                           }
                         ],
                         "edit-time": 1669858737315,
-                        "heading": 1,
-                        "string": "Uninstall",
-                        "uid": "ZlUFRXBP5"
-                      }
-                    ],
-                    "edit-time": 1669858737315,
-                    "heading": 2,
-                    "string": "Roam reference expands",
-                    "uid": "W0y1ST1IL"
-                  },
-                  {
-                    ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
-                    "children": [
-                      {
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "edit-time": 1669857899327,
-                        "string": "Render interactive maps directly in your graph!",
-                        "uid": "a24qRWYXc"
+                        "heading": 2,
+                        "string": "Roam reference expands",
+                        "uid": "W0y1ST1IL"
                       },
                       {
                         ":edit/user": {
@@ -51519,33 +51603,9 @@
                             ":edit/user": {
                               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                             },
-                            "edit-time": 1669857912538,
-                            "string": "Type\u00a0`{{maps}}`\u00a0in a block. When the block renders, an interactive map will render in its place!",
-                            "uid": "F9bJXJmaB"
-                          },
-                          {
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
                             "edit-time": 1669857899327,
-                            "string": "To position the map at a particular center, create a child block with text \"Center\". Under that block, put in the latitude and longitude coordinates of the center delimited by a comma.",
-                            "uid": "8GhWObQ0K"
-                          },
-                          {
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "edit-time": 1669857899327,
-                            "string": "To start the map at a particular zoom level, create a child block with text \"Zoom\". Under that block, put in the zoom level value which should be a number. A minimum value of 0 is zoomed all the way out and a maximum value of 18 is zoomed all the way in.",
-                            "uid": "9mh0QVdT8"
-                          },
-                          {
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "edit-time": 1669857899327,
-                            "string": "To add Markers to the map, create a child block with text \"Markers\". Under that block, add one child for every marker you want to include. In the block, write the text you'd like as the label of the block. As a child of\u00a0**that**\u00a0block, put the latitude and longitude coordinates of the marker.",
-                            "uid": "yamHPzcm5"
+                            "string": "Render interactive maps directly in your graph!",
+                            "uid": "a24qRWYXc"
                           },
                           {
                             ":edit/user": {
@@ -51556,37 +51616,33 @@
                                 ":edit/user": {
                                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 },
-                                "children": [
-                                  {
-                                    ":edit/user": {
-                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                                    },
-                                    "edit-time": 1669857899327,
-                                    "string": "32.715736, -117.161087",
-                                    "uid": "f2FDPqNbT"
-                                  }
-                                ],
-                                "edit-time": 1669857899327,
-                                "string": "Center",
-                                "uid": "zaTOubVO_"
+                                "edit-time": 1669857912538,
+                                "string": "Type\u00a0`{{maps}}`\u00a0in a block. When the block renders, an interactive map will render in its place!",
+                                "uid": "F9bJXJmaB"
                               },
                               {
                                 ":edit/user": {
                                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 },
-                                "children": [
-                                  {
-                                    ":edit/user": {
-                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                                    },
-                                    "edit-time": 1669857899327,
-                                    "string": "12",
-                                    "uid": "WmV64qEJu"
-                                  }
-                                ],
                                 "edit-time": 1669857899327,
-                                "string": "Zoom",
-                                "uid": "yEDQMIkqP"
+                                "string": "To position the map at a particular center, create a child block with text \"Center\". Under that block, put in the latitude and longitude coordinates of the center delimited by a comma.",
+                                "uid": "8GhWObQ0K"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669857899327,
+                                "string": "To start the map at a particular zoom level, create a child block with text \"Zoom\". Under that block, put in the zoom level value which should be a number. A minimum value of 0 is zoomed all the way out and a maximum value of 18 is zoomed all the way in.",
+                                "uid": "9mh0QVdT8"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669857899327,
+                                "string": "To add Markers to the map, create a child block with text \"Markers\". Under that block, add one child for every marker you want to include. In the block, write the text you'd like as the label of the block. As a child of\u00a0**that**\u00a0block, put the latitude and longitude coordinates of the marker.",
+                                "uid": "yamHPzcm5"
                               },
                               {
                                 ":edit/user": {
@@ -51603,13 +51659,13 @@
                                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                         },
                                         "edit-time": 1669857899327,
-                                        "string": "32.7, -117.2",
-                                        "uid": "JpP95jnH7"
+                                        "string": "32.715736, -117.161087",
+                                        "uid": "f2FDPqNbT"
                                       }
                                     ],
                                     "edit-time": 1669857899327,
-                                    "string": "David Vargas",
-                                    "uid": "kgnu8SU9G"
+                                    "string": "Center",
+                                    "uid": "zaTOubVO_"
                                   },
                                   {
                                     ":edit/user": {
@@ -51621,113 +51677,141 @@
                                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                         },
                                         "edit-time": 1669857899327,
-                                        "string": "32.72, -117.1",
-                                        "uid": "psiqmoMTO"
+                                        "string": "12",
+                                        "uid": "WmV64qEJu"
                                       }
                                     ],
                                     "edit-time": 1669857899327,
-                                    "string": "RoamJS",
-                                    "uid": "2PDeUk1lY"
+                                    "string": "Zoom",
+                                    "uid": "yEDQMIkqP"
+                                  },
+                                  {
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "children": [
+                                      {
+                                        ":edit/user": {
+                                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                        },
+                                        "children": [
+                                          {
+                                            ":edit/user": {
+                                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                            },
+                                            "edit-time": 1669857899327,
+                                            "string": "32.7, -117.2",
+                                            "uid": "JpP95jnH7"
+                                          }
+                                        ],
+                                        "edit-time": 1669857899327,
+                                        "string": "David Vargas",
+                                        "uid": "kgnu8SU9G"
+                                      },
+                                      {
+                                        ":edit/user": {
+                                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                        },
+                                        "children": [
+                                          {
+                                            ":edit/user": {
+                                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                            },
+                                            "edit-time": 1669857899327,
+                                            "string": "32.72, -117.1",
+                                            "uid": "psiqmoMTO"
+                                          }
+                                        ],
+                                        "edit-time": 1669857899327,
+                                        "string": "RoamJS",
+                                        "uid": "2PDeUk1lY"
+                                      }
+                                    ],
+                                    "edit-time": 1669857899327,
+                                    "string": "Markers",
+                                    "uid": "UQc1O1f5_"
                                   }
                                 ],
                                 "edit-time": 1669857899327,
-                                "string": "Markers",
-                                "uid": "UQc1O1f5_"
+                                "string": "For example, the following configuration will have to be set as the child of the block to produce the map below:",
+                                "uid": "6fRHD10Lm"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669857899327,
+                                "string": "If the Marker text is already a tag in your graph, clicking on the marker pin will take you to that page. Shift clicking the marker will open the tag in the sidebar.",
+                                "uid": "T1bfilykL"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669857899327,
+                                "string": "You could also filter the markers that are displayed on your map. Clicking the wrench icon on the top right will open the settings overlay, where you could specify a tag to filter by. All markers that are pages that have a block with the entered tag will remain on the map while the rest get filtered out.",
+                                "uid": "UQInxkUQe"
                               }
                             ],
-                            "edit-time": 1669857899327,
-                            "string": "For example, the following configuration will have to be set as the child of the block to produce the map below:",
-                            "uid": "6fRHD10Lm"
-                          },
-                          {
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "edit-time": 1669857899327,
-                            "string": "If the Marker text is already a tag in your graph, clicking on the marker pin will take you to that page. Shift clicking the marker will open the tag in the sidebar.",
-                            "uid": "T1bfilykL"
-                          },
-                          {
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "edit-time": 1669857899327,
-                            "string": "You could also filter the markers that are displayed on your map. Clicking the wrench icon on the top right will open the settings overlay, where you could specify a tag to filter by. All markers that are pages that have a block with the entered tag will remain on the map while the rest get filtered out.",
-                            "uid": "UQInxkUQe"
+                            "edit-time": 1669857907894,
+                            "heading": 2,
+                            "string": "Usage",
+                            "uid": "j-NRskdbB"
                           }
                         ],
-                        "edit-time": 1669857907894,
+                        "edit-time": 1669857899327,
                         "heading": 2,
-                        "string": "Usage",
-                        "uid": "j-NRskdbB"
+                        "string": "Mapbox",
+                        "uid": "f6VObdeq4"
                       }
                     ],
-                    "edit-time": 1669857899327,
-                    "heading": 2,
-                    "string": "Mapbox",
-                    "uid": "f6VObdeq4"
+                    "create-time": 1669857894628,
+                    "edit-time": 1686562314579,
+                    "refs": [
+                      {
+                        "uid": "TpA4naC1T"
+                      }
+                    ],
+                    "string": "[[Roam Depot Extensions]]",
+                    "uid": "pbxnAoqA0"
                   }
                 ],
-                "create-time": 1669857894628,
-                "edit-time": 1686562314579,
+                "create-time": 1669857891664,
+                "edit-time": 1669857894648,
                 "refs": [
                   {
-                    "uid": "TpA4naC1T"
+                    "uid": "11-30-2022"
                   }
                 ],
-                "string": "[[Roam Depot Extensions]]",
-                "uid": "pbxnAoqA0"
-              }
-            ],
-            "create-time": 1669857891664,
-            "edit-time": 1669857894648,
-            "refs": [
-              {
-                "uid": "11-30-2022"
-              }
-            ],
-            "string": "[[November 30th, 2022]]",
-            "uid": "7vCfWCWTJ"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "11-29-2022"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            ":edit/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            "children": [
+                "string": "[[November 30th, 2022]]",
+                "uid": "7vCfWCWTJ"
+              },
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "TpA4naC1T"
+                    ":block/uid": "11-29-2022"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "children": [
                   {
-                    ":edit/user": {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "TpA4naC1T"
+                      }
+                    ],
+                    ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
                     "children": [
-                      {
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "edit-time": 1669770135415,
-                        "string": "Import your Oura Ring daily summaries on a given day into your daily note page!",
-                        "uid": "2gXGPx6hA"
-                      },
                       {
                         ":edit/user": {
                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
@@ -51738,141 +51822,133 @@
                               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                             },
                             "edit-time": 1669770135415,
-                            "string": "You'll first need to add your personal access token associated with your Oura Ring account to the\u00a0Token\u00a0field in your Roam Depot Settings. The extension needs this in order to access your personal data.\u00a0[Click here](https://cloud.ouraring.com/personal-access-tokens), to generate your own personal access token.",
-                            "uid": "Vv0lWv8UN"
+                            "string": "Import your Oura Ring daily summaries on a given day into your daily note page!",
+                            "uid": "2gXGPx6hA"
                           },
                           {
                             ":edit/user": {
                               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                             },
+                            "children": [
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669770135415,
+                                "string": "You'll first need to add your personal access token associated with your Oura Ring account to the\u00a0Token\u00a0field in your Roam Depot Settings. The extension needs this in order to access your personal data.\u00a0[Click here](https://cloud.ouraring.com/personal-access-tokens), to generate your own personal access token.",
+                                "uid": "Vv0lWv8UN"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669770135415,
+                                "string": "To import your Oura Ring data to your daily note page, open the Command Palette and enter \"Import Oura Ring\". If the current page is a Daily note page, it will query the day before the page title, since you usually want to track last night's sleep. Otherwise, it will query yesterday's data by default. It will output the following text:",
+                                "uid": "UBs1AyhIt"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669770197779,
+                                "string": "```javascript\nBedtime Start:: hh:mm:ss\nBedtime End:: hh:mm:ss\nSleep Duration:: hh:mm:ss\nTotal Sleep:: hh:mm:ss\nTotal Awake:: hh:mm:ss\nLight Sleep:: hh:mm:ss\nRem Sleep:: hh:mm:ss\nDeep Sleep:: hh:mm:ss\nDay Start:: hh:mm:ss\nDay End:: hh:mm:ss\nLow Activity:: hh:mm:ss\nMedium Activity:: hh:mm:ss\nHigh Activity:: hh:mm:ss\nRest Activity:: hh:mm:ss\nReadiness Score:: hh:mm:ss```",
+                                "uid": "fni6YQY11"
+                              },
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669770275398,
+                                "string": "You can also import the data by creating a button by typing\u00a0`{{import oura ring}}`\u00a0into a page and clicking the button.",
+                                "uid": "zFln9KoM0"
+                              }
+                            ],
                             "edit-time": 1669770135415,
-                            "string": "To import your Oura Ring data to your daily note page, open the Command Palette and enter \"Import Oura Ring\". If the current page is a Daily note page, it will query the day before the page title, since you usually want to track last night's sleep. Otherwise, it will query yesterday's data by default. It will output the following text:",
-                            "uid": "UBs1AyhIt"
-                          },
-                          {
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "edit-time": 1669770197779,
-                            "string": "```javascript\nBedtime Start:: hh:mm:ss\nBedtime End:: hh:mm:ss\nSleep Duration:: hh:mm:ss\nTotal Sleep:: hh:mm:ss\nTotal Awake:: hh:mm:ss\nLight Sleep:: hh:mm:ss\nRem Sleep:: hh:mm:ss\nDeep Sleep:: hh:mm:ss\nDay Start:: hh:mm:ss\nDay End:: hh:mm:ss\nLow Activity:: hh:mm:ss\nMedium Activity:: hh:mm:ss\nHigh Activity:: hh:mm:ss\nRest Activity:: hh:mm:ss\nReadiness Score:: hh:mm:ss```",
-                            "uid": "fni6YQY11"
-                          },
-                          {
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "edit-time": 1669770275398,
-                            "string": "You can also import the data by creating a button by typing\u00a0`{{import oura ring}}`\u00a0into a page and clicking the button.",
-                            "uid": "zFln9KoM0"
+                            "heading": 2,
+                            "string": "[\ud83d\udd17](https://github.com/dvargas92495/roamjs-oura-ring#usage)Usage",
+                            "uid": "0wF-EXoy9"
                           }
                         ],
                         "edit-time": 1669770135415,
                         "heading": 2,
-                        "string": "[\ud83d\udd17](https://github.com/dvargas92495/roamjs-oura-ring#usage)Usage",
-                        "uid": "0wF-EXoy9"
-                      }
-                    ],
-                    "edit-time": 1669770135415,
-                    "heading": 2,
-                    "string": "Oura Ring",
-                    "uid": "UePhNSvhI"
-                  },
-                  {
-                    ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
-                    "children": [
-                      {
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "edit-time": 1669769950301,
-                        "string": "![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[\ud83d\udd17](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)",
-                        "uid": "FzNKmffN_"
+                        "string": "Oura Ring",
+                        "uid": "UePhNSvhI"
                       },
                       {
                         ":edit/user": {
                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                         },
-                        "edit-time": 1669769950301,
-                        "string": "![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hfj.png)[\ud83d\udd17](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hfj.png)",
-                        "uid": "yaHgMo8v2"
+                        "children": [
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669769950301,
+                            "string": "![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[\ud83d\udd17](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)",
+                            "uid": "FzNKmffN_"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669769950301,
+                            "string": "![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hfj.png)[\ud83d\udd17](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hfj.png)",
+                            "uid": "yaHgMo8v2"
+                          }
+                        ],
+                        "edit-time": 1669770157964,
+                        "heading": 2,
+                        "string": "Roam native dark theme",
+                        "uid": "fR4ohR_vq"
                       }
                     ],
-                    "edit-time": 1669770157964,
-                    "heading": 2,
-                    "string": "Roam native dark theme",
-                    "uid": "fR4ohR_vq"
+                    "create-time": 1669769892309,
+                    "edit-time": 1686562314579,
+                    "refs": [
+                      {
+                        "uid": "TpA4naC1T"
+                      }
+                    ],
+                    "string": "[[Roam Depot Extensions]]",
+                    "uid": "RGKRF8rF_"
                   }
                 ],
-                "create-time": 1669769892309,
-                "edit-time": 1686562314579,
+                "create-time": 1669769888398,
+                "edit-time": 1669769892132,
                 "refs": [
                   {
-                    "uid": "TpA4naC1T"
+                    "uid": "11-29-2022"
                   }
                 ],
-                "string": "[[Roam Depot Extensions]]",
-                "uid": "RGKRF8rF_"
-              }
-            ],
-            "create-time": 1669769888398,
-            "edit-time": 1669769892132,
-            "refs": [
-              {
-                "uid": "11-29-2022"
-              }
-            ],
-            "string": "[[November 29th, 2022]]",
-            "uid": "BfDwgHJNH"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "11-28-2022"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            ":edit/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            "children": [
+                "string": "[[November 29th, 2022]]",
+                "uid": "BfDwgHJNH"
+              },
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "TpA4naC1T"
+                    ":block/uid": "11-28-2022"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 ":edit/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "children": [
                   {
-                    ":edit/user": {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "TpA4naC1T"
+                      }
+                    ],
+                    ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
                     "children": [
-                      {
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "edit-time": 1669769637973,
-                        "string": "Official Roam client into\u00a0[SamePage](https://samepage.network/)\u00a0- the intra tool-for-thought protocol.",
-                        "uid": "ZXz9sRL_t"
-                      },
-                      {
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "edit-time": 1669769637973,
-                        "string": "Use SamePage to connect your Roam Graph to other notebooks to sync changes across them, perform cross notebook queries, and more! To get started, install this extension and request an invite code by emailing\u00a0[support@samepage.network](mailto:support@samepage.network). Check out our docs at\u00a0https://samepage.network/docs!",
-                        "uid": "LP5_0Gfq4"
-                      },
                       {
                         ":edit/user": {
                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
@@ -51883,134 +51959,142 @@
                               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                             },
                             "edit-time": 1669769637973,
-                            "string": "The SamePage family of extensions are still\u00a0**in beta**\u00a0and are not considered stable yet for real or sensitive data. All data shared on SamePage is considered public and probability of data loss is high.",
-                            "uid": "DCKvnietC"
+                            "string": "Official Roam client into\u00a0[SamePage](https://samepage.network/)\u00a0- the intra tool-for-thought protocol.",
+                            "uid": "ZXz9sRL_t"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "edit-time": 1669769637973,
+                            "string": "Use SamePage to connect your Roam Graph to other notebooks to sync changes across them, perform cross notebook queries, and more! To get started, install this extension and request an invite code by emailing\u00a0[support@samepage.network](mailto:support@samepage.network). Check out our docs at\u00a0https://samepage.network/docs!",
+                            "uid": "LP5_0Gfq4"
+                          },
+                          {
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "edit-time": 1669769637973,
+                                "string": "The SamePage family of extensions are still\u00a0**in beta**\u00a0and are not considered stable yet for real or sensitive data. All data shared on SamePage is considered public and probability of data loss is high.",
+                                "uid": "DCKvnietC"
+                              }
+                            ],
+                            "edit-time": 1669769661004,
+                            "heading": 2,
+                            "string": "WARNING",
+                            "uid": "Ot5mcD6jC"
                           }
                         ],
-                        "edit-time": 1669769661004,
+                        "edit-time": 1669769637973,
                         "heading": 2,
-                        "string": "WARNING",
-                        "uid": "Ot5mcD6jC"
+                        "string": "SamePage",
+                        "uid": "eY__GnwEx"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1669769681096,
+                        "edit-time": 1669769843150,
+                        "string": "Previously, extensions were not listed on the change log, please check out our [github](https://github.com/Roam-Research/roam-depot) for a [full list of new extensions and updates](https://github.com/Roam-Research/roam-depot/pulls?q=is%3Apr+is%3Aclosed). From now on, all new extensions will be listed here",
+                        "uid": "BjxCowMes"
                       }
                     ],
-                    "edit-time": 1669769637973,
-                    "heading": 2,
-                    "string": "SamePage",
-                    "uid": "eY__GnwEx"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
-                    "create-time": 1669769681096,
-                    "edit-time": 1669769843150,
-                    "string": "Previously, extensions were not listed on the change log, please check out our [github](https://github.com/Roam-Research/roam-depot) for a [full list of new extensions and updates](https://github.com/Roam-Research/roam-depot/pulls?q=is%3Apr+is%3Aclosed). From now on, all new extensions will be listed here",
-                    "uid": "BjxCowMes"
+                    "create-time": 1669769579751,
+                    "edit-time": 1686562314579,
+                    "refs": [
+                      {
+                        "uid": "TpA4naC1T"
+                      }
+                    ],
+                    "string": "[[Roam Depot Extensions]]",
+                    "uid": "u5zZKc0ml"
                   }
                 ],
-                "create-time": 1669769579751,
-                "edit-time": 1686562314579,
+                "create-time": 1669769570624,
+                "edit-time": 1669769579772,
                 "refs": [
                   {
-                    "uid": "TpA4naC1T"
+                    "uid": "11-28-2022"
                   }
                 ],
-                "string": "[[Roam Depot Extensions]]",
-                "uid": "u5zZKc0ml"
-              }
-            ],
-            "create-time": 1669769570624,
-            "edit-time": 1669769579772,
-            "refs": [
-              {
-                "uid": "11-28-2022"
-              }
-            ],
-            "string": "[[November 28th, 2022]]",
-            "uid": "4wPa6RAgK"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "11-11-2022"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-            },
-            ":edit/user": {
-              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-            },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                },
-                ":edit/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                },
-                "children": [
-                  {
-                    ":create/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    "create-time": 1668150817568,
-                    "edit-time": 1668150880473,
-                    "string": "Fixes issue on restore graph from EDN where some graphs would get stuck near completion",
-                    "uid": "2eaDxwoV3"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    "create-time": 1668150880470,
-                    "edit-time": 1668150948542,
-                    "string": "Fixes \"Roam was not built in a day\" error that would arise sometimes when collapsing right sidebar windows corresponding to pages",
-                    "uid": "YTJOOKW9v"
-                  }
-                ],
-                "create-time": 1668150962673,
-                "edit-time": 1668150965355,
-                "string": "Small fixes",
-                "uid": "-EbXMWxT9"
-              }
-            ],
-            "create-time": 1668150812574,
-            "edit-time": 1668150817579,
-            "refs": [
-              {
-                "uid": "11-11-2022"
-              }
-            ],
-            "string": "[[November 11th, 2022]]",
-            "uid": "xIVkqOwv0"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "10-06-2022"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            ":edit/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            "children": [
+                "string": "[[November 28th, 2022]]",
+                "uid": "4wPa6RAgK"
+              },
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "h_pvMVa7e"
+                    ":block/uid": "11-11-2022"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1668150817568,
+                        "edit-time": 1668150880473,
+                        "string": "Fixes issue on restore graph from EDN where some graphs would get stuck near completion",
+                        "uid": "2eaDxwoV3"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1668150880470,
+                        "edit-time": 1668150948542,
+                        "string": "Fixes \"Roam was not built in a day\" error that would arise sometimes when collapsing right sidebar windows corresponding to pages",
+                        "uid": "YTJOOKW9v"
+                      }
+                    ],
+                    "create-time": 1668150962673,
+                    "edit-time": 1668150965355,
+                    "string": "Small fixes",
+                    "uid": "-EbXMWxT9"
+                  }
+                ],
+                "create-time": 1668150812574,
+                "edit-time": 1668150817579,
+                "refs": [
+                  {
+                    "uid": "11-11-2022"
+                  }
+                ],
+                "string": "[[November 11th, 2022]]",
+                "uid": "xIVkqOwv0"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-06-2022"
                   }
                 ],
                 ":create/user": {
@@ -52021,6 +52105,11 @@
                 },
                 "children": [
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
@@ -52043,86 +52132,24 @@
                             ":edit/user": {
                               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                             },
-                            "create-time": 1665096644593,
-                            "edit-time": 1665096647094,
-                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCtabMYCHRV.png?alt=media&token=2ff14e70-6c2c-4e3b-8dc0-318966366c07)",
-                            "uid": "6CsE_YyPg"
-                          }
-                        ],
-                        "create-time": 1665096085637,
-                        "edit-time": 1665096445566,
-                        "string": "Select blocks but not their children or select non consecutive blocks and perform bulk actions on them",
-                        "uid": "wzPinSXqO"
-                      },
-                      {
-                        ":create/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "children": [
-                          {
-                            ":create/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "create-time": 1665096226401,
-                            "edit-time": 1665096674185,
-                            "string": "Toggle the mode on / off with `ctrl-m` (PC) or `cmd-m` (Mac) (customizable)",
-                            "uid": "wNc4Cv_db"
-                          },
-                          {
-                            ":create/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "create-time": 1665096809097,
-                            "edit-time": 1665096821342,
-                            "string": "Then click a checkbox to select it",
-                            "uid": "U3Cx6F-3J"
-                          },
-                          {
-                            ":create/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "create-time": 1665096821456,
-                            "edit-time": 1665096850355,
-                            "string": "Shift click another checkbox to select a range between that checkbox and the last one selected",
-                            "uid": "vt94OOzpL"
-                          }
-                        ],
-                        "create-time": 1665096799302,
-                        "edit-time": 1665096802503,
-                        "string": "**How to use**",
-                        "uid": "evwSBp6WX"
-                      },
-                      {
-                        ":create/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "children": [
-                          {
-                            ":create/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                            },
-                            "create-time": 1665096462005,
-                            "edit-time": 1665096948797,
-                            "string": "Drag and dropping blocks",
-                            "uid": "mASDbYN0I"
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1665096644593,
+                                "edit-time": 1665096647094,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCtabMYCHRV.png?alt=media&token=2ff14e70-6c2c-4e3b-8dc0-318966366c07)",
+                                "uid": "6CsE_YyPg"
+                              }
+                            ],
+                            "create-time": 1665096085637,
+                            "edit-time": 1665096445566,
+                            "string": "Select blocks but not their children or select non consecutive blocks and perform bulk actions on them",
+                            "uid": "wzPinSXqO"
                           },
                           {
                             ":create/user": {
@@ -52133,53 +52160,47 @@
                             },
                             "children": [
                               {
-                                ":block/props": {
-                                  ":image-size": {
-                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956": {
-                                      ":height": null,
-                                      ":width": 340
-                                    }
-                                  }
-                                },
                                 ":create/user": {
                                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 },
                                 ":edit/user": {
                                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 },
-                                "create-time": 1665096522893,
-                                "edit-time": 1665096525506,
-                                "props": {
-                                  "image-size": {
-                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956": {
-                                      "height": null,
-                                      "width": 340
-                                    }
-                                  }
+                                "create-time": 1665096226401,
+                                "edit-time": 1665096674185,
+                                "string": "Toggle the mode on / off with `ctrl-m` (PC) or `cmd-m` (Mac) (customizable)",
+                                "uid": "wNc4Cv_db"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 },
-                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956)",
-                                "uid": "9H2Tmx9qU"
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1665096809097,
+                                "edit-time": 1665096821342,
+                                "string": "Then click a checkbox to select it",
+                                "uid": "U3Cx6F-3J"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1665096821456,
+                                "edit-time": 1665096850355,
+                                "string": "Shift click another checkbox to select a range between that checkbox and the last one selected",
+                                "uid": "vt94OOzpL"
                               }
                             ],
-                            "create-time": 1665096467676,
-                            "edit-time": 1665096481344,
-                            "string": "Right click context menu",
-                            "uid": "NOS1sZUXi"
-                          }
-                        ],
-                        "create-time": 1665096449586,
-                        "edit-time": 1665096806237,
-                        "string": "**Available commands**",
-                        "uid": "FrJ9TyzjF"
-                      },
-                      {
-                        ":create/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
-                        "children": [
+                            "create-time": 1665096799302,
+                            "edit-time": 1665096802503,
+                            "string": "**How to use**",
+                            "uid": "evwSBp6WX"
+                          },
                           {
                             ":create/user": {
                               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
@@ -52187,58 +52208,121 @@
                             ":edit/user": {
                               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                             },
-                            "create-time": 1665096296229,
-                            "edit-time": 1665096571431,
-                            "string": "Key commands (tab, shift-tab etc) do not work with it",
-                            "uid": "qCWHo3JOL"
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1665096462005,
+                                "edit-time": 1665096948797,
+                                "string": "Drag and dropping blocks",
+                                "uid": "mASDbYN0I"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "children": [
+                                  {
+                                    ":block/props": {
+                                      ":image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956": {
+                                          ":height": null,
+                                          ":width": 340
+                                        }
+                                      }
+                                    },
+                                    ":create/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    "create-time": 1665096522893,
+                                    "edit-time": 1665096525506,
+                                    "props": {
+                                      "image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956": {
+                                          "height": null,
+                                          "width": 340
+                                        }
+                                      }
+                                    },
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956)",
+                                    "uid": "9H2Tmx9qU"
+                                  }
+                                ],
+                                "create-time": 1665096467676,
+                                "edit-time": 1665096481344,
+                                "string": "Right click context menu",
+                                "uid": "NOS1sZUXi"
+                              }
+                            ],
+                            "create-time": 1665096449586,
+                            "edit-time": 1665096806237,
+                            "string": "**Available commands**",
+                            "uid": "FrJ9TyzjF"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1665096296229,
+                                "edit-time": 1665096571431,
+                                "string": "Key commands (tab, shift-tab etc) do not work with it",
+                                "uid": "qCWHo3JOL"
+                              }
+                            ],
+                            "create-time": 1665096569010,
+                            "edit-time": 1665096569010,
+                            "string": "This feature is still a work in progress.",
+                            "uid": "n58bH5W6g"
                           }
                         ],
-                        "create-time": 1665096569010,
-                        "edit-time": 1665096569010,
-                        "string": "This feature is still a work in progress.",
-                        "uid": "n58bH5W6g"
+                        "create-time": 1665095879987,
+                        "edit-time": 1665096520539,
+                        "string": "Single Block Multiselect Mode",
+                        "uid": "rQOT9lVIP"
                       }
                     ],
-                    "create-time": 1665095879987,
-                    "edit-time": 1665096520539,
-                    "string": "Single Block Multiselect Mode",
-                    "uid": "rQOT9lVIP"
+                    "create-time": 1665095871978,
+                    "edit-time": 1665095879994,
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]]",
+                    "uid": "sdgefSByI"
                   }
                 ],
-                "create-time": 1665095871978,
-                "edit-time": 1665095879994,
+                "create-time": 1665095868479,
+                "edit-time": 1665095872003,
                 "refs": [
                   {
-                    "uid": "h_pvMVa7e"
+                    "uid": "10-06-2022"
                   }
                 ],
-                "string": "[[New Features]]",
-                "uid": "sdgefSByI"
-              }
-            ],
-            "create-time": 1665095868479,
-            "edit-time": 1665095872003,
-            "refs": [
-              {
-                "uid": "10-06-2022"
-              }
-            ],
-            "string": "[[October 6th, 2022]]",
-            "uid": "bPI-aqstQ"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "e7EI78aEn"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            ":edit/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            "children": [
+                "string": "[[October 6th, 2022]]",
+                "uid": "bPI-aqstQ"
+              },
               {
                 ":block/refs": [
                   {
@@ -58036,14 +58120,14 @@
               }
             ],
             "create-time": 1684507910517,
-            "edit-time": 1684507974662,
+            "edit-time": 1692101682697,
             "heading": 3,
             "refs": [
               {
                 "uid": "e7EI78aEn"
               }
             ],
-            "string": "More of [[2022]]",
+            "string": "[[2022]]",
             "uid": "oEUzBpPVt"
           },
           {
@@ -95639,9 +95723,15 @@
     "uid": "FqDoizaVK"
   },
   {
-    ":log/id": 1692101225230,
-    "create-time": 1692101225231,
-    "edit-time": 1692101225231,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1692101402422,
+    "create-time": 1692101402423,
+    "edit-time": 1692101402423,
     "title": "August 15th, 2023",
     "uid": "08-15-2023"
   }

@@ -19,6 +19,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Small fixes to [Graph Overview](<Graph Overview.md>)
+
 - New [Graph Overview](<Graph Overview.md>)
 
 ## [Chinese](<Chinese.md>)
