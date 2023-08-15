@@ -42980,6 +42980,297 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "FqDoizaVK"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2h9V-FtAO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1692089279760,
+                        "edit-time": 1692089312396,
+                        "refs": [
+                          {
+                            "uid": "2h9V-FtAO"
+                          }
+                        ],
+                        "string": "{{[[video]]: https://www.loom.com/share/3fa11c532cb44822a047caecc638e47f}}",
+                        "uid": "SCzc5XvSf"
+                      }
+                    ],
+                    "create-time": 1692089278077,
+                    "edit-time": 1692089759141,
+                    "string": "MacOS users, watch the demo video below to get a sense of the power of having your Roam graph (or graphs \ud83d\ude09) at your fingertips:",
+                    "uid": "9VEdMhKt6"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "s6pvNWMkE"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1692089545157,
+                            "edit-time": 1692089564593,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtIlPw_oQ-a.png?alt=media&token=3c666344-8de3-4595-8947-55a216095a2e)",
+                            "uid": "VJH7Sdmlh"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1692089564613,
+                            "edit-time": 1692089577478,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fv3emRcKcRu.png?alt=media&token=59421ab9-6b29-4b13-b3ee-10ca03ed503d)",
+                            "uid": "H9xyJDzUP"
+                          }
+                        ],
+                        "create-time": 1692089310745,
+                        "edit-time": 1692089327089,
+                        "string": "Search across all your installed graphs or in one specific graph",
+                        "uid": "ASCpnbSxS"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1692089573684,
+                            "edit-time": 1692089589305,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fj8GEmEGAx8.png?alt=media&token=f65dc849-dfa1-4ce3-b820-659036a49151)",
+                            "uid": "tGCGbUGX6"
+                          }
+                        ],
+                        "create-time": 1692089335250,
+                        "edit-time": 1692089341297,
+                        "string": "Quick capture notes to your Roam graph without leaving your keyboard",
+                        "uid": "v5H7bZKM0"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1692089353467,
+                        "edit-time": 1692089353467,
+                        "string": "View a random block from your roam graph",
+                        "uid": "hY8i88iW7"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1692089341293,
+                        "edit-time": 1692089370138,
+                        "string": "Easily create Raycast quicklinks to open Roam graphs or specific pages in the graph even faster\n... and more features baking in the oven!",
+                        "uid": "JOcZ8iiWx"
+                      }
+                    ],
+                    "create-time": 1692089327087,
+                    "edit-time": 1692089753092,
+                    "refs": [
+                      {
+                        "uid": "s6pvNWMkE"
+                      }
+                    ],
+                    "string": "Features::",
+                    "uid": "3HXsQVSdq"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "FqDoizaVK"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "edit-time": 1692089658728,
+                        "refs": [
+                          {
+                            "uid": "FqDoizaVK"
+                          }
+                        ],
+                        "string": "Install [[Raycast]] from https://raycast.com",
+                        "uid": "hrdAbVzzd"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "edit-time": 1692089669978,
+                        "string": "Then install the Roam Extension from: https://raycast.com/roamresearch/roam-research",
+                        "uid": "0i8D8mkF4"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1692089387584,
+                            "edit-time": 1692089398551,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://www.loom.com/share/31ada35f7c8b4f44a2ba537b15237854}}",
+                            "uid": "a5LiP0jCX"
+                          }
+                        ],
+                        "create-time": 1692089370130,
+                        "edit-time": 1692089712862,
+                        "string": "Follow the loom video below to add a graph",
+                        "uid": "gDiX-ohMk"
+                      }
+                    ],
+                    "create-time": 1692089637327,
+                    "edit-time": 1692089644282,
+                    "string": "Getting Started Guide",
+                    "uid": "Ua_S-zyE2"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1692089516609,
+                    "edit-time": 1692089516609,
+                    "string": "If you run into any issues, drop us a message at support@roamresearch.com or via Intercom and we will get on it immediately.  ",
+                    "uid": "q4sKYRMHf"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "f1lxUcEYl"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "edit-time": 1692089516610,
+                    "refs": [
+                      {
+                        "uid": "f1lxUcEYl"
+                      }
+                    ],
+                    "string": "Big thanks to [[hyc]] for their work on the initial version of this extension \ud83d\ude4f",
+                    "uid": "IchHdV-A_"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1692089434378,
+                    "edit-time": 1692089458994,
+                    "string": "P.S. Users of the older versions of the Raycast extension will need to add their graph(s) again. Sorry for the inconvenience, this should only be a one time thing",
+                    "uid": "abfiwu0ii"
+                  }
+                ],
+                "create-time": 1692089265568,
+                "edit-time": 1692089277983,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "FqDoizaVK"
+                  }
+                ],
+                "string": "New and Updated [[Raycast]] extension for Roam!!",
+                "uid": "5CHvCrsmK"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
@@ -95336,9 +95627,21 @@
     "uid": "3Fa9mpuHH"
   },
   {
-    ":log/id": 1692086754726,
-    "create-time": 1692086754727,
-    "edit-time": 1692086754727,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1692089269319,
+    "edit-time": 1692089269320,
+    "title": "Raycast",
+    "uid": "FqDoizaVK"
+  },
+  {
+    ":log/id": 1692101225230,
+    "create-time": 1692101225231,
+    "edit-time": 1692101225231,
     "title": "August 15th, 2023",
     "uid": "08-15-2023"
   }

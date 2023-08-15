@@ -2,6 +2,26 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [[August 14th, 2023]]
+        - ### New and Updated [[Raycast]] extension for Roam!!
+            - MacOS users, watch the demo video below to get a sense of the power of having your Roam graph (or graphs 😉) at your fingertips:
+                - {{[[video]]: https://www.loom.com/share/3fa11c532cb44822a047caecc638e47f}}
+            - Features::
+                1. Search across all your installed graphs or in one specific graph
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtIlPw_oQ-a.png?alt=media&token=3c666344-8de3-4595-8947-55a216095a2e)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fv3emRcKcRu.png?alt=media&token=59421ab9-6b29-4b13-b3ee-10ca03ed503d)
+                2. Quick capture notes to your Roam graph without leaving your keyboard
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fj8GEmEGAx8.png?alt=media&token=f65dc849-dfa1-4ce3-b820-659036a49151)
+                3. View a random block from your roam graph
+                4. Easily create Raycast quicklinks to open Roam graphs or specific pages in the graph even faster
+... and more features baking in the oven!
+            - Getting Started Guide
+                1. Install [[Raycast]] from https://raycast.com
+                2. Then install the Roam Extension from: https://raycast.com/roamresearch/roam-research
+                3. Follow the loom video below to add a graph
+                    - {{[[video]]: https://www.loom.com/share/31ada35f7c8b4f44a2ba537b15237854}}
+            - If you run into any issues, drop us a message at support@roamresearch.com or via Intercom and we will get on it immediately.  
+            - Big thanks to [[hyc]] for their work on the initial version of this extension 🙏
+            - P.S. Users of the older versions of the Raycast extension will need to add their graph(s) again. Sorry for the inconvenience, this should only be a one time thing
         - [[Roam Depot Extensions]]
             - # [Send To Graph](https://github.com/8bitgentleman/roam-depot-send-to-graph)
                 - A Roam Research extension to send blocks from one graph to another. The destination graph does not need to be open. This is a one-way push. The blocks are added to the new graph as if you had created them manually yourself.
@@ -1080,7 +1100,7 @@ Readiness Score:: hh:mm:ss```
                 - Fixed bug for removing window via front-end API
                 - Fixed bug for opening mentions in sidebar via front-end API
         - [[August 11th, 2021]]
-            - ### [[New Features]] 🚀
+            - ### [[New Features]] ��
                 - You can now use [[Video Timestamps]] for Youtube videos!
                 - Either type `/video timestamp` or hit `Cmd/Ctrl+Alt+t` under a video to enter a timestamp
                 - Example::

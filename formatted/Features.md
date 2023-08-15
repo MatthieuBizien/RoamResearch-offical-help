@@ -51,6 +51,10 @@
 ## [Beginner's Guide](<Beginner's Guide.md>)
 - # Best [Features](<Features.md>)
 
+## [Change Log](<Change Log.md>)
+- {{[video](<video.md>): https://www.loom.com/share/3fa11c532cb44822a047caecc638e47f}}
+            - **[Features](<Features.md>):**
+
 ## [FAQ](<FAQ.md>)
 - # [Features]([Features](<Features.md>))
 
