@@ -1,6 +1,10 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 18th, 2023](<August 18th, 2023.md>)
+        - Small fixes for [Video Timestamps](<Video Timestamps.md>)
+            - If there are two or more of the same videos on screen, play the last used one
+            - Scroll video into view if it's not visible
     - [August 15th, 2023](<August 15th, 2023.md>)
         - Small fixes to [Graph Overview](<Graph Overview.md>)
             - Saves last used settings locally
@@ -129,7 +133,7 @@
                 - Demo2: ![demo2](https://github.com/studyduck/roam-save-scrollbar-position/raw/main/demo2.gif)[🔗](https://github.com/studyduck/roam-save-scrollbar-position/blob/main/demo2.gif)
     - [August 1st, 2023](<August 1st, 2023.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
-            - Changes to `{{video}}` `{{video-timestamp}}`
+            - Changes to `{{video}}` `{{video-timestamp}}` #[Video Timestamps](<Video Timestamps.md>)
                 - Video timestamps now include a block reference to the video they belong to
                     - They can be dragged anywhere in Roam, and you can see all of the timestamps of a video from the linked references
                     - Old video timestamps will still work, but they are not auto updated to include the block reference

@@ -42967,6 +42967,78 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-18-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "YhCkenNOy"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1692373052454,
+                    "edit-time": 1692373080058,
+                    "string": "If there are two or more of the same videos on screen, play the last used one",
+                    "uid": "SSGuu0sIW"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1692373040848,
+                    "edit-time": 1692373052090,
+                    "string": "Scroll video into view if it's not visible",
+                    "uid": "4ckzYHNpi"
+                  }
+                ],
+                "create-time": 1692373001169,
+                "edit-time": 1692373040250,
+                "refs": [
+                  {
+                    "uid": "YhCkenNOy"
+                  }
+                ],
+                "string": "Small fixes for [[Video Timestamps]]",
+                "uid": "fqrw5oZDb"
+              }
+            ],
+            "create-time": 1692372998520,
+            "edit-time": 1692373001184,
+            "refs": [
+              {
+                "uid": "08-18-2023"
+              }
+            ],
+            "string": "[[August 18th, 2023]]",
+            "uid": "jxkEyxHZp"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-15-2023"
               }
             ],
@@ -44447,6 +44519,11 @@
                 },
                 "children": [
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "YhCkenNOy"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
@@ -44518,8 +44595,13 @@
                       }
                     ],
                     "create-time": 1690923313843,
-                    "edit-time": 1690923589003,
-                    "string": "Changes to `{{video}}` `{{video-timestamp}}`",
+                    "edit-time": 1692373025546,
+                    "refs": [
+                      {
+                        "uid": "YhCkenNOy"
+                      }
+                    ],
+                    "string": "Changes to `{{video}}` `{{video-timestamp}}` #[[Video Timestamps]]",
                     "uid": "yUgQ7k0sl"
                   },
                   {
