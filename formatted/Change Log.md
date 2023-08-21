@@ -1,6 +1,9 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 21st, 2023](<August 21st, 2023.md>)
+        - [Performance Improvement](<Performance Improvement.md>) 
+        - Fix [query](<query.md>) updating sometimes when it shouldn't
     - [August 18th, 2023](<August 18th, 2023.md>)
         - Small fixes for [Video Timestamps](<Video Timestamps.md>)
             - If there are two or more of the same videos on screen, play the last used one

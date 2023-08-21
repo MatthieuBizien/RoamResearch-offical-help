@@ -2,6 +2,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Fix [query](<query.md>)
+
 - {{[query](<query.md>):
 
 ## [October 29th, 2021](<October 29th, 2021.md>)

@@ -3,6 +3,8 @@
 ## [Change Log](<Change Log.md>)
 - [Performance Improvement](<Performance Improvement.md>)
 
+- [Performance Improvement](<Performance Improvement.md>)
+
 - Small [Performance Improvement](<Performance Improvement.md>)
 
 - Small [Performance Improvement](<Performance Improvement.md>)
