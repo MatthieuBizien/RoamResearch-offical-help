@@ -2,7 +2,7 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [[August 21st, 2023]]
-        - [[Performance Improvement]] 
+        - [[Performance Improvement]] reduce the amount of work done per user action by 50% (update block, create new block, etc..), Roam should feel a little bit more snappy, especially with more content on the screen.
         - Fix [[query]] updating sometimes when it shouldn't
     - [[August 18th, 2023]]
         - Small fixes for [[Video Timestamps]]
