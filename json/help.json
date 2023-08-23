@@ -42967,6 +42967,68 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-23-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1692807587741,
+                    "edit-time": 1692807610021,
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnOcedJDFG9.png?alt=media&token=1b2ce47e-b8e5-41a3-8236-a20426ea7a95)",
+                    "uid": "7iCyx9nJ4"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1692807565692,
+                    "edit-time": 1692807587355,
+                    "string": "Useful if you are having an issue with Roam and think it might be one of your extensions",
+                    "uid": "1oI-Jpraz"
+                  }
+                ],
+                "create-time": 1692807532238,
+                "edit-time": 1692807561869,
+                "string": "Button to reload graph and disable all extensions",
+                "uid": "bgeHKd4JP"
+              }
+            ],
+            "create-time": 1692807529871,
+            "edit-time": 1692807532251,
+            "refs": [
+              {
+                "uid": "08-23-2023"
+              }
+            ],
+            "string": "[[August 23rd, 2023]]",
+            "uid": "nfsZZ9ZAG"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-21-2023"
               }
             ],
@@ -95938,9 +96000,15 @@
     "uid": "08-21-2023"
   },
   {
-    ":log/id": 1692803138512,
-    "create-time": 1692803138514,
-    "edit-time": 1692803138514,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1692807524916,
+    "create-time": 1692807524917,
+    "edit-time": 1692807524917,
     "title": "August 23rd, 2023",
     "uid": "08-23-2023"
   }

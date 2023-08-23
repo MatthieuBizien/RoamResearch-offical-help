@@ -1,6 +1,10 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 23rd, 2023](<August 23rd, 2023.md>)
+        - Button to reload graph and disable all extensions
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnOcedJDFG9.png?alt=media&token=1b2ce47e-b8e5-41a3-8236-a20426ea7a95)
+            - Useful if you are having an issue with Roam and think it might be one of your extensions
     - [August 21st, 2023](<August 21st, 2023.md>)
         - [Performance Improvement](<Performance Improvement.md>) reduce the amount of work done per user action by 50% (update block, create new block, etc..), Roam should feel a little bit more snappy, especially with more content on the screen.
         - Fix [query](<query.md>) updating sometimes when it shouldn't
