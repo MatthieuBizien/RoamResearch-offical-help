@@ -8,7 +8,7 @@
             - children
             - create-time
             - edit-time
-            - edit-email
+            - edit-user
     - Block
         - description:: An object representing a block. The only required key is the string
         - keys::
@@ -17,7 +17,7 @@
             - children
             - create-time
             - edit-time
-            - edit-email
+            - edit-user
             - heading
             - text-align
 - **Keys**
@@ -40,9 +40,9 @@
     - edit-time
         - description:: The time the object was last edited, measured in ms since unix epoch. If not supplied, the edit-time of the object will be filled in by either the create-time, or now.
         - type:: integer
-    - edit-email
-        - description:: The email of the user who last edited the object. If not supplied, will be filled in by the create-email, or the user who uploaded the JSON.
-        - type:: string
+    - edit-user
+        - description:: The user who last edited the object. 
+        - type:: json object of the format `{":user/uid" "ROAM-USER-UID"}`
     - heading
         - description:: Determines what heading tag to wrap the block in, default is no heading (0)
         - type:: integer, 0 | 1 | 2 | 3

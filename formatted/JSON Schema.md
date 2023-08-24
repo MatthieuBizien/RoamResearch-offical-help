@@ -8,7 +8,7 @@
             - children
             - create-time
             - edit-time
-            - edit-email
+            - edit-user
     - Block
         - **[description](<description.md>):** An object representing a block. The only required key is the string
         - **[keys](<keys.md>):**
@@ -17,7 +17,7 @@
             - children
             - create-time
             - edit-time
-            - edit-email
+            - edit-user
             - heading
             - text-align
 - **Keys**
@@ -40,9 +40,9 @@
     - edit-time
         - **[description](<description.md>):** The time the object was last edited, measured in ms since unix epoch. If not supplied, the edit-time of the object will be filled in by either the create-time, or now.
         - **[type](<type.md>):** integer
-    - edit-email
-        - **[description](<description.md>):** The email of the user who last edited the object. If not supplied, will be filled in by the create-email, or the user who uploaded the JSON.
-        - **[type](<type.md>):** string
+    - edit-user
+        - **[description](<description.md>):** The user who last edited the object. 
+        - **[type](<type.md>):** json object of the format `{":user/uid" "ROAM-USER-UID"}`
     - heading
         - **[description](<description.md>):** Determines what heading tag to wrap the block in, default is no heading (0)
         - **[type](<type.md>):** integer, 0 | 1 | 2 | 3

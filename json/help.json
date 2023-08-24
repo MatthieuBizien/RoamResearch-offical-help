@@ -71453,7 +71453,7 @@
               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
             },
             "children": [
               {
@@ -71463,15 +71463,15 @@
                   }
                 ],
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
-                "edit-time": 1614783006310,
+                "edit-time": 1692868511345,
                 "refs": [
                   {
                     "uid": "xosNQ_B-p"
                   }
                 ],
-                "string": "description:: The email of the user who last edited the object. If not supplied, will be filled in by the create-email, or the user who uploaded the JSON.",
+                "string": "description:: The user who last edited the object. ",
                 "uid": "y1edQoo9V"
               },
               {
@@ -71481,21 +71481,21 @@
                   }
                 ],
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
-                "edit-time": 1614783006310,
+                "edit-time": 1692868540226,
                 "refs": [
                   {
                     "uid": "EO7c3laa8"
                   }
                 ],
-                "string": "type:: string",
+                "string": "type:: json object of the format `{\":user/uid\" \"ROAM-USER-UID\"}`",
                 "uid": "Z7yyPUjGr"
               }
             ],
             "create-time": 1576024541563,
-            "edit-time": 1614783006310,
-            "string": "edit-email",
+            "edit-time": 1692868481502,
+            "string": "edit-user",
             "uid": "ZXjN4S0N3"
           },
           {
@@ -95936,14 +95936,14 @@
   },
   {
     ":create/user": {
-      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":edit/user": {
-      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    ":log/id": 1692101402422,
-    "create-time": 1692101402423,
-    "edit-time": 1692101402423,
+    ":log/id": 1692090189923,
+    "create-time": 1692090189924,
+    "edit-time": 1692090189924,
     "title": "August 15th, 2023",
     "uid": "08-15-2023"
   },
@@ -96013,9 +96013,15 @@
     "uid": "08-23-2023"
   },
   {
-    ":log/id": 1692846351243,
-    "create-time": 1692846351245,
-    "edit-time": 1692846351245,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1692868627869,
+    "create-time": 1692868627869,
+    "edit-time": 1692868627869,
     "title": "August 24th, 2023",
     "uid": "08-24-2023"
   }

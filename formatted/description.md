@@ -25,7 +25,7 @@
 - edit-time
         - **[description](<description.md>):**
 
-- edit-email
+- edit-user
         - **[description](<description.md>):**
 
 - heading

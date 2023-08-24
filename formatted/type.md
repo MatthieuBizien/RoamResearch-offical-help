@@ -19,7 +19,7 @@
 - **[description](<description.md>):** The time the object was last edited, measured in ms since unix epoch. If not supplied, the edit-time of the object will be filled in by either the create-time, or now.
         - **[type](<type.md>):**
 
-- **[description](<description.md>):** The email of the user who last edited the object. If not supplied, will be filled in by the create-email, or the user who uploaded the JSON.
+- **[description](<description.md>):** The user who last edited the object. 
         - **[type](<type.md>):**
 
 - **[description](<description.md>):** Determines what heading tag to wrap the block in, default is no heading (0)
