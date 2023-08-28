@@ -1,6 +1,15 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 28th, 2023](<August 28th, 2023.md>)
+        - `{{embed-children: ((block ref))}}`
+            - like [embed](<embed.md>), but it only displays the children of the block
+            - **[Example](<Example.md>):**
+                - A
+                    - 1
+                    - 2
+                - B
+                    - {{[embed-children](<embed-children.md>): ((fkAyo3B0v))}}
     - [August 23rd, 2023](<August 23rd, 2023.md>)
         - Button to reload graph and disable all extensions
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnOcedJDFG9.png?alt=media&token=1b2ce47e-b8e5-41a3-8236-a20426ea7a95)

@@ -5,6 +5,9 @@
         - **[Example](<Example.md>):**
 
 ## [Change Log](<Change Log.md>)
+- like [embed](<embed.md>), but it only displays the children of the block
+            - **[Example](<Example.md>):**
+
 - You can also now reference templates inside themselves to track the usage of them
                     - **[Example](<Example.md>):**
 
