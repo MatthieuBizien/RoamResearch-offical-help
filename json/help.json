@@ -96215,9 +96215,15 @@
     "uid": "IluzpyxCq"
   },
   {
-    ":log/id": 1693458319154,
-    "create-time": 1693458319155,
-    "edit-time": 1693458319155,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1693472232349,
+    "create-time": 1693472232350,
+    "edit-time": 1693472232350,
     "title": "August 31st, 2023",
     "uid": "08-31-2023"
   }
