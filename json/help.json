@@ -42967,6 +42967,56 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-30-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1693495065154,
+                    "edit-time": 1693495127487,
+                    "string": "Also rewrote a lot of the clojurescript and roam/render documentation in the dev graph",
+                    "uid": "VK2k68ZPG"
+                  }
+                ],
+                "create-time": 1693494987121,
+                "edit-time": 1693495095098,
+                "string": "Added links to our [slack](https://join.slack.com/t/roamresearch/shared_invite/zt-21yynf99v-39t09XesqSiIsz_1VFmwtA) and [developer documentation](https://roamresearch.com/#/app/developer-documentation) to the help section (?) in the top right",
+                "uid": "Q0hmZ4oEj"
+              }
+            ],
+            "create-time": 1693494984509,
+            "edit-time": 1693494987135,
+            "refs": [
+              {
+                "uid": "08-30-2023"
+              }
+            ],
+            "string": "[[August 30th, 2023]]",
+            "uid": "WidxHPEVw"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-28-2023"
               }
             ],
@@ -96226,5 +96276,18 @@
     "edit-time": 1693472232350,
     "title": "August 31st, 2023",
     "uid": "08-31-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1693408586473,
+    "create-time": 1693494986502,
+    "edit-time": 1693494986502,
+    "title": "August 30th, 2023",
+    "uid": "08-30-2023"
   }
 ]

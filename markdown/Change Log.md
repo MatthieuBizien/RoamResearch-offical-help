@@ -1,6 +1,9 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[August 30th, 2023]]
+        - Added links to our [slack](https://join.slack.com/t/roamresearch/shared_invite/zt-21yynf99v-39t09XesqSiIsz_1VFmwtA) and [developer documentation](https://roamresearch.com/#/app/developer-documentation) to the help section (?) in the top right
+            - Also rewrote a lot of the clojurescript and roam/render documentation in the dev graph
     - [[August 28th, 2023]]
         - `{{embed-children: ((block ref))}}`
             - like [[embed]], but it only displays the children of the block
