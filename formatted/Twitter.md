@@ -4,6 +4,9 @@
 - ### Product, Design, Support-- Bringing ideas, polish, and empathy to [Roam Research](<Roam Research.md>).
 - **[Twitter](<Twitter.md>):**
 
+## [Change Log](<Change Log.md>)
+- Fix x.com ([Twitter](<Twitter.md>))
+
 ## [Community](<Community.md>)
 - [Twitter](<Twitter.md>)
 
