@@ -96403,10 +96403,52 @@
     "uid": "09-17-2023"
   },
   {
-    ":log/id": 1695135946261,
-    "create-time": 1695135946262,
-    "edit-time": 1695135946263,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1695149566677,
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Ec97klr7x"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "create-time": 1695149726400,
+        "edit-time": 1695149729590,
+        "refs": [
+          {
+            "uid": "Ec97klr7x"
+          }
+        ],
+        "string": "[[Change Log]]",
+        "uid": "QHjnTNBN3"
+      }
+    ],
+    "create-time": 1695149566678,
+    "edit-time": 1695149566678,
     "title": "September 19th, 2023",
     "uid": "09-19-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "1ouKfJ93E0gTUMlPr6uPvRymaAS2"
+    },
+    ":edit/user": {
+      ":user/uid": "1ouKfJ93E0gTUMlPr6uPvRymaAS2"
+    },
+    "create-time": 1695149592219,
+    "edit-time": 1695149592219,
+    "title": "Anonymous",
+    "uid": "dwCjiez9U"
   }
 ]
