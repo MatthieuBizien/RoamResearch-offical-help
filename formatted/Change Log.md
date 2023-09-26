@@ -1,6 +1,21 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [September 26th, 2023](<September 26th, 2023.md>)
+        - Fix issues with pages and blocks having more than 1000 children
+        - Fix issues with broken references sometimes linking to the wrong block, references starting with numbers like `((88lsljdkf))` could create links if that uid didn't already exist in the graph
+    - [September 19th, 2023](<September 19th, 2023.md>)
+        - ## [New Features](<New Features.md>) 🚀 #[mobile](<mobile.md>)
+            - We are excited to announce the first beta release of our redesigned mobile app! Our focus has been on ensuring quick access, eliminating "graph is too large" errors, and giving the app a more native feel. We're rolling out to believers first to stress test the system.
+            - To enable, visit the settings tab at the bottom, flip the switch and open a graph.
+            - The app is currently in "read only" mode. The capability to edit will be rolled out in the coming weeks.
+            - An active internet connection is required. It's possible we may add limited offline capability in the future.
+            - Unfortunately, encrypted graphs are not supported since it relies on our new backend API
+            - This release also includes some improvements for everyone 
+                - Dark mode and new light theme colors to match the web app
+                - Fixed issues with sharing to the app
+                - Added graphs with read only access to the graph list
+                - Decreased size of the bottom navigation bar
     - [September 12th, 2023](<September 12th, 2023.md>)
         - Improve keypress performance
         - Fix x.com ([Twitter](<Twitter.md>)) link embeds

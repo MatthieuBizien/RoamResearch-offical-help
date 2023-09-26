@@ -42967,6 +42967,227 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "09-26-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1695742489844,
+                "edit-time": 1695742646964,
+                "string": "Fix issues with pages and blocks having more than 1000 children",
+                "uid": "y67FFyE4Q"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1695742506220,
+                "edit-time": 1695742639405,
+                "string": "Fix issues with broken references sometimes linking to the wrong block, references starting with numbers like `((88lsljdkf))` could create links if that uid didn't already exist in the graph",
+                "uid": "H5SN4pE2g"
+              }
+            ],
+            "create-time": 1695742487080,
+            "edit-time": 1695742489857,
+            "refs": [
+              {
+                "uid": "09-26-2023"
+              }
+            ],
+            "string": "[[September 26th, 2023]]",
+            "uid": "tGtVa1BaK"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "09-19-2023"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "fTOY6E5lG"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1695147879908,
+                    "edit-time": 1695742476090,
+                    "string": "We are excited to announce the first beta release of our redesigned mobile app! Our focus has been on ensuring quick access, eliminating \"graph is too large\" errors, and giving the app a more native feel. We're rolling out to believers first to stress test the system.",
+                    "uid": "Fw4f_cXiF"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "edit-time": 1695742399969,
+                    "string": "To enable, visit the settings tab at the bottom, flip the switch and open a graph.",
+                    "uid": "_BYml97o8"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1695148034151,
+                    "edit-time": 1695742399969,
+                    "string": "The app is currently in \"read only\" mode. The capability to edit will be rolled out in the coming weeks.",
+                    "uid": "3EMRAhuFG"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1695148055952,
+                    "edit-time": 1695742399969,
+                    "string": "An active internet connection is required. It's possible we may add limited offline capability in the future.",
+                    "uid": "aK9KMyfew"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1695147935220,
+                    "edit-time": 1695742399969,
+                    "string": "Unfortunately, encrypted graphs are not supported since it relies on our new backend API",
+                    "uid": "AfTQ49G7I"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1695742662881,
+                        "edit-time": 1695742662881,
+                        "string": "Dark mode and new light theme colors to match the web app",
+                        "uid": "T0brXC66Z"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1695742665602,
+                        "edit-time": 1695742665602,
+                        "string": "Fixed issues with sharing to the app",
+                        "uid": "NDUVvGfhn"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1695742668223,
+                        "edit-time": 1695742668223,
+                        "string": "Added graphs with read only access to the graph list",
+                        "uid": "cLemjt5Ot"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1695148121951,
+                        "edit-time": 1695742668225,
+                        "string": "Decreased size of the bottom navigation bar",
+                        "uid": "G0IF1jCtA"
+                      }
+                    ],
+                    "create-time": 1695742656068,
+                    "edit-time": 1695742659015,
+                    "string": "This release also includes some improvements for everyone ",
+                    "uid": "jOlEBR3_C"
+                  }
+                ],
+                "create-time": 1695742407310,
+                "edit-time": 1695742728104,
+                "heading": 2,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "fTOY6E5lG"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80 #[[mobile]]",
+                "uid": "FeXr1kL0k"
+              }
+            ],
+            "create-time": 1695742393798,
+            "edit-time": 1695742398562,
+            "refs": [
+              {
+                "uid": "09-19-2023"
+              }
+            ],
+            "string": "[[September 19th, 2023]]",
+            "uid": "Mq-mH8G4d"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "09-12-2023"
               }
             ],
@@ -96452,9 +96673,15 @@
     "uid": "dwCjiez9U"
   },
   {
-    ":log/id": 1695737153392,
-    "create-time": 1695737153394,
-    "edit-time": 1695737153394,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1695742294758,
+    "create-time": 1695742294759,
+    "edit-time": 1695742294759,
     "title": "September 26th, 2023",
     "uid": "09-26-2023"
   }
