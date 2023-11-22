@@ -96699,9 +96699,15 @@
     "uid": "10-02-2023"
   },
   {
-    ":log/id": 1700625955247,
-    "create-time": 1700625955248,
-    "edit-time": 1700625955248,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1700628912301,
+    "create-time": 1700628912302,
+    "edit-time": 1700628912302,
     "title": "November 22nd, 2023",
     "uid": "11-22-2023"
   }
