@@ -43,6 +43,9 @@
 
 - [Encrypted Graphs](<Encrypted Graphs.md>)
 
+## [Developer Documentation](<Developer Documentation.md>)
+- difference from the Backend API is that this can be used by [Encrypted Graphs](<Encrypted Graphs.md>)
+
 ## [FAQ](<FAQ.md>)
 - You can also [encrypt your graph]([Encrypted Graphs](<Encrypted Graphs.md>))
 

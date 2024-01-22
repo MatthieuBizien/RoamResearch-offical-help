@@ -1,6 +1,18 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [January 22nd, 2024](<January 22nd, 2024.md>)
+        - Ability to customize the Quick Capture template in the mobile app [mobile](<mobile.md>) 
+            - Please watch the [Loom video](<Loom video.md>) below to see how it works
+                - {{[video](<video.md>): https://www.loom.com/share/d63674bcd45e4b17bf247ec94893150c}}
+        - Small fixes / additions
+            - Fixes bug on paste from other websites where do not have :create/time and :create/user
+            - Fixes rare issue in multi user graphs where blocks seemed to appear in multiple places when lots of users were writing at the same time 
+            - Fixes bug where options for "Adjust width of main page" does not change properly when resized
+            - ... other small bug fixes in the client
+            - Apple users might want to check out **[Speak to Roam]([Apple Shortcuts/Speak to Roam](<Apple Shortcuts/Speak to Roam.md>))** Apple Shortcut (speak and send transcript to your Roam graph)
+            - A number of small fixes and improvements on the backend API. If you're interested, please checkout [the docs in the developer-documentation graph](https://roamresearch.com/#/app/developer-documentation/page/W4Po8pcHQ)
+                - more info: [Developer Documentation](<Developer Documentation.md>)
     - [September 26th, 2023](<September 26th, 2023.md>)
         - Fix issues with pages and blocks having more than 1000 children
         - Fix issues with broken references sometimes linking to the wrong block, references starting with numbers like `((88lsljdkf))` could create links if that uid didn't already exist in the graph

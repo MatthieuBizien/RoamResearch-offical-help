@@ -7,3 +7,6 @@
 
 - If you like this, you might like another one of [hyc](<hyc.md>)'
 
+## [Developer Documentation](<Developer Documentation.md>)
+- Big thanks to [hyc](<hyc.md>)
+

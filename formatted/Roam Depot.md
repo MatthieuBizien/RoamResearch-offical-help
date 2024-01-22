@@ -22,6 +22,9 @@
 
 - [Roam Depot](<Roam Depot.md>)
 
+## [Developer Documentation](<Developer Documentation.md>)
+- If you're writing a [Roam Depot](<Roam Depot.md>)
+
 ## [Encrypted Graphs](<Encrypted Graphs.md>)
 - [Roam Depot](<Roam Depot.md>)
 

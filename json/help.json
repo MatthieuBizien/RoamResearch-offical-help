@@ -42967,6 +42967,220 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "01-22-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "fTOY6E5lG"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "kPyVfSLxb"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2h9V-FtAO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1705899938979,
+                        "edit-time": 1705900979055,
+                        "refs": [
+                          {
+                            "uid": "2h9V-FtAO"
+                          }
+                        ],
+                        "string": "{{[[video]]: https://www.loom.com/share/d63674bcd45e4b17bf247ec94893150c}}",
+                        "uid": "ag0gjW1E0"
+                      }
+                    ],
+                    "create-time": 1705900814047,
+                    "edit-time": 1705900979055,
+                    "refs": [
+                      {
+                        "uid": "kPyVfSLxb"
+                      }
+                    ],
+                    "string": "Please watch the [[Loom video]] below to see how it works",
+                    "uid": "ey2qV4U9I"
+                  }
+                ],
+                "create-time": 1705899958816,
+                "edit-time": 1705900979055,
+                "refs": [
+                  {
+                    "uid": "fTOY6E5lG"
+                  }
+                ],
+                "string": "Ability to customize the Quick Capture template in the mobile app #mobile ",
+                "uid": "m88l2eWvm"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705900611595,
+                    "edit-time": 1705900979055,
+                    "string": "Fixes bug on paste from other websites where do not have :create/time and :create/user",
+                    "uid": "w15XATlyz"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705900613347,
+                    "edit-time": 1705900979055,
+                    "string": "Fixes rare issue in multi user graphs where blocks seemed to appear in multiple places when lots of users were writing at the same time ",
+                    "uid": "83q4DK4RP"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705900611595,
+                    "edit-time": 1705900979055,
+                    "string": "Fixes bug where options for \"Adjust width of main page\" does not change properly when resized",
+                    "uid": "9wECQk92P"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705900680306,
+                    "edit-time": 1705902135357,
+                    "string": "... other small bug fixes in the client",
+                    "uid": "54Dr_C2AU"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5Eo_ePG7D"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705901918786,
+                    "edit-time": 1705901926456,
+                    "refs": [
+                      {
+                        "uid": "5Eo_ePG7D"
+                      }
+                    ],
+                    "string": "Apple users might want to check out ((5Eo_ePG7D))",
+                    "uid": "ur6UWbdhJ"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2gI6JTUbb"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1705902137289,
+                        "edit-time": 1705902149051,
+                        "refs": [
+                          {
+                            "uid": "2gI6JTUbb"
+                          }
+                        ],
+                        "string": "more info: [[Developer Documentation]]",
+                        "uid": "tsxUGD2wg"
+                      }
+                    ],
+                    "create-time": 1705900991878,
+                    "edit-time": 1705901061252,
+                    "string": "A number of small fixes and improvements on the backend API. If you're interested, please checkout [the docs in the developer-documentation graph](https://roamresearch.com/#/app/developer-documentation/page/W4Po8pcHQ)",
+                    "uid": "V-qt-lMr2"
+                  }
+                ],
+                "create-time": 1705900575876,
+                "edit-time": 1705901914780,
+                "string": "Small fixes / additions",
+                "uid": "fk9LUxYtC"
+              }
+            ],
+            "create-time": 1705900974597,
+            "edit-time": 1705900978143,
+            "refs": [
+              {
+                "uid": "01-22-2024"
+              }
+            ],
+            "string": "[[January 22nd, 2024]]",
+            "uid": "uWvXdNynS"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "09-26-2023"
               }
             ],
@@ -96710,5 +96924,570 @@
     "edit-time": 1700628912302,
     "title": "November 22nd, 2023",
     "uid": "11-22-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1705881600000,
+    "create-time": 1705900978144,
+    "edit-time": 1705900978146,
+    "title": "January 22nd, 2024",
+    "uid": "01-22-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1705900979063,
+    "edit-time": 1705900979063,
+    "title": "Loom video",
+    "uid": "kPyVfSLxb"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "0Dydzbn0e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "N8P6RYE7o"
+                          },
+                          {
+                            ":block/uid": "TpA4naC1T"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1705901207058,
+                        "edit-time": 1705901264845,
+                        "refs": [
+                          {
+                            "uid": "N8P6RYE7o"
+                          },
+                          {
+                            "uid": "TpA4naC1T"
+                          }
+                        ],
+                        "string": "If you're writing a [[Roam Depot]] [extension]([[Roam Depot Extensions]]), in addition to the `roamAlphaAPI`, you can also use the `extensionAPI` ([linked here](https://roamresearch.com/#/app/developer-documentation/page/y31lhjIqU))",
+                        "uid": "LJkUTKz7Q"
+                      }
+                    ],
+                    "create-time": 1705901182179,
+                    "edit-time": 1705901241354,
+                    "string": "This is the API that frontend Roam extensions use",
+                    "uid": "YQ_nfzC-j"
+                  }
+                ],
+                "create-time": 1705901171798,
+                "edit-time": 1705902006475,
+                "refs": [
+                  {
+                    "uid": "0Dydzbn0e"
+                  }
+                ],
+                "string": "[[Roam Alpha API]]: https://roamresearch.com/#/app/developer-documentation/page/tIaOPdXCj",
+                "uid": "llhXv6sYM"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "6Gf4yvK6a"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705901269540,
+                    "edit-time": 1705901305573,
+                    "string": "A REST API for your roam graph",
+                    "uid": "lDJ492Zrx"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705901305567,
+                    "edit-time": 1705901340942,
+                    "string": "You can use this API to read or write to your Roam graph via your own code or a variety of services",
+                    "uid": "KixvCv02H"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "C8Y_cGdHM"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1705901613514,
+                                "edit-time": 1705901640987,
+                                "string": "And it\u2019s free! (though you do have to enter an OpenAI key\u00a0\ud83d\ude05)",
+                                "uid": "DIH1z_hXw"
+                              }
+                            ],
+                            "create-time": 1705901613514,
+                            "edit-time": 1705901717810,
+                            "string": "An Apple Shortcut which allows you to speak and send the transcript to your Roam graph (works on iPhone, iPad, Mac and even on an Apple Watch )",
+                            "uid": "0YIMp6COA"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "children": [
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "Tc7Z9Lsuc"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1705901816504,
+                                    "edit-time": 1705901854968,
+                                    "refs": [
+                                      {
+                                        "uid": "Tc7Z9Lsuc"
+                                      }
+                                    ],
+                                    "string": "Uses the [[OpenAI]] Whisper API to transcribe a voice recording",
+                                    "uid": "JLYtmCtGX"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "Tc7Z9Lsuc"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1705901793086,
+                                    "edit-time": 1705901877926,
+                                    "refs": [
+                                      {
+                                        "uid": "Tc7Z9Lsuc"
+                                      }
+                                    ],
+                                    "string": "Optionally post-process the transcript via an [[OpenAI]] GPT4 API call (prompt is customizable)",
+                                    "uid": "IdHHIw-RX"
+                                  },
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1705901783291,
+                                    "edit-time": 1705901832916,
+                                    "string": "If recording has been made and then something fails, then save the recording to \u201ciCloud Drive/Shortcuts/SpeakToRoam/FailedRecordings/\u201d folder and show a proper error message to the user",
+                                    "uid": "5axE2uSFi"
+                                  }
+                                ],
+                                "create-time": 1705901774461,
+                                "edit-time": 1705901783297,
+                                "string": "Features",
+                                "uid": "bBleyxkMp"
+                              },
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "kPyVfSLxb"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1705901686472,
+                                    "edit-time": 1705901773447,
+                                    "string": "(these are for an older version but should be generally correct)",
+                                    "uid": "szjCpkNXa"
+                                  },
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1705901664719,
+                                    "edit-time": 1705901682252,
+                                    "string": "The demo video: https://www.loom.com/share/76ebb8a30b1043b3a566f4077054ea73Longer ",
+                                    "uid": "r-vsHyn_T"
+                                  },
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1705901664719,
+                                    "edit-time": 1705901683519,
+                                    "string": "Set up guide video:\u00a0https://www.loom.com/share/9bdbf2495e1f4a049d3d7354594a9808",
+                                    "uid": "q3M9x4MUi"
+                                  }
+                                ],
+                                "create-time": 1705901600094,
+                                "edit-time": 1705901686479,
+                                "refs": [
+                                  {
+                                    "uid": "kPyVfSLxb"
+                                  }
+                                ],
+                                "string": "[[Loom video]]s",
+                                "uid": "pAXWycTQ7"
+                              }
+                            ],
+                            "create-time": 1705901444156,
+                            "edit-time": 1705901646198,
+                            "string": "Latest version: **v1.2.0:\u00a0** https://www.icloud.com/shortcuts/9280597747c543eab39dd65d4aebd992",
+                            "uid": "C_tVqcL9s"
+                          }
+                        ],
+                        "create-time": 1705901421812,
+                        "edit-time": 1705901753394,
+                        "refs": [
+                          {
+                            "uid": "C8Y_cGdHM"
+                          }
+                        ],
+                        "string": "**[Speak to Roam]([[Apple Shortcuts/Speak to Roam]])** Apple Shortcut (speak and send transcript to your Roam graph)",
+                        "uid": "5Eo_ePG7D"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "FqDoizaVK"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "5CHvCrsmK"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1705901374386,
+                            "edit-time": 1705901419494,
+                            "refs": [
+                              {
+                                "uid": "5CHvCrsmK"
+                              }
+                            ],
+                            "string": "{{embed: ((5CHvCrsmK))}}",
+                            "uid": "aXXSgqxAH"
+                          }
+                        ],
+                        "create-time": 1705901416348,
+                        "edit-time": 1705901416348,
+                        "refs": [
+                          {
+                            "uid": "FqDoizaVK"
+                          }
+                        ],
+                        "string": "the [[Raycast]] extension",
+                        "uid": "OBsBy28OS"
+                      }
+                    ],
+                    "create-time": 1705901341184,
+                    "edit-time": 1705901374392,
+                    "string": "Some examples of things that use the Roam Backend API",
+                    "uid": "nUZH5JaLD"
+                  }
+                ],
+                "create-time": 1705901158693,
+                "edit-time": 1705902009848,
+                "refs": [
+                  {
+                    "uid": "6Gf4yvK6a"
+                  }
+                ],
+                "string": "[[Roam Backend API]]: https://roamresearch.com/#/app/developer-documentation/page/W4Po8pcHQ",
+                "uid": "lYOflu2v5"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "wV83zeWbM"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705902043025,
+                    "edit-time": 1705902049496,
+                    "string": "in Alpha right now",
+                    "uid": "kbM9jdeGl"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "DTR1FMubL"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705902049491,
+                    "edit-time": 1705902086767,
+                    "refs": [
+                      {
+                        "uid": "DTR1FMubL"
+                      }
+                    ],
+                    "string": "difference from the Backend API is that this can be used by [[Encrypted Graphs]] too",
+                    "uid": "LKK53Kkti"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1705902088044,
+                    "edit-time": 1705902154160,
+                    "string": "Other convenience features for writes/captures",
+                    "uid": "13DPl3D_B"
+                  }
+                ],
+                "create-time": 1705901966693,
+                "edit-time": 1705902043030,
+                "refs": [
+                  {
+                    "uid": "wV83zeWbM"
+                  }
+                ],
+                "string": "[[Roam Append API]]: https://roamresearch.com/#/app/developer-documentation/page/eb8OVhaFC",
+                "uid": "qOkQNpSqW"
+              }
+            ],
+            "create-time": 1705901151590,
+            "edit-time": 1705902028376,
+            "string": "**Some starting points**",
+            "uid": "q-nYmAAvZ"
+          }
+        ],
+        "create-time": 1705901122323,
+        "edit-time": 1705901151107,
+        "string": "If you're a developer who'd like to build extensions for Roam or connect stuff to Roam, please checkout our `developer-documentation` graph: https://roamresearch.com/#/app/developer-documentation",
+        "uid": "VtpLxiauA"
+      }
+    ],
+    "create-time": 1705901113567,
+    "edit-time": 1705901113567,
+    "title": "Developer Documentation",
+    "uid": "2gI6JTUbb"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1705901442875,
+    "edit-time": 1705901442877,
+    "title": "Apple Shortcuts/Speak to Roam",
+    "uid": "C8Y_cGdHM"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1705901841711,
+    "edit-time": 1705901841712,
+    "title": "OpenAI",
+    "uid": "Tc7Z9Lsuc"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1705902006476,
+    "edit-time": 1705902006477,
+    "title": "Roam Alpha API",
+    "uid": "0Dydzbn0e"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1705902009849,
+    "edit-time": 1705902009849,
+    "title": "Roam Backend API",
+    "uid": "6Gf4yvK6a"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1705902038303,
+    "edit-time": 1705902038303,
+    "title": "Roam Append API",
+    "uid": "wV83zeWbM"
   }
 ]
