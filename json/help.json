@@ -97489,17 +97489,5 @@
     "edit-time": 1705902038303,
     "title": "Roam Append API",
     "uid": "wV83zeWbM"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1705946776118,
-    "edit-time": 1705946776118,
-    "title": "Matthieu Bizien",
-    "uid": "8ZTenEAf9"
   }
 ]
