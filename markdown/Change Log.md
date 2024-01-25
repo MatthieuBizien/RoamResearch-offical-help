@@ -1,6 +1,24 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[January 25th, 2024]]
+        - [[Roam Depot Extensions]]
+            - # [Nautilus](https://github.com/tombarys/roam-depot-nautilus)
+                - Nautilus is a Roam Research extension with a unique approach to stress-free day planning and time blocking in Roam
+                - This visual approach reduces the feeling of being overwhelmed, enhances task-effort estimating skills, and clearly shows what the feasible tasks are for the rest of the day. The spiral shape mirrors one's diminishing energy for creative tasks over a given day.
+                - ## Features
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FW6-cphnZ2t.png?alt=media&token=f8b434e1-653b-455a-8971-4020ed0781b6)
+                - ## Usage
+                    - only once: install **Nautilus** and **TODO Trigger** extension
+                    - insert the component at the top of your Daily Page using ;;Nautilus template
+                    - indent all events and tasks that you want to accomplish below the component as its children
+                    - start inserting tasks, then folow up with events
+                    - use e.g. "12:30-14:20" or "9 to 10:45" to anchor fixed time events
+                    - use e.g. "10m" or "20min" to set the task duration (other than default)
+                    - use e.g. "d18:30" or "d9:05" in tasks to denote the time when they were finished (or use extension for it)
+                    - during a day: reorder tasks and move some of them after fixed events to ensure they will not be planned earlier
+                - ## Quick Start Video
+                    - {{[[video]]: https://www.loom.com/embed/c66b99a39a5a4f74b2889ccab467e9eb?sid=5809279e-7deb-44e2-a448-f9de33ba8510}}
     - [[January 22nd, 2024]]
         - Ability to customize the Quick Capture template in the mobile app #mobile 
             - Please watch the [[Loom video]] below to see how it works

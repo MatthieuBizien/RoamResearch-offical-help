@@ -42967,6 +42967,268 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "01-25-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1706176167414,
+                        "edit-time": 1706176167414,
+                        "string": "Nautilus is a Roam Research extension with a unique approach to stress-free day planning and time blocking in Roam",
+                        "uid": "XbKV4v2Gk"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1706176167414,
+                        "edit-time": 1706176167414,
+                        "string": "This visual approach reduces the feeling of being overwhelmed, enhances task-effort estimating skills, and clearly shows what the feasible tasks are for the rest of the day. The spiral shape mirrors one's diminishing energy for creative tasks over a given day.",
+                        "uid": "oRoJyJlt8"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176193294,
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FW6-cphnZ2t.png?alt=media&token=f8b434e1-653b-455a-8971-4020ed0781b6)",
+                            "uid": "CU3qW82G2"
+                          }
+                        ],
+                        "create-time": 1706176167414,
+                        "edit-time": 1706176167414,
+                        "heading": 2,
+                        "string": "Features",
+                        "uid": "0gXj9o--X"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "string": "only once: install\u00a0**Nautilus**\u00a0and\u00a0**TODO Trigger**\u00a0extension",
+                            "uid": "JCKBLLTu3"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "string": "insert the component at the top of your Daily Page using\u00a0;;Nautilus\u00a0template",
+                            "uid": "29prZU_0S"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "string": "indent all events and tasks that you want to accomplish below the component as its children",
+                            "uid": "pBI_3sP_s"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "string": "start inserting tasks, then folow up with events",
+                            "uid": "WJz9ptJcX"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "string": "use e.g. \"12:30-14:20\" or \"9 to 10:45\" to anchor fixed time events",
+                            "uid": "eT2_oS4zx"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "string": "use e.g. \"10m\" or \"20min\" to set the task duration (other than default)",
+                            "uid": "vcVPTJj3L"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "string": "use e.g. \"d18:30\" or \"d9:05\" in tasks to denote the time when they were finished (or use extension for it)",
+                            "uid": "CFtuEV4xD"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "string": "during a day: reorder tasks and move some of them after fixed events to ensure they will not be planned earlier",
+                            "uid": "klePHvSwz"
+                          }
+                        ],
+                        "create-time": 1706176167414,
+                        "edit-time": 1706176167414,
+                        "heading": 2,
+                        "string": "Usage",
+                        "uid": "DBVlpiaCn"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://www.loom.com/embed/c66b99a39a5a4f74b2889ccab467e9eb?sid=5809279e-7deb-44e2-a448-f9de33ba8510}}",
+                            "uid": "USO4qVD7K"
+                          }
+                        ],
+                        "create-time": 1706176167414,
+                        "edit-time": 1706176167414,
+                        "heading": 2,
+                        "string": "Quick Start Video",
+                        "uid": "O64JM9jCY"
+                      }
+                    ],
+                    "create-time": 1706176167414,
+                    "edit-time": 1706176167414,
+                    "heading": 1,
+                    "string": "[Nautilus](https://github.com/tombarys/roam-depot-nautilus)",
+                    "uid": "mrE04bvr9"
+                  }
+                ],
+                "create-time": 1706176172912,
+                "edit-time": 1706176173546,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "rDZg1l02C"
+              }
+            ],
+            "create-time": 1706176151417,
+            "edit-time": 1706176157572,
+            "refs": [
+              {
+                "uid": "01-25-2024"
+              }
+            ],
+            "string": "[[January 25th, 2024]]",
+            "uid": "NQOw7KInl"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "01-22-2024"
               }
             ],
@@ -97492,26 +97754,14 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    "create-time": 1706173520420,
-    "edit-time": 1706173520420,
-    "title": "Matthieu Bizien",
-    "uid": "cJh1cQftg"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1706173520432,
-    "create-time": 1706173520434,
-    "edit-time": 1706173520434,
+    ":log/id": 1706140800000,
+    "create-time": 1706176157573,
+    "edit-time": 1706176157574,
     "title": "January 25th, 2024",
     "uid": "01-25-2024"
   }
