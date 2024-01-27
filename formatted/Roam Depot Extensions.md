@@ -32,6 +32,8 @@
 
 - [Roam Depot Extensions](<Roam Depot Extensions.md>)
 
+- [Roam Depot Extensions](<Roam Depot Extensions.md>)
+
 ## [Developer Documentation](<Developer Documentation.md>)
 - If you're writing a [Roam Depot](<Roam Depot.md>) [extension]([Roam Depot Extensions](<Roam Depot Extensions.md>))
 

@@ -1,6 +1,31 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [January 27th, 2024](<January 27th, 2024.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
+            - # [Speech to Roam](https://github.com/fbgallet/roam-extension-speech-to-roam)
+                - Speak instead of having to type into Roam. 
+Additionally, you can speak to a GPT model (providing context to the model from your Roam graph by selecting blocks before calling the command!), or even do translations to English
+                - ## Features
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FxtLDz8oskA.png?alt=media&token=7d96b57a-b6dd-45b9-9c3e-da784e4c5a31)
+                        - By default, the controls will be inserted in the left sidebar, after "Daily Notes". It's possible to display them in the topbar (always visible, more convenient on mobile).
+                    - ### Voice transcription
+                        - the transcribed text will be inserted at the bottom of the current page (or page view) or appended to the current focused block.
+                        - Uses either an OpenAI API Key (that you need to set up in the extension settings), or if you disable Whisper, uses the free Web Speech API (⚠️ not available in Electron Desktop app and Firefox or Arc browser)
+                    - ### Translation
+                        - A large number of [source languages are supported](https://platform.openai.com/docs/guides/speech-to-text/supported-languages), but the target language is currently limited to English. This limitation can be easily overcome through post-processing using a GPT model, as it only requires asking it to translate into any language.
+                    - ### Speak directly to an AI Assistant (OpenAI GPT models)
+                        - ask any question, rephrasing, completion, translation! Feel free to specify the expected format of the response (its length, style, etc.).
+                        - assistant response is inserted as last child of prompt block (current limitation: the answer is only one long block)
+                        - you can easily **provide context by selecting some block(s)** in the page or right sidebar. You can use it to extend a conversation, ask a question about any content, request a summary or translation, and so on. 🚀
+                        - on mobile (selection being not possible), place the cursor in a block to use its content as context, or enable the option to use the whole current view as context (unless you place the cursor in a blank block).
+                        - model by default is currently gpt-3.5-turbo-1106
+                            - you can try other chat completion model, or your own fine-tuned models
+                - ## Quick Start
+                    - Install the extension by searching for "Speech to Roam" in Roam Depot
+                    - Then, right after installation,
+                        - In the settings, provide an OpenAI API key (by copying/pasting an existing key or generating a new key via [this link](https://platform.openai.com/api-keys)). You need an account on OpenAI to benefit from Whisper transcriptions.
+                - ⚠️ __Currently, this extension doesn't work on either the MacOS desktop app or the Android app, but it works on browsers (desktop and mobile) and on Windows desktop app.__
     - [January 25th, 2024](<January 25th, 2024.md>)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - # [Nautilus](https://github.com/tombarys/roam-depot-nautilus)

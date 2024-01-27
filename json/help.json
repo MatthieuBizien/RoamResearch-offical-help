@@ -42967,6 +42967,358 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "01-27-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1706330922487,
+                        "edit-time": 1706332624190,
+                        "string": "Speak instead of having to type into Roam. \nAdditionally, you can speak to a GPT model (providing context to the model from your Roam graph by selecting blocks before calling the command!), or even do translations to English",
+                        "uid": "AhlhHTp20"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FxtLDz8oskA.png?alt=media&token=7d96b57a-b6dd-45b9-9c3e-da784e4c5a31": {
+                                  ":height": null,
+                                  ":width": 427
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329350718,
+                                "edit-time": 1706329351635,
+                                "string": "By default, the controls will be inserted in the left sidebar, after \"Daily Notes\". It's possible to display them in the topbar (always visible, more convenient on mobile).",
+                                "uid": "vzPfYskbx"
+                              }
+                            ],
+                            "create-time": 1706329339012,
+                            "edit-time": 1706329431352,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FxtLDz8oskA.png?alt=media&token=7d96b57a-b6dd-45b9-9c3e-da784e4c5a31": {
+                                  "height": null,
+                                  "width": 427
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FxtLDz8oskA.png?alt=media&token=7d96b57a-b6dd-45b9-9c3e-da784e4c5a31)",
+                            "uid": "RV56lr7xl"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329471705,
+                                "edit-time": 1706329471705,
+                                "string": "the transcribed text will be inserted at the bottom of the current page (or page view) or appended to the current focused block.",
+                                "uid": "yKdFvZM2o"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329471705,
+                                "edit-time": 1706329554453,
+                                "string": "Uses either an OpenAI API Key (that you need to set up in the extension settings), or if you disable Whisper, uses the free Web Speech API (\u26a0\ufe0f\u00a0not available in Electron Desktop app and Firefox or Arc browser)",
+                                "uid": "WJbVkC4zo"
+                              }
+                            ],
+                            "create-time": 1706329471705,
+                            "edit-time": 1706329471705,
+                            "heading": 3,
+                            "string": "Voice transcription",
+                            "uid": "bfe1UeBsf"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329482402,
+                                "edit-time": 1706329482402,
+                                "string": "A large number of\u00a0[source languages are supported](https://platform.openai.com/docs/guides/speech-to-text/supported-languages), but the target language is currently limited to English. This limitation can be easily overcome through post-processing using a GPT model, as it only requires asking it to translate into any language.",
+                                "uid": "apYpN2uUK"
+                              }
+                            ],
+                            "create-time": 1706329482402,
+                            "edit-time": 1706329482402,
+                            "heading": 3,
+                            "string": "Translation",
+                            "uid": "gKYInAma3"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329498457,
+                                "edit-time": 1706329498457,
+                                "string": "ask any question, rephrasing, completion, translation! Feel free to specify the expected format of the response (its length, style, etc.).",
+                                "uid": "UYLvhsaPd"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329498457,
+                                "edit-time": 1706329498457,
+                                "string": "assistant response is inserted as last child of prompt block (current limitation: the answer is only one long block)",
+                                "uid": "utzndujOs"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329498457,
+                                "edit-time": 1706329498457,
+                                "string": "you can easily\u00a0**provide context by selecting some block(s)**\u00a0in the page or right sidebar. You can use it to extend a conversation, ask a question about any content, request a summary or translation, and so on. \ud83d\ude80",
+                                "uid": "xhze3zLIz"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329498457,
+                                "edit-time": 1706329498457,
+                                "string": "on mobile (selection being not possible), place the cursor in a block to use its content as context, or enable the option to use the whole current view as context (unless you place the cursor in a blank block).",
+                                "uid": "zkxhiJE-C"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1706329498457,
+                                    "edit-time": 1706329498457,
+                                    "string": "you can try other chat completion model, or your own fine-tuned models",
+                                    "uid": "vtM_rGfDw"
+                                  }
+                                ],
+                                "create-time": 1706329498457,
+                                "edit-time": 1706329498457,
+                                "string": "model by default is currently\u00a0gpt-3.5-turbo-1106",
+                                "uid": "L-24e-G0t"
+                              }
+                            ],
+                            "create-time": 1706329498457,
+                            "edit-time": 1706329498457,
+                            "heading": 3,
+                            "string": "Speak directly to an AI Assistant (OpenAI GPT models)",
+                            "uid": "is3jcU9Uj"
+                          }
+                        ],
+                        "create-time": 1706329297635,
+                        "edit-time": 1706329297635,
+                        "heading": 2,
+                        "string": "Features",
+                        "uid": "LvCMDjVta"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1706329603531,
+                            "edit-time": 1706329634220,
+                            "string": "Install the extension by searching for \"Speech to Roam\" in Roam Depot",
+                            "uid": "WnPfQZU2_"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1706329405422,
+                                "edit-time": 1706329405422,
+                                "string": "In the settings, provide an OpenAI API key (by copying/pasting an existing key or generating a new key via\u00a0[this link](https://platform.openai.com/api-keys)). You need an account on OpenAI to benefit from Whisper transcriptions.",
+                                "uid": "5ORRHUM_5"
+                              }
+                            ],
+                            "create-time": 1706329405422,
+                            "edit-time": 1706329654012,
+                            "string": "Then, right after installation,",
+                            "uid": "T975UU30C"
+                          }
+                        ],
+                        "create-time": 1706329297635,
+                        "edit-time": 1706329404828,
+                        "heading": 2,
+                        "string": "Quick Start",
+                        "uid": "dmnB5kp3_"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1706332685045,
+                        "edit-time": 1706332687254,
+                        "string": "\u26a0\ufe0f\u00a0__Currently, this extension doesn't work on either the MacOS desktop app or the Android app, but it works on browsers (desktop and mobile) and on Windows desktop app.__",
+                        "uid": "jW4MOBoT0"
+                      }
+                    ],
+                    "create-time": 1706329297635,
+                    "edit-time": 1706329311918,
+                    "heading": 1,
+                    "string": "[Speech to Roam](https://github.com/fbgallet/roam-extension-speech-to-roam)",
+                    "uid": "5pSgJR_GN"
+                  }
+                ],
+                "create-time": 1706329297635,
+                "edit-time": 1706329297635,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "P0YsbZu82"
+              }
+            ],
+            "create-time": 1706329288853,
+            "edit-time": 1706329291747,
+            "refs": [
+              {
+                "uid": "01-27-2024"
+              }
+            ],
+            "string": "[[January 27th, 2024]]",
+            "uid": "bur3ZyNN3"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "01-25-2024"
               }
             ],
@@ -97764,5 +98116,30 @@
     "edit-time": 1706176157574,
     "title": "January 25th, 2024",
     "uid": "01-25-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1706329204636,
+    "create-time": 1706329204636,
+    "edit-time": 1706329204636,
+    "title": "January 27th, 2024",
+    "uid": "01-27-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1706389529025,
+    "edit-time": 1706389529025,
+    "title": "Matthieu Bizien",
+    "uid": "-ZxjpJ84c"
   }
 ]
