@@ -98201,30 +98201,5 @@
     "edit-time": 1710298370731,
     "title": "March 12th, 2024",
     "uid": "03-12-2024"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1710353152345,
-    "edit-time": 1710353152345,
-    "title": "Matthieu Bizien",
-    "uid": "ytmhzD1ar"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1710353152353,
-    "create-time": 1710353152354,
-    "edit-time": 1710353152354,
-    "title": "March 13th, 2024",
-    "uid": "03-13-2024"
   }
 ]
