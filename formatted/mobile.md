@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Fix setting custom hotkeys on [mobile](<mobile.md>)
+
 - ## [New Features](<New Features.md>) 🚀 #[mobile](<mobile.md>)
 
 - Fixed the screen jump that happens when clicking into a block in the [mobile](<mobile.md>)

@@ -1,6 +1,8 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [March 12th, 2024](<March 12th, 2024.md>)
+        - Fix setting custom hotkeys on [mobile](<mobile.md>) web
     - [January 27th, 2024](<January 27th, 2024.md>)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - # [Speech to Roam](https://github.com/fbgallet/roam-extension-speech-to-roam)

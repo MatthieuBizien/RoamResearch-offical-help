@@ -42967,6 +42967,52 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "03-12-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "fTOY6E5lG"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1710298383032,
+                "edit-time": 1710298412923,
+                "refs": [
+                  {
+                    "uid": "fTOY6E5lG"
+                  }
+                ],
+                "string": "Fix setting custom hotkeys on [[mobile]] web",
+                "uid": "6mzISY-wm"
+              }
+            ],
+            "create-time": 1710298380925,
+            "edit-time": 1710298383043,
+            "refs": [
+              {
+                "uid": "03-12-2024"
+              }
+            ],
+            "string": "[[March 12th, 2024]]",
+            "uid": "kzUgoJBR2"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "01-27-2024"
               }
             ],
@@ -42974,7 +43020,7 @@
               ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
             },
             ":edit/user": {
-              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             "children": [
               {
@@ -43307,7 +43353,7 @@
               }
             ],
             "create-time": 1706329288853,
-            "edit-time": 1706329291747,
+            "edit-time": 1710298411517,
             "refs": [
               {
                 "uid": "01-27-2024"
@@ -98142,5 +98188,43 @@
     "edit-time": 1710177769088,
     "title": "March 11th, 2024",
     "uid": "03-11-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1710298370730,
+    "create-time": 1710298370731,
+    "edit-time": 1710298370731,
+    "title": "March 12th, 2024",
+    "uid": "03-12-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1710299213221,
+    "edit-time": 1710299213222,
+    "title": "Matthieu Bizien",
+    "uid": "NZhKtuty3"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":log/id": 1710299213230,
+    "create-time": 1710299213232,
+    "edit-time": 1710299213232,
+    "title": "March 13th, 2024",
+    "uid": "03-13-2024"
   }
 ]
