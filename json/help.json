@@ -42967,6 +42967,109 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "03-13-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "fTOY6E5lG"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FeXr1kL0k"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1710382313094,
+                        "edit-time": 1710382484678,
+                        "string": "Tap on \"daily notes\" to bring up a calendar to navigate to future or past days",
+                        "uid": "OBP42qPeg"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1710382484672,
+                        "edit-time": 1710382516599,
+                        "string": "Hold the back button to bring up your history, or to navigate to daily notes or open your shortcuts",
+                        "uid": "crvr7jNHu"
+                      }
+                    ],
+                    "create-time": 1710382366696,
+                    "edit-time": 1710382447432,
+                    "refs": [
+                      {
+                        "uid": "FeXr1kL0k"
+                      }
+                    ],
+                    "string": "Added the ability to edit the [new mobile beta for believers](((FeXr1kL0k)))",
+                    "uid": "CAqBFd1Oh"
+                  }
+                ],
+                "create-time": 1710382341339,
+                "edit-time": 1710382342386,
+                "heading": 2,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "fTOY6E5lG"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80 #[[mobile]]",
+                "uid": "Cwunb1-HI"
+              }
+            ],
+            "create-time": 1710382309963,
+            "edit-time": 1710382313108,
+            "refs": [
+              {
+                "uid": "03-13-2024"
+              }
+            ],
+            "string": "[[March 13th, 2024]]",
+            "uid": "5YKdcnp9q"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "03-12-2024"
               }
             ],
@@ -98204,15 +98307,16 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1710382222005,
-    "edit-time": 1710382222006,
-    "title": "Matthieu Bizien",
-    "uid": "UNvTykrFS"
+    ":log/id": 1710382300420,
+    "create-time": 1710382300421,
+    "edit-time": 1710382300421,
+    "title": "March 13th, 2024",
+    "uid": "03-13-2024"
   },
   {
     ":create/user": {
@@ -98221,9 +98325,21 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1710382222013,
-    "create-time": 1710382222014,
-    "edit-time": 1710382222014,
+    "create-time": 1710385563119,
+    "edit-time": 1710385563119,
+    "title": "Matthieu Bizien",
+    "uid": "P2Vbnjce6"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":log/id": 1710385563128,
+    "create-time": 1710385563129,
+    "edit-time": 1710385563130,
     "title": "March 14th, 2024",
     "uid": "03-14-2024"
   }

@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- ## [New Features](<New Features.md>) 🚀 #[mobile](<mobile.md>)
+
 - Fix setting custom hotkeys on [mobile](<mobile.md>)
 
 - ## [New Features](<New Features.md>) 🚀 #[mobile](<mobile.md>)

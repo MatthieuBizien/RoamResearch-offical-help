@@ -1,6 +1,11 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [March 13th, 2024](<March 13th, 2024.md>)
+        - ## [New Features](<New Features.md>) 🚀 #[mobile](<mobile.md>)
+            - Added the ability to edit the [new mobile beta for believers](((FeXr1kL0k)))
+                - Tap on "daily notes" to bring up a calendar to navigate to future or past days
+                - Hold the back button to bring up your history, or to navigate to daily notes or open your shortcuts
     - [March 12th, 2024](<March 12th, 2024.md>)
         - Fix setting custom hotkeys on [mobile](<mobile.md>) web
     - [January 27th, 2024](<January 27th, 2024.md>)
