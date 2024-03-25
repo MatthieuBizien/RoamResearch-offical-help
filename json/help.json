@@ -42995,11 +42995,11 @@
                       ":user/uid": "1ouKfJ93E0gTUMlPr6uPvRymaAS2"
                     },
                     ":edit/user": {
-                      ":user/uid": "1ouKfJ93E0gTUMlPr6uPvRymaAS2"
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
                     "create-time": 1711153487914,
-                    "edit-time": 1711153487914,
-                    "string": "",
+                    "edit-time": 1711328272243,
+                    "string": "https://twitter.com/RoamResearch/status/1771368456937676986",
                     "uid": "b3r5SB58D"
                   }
                 ],
@@ -98393,15 +98393,16 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1711326048980,
-    "edit-time": 1711326048980,
-    "title": "Matthieu Bizien",
-    "uid": "S-NK56JG9"
+    ":log/id": 1711328267420,
+    "create-time": 1711328267421,
+    "edit-time": 1711328267421,
+    "title": "March 24th, 2024",
+    "uid": "03-24-2024"
   },
   {
     ":create/user": {
@@ -98410,9 +98411,21 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1711326048988,
-    "create-time": 1711326048989,
-    "edit-time": 1711326048989,
+    "create-time": 1711330061239,
+    "edit-time": 1711330061239,
+    "title": "Matthieu Bizien",
+    "uid": "X7uhfS6mb"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":log/id": 1711330061247,
+    "create-time": 1711330061249,
+    "edit-time": 1711330061249,
     "title": "March 25th, 2024",
     "uid": "03-25-2024"
   }
