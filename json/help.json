@@ -42967,6 +42967,164 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "03-28-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  },
+                  {
+                    ":block/uid": "fTOY6E5lG"
+                  },
+                  {
+                    ":block/uid": "N3Uq-2dil"
+                  },
+                  {
+                    ":block/uid": "LK8cfW7Xh"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "LK8cfW7Xh"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1711633058652,
+                    "edit-time": 1711633069301,
+                    "refs": [
+                      {
+                        "uid": "LK8cfW7Xh"
+                      }
+                    ],
+                    "string": "Fixed paste not working at all on [[android]] (still needs more work of formatting paste from external source but Roam to Roam paste works now)",
+                    "uid": "N_YIeYxXq"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "LK8cfW7Xh"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1711633058652,
+                    "edit-time": 1711633074902,
+                    "refs": [
+                      {
+                        "uid": "LK8cfW7Xh"
+                      }
+                    ],
+                    "string": "Fixed sharing multiple photos / files at once on [[android]]",
+                    "uid": "CYEFihob2"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1711633058652,
+                    "edit-time": 1711633058655,
+                    "string": "Fixed issue where history could display empty history items",
+                    "uid": "H1Iul1KDa"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1711633058652,
+                    "edit-time": 1711633058655,
+                    "string": "Fixed issue where references page could be missing data",
+                    "uid": "6k_4yfY-F"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1711633058652,
+                    "edit-time": 1711633058655,
+                    "string": "Fixed font size changing when phone's accessibility setting font size is changed",
+                    "uid": "S-Za6R5e7"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1711633058652,
+                    "edit-time": 1711633058655,
+                    "string": "Fixed encrypted graphs overlapping the status bar when beta is on",
+                    "uid": "T0ifAhaKL"
+                  }
+                ],
+                "create-time": 1711632804331,
+                "edit-time": 1711632820635,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  },
+                  {
+                    "uid": "fTOY6E5lG"
+                  },
+                  {
+                    "uid": "N3Uq-2dil"
+                  },
+                  {
+                    "uid": "LK8cfW7Xh"
+                  }
+                ],
+                "string": "[[mobile]] [[iOS]] and [[android]] [[Bug Fixes]]",
+                "uid": "PRfwYNjjP"
+              }
+            ],
+            "create-time": 1711632802126,
+            "edit-time": 1711632804345,
+            "refs": [
+              {
+                "uid": "03-28-2024"
+              }
+            ],
+            "string": "[[March 28th, 2024]]",
+            "uid": "RAhVRMq6R"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "03-22-2024"
               }
             ],
@@ -98406,15 +98564,16 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1711631144807,
-    "edit-time": 1711631144807,
-    "title": "Matthieu Bizien",
-    "uid": "fdxsGUYxI"
+    ":log/id": 1711632794802,
+    "create-time": 1711632794803,
+    "edit-time": 1711632794803,
+    "title": "March 28th, 2024",
+    "uid": "03-28-2024"
   },
   {
     ":create/user": {
@@ -98423,10 +98582,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1711631144816,
-    "create-time": 1711631144818,
-    "edit-time": 1711631144818,
-    "title": "March 28th, 2024",
-    "uid": "03-28-2024"
+    "create-time": 1711634747161,
+    "edit-time": 1711634747161,
+    "title": "Matthieu Bizien",
+    "uid": "r4YMK2lQn"
   }
 ]

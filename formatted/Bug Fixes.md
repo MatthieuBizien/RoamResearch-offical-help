@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- [mobile](<mobile.md>) [iOS](<iOS.md>) and [android](<android.md>) [Bug Fixes](<Bug Fixes.md>)
+
 - [Bug Fixes](<Bug Fixes.md>)
 
 - [Bug Fixes](<Bug Fixes.md>)

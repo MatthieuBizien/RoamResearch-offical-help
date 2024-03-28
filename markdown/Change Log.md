@@ -1,6 +1,14 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[March 28th, 2024]]
+        - [[mobile]] [[iOS]] and [[android]] [[Bug Fixes]]
+            - Fixed paste not working at all on [[android]] (still needs more work of formatting paste from external source but Roam to Roam paste works now)
+            - Fixed sharing multiple photos / files at once on [[android]]
+            - Fixed issue where history could display empty history items
+            - Fixed issue where references page could be missing data
+            - Fixed font size changing when phone's accessibility setting font size is changed
+            - Fixed encrypted graphs overlapping the status bar when beta is on
     - [[March 22nd, 2024]]
         - [[New Features]]
             - https://twitter.com/RoamResearch/status/1771368456937676986
