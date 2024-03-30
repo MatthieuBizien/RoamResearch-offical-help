@@ -98710,30 +98710,5 @@
     "edit-time": 1711725539876,
     "title": "2023",
     "uid": "ODOgUcoDW"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1711836381726,
-    "edit-time": 1711836381726,
-    "title": "Matthieu Bizien",
-    "uid": "b2btvg-yN"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1711836381733,
-    "create-time": 1711836381734,
-    "edit-time": 1711836381734,
-    "title": "March 30th, 2024",
-    "uid": "03-30-2024"
   }
 ]
