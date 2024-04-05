@@ -1,6 +1,8 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[April 5th, 2024]]
+        - Added delete page to the 
     - [[March 29th, 2024]]
         - Fixed emojis in namespaced page titles #[[Bug Fixes]]
             - Before and after
