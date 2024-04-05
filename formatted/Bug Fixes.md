@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- [Bug Fixes](<Bug Fixes.md>)
+
 - Fixed emojis in namespaced page titles #[Bug Fixes](<Bug Fixes.md>)
 
 - [mobile](<mobile.md>) [iOS](<iOS.md>) and [android](<android.md>) [Bug Fixes](<Bug Fixes.md>)

@@ -2,7 +2,18 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [April 5th, 2024](<April 5th, 2024.md>)
-        - Added delete page to the 
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - When deleting a page, instead of navigating to daily notes, we now navigate back to the last existing page or block in your history
+            - Added delete page to the context menu from right clicking on a page title so you can delete pages from the sidebar
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed templates which internally referenced the first block in the template had broken references when applying the template
+                - **[Example](<Example.md>):**
+                    - test broken references template [roam](<roam.md>)/templates
+                        - Referencing this block was broken
+                        - Like this -> Referencing this block was broken
+                    - Applying the template ended up like this ->
+                        - Referencing this block was broken
+                        - Like this -> ((fmZlzz2th))
     - [March 29th, 2024](<March 29th, 2024.md>)
         - Fixed emojis in namespaced page titles #[Bug Fixes](<Bug Fixes.md>)
             - Before and after

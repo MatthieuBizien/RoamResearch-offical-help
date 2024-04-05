@@ -42965,15 +42965,233 @@
         },
         "children": [
           {
+            ":block/refs": [
+              {
+                ":block/uid": "04-05-2024"
+              }
+            ],
             ":create/user": {
               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
             ":edit/user": {
               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1712336788662,
+                    "edit-time": 1712336904840,
+                    "string": "When deleting a page, instead of navigating to daily notes, we now navigate back to the last existing page or block in your history",
+                    "uid": "yoIz7dvsj"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1712336737257,
+                    "edit-time": 1712336872569,
+                    "string": "Added delete page to the context menu from right clicking on a page title so you can delete pages from the sidebar",
+                    "uid": "AgFlJ9yMr"
+                  }
+                ],
+                "create-time": 1712336794639,
+                "edit-time": 1712336797680,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]]",
+                "uid": "FQEhHetjO"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "z3pJCF6p8"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1712337003751,
+                                "edit-time": 1712337011481,
+                                "string": "Referencing this block was broken",
+                                "uid": "leMk85IB5"
+                              },
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "leMk85IB5"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1712337012445,
+                                "edit-time": 1712337019648,
+                                "refs": [
+                                  {
+                                    "uid": "leMk85IB5"
+                                  }
+                                ],
+                                "string": "Like this -> ((leMk85IB5))",
+                                "uid": "mjRy_ElIY"
+                              }
+                            ],
+                            "create-time": 1712336981627,
+                            "edit-time": 1712337047170,
+                            "refs": [
+                              {
+                                "uid": "z3pJCF6p8"
+                              }
+                            ],
+                            "string": "test broken references template #roam/templates",
+                            "uid": "RGn_fay_O"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1712337037919,
+                                "edit-time": 1712337052218,
+                                "string": "Referencing this block was broken",
+                                "uid": "VYe1qtfRd"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "create-time": 1712337052218,
+                                "edit-time": 1712337052218,
+                                "string": "Like this -> ((fmZlzz2th))",
+                                "uid": "wLXgMEOW4"
+                              }
+                            ],
+                            "create-time": 1712337056715,
+                            "edit-time": 1712337068286,
+                            "string": "Applying the template ended up like this ->",
+                            "uid": "1WXZI86ZW"
+                          }
+                        ],
+                        "create-time": 1712337024643,
+                        "edit-time": 1712337027051,
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        "uid": "C7qTN5q7-"
+                      }
+                    ],
+                    "create-time": 1712336948882,
+                    "edit-time": 1712337037150,
+                    "string": "Fixed templates which internally referenced the first block in the template had broken references when applying the template",
+                    "uid": "Slnp8Ir6o"
+                  }
+                ],
+                "create-time": 1712336945170,
+                "edit-time": 1712336948888,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]]",
+                "uid": "50m6IiU3U"
+              }
+            ],
             "create-time": 1712336735094,
-            "edit-time": 1712336735094,
-            "string": "",
+            "edit-time": 1712336737267,
+            "refs": [
+              {
+                "uid": "04-05-2024"
+              }
+            ],
+            "string": "[[April 5th, 2024]]",
             "uid": "-_wxyW5D6"
           },
           {
@@ -98756,9 +98974,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1712336730535,
-    "edit-time": 1712336730535,
+    "create-time": 1712340382281,
+    "edit-time": 1712340382281,
     "title": "Matthieu Bizien",
-    "uid": "SN7ApMHac"
+    "uid": "CupwSmSE1"
   }
 ]

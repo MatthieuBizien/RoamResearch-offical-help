@@ -5,6 +5,9 @@
         - **[Example](<Example.md>):**
 
 ## [Change Log](<Change Log.md>)
+- Fixed templates which internally referenced the first block in the template had broken references when applying the template
+                - **[Example](<Example.md>):**
+
 - like [embed](<embed.md>), but it only displays the children of the block
             - **[Example](<Example.md>):**
 
