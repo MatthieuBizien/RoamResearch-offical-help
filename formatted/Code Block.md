@@ -39,6 +39,8 @@ h1 {
 - [Code Block](<Code Block.md>)
 
 ## [Change Log](<Change Log.md>)
+- Added [xml](<xml.md>) support for [Code Block](<Code Block.md>)s
+
 - Added JSON and JSON-LD [Code Block](<Code Block.md>)
 
 - Added Go, Markdown, and TOML [Code Block](<Code Block.md>)

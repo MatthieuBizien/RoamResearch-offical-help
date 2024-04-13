@@ -1,6 +1,9 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[April 13th, 2024]]
+        - [[Quality of Life Improvements]]
+            - Added [[xml]] support for [[Code Block]]s
     - [[April 5th, 2024]]
         - [[Quality of Life Improvements]]
             - When deleting a page, instead of navigating to daily notes, we now navigate back to the last existing page or block in your history
