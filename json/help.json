@@ -99069,27 +99069,9 @@
     "uid": "1HCRfpr8u"
   },
   {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1713243946655,
-    "edit-time": 1713243946656,
-    "title": "Matthieu Bizien",
-    "uid": "FBk9VDBBc"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1713243946664,
-    "create-time": 1713243946665,
-    "edit-time": 1713243946665,
+    ":log/id": 1713247601948,
+    "create-time": 1713247601949,
+    "edit-time": 1713247601949,
     "title": "April 16th, 2024",
     "uid": "04-16-2024"
   }
