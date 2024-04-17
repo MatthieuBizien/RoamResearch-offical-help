@@ -1,6 +1,12 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [April 17th, 2024](<April 17th, 2024.md>)
+        - [Mobile Beta](<Mobile Beta.md>) 1.0.82
+            - Fixed search erroring out sometimes
+            - Fixed multiselect toolbar in Ipad landscape mode not showing up
+            - Increased width of editing bar buttons by a few pixels
+            - Fixed url display with other text in the block
     - [April 13th, 2024](<April 13th, 2024.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - Added [xml](<xml.md>) support for [Code Block](<Code Block.md>)s
@@ -23,7 +29,7 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FQxHeHLMzdd.png?alt=media&token=16d7136d-77e6-4e4b-8359-4a856a153e36)
         - Updated our underlying code editor (codemirror) to the latest and remove the active line highlight
     - [March 28th, 2024](<March 28th, 2024.md>)
-        - [mobile](<mobile.md>) [iOS](<iOS.md>) and [android](<android.md>) [Bug Fixes](<Bug Fixes.md>)
+        - [mobile](<mobile.md>) [iOS](<iOS.md>) and [android](<android.md>) [Bug Fixes](<Bug Fixes.md>) #[Mobile Beta](<Mobile Beta.md>)
             - Fixed paste not working at all on [android](<android.md>) (still needs more work of formatting paste from external source but Roam to Roam paste works now)
             - Fixed sharing multiple photos / files at once on [android](<android.md>)
             - Fixed issue where history could display empty history items
@@ -31,10 +37,10 @@
             - Fixed font size changing when phone's accessibility setting font size is changed
             - Fixed encrypted graphs overlapping the status bar when beta is on
     - [March 22nd, 2024](<March 22nd, 2024.md>)
-        - [New Features](<New Features.md>)
+        - [New Features](<New Features.md>) #[Mobile Beta](<Mobile Beta.md>)
             - https://twitter.com/RoamResearch/status/1771368456937676986
     - [March 13th, 2024](<March 13th, 2024.md>)
-        - ## [New Features](<New Features.md>) 🚀 #[mobile](<mobile.md>)
+        - ## [New Features](<New Features.md>) 🚀 #[mobile](<mobile.md>) #[Mobile Beta](<Mobile Beta.md>)
             - Added the ability to edit the [new mobile beta for believers](((FeXr1kL0k)))
                 - Tap on "daily notes" to bring up a calendar to navigate to future or past days
                 - Hold the back button to bring up your history, or to navigate to daily notes or open your shortcuts

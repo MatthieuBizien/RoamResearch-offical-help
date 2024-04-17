@@ -42967,6 +42967,102 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "04-17-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "PwoE6qnIL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713366484290,
+                    "edit-time": 1713366484290,
+                    "string": "Fixed search erroring out sometimes",
+                    "uid": "KobkoVBpK"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713366484290,
+                    "edit-time": 1713366484290,
+                    "string": "Fixed multiselect toolbar in Ipad landscape mode not showing up",
+                    "uid": "515zDMTah"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713366484290,
+                    "edit-time": 1713366484290,
+                    "string": "Increased width of editing bar buttons by a few pixels",
+                    "uid": "Lj6JfpoKj"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713366484290,
+                    "edit-time": 1713366484290,
+                    "string": "Fixed url display with other text in the block",
+                    "uid": "fOKUGvi4K"
+                  }
+                ],
+                "create-time": 1713366485489,
+                "edit-time": 1713366562428,
+                "refs": [
+                  {
+                    "uid": "PwoE6qnIL"
+                  }
+                ],
+                "string": "[[Mobile Beta]] 1.0.82",
+                "uid": "jRAsbQ0DG"
+              }
+            ],
+            "create-time": 1713366479483,
+            "edit-time": 1713366481701,
+            "refs": [
+              {
+                "uid": "04-17-2024"
+              }
+            ],
+            "string": "[[April 17th, 2024]]",
+            "uid": "5l-Hyeci4"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "04-13-2024"
               }
             ],
@@ -43382,6 +43478,9 @@
                   },
                   {
                     ":block/uid": "LK8cfW7Xh"
+                  },
+                  {
+                    ":block/uid": "PwoE6qnIL"
                   }
                 ],
                 ":create/user": {
@@ -43485,7 +43584,7 @@
                   }
                 ],
                 "create-time": 1711632804331,
-                "edit-time": 1711632820635,
+                "edit-time": 1713366523517,
                 "refs": [
                   {
                     "uid": "xxFKZqzYN"
@@ -43498,9 +43597,12 @@
                   },
                   {
                     "uid": "LK8cfW7Xh"
+                  },
+                  {
+                    "uid": "PwoE6qnIL"
                   }
                 ],
-                "string": "[[mobile]] [[iOS]] and [[android]] [[Bug Fixes]]",
+                "string": "[[mobile]] [[iOS]] and [[android]] [[Bug Fixes]] #[[Mobile Beta]]",
                 "uid": "PRfwYNjjP"
               }
             ],
@@ -43531,13 +43633,16 @@
                 ":block/refs": [
                   {
                     ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "PwoE6qnIL"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "1ouKfJ93E0gTUMlPr6uPvRymaAS2"
                 },
                 ":edit/user": {
-                  ":user/uid": "1ouKfJ93E0gTUMlPr6uPvRymaAS2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "children": [
                   {
@@ -43554,13 +43659,16 @@
                   }
                 ],
                 "create-time": 1711153474670,
-                "edit-time": 1711153487875,
+                "edit-time": 1713366507926,
                 "refs": [
                   {
                     "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "PwoE6qnIL"
                   }
                 ],
-                "string": "[[New Features]]",
+                "string": "[[New Features]] #[[Mobile Beta]]",
                 "uid": "-JQ2Oj5Pi"
               }
             ],
@@ -43594,6 +43702,9 @@
                   },
                   {
                     ":block/uid": "fTOY6E5lG"
+                  },
+                  {
+                    ":block/uid": "PwoE6qnIL"
                   }
                 ],
                 ":create/user": {
@@ -43653,7 +43764,7 @@
                   }
                 ],
                 "create-time": 1710382341339,
-                "edit-time": 1710382342386,
+                "edit-time": 1713366515338,
                 "heading": 2,
                 "refs": [
                   {
@@ -43661,9 +43772,12 @@
                   },
                   {
                     "uid": "fTOY6E5lG"
+                  },
+                  {
+                    "uid": "PwoE6qnIL"
                   }
                 ],
-                "string": "[[New Features]] \ud83d\ude80 #[[mobile]]",
+                "string": "[[New Features]] \ud83d\ude80 #[[mobile]] #[[Mobile Beta]]",
                 "uid": "Cwunb1-HI"
               }
             ],
@@ -99070,15 +99184,28 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1713366351531,
-    "edit-time": 1713366351531,
-    "title": "Matthieu Bizien",
-    "uid": "WdF5YW29m"
+    ":log/id": 1713366472346,
+    "create-time": 1713366472347,
+    "edit-time": 1713366472347,
+    "title": "April 17th, 2024",
+    "uid": "04-17-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1713366503037,
+    "edit-time": 1713366503038,
+    "title": "Mobile Beta",
+    "uid": "PwoE6qnIL"
   },
   {
     ":create/user": {
@@ -99087,10 +99214,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1713366351538,
-    "create-time": 1713366351540,
-    "edit-time": 1713366351540,
-    "title": "April 17th, 2024",
-    "uid": "04-17-2024"
+    "create-time": 1713369989794,
+    "edit-time": 1713369989794,
+    "title": "Matthieu Bizien",
+    "uid": "YqlXro1Lg"
   }
 ]
