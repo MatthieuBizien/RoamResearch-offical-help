@@ -99206,30 +99206,5 @@
     "edit-time": 1713366503038,
     "title": "Mobile Beta",
     "uid": "PwoE6qnIL"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1713621917909,
-    "edit-time": 1713621917909,
-    "title": "Matthieu Bizien",
-    "uid": "B9FtCCbVY"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1713621917916,
-    "create-time": 1713621917917,
-    "edit-time": 1713621917917,
-    "title": "April 20th, 2024",
-    "uid": "04-20-2024"
   }
 ]
