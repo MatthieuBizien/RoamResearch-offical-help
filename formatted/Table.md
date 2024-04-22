@@ -17,6 +17,9 @@
 ## [ Commands](< Commands.md>)
 - [Table](<Table.md>)
 
+## [Change Log](<Change Log.md>)
+- `{{table}}` #[Table](<Table.md>)
+
 ## [Features](<Features.md>)
 - ### [Table](<Table.md>)
 

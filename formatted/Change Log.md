@@ -1,6 +1,16 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [April 22nd, 2024](<April 22nd, 2024.md>)
+        - [Mobile Beta](<Mobile Beta.md>) [New Features](<New Features.md>) 1.0.84
+            - Image and video capture
+            - Image, video, and file upload
+            - `{{query}}` #[Query](<Query.md>)
+            - `{{table}}` #[Table](<Table.md>)
+            - Other components including `{{slider}}, {{word-count}}, {{character-count}}, {{embed-path}}, {{embed-children}}`
+            - `((parentheticals))`
+            - Automatic wrapping for `{`
+            - Improved the display of the block path in references, removed showing newlines and increased the space between lines
     - [April 17th, 2024](<April 17th, 2024.md>)
         - [Mobile Beta](<Mobile Beta.md>) 1.0.82
             - Fixed search erroring out sometimes

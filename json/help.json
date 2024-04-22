@@ -42967,6 +42967,176 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "04-22-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "PwoE6qnIL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713793728013,
+                    "edit-time": 1713793728013,
+                    "string": "Image and video capture",
+                    "uid": "52gQ_QaNz"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713793728013,
+                    "edit-time": 1713793728013,
+                    "string": "Image, video, and file upload",
+                    "uid": "4_qKGKxdt"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Gx35Ef0-S"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713793728013,
+                    "edit-time": 1713793810347,
+                    "refs": [
+                      {
+                        "uid": "Gx35Ef0-S"
+                      }
+                    ],
+                    "string": "`{{query}}` #[[Query]]",
+                    "uid": "MDtBiPyTO"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZOxNKU481"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713793728013,
+                    "edit-time": 1713793823710,
+                    "refs": [
+                      {
+                        "uid": "ZOxNKU481"
+                      }
+                    ],
+                    "string": "`{{table}}` #[[Table]]",
+                    "uid": "AEdOq4Ubx"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713793728013,
+                    "edit-time": 1713793741187,
+                    "string": "Other components including `{{slider}}, {{word-count}}, {{character-count}}, {{embed-path}}, {{embed-children}}`",
+                    "uid": "puYddy9tT"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713793728013,
+                    "edit-time": 1713793858598,
+                    "string": "`((parentheticals))`",
+                    "uid": "ikLk-aULB"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713793728013,
+                    "edit-time": 1713793759443,
+                    "string": "Automatic wrapping for `{`",
+                    "uid": "8yLqAENJq"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1713793728013,
+                    "edit-time": 1713793728013,
+                    "string": "Improved the display of the block path in references, removed showing newlines and increased the space between lines",
+                    "uid": "brtlNbQHY"
+                  }
+                ],
+                "create-time": 1713793717847,
+                "edit-time": 1713793783194,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "PwoE6qnIL"
+                  }
+                ],
+                "string": "[[Mobile Beta]] [[New Features]] 1.0.84",
+                "uid": "v0yT1A8RF"
+              }
+            ],
+            "create-time": 1713793713633,
+            "edit-time": 1713793717779,
+            "refs": [
+              {
+                "uid": "04-22-2024"
+              }
+            ],
+            "string": "[[April 22nd, 2024]]",
+            "uid": "rrBGt8UY8"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "04-17-2024"
               }
             ],
@@ -99209,15 +99379,16 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1713791178834,
-    "edit-time": 1713791178834,
-    "title": "Matthieu Bizien",
-    "uid": "pMq08gISc"
+    ":log/id": 1713793689137,
+    "create-time": 1713793689138,
+    "edit-time": 1713793689138,
+    "title": "April 22nd, 2024",
+    "uid": "04-22-2024"
   },
   {
     ":create/user": {
@@ -99226,10 +99397,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1713791178841,
-    "create-time": 1713791178842,
-    "edit-time": 1713791178842,
-    "title": "April 22nd, 2024",
-    "uid": "04-22-2024"
+    "create-time": 1713794735775,
+    "edit-time": 1713794735775,
+    "title": "Matthieu Bizien",
+    "uid": "TtllCipeQ"
   }
 ]
