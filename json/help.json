@@ -99389,30 +99389,5 @@
     "edit-time": 1713793689138,
     "title": "April 22nd, 2024",
     "uid": "04-22-2024"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1714014362447,
-    "edit-time": 1714014362447,
-    "title": "Matthieu Bizien",
-    "uid": "RSPI_slug"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1714014362454,
-    "create-time": 1714014362455,
-    "edit-time": 1714014362455,
-    "title": "April 25th, 2024",
-    "uid": "04-25-2024"
   }
 ]
