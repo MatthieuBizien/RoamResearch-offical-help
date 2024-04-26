@@ -42980,6 +42980,125 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UR0YllYKu"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714147036834,
+                        "edit-time": 1714147500379,
+                        "string": "Quickly find and open content across all of your graphs!",
+                        "uid": "5X5JEQNfV"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714147529352,
+                        "edit-time": 1714147551097,
+                        "string": "Trigger with `cmd-shift-u` on mac and `ctrl-shift-u` on windows",
+                        "uid": "Q_5bVO1PP"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "HBMS1wdeb"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1714146922500,
+                            "edit-time": 1714146955610,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://www.loom.com/share/b99af123b0b84d118594a04fce159e47}}",
+                            "uid": "wIsstnsnB"
+                          }
+                        ],
+                        "create-time": 1714147552515,
+                        "edit-time": 1714147557695,
+                        "refs": [
+                          {
+                            "uid": "HBMS1wdeb"
+                          }
+                        ],
+                        "string": "Demo::",
+                        "uid": "f7UWHd_Ul"
+                      }
+                    ],
+                    "create-time": 1714146924679,
+                    "edit-time": 1714146930630,
+                    "refs": [
+                      {
+                        "uid": "UR0YllYKu"
+                      }
+                    ],
+                    "string": "[[Cross Graph Search]]",
+                    "uid": "cKtCAu8uS"
+                  }
+                ],
+                "create-time": 1714146918390,
+                "edit-time": 1714146952693,
+                "heading": 2,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80",
+                "uid": "BWGSvKtEs"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "PwoE6qnIL"
                   }
                 ],
@@ -99537,14 +99656,26 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1714143946675,
-    "edit-time": 1714143946676,
-    "title": "Matthieu Bizien",
-    "uid": "-aAGwJ4r1"
+    "create-time": 1714146930632,
+    "edit-time": 1714146930633,
+    "title": "Cross Graph Search",
+    "uid": "UR0YllYKu"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1714147557697,
+    "edit-time": 1714147557698,
+    "title": "Demo",
+    "uid": "HBMS1wdeb"
   }
 ]

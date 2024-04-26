@@ -2,6 +2,12 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [April 26th, 2024](<April 26th, 2024.md>)
+        - ## [New Features](<New Features.md>) 🚀
+            - [Cross Graph Search](<Cross Graph Search.md>)
+                - Quickly find and open content across all of your graphs!
+                - Trigger with `cmd-shift-u` on mac and `ctrl-shift-u` on windows
+                - **[Demo](<Demo.md>):**
+                    - {{[video](<video.md>): https://www.loom.com/share/b99af123b0b84d118594a04fce159e47}}
         - [Mobile Beta](<Mobile Beta.md>) 1.0.86
             - Image improvements
                 - Tap on an image to bring it up in fullscreen
