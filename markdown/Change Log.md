@@ -5,7 +5,7 @@
         - ## [[New Features]] 🚀
             - [[Cross Graph Search]]
                 - Quickly find and open content across all of your graphs!
-                - Trigger with `cmd-shift-u` on mac and `ctrl-shift-u` on windows
+                - Trigger with `cmd-shift-u` on mac or `ctrl-shift-u` on windows
                 - Demo::
                     - {{[[video]]: https://www.loom.com/share/b99af123b0b84d118594a04fce159e47}}
         - [[Mobile Beta]] 1.0.86
