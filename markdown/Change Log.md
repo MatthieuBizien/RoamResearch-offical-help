@@ -1,6 +1,14 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[April 26th, 2024]]
+        - [[Mobile Beta]] 1.0.86
+            - Image improvements
+                - Tap on an image to bring it up in fullscreen
+                - Pinch to zoom in
+                - Share or download the image
+            - Fix -- [[iOS]] smart dash deleting a block (disabled smart dashes)
+            - Added an edit block button to the toolbar so you can edit images or other components when there is no space to click into the block
     - [[April 22nd, 2024]]
         - [[Mobile Beta]] [[New Features]] 1.0.84
             - Image and video capture

@@ -42967,6 +42967,138 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "04-26-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "PwoE6qnIL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714141080404,
+                        "edit-time": 1714141080404,
+                        "string": "Tap on an image to bring it up in fullscreen",
+                        "uid": "T4Kk_xFF8"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714141083517,
+                        "edit-time": 1714141083517,
+                        "string": "Pinch to zoom in",
+                        "uid": "nWr1h3y6y"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714141070017,
+                        "edit-time": 1714141083519,
+                        "string": "Share or download the image",
+                        "uid": "FvOaHpiSC"
+                      }
+                    ],
+                    "create-time": 1714141070017,
+                    "edit-time": 1714141070017,
+                    "string": "Image improvements",
+                    "uid": "RifEdVVpc"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N3Uq-2dil"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1714141070017,
+                    "edit-time": 1714141113302,
+                    "refs": [
+                      {
+                        "uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "string": "Fix -- [[iOS]] smart dash deleting a block (disabled smart dashes)",
+                    "uid": "haMlPbXvC"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1714141070017,
+                    "edit-time": 1714141070017,
+                    "string": "Added an edit block button to the toolbar so you can edit images or other components when there is no space to click into the block",
+                    "uid": "O47jXl77C"
+                  }
+                ],
+                "create-time": 1714141058304,
+                "edit-time": 1714141068607,
+                "refs": [
+                  {
+                    "uid": "PwoE6qnIL"
+                  }
+                ],
+                "string": "[[Mobile Beta]] 1.0.86",
+                "uid": "JS1G9k2KZ"
+              }
+            ],
+            "create-time": 1714141055555,
+            "edit-time": 1714141058316,
+            "refs": [
+              {
+                "uid": "04-26-2024"
+              }
+            ],
+            "string": "[[April 26th, 2024]]",
+            "uid": "aF5Q7kYkq"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "04-22-2024"
               }
             ],
@@ -99392,15 +99524,16 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1714140338838,
-    "edit-time": 1714140338838,
-    "title": "Matthieu Bizien",
-    "uid": "tEeZOtN3N"
+    ":log/id": 1714141031163,
+    "create-time": 1714141031165,
+    "edit-time": 1714141031165,
+    "title": "April 26th, 2024",
+    "uid": "04-26-2024"
   },
   {
     ":create/user": {
@@ -99409,10 +99542,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1714140338846,
-    "create-time": 1714140338847,
-    "edit-time": 1714140338847,
-    "title": "April 26th, 2024",
-    "uid": "04-26-2024"
+    "create-time": 1714143946675,
+    "edit-time": 1714143946676,
+    "title": "Matthieu Bizien",
+    "uid": "-aAGwJ4r1"
   }
 ]
