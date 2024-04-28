@@ -99677,30 +99677,5 @@
     "edit-time": 1714147557698,
     "title": "Demo",
     "uid": "HBMS1wdeb"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1714331101908,
-    "edit-time": 1714331101908,
-    "title": "Matthieu Bizien",
-    "uid": "uzWrD9uk9"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1714331101917,
-    "create-time": 1714331101918,
-    "edit-time": 1714331101919,
-    "title": "April 28th, 2024",
-    "uid": "04-28-2024"
   }
 ]
