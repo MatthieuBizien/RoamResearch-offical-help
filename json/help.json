@@ -42967,6 +42967,170 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "05-03-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "D893VH8Ls"
+                  },
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UR0YllYKu"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714710973162,
+                        "edit-time": 1714710974935,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FaWWXsiwNAT.png?alt=media&token=7f5df44e-534f-4964-8521-8826bb7d85e1)",
+                        "uid": "ztKKfTvkh"
+                      }
+                    ],
+                    "create-time": 1714710962785,
+                    "edit-time": 1714710973170,
+                    "refs": [
+                      {
+                        "uid": "UR0YllYKu"
+                      }
+                    ],
+                    "string": "Improved the design to match [[Cross Graph Search]]",
+                    "uid": "kfs6jtwNN"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1714710975725,
+                    "edit-time": 1714711281582,
+                    "string": "Renamed \"quick search\" to \"Find or create page search\" to match what it was called elsewhere",
+                    "uid": "dip5rHw2t"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1714711007238,
+                    "edit-time": 1714711317157,
+                    "string": "Added all of the commands/hotkeys you can use \"everywhere\" (see the hotkeys settings), such as toggling the sidebars, moving back / forward a day, or toggling brackets.",
+                    "uid": "DoF6RjXNw"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714711069909,
+                        "edit-time": 1714711074381,
+                        "string": "Open all pages",
+                        "uid": "5c-o8H8_6"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714711074375,
+                        "edit-time": 1714711078627,
+                        "string": "Open graph overview",
+                        "uid": "GZZ-iXfgp"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714711125893,
+                        "edit-time": 1714711132947,
+                        "string": "Open today's daily note in sidebar",
+                        "uid": "gPJCn21vK"
+                      }
+                    ],
+                    "create-time": 1714711061830,
+                    "edit-time": 1714711336304,
+                    "string": "In addition to these we added more commands for",
+                    "uid": "pDifMzuLy"
+                  }
+                ],
+                "create-time": 1714710956088,
+                "edit-time": 1714710962791,
+                "refs": [
+                  {
+                    "uid": "D893VH8Ls"
+                  },
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] for the [[Command Palette]]",
+                "uid": "4uAvRk-he"
+              }
+            ],
+            "create-time": 1714710953672,
+            "edit-time": 1714710956100,
+            "refs": [
+              {
+                "uid": "05-03-2024"
+              }
+            ],
+            "string": "[[May 3rd, 2024]]",
+            "uid": "Lnj_DsM1P"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "04-26-2024"
               }
             ],
@@ -99680,15 +99844,16 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1714709267073,
-    "edit-time": 1714709267073,
-    "title": "Matthieu Bizien",
-    "uid": "0qiCcF4ha"
+    ":log/id": 1714710947169,
+    "create-time": 1714710947170,
+    "edit-time": 1714710947170,
+    "title": "May 3rd, 2024",
+    "uid": "05-03-2024"
   },
   {
     ":create/user": {
@@ -99697,10 +99862,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1714709267081,
-    "create-time": 1714709267082,
-    "edit-time": 1714709267082,
-    "title": "May 3rd, 2024",
-    "uid": "05-03-2024"
+    "create-time": 1714712748239,
+    "edit-time": 1714712748239,
+    "title": "Matthieu Bizien",
+    "uid": "BrNb4WxXy"
   }
 ]

@@ -3,6 +3,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- [Quality of Life Improvements](<Quality of Life Improvements.md>) for the [Command Palette](<Command Palette.md>)
+
 - All settings, including keyboard shortcut customizations accessible from [Command Palette](<Command Palette.md>)
 
 ## [Features](<Features.md>)

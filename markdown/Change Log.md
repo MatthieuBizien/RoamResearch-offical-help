@@ -1,6 +1,16 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[May 3rd, 2024]]
+        - [[Quality of Life Improvements]] for the [[Command Palette]]
+            - Improved the design to match [[Cross Graph Search]]
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FaWWXsiwNAT.png?alt=media&token=7f5df44e-534f-4964-8521-8826bb7d85e1)
+            - Renamed "quick search" to "Find or create page search" to match what it was called elsewhere
+            - Added all of the commands/hotkeys you can use "everywhere" (see the hotkeys settings), such as toggling the sidebars, moving back / forward a day, or toggling brackets.
+            - In addition to these we added more commands for
+                - Open all pages
+                - Open graph overview
+                - Open today's daily note in sidebar
     - [[April 26th, 2024]]
         - ## [[New Features]] 🚀
             - [[Cross Graph Search]]
