@@ -99880,30 +99880,5 @@
     "edit-time": 1715652899914,
     "title": "May 13th, 2024",
     "uid": "05-13-2024"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1715933225231,
-    "edit-time": 1715933225231,
-    "title": "Matthieu Bizien",
-    "uid": "jKgQZWh6z"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1715933225239,
-    "create-time": 1715933225241,
-    "edit-time": 1715933225241,
-    "title": "May 17th, 2024",
-    "uid": "05-17-2024"
   }
 ]
