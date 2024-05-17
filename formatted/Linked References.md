@@ -16,6 +16,10 @@
 #[Linked References](<Linked References.md>)
 
 ## [Change Log](<Change Log.md>)
+- [Linked References](<Linked References.md>)
+
+- [Performance Improvements](<Performance Improvements.md>) and new search feature for [Linked References](<Linked References.md>)
+
 - This is assuming [Linked References](<Linked References.md>)
 
 - Made [Query](<Query.md>) and [Linked References](<Linked References.md>)

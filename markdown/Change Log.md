@@ -1,6 +1,11 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[May 17th, 2024]]
+        - [[Quality of Life Improvements]]
+            - [[Linked References]] now searches through the children of references and opens the tree up down to the match
+                - [Previously](((XJhLRZsAE))) it would only search through the path or the linked block
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnnEuwBBgSN.gif?alt=media&token=9acfa0d6-83e2-4235-998f-9c6d57e5e659)
     - [[May 3rd, 2024]]
         - [[Quality of Life Improvements]] for the [[Command Palette]]
             - Improved the design to match [[Cross Graph Search]]
@@ -332,7 +337,7 @@ Additionally, you can speak to a GPT model (providing context to the model from 
                 - Like linked references but it also collects the linked references from all of the children blocks of `[[page]]`. you can also use it with a block reference
     - [[June 12th, 2023]]
         - ### [[Quality of Life Improvements]] ✨
-            - [[Performance Improvements]] and new search feature for [[linked references]]
+            - [[Performance Improvements]] and new search feature for [[Linked References]]
                 - Linked references now load lazily, which means it should open __much__ faster than before.
                 - The downside is that you can no longer search through them with `cmd-f` or `ctrl-f`, you need to use the built in search component.
                 - The new search looks through all of the references, the paths of the references, or the children if the children are open.
