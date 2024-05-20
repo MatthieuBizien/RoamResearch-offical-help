@@ -1,6 +1,9 @@
-- Setup
-    - Open the graph you want to access via Zapier
-    - Get API Token (linked elsewhere)
+- Link to test the official Roam Research <-> Zapier integration: https://zapier.com/developer/public-invite/204502/af5c17efb79c4f536eb213eb63503b4f/
+- **Setup Process**
+    1. Open the graph you want to access via Zapier
+    2. Please make sure you have the latest version of Roam (via ... > Check for updates)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FweI5_7pLPu.png?alt=media&token=21bf5ce3-5e7c-465e-a09b-febed83acc65)
+    3. Get API Token (linked elsewhere)
         1. Open your settings via ... > Settings, then go to the "Graph" tab
             -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfagWR_XbE7.png?alt=media&token=0d1d5156-d91b-4078-ad2f-e35db1ceb8ba)
         2. In the "Graph" tab in settings, click on the green "+ New API Token" button

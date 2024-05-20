@@ -100045,6 +100045,18 @@
         ":edit/user": {
           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
         },
+        "create-time": 1716226180040,
+        "edit-time": 1716226204348,
+        "string": "Link to test the official Roam Research <-> Zapier integration: https://zapier.com/developer/public-invite/204502/af5c17efb79c4f536eb213eb63503b4f/",
+        "uid": "gaJIkCAbV"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
         "children": [
           {
             ":create/user": {
@@ -100057,6 +100069,32 @@
             "edit-time": 1716216990467,
             "string": "Open the graph you want to access via Zapier",
             "uid": "lkj1llZ_3"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1716226142880,
+                "edit-time": 1716226159774,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FweI5_7pLPu.png?alt=media&token=21bf5ce3-5e7c-465e-a09b-febed83acc65)",
+                "uid": "qAFMNQ3VW"
+              }
+            ],
+            "create-time": 1716226122313,
+            "edit-time": 1716226138023,
+            "string": "Please make sure you have the latest version of Roam (via ... > Check for updates)",
+            "uid": "P1QFWE6SA"
           },
           {
             ":create/user": {
@@ -100374,8 +100412,8 @@
           }
         ],
         "create-time": 1716216944313,
-        "edit-time": 1716216946996,
-        "string": "Setup",
+        "edit-time": 1716226211204,
+        "string": "**Setup Process**",
         "uid": "KPij3a2Jf"
       }
     ],
@@ -100383,17 +100421,5 @@
     "edit-time": 1716216941664,
     "title": "Zapier Integration",
     "uid": "rQV5KEoFk"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1716224786851,
-    "edit-time": 1716224786851,
-    "title": "Matthieu Bizien",
-    "uid": "eZUCJCO_G"
   }
 ]
