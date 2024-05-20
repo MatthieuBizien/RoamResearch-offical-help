@@ -100019,27 +100019,81 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    "create-time": 1716213947830,
-    "edit-time": 1716213947830,
-    "title": "Matthieu Bizien",
-    "uid": "zd_mAtInS"
+    ":log/id": 1716216894801,
+    "create-time": 1716216894801,
+    "edit-time": 1716216894801,
+    "title": "May 20th, 2024",
+    "uid": "05-20-2024"
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    ":log/id": 1716213947839,
-    "create-time": 1716213947840,
-    "edit-time": 1716213947841,
-    "title": "May 20th, 2024",
-    "uid": "05-20-2024"
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1716216981268,
+            "edit-time": 1716216990467,
+            "string": "Open the graph you want to access via Zapier",
+            "uid": "lkj1llZ_3"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1716216948708,
+                "edit-time": 1716216975843,
+                "string": "Open your graph in ",
+                "uid": "2utpMAjue"
+              }
+            ],
+            "create-time": 1716216958570,
+            "edit-time": 1716216962829,
+            "string": "Get API Token",
+            "uid": "53YoFEPO1"
+          }
+        ],
+        "create-time": 1716216944313,
+        "edit-time": 1716216946996,
+        "string": "Setup",
+        "uid": "KPij3a2Jf"
+      }
+    ],
+    "create-time": 1716216941664,
+    "edit-time": 1716216941664,
+    "title": "Zapier Integration",
+    "uid": "rQV5KEoFk"
   }
 ]

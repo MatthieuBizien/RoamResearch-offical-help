@@ -1,0 +1,4 @@
+- Setup
+    - Open the graph you want to access via Zapier
+    - Get API Token
+        - Open your graph in 
