@@ -100073,15 +100073,303 @@
                 ":edit/user": {
                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
-                "create-time": 1716216948708,
-                "edit-time": 1716216975843,
-                "string": "Open your graph in ",
-                "uid": "2utpMAjue"
+                "children": [
+                  {
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfagWR_XbE7.png?alt=media&token=0d1d5156-d91b-4078-ad2f-e35db1ceb8ba": {
+                          ":height": null,
+                          ":width": 372
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1716216948708,
+                    "edit-time": 1716217914523,
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfagWR_XbE7.png?alt=media&token=0d1d5156-d91b-4078-ad2f-e35db1ceb8ba": {
+                          "height": null,
+                          "width": 372
+                        }
+                      }
+                    },
+                    "string": " ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfagWR_XbE7.png?alt=media&token=0d1d5156-d91b-4078-ad2f-e35db1ceb8ba)",
+                    "uid": "2utpMAjue"
+                  }
+                ],
+                "create-time": 1716217879076,
+                "edit-time": 1716217879076,
+                "string": "Open your settings via ... > Settings, then go to the \"Graph\" tab",
+                "uid": "yrPfOEajI"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1716218093566,
+                    "edit-time": 1716218094683,
+                    "string": "Do note that you need to be the owner/admin of the graph in order to create API tokens",
+                    "uid": "DXEo-UZeg"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1716217963876,
+                    "edit-time": 1716217967539,
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvLvpJCRi36.png?alt=media&token=7cc08bb8-f684-4537-ba15-0f76c07e30d1)",
+                    "uid": "Lm2EyLTBl"
+                  }
+                ],
+                "create-time": 1716217918070,
+                "edit-time": 1716218051586,
+                "string": "In the \"Graph\" tab in settings, click on the green \"+ New API Token\" button",
+                "uid": "eZ-EMRRqq"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "039yINLTB"
+                  },
+                  {
+                    ":block/uid": "MjOPohEUF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218259186,
+                            "edit-time": 1716218268781,
+                            "string": "(only available for unencrypted graphs)",
+                            "uid": "9RX7_0CYg"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218311512,
+                            "edit-time": 1716218325120,
+                            "string": "This scope only allows access to read to your graph.",
+                            "uid": "YYKDEgCcr"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218325116,
+                            "edit-time": 1716218356153,
+                            "string": "In the case of the Zapier integration, this means that you can only use the \"Trigger\"s, but not the \"Action\"s",
+                            "uid": "4vJloMTkD"
+                          }
+                        ],
+                        "create-time": 1716218203747,
+                        "edit-time": 1716218368043,
+                        "string": "**read-only access**",
+                        "uid": "v-aQT4G3q"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218269909,
+                            "edit-time": 1716218272230,
+                            "string": "(only available for unencrypted graphs)",
+                            "uid": "OqHPFp0wL"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218238328,
+                            "edit-time": 1716218310461,
+                            "string": "this scope is the most permissive one. It allows the service to both read your graph and edit/add stuff to it. ",
+                            "uid": "V3QDzcNu1"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218357865,
+                            "edit-time": 1716218431505,
+                            "string": "In the case of the Zapier integration, this means that you can use both the \"Trigger\"s and the \"Action\"s",
+                            "uid": "uSQXSHOBV"
+                          }
+                        ],
+                        "create-time": 1716218209827,
+                        "edit-time": 1716218370350,
+                        "string": "**read & edit access**",
+                        "uid": "039yINLTB"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218275027,
+                            "edit-time": 1716218291039,
+                            "string": "(available for **both** encrypted & unencrypted graphs)",
+                            "uid": "4JlsI3C8Z"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218216498,
+                            "edit-time": 1716218296375,
+                            "string": "this access only provides the service ability to __add__ stuff to your graph",
+                            "uid": "ZlxWWoj_K"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716218435897,
+                            "edit-time": 1716218445944,
+                            "string": "In the case of the Zapier integration, this means that you can only use the \"Actions\"s, but not the \"Trigger\"s",
+                            "uid": "aV749_Ra-"
+                          }
+                        ],
+                        "create-time": 1716218213252,
+                        "edit-time": 1716218372776,
+                        "string": "**append-only access**",
+                        "uid": "MjOPohEUF"
+                      }
+                    ],
+                    "create-time": 1716218192365,
+                    "edit-time": 1716218471258,
+                    "string": "More details regarding scopes for API tokens below:",
+                    "uid": "yKJXvoQIP"
+                  }
+                ],
+                "create-time": 1716218051616,
+                "edit-time": 1716218403105,
+                "refs": [
+                  {
+                    "uid": "039yINLTB"
+                  },
+                  {
+                    "uid": "MjOPohEUF"
+                  }
+                ],
+                "string": "After clicking the button, please enter a clear description of expected usage. In the access scope, select ((039yINLTB)) for unencrypted graphs and ((MjOPohEUF)) for encrypted graphs. More regarding scope below",
+                "uid": "YBEMDnwfx"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1716218483508,
+                    "edit-time": 1716218491347,
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtnYMdlay_y.png?alt=media&token=e49cdfbc-872e-44b6-bc01-4b0c0b22a386)",
+                    "uid": "890AXUsiR"
+                  }
+                ],
+                "create-time": 1716218473429,
+                "edit-time": 1716218483516,
+                "string": "In the next screen, click on the \"Clipboard\" icon \ud83d\udccb to copy the token to your clipboard. It will start with \"roam-graph-token-\"",
+                "uid": "6FT_CyCjf"
               }
             ],
             "create-time": 1716216958570,
-            "edit-time": 1716216962829,
-            "string": "Get API Token",
+            "edit-time": 1716219329534,
+            "string": "Get API Token (linked elsewhere)",
             "uid": "53YoFEPO1"
           }
         ],
@@ -100095,5 +100383,17 @@
     "edit-time": 1716216941664,
     "title": "Zapier Integration",
     "uid": "rQV5KEoFk"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1716221205341,
+    "edit-time": 1716221205342,
+    "title": "Matthieu Bizien",
+    "uid": "UxoqR3Oiu"
   }
 ]
