@@ -11653,6 +11653,9 @@
             ":block/props": {
               ":rf-diagram": {
                 ":overridden-data-defaults": {
+                  ":block": {
+                    ":block-border-color": "#48AFF0"
+                  },
                   ":edge": {
                     ":edge-stroke-color": "#F2B824"
                   }
@@ -11673,34 +11676,10 @@
                 ":edit/user": {
                   ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 },
-                "create-time": 1716231077659,
-                "edit-time": 1716231077659,
-                "string": "**Song Choice:**\n{{spotify:https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=4b5d9203093c477d}}",
-                "uid": "VcQ9x5YwK"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
                 "create-time": 1716231077666,
                 "edit-time": 1716231077666,
                 "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2F2kWC_stVi3.jpg?alt=media&token=6f73cf37-983e-4a49-8804-331baa109167)",
                 "uid": "GfZ2nXaav"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
-                "create-time": 1716231077669,
-                "edit-time": 1716231077669,
-                "string": "Pigmented cheekbones",
-                "uid": "l9xI7E-b_"
               },
               {
                 ":create/user": {
@@ -11803,18 +11782,6 @@
                 ":edit/user": {
                   ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 },
-                "create-time": 1716231077698,
-                "edit-time": 1716231077698,
-                "string": "Bright eyeshadow: orange, blue, red",
-                "uid": "91_DWnFVk"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
                 "create-time": 1716231077706,
                 "edit-time": 1716231077706,
                 "string": "Croissant Climb",
@@ -11851,18 +11818,6 @@
                 ":edit/user": {
                   ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 },
-                "create-time": 1716231077718,
-                "edit-time": 1716231077718,
-                "string": "Thinner, bold lips",
-                "uid": "thj0eJDWW"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
                 "create-time": 1716231077721,
                 "edit-time": 1716231077721,
                 "string": "Funky Climbs",
@@ -11879,18 +11834,6 @@
                 "edit-time": 1716231077723,
                 "string": "Flexible Poses",
                 "uid": "txqf4WnbM"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
-                },
-                "create-time": 1716231077726,
-                "edit-time": 1716231077726,
-                "string": "Makeup",
-                "uid": "4wXvqn_AU"
               },
               {
                 ":create/user": {
@@ -11987,13 +11930,76 @@
                 "edit-time": 1716231289201,
                 "string": "Sequence on the Silks",
                 "uid": "mQ98P1_0x"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716238137159,
+                "edit-time": 1716238139143,
+                "string": "Makeup",
+                "uid": "mJ1g4ubm6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716238139614,
+                "edit-time": 1716238147080,
+                "string": "Thinner, bold lips",
+                "uid": "yNJZ6u7M6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716238147928,
+                "edit-time": 1716238153607,
+                "string": "Pigmented cheekbones",
+                "uid": "lQ5vk7Oyv"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716238159529,
+                "edit-time": 1716238172666,
+                "string": "Bright eyeshadow: orange, red, blue",
+                "uid": "EM9YgKshK"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716238206674,
+                "edit-time": 1716238225876,
+                "string": "**Music Choice:**\n{{spotify: https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=2ecb0b31c20d41f3}}",
+                "uid": "2Yj58FSrA"
               }
             ],
             "create-time": 1716230892754,
-            "edit-time": 1716231345077,
+            "edit-time": 1716238159526,
             "props": {
               "rf-diagram": {
                 "overridden-data-defaults": {
+                  "block": {
+                    "block-border-color": "#48AFF0"
+                  },
                   "edge": {
                     "edge-stroke-color": "#F2B824"
                   }
@@ -102318,9 +102324,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1716235531567,
-    "edit-time": 1716235531567,
+    "create-time": 1716239114071,
+    "edit-time": 1716239114071,
     "title": "Matthieu Bizien",
-    "uid": "loWR_Tku5"
+    "uid": "Ve66neee3"
   }
 ]

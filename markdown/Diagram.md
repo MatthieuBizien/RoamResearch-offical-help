@@ -214,10 +214,7 @@ nurturing, not coddling.
         - Arrakis
         - Ecology and Environment
     - {{diagram: David Bowie: Aerial Silk Act - Moodboard}}
-        - **Song Choice:**
-{{spotify:https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=4b5d9203093c477d}}
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2F2kWC_stVi3.jpg?alt=media&token=6f73cf37-983e-4a49-8804-331baa109167)
-        - Pigmented cheekbones
         - Scorpion Pose
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FDXBH9ePVjN.jpeg?alt=media&token=c36faa4f-09bd-4506-8c31-f602d1bb4d4b)
         - No Hands Middle Split
@@ -226,14 +223,11 @@ nurturing, not coddling.
         - Triple Twist Open Drop
         - **Vibe:**
 {{[[video]]: https://www.youtube.com/watch?v=_ZtHxP4EMV0}}
-        - Bright eyeshadow: orange, blue, red
         - Croissant Climb
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FhzWOXy0k14.jpeg?alt=media&token=f3e95937-f339-474f-84a5-f0a040e9fe8f)
         - Double-Sided Knee Climb
-        - Thinner, bold lips
         - Funky Climbs
         - Flexible Poses
-        - Makeup
         - S-Wrap Bridge Pose
         - Helicopter
         - Full-release Front Salto
@@ -242,6 +236,12 @@ nurturing, not coddling.
         - Costumes
         - Dynamic Elements
         - Sequence on the Silks
+        - Makeup
+        - Thinner, bold lips
+        - Pigmented cheekbones
+        - Bright eyeshadow: orange, red, blue
+        - **Music Choice:**
+{{spotify: https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=2ecb0b31c20d41f3}}
     - {{diagram: EA Memespace}}
         - Cause Areas
         - Nuclear Warfare
