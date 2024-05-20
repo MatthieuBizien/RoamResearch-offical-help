@@ -27,6 +27,7 @@
     - ## Advanced
         - ### [[Filter]]
         - ### [[Kanban]]
+        - ### [[Diagram]]
         - ### [[Table]]
         - ### [[Query]]
         - ### [[Slider]]

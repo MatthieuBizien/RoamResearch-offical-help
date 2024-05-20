@@ -26,7 +26,7 @@
 - **[Community Videos](<Community Videos.md>):**
 
 ## [Diagram](<Diagram.md>)
-- [Diagram](<Diagram.md>)
+- [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) [Diagram](<Diagram.md>)
 - **[Community Videos](<Community Videos.md>):**
 
 ## [Longform writing](<Longform writing.md>)

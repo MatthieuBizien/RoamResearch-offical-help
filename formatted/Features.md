@@ -27,6 +27,7 @@
     - ## Advanced
         - ### [Filter](<Filter.md>)
         - ### [Kanban](<Kanban.md>)
+        - ### [Diagram](<Diagram.md>)
         - ### [Table](<Table.md>)
         - ### [Query](<Query.md>)
         - ### [Slider](<Slider.md>)

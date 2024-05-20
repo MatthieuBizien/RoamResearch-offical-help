@@ -17,7 +17,7 @@
 - **[Roam Team Videos](<Roam Team Videos.md>):**
 
 ## [Diagram](<Diagram.md>)
-- {{mermaid}}
+- Gwern
 - **[Roam Team Videos](<Roam Team Videos.md>):**
 
 ## [Features](<Features.md>)

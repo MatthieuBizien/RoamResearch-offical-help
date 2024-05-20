@@ -112,6 +112,8 @@
 - {{[video](<video.md>):
 
 ## [Diagram](<Diagram.md>)
+{{[video](<video.md>):
+
 - {{[video](<video.md>):
 
 - {{[video](<video.md>):

@@ -10473,7 +10473,7 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         ":edit/user": {
-          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+          ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
         },
         "children": [
           {
@@ -10517,7 +10517,7 @@
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 },
                 "children": [
                   {
@@ -10560,7 +10560,7 @@
                   }
                 ],
                 "create-time": 1614880744735,
-                "edit-time": 1614880747024,
+                "edit-time": 1716229851464,
                 "props": {
                   "diagram": {
                     "groups": {},
@@ -10626,9 +10626,1441 @@
           }
         ],
         "create-time": 1614781711124,
-        "edit-time": 1615285699023,
-        "string": "Diagrams lets you represent content in a more visual manner (such as creating mindmaps and flow charts), there are a few diagrams you can create with Roam",
+        "edit-time": 1716229943405,
+        "string": "Diagrams let you represent content in a more visual manner (such as creating mindmaps and flow charts), there are a few diagrams you can create with Roam",
         "uid": "XjN0v6fUL"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "-77Q9kDnv"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+        },
+        ":edit/user": {
+          ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+        },
+        "children": [
+          {
+            ":block/props": {
+              ":rf-diagram": {
+                ":overridden-data-defaults": {
+                  ":block": {
+                    ":block-border-color": "#3DCC91"
+                  },
+                  ":edge": {
+                    ":edge-stroke-color": "rgb(0,0,0)"
+                  }
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782785,
+                "edit-time": 1716231782785,
+                "string": "**Introspect.** If you don\u2019t\nknow what you want, your\nwants will be decided for\nyou, by people and forces\nwho don\u2019t have your best\ninterests at heart.",
+                "uid": "waMd87gMI"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782788,
+                "edit-time": 1716231782788,
+                "string": "**Beware assholes.** Learn to\nidentify assholes, and to lead\npeople in coordinating\neffectively to diminish the\ncosts of their actions.",
+                "uid": "rmwVCMDTs"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782791,
+                "edit-time": 1716231782791,
+                "string": "**Develop your taste.** Taste is the most\nprecious and important thing in the world.\nPeople with great taste create a\ndisproportionate amount of value in the\nworld, but the world we live in\ndisincentivizes the development of taste.",
+                "uid": "7lUZwHn0e"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782793,
+                "edit-time": 1716231782793,
+                "string": "**Do not dehumanize\npeople**. People are\npeople. Do not demonize\nor pedestalize them.",
+                "uid": "SqbNJfvZG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782796,
+                "edit-time": 1716231782796,
+                "string": "**Be honest\nabout what\nyou don\u2019t\nknow.**",
+                "uid": "pyAsTLfu_"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782798,
+                "edit-time": 1716231782798,
+                "string": "**Be kind.**",
+                "uid": "eR7_PvFPs"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782800,
+                "edit-time": 1716231782800,
+                "string": "**Own your shit and fix\nit.** You will never be\nperfect, but you can\nalways be better than\nyou were yesterday.",
+                "uid": "z-pZMYi6S"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782803,
+                "edit-time": 1716231782803,
+                "string": "Aggressively seek\nout agreements,\nparticularly with\noutgroup.",
+                "uid": "OzIDQZ03b"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782805,
+                "edit-time": 1716231782805,
+                "string": "everything is connected",
+                "uid": "xXcEsP_Bx"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782807,
+                "edit-time": 1716231782807,
+                "string": "**Be more sensitive.** In\nevery sense. It helps\nwith everything.",
+                "uid": "sVBYm0c9H"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782809,
+                "edit-time": 1716231782809,
+                "string": "If you don\u2019t decide,\nyou\u2019re letting\nsomebody else\ndecide.",
+                "uid": "f98acwuI0"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782811,
+                "edit-time": 1716231782811,
+                "string": "Real progress\nhappens at the\nbottlenecks.",
+                "uid": "45_PD2SR_"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782813,
+                "edit-time": 1716231782813,
+                "string": "The public is insufficiently\neducated on how to be a good\npublic.",
+                "uid": "4sVitSe1w"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782815,
+                "edit-time": 1716231782815,
+                "string": "**Confront your fears headon.** Most fears are outdated,\nobsolete, and can be\ndismantled with a little work",
+                "uid": "4v55bB-Kb"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782817,
+                "edit-time": 1716231782817,
+                "string": "**Find out how you are\nfucked up.** \u201cThey fuck you\nup your mom and dad, they\ndon\u2019t mean to but they do\u2026\u201d\nYou inherited all sorts of\nbullshit that you don\u2019t even\nknow.",
+                "uid": "kob4JoGx6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782819,
+                "edit-time": 1716231782819,
+                "string": "**Appreciate\nincentives.**",
+                "uid": "H1QNh7i2s"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782822,
+                "edit-time": 1716231782822,
+                "string": "**Recognize that\nyour mental\nmodels are\nflawed.** Everybody\ninherits a flawed,\nimperfect system.",
+                "uid": "ou-VX-Wlj"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782824,
+                "edit-time": 1716231782824,
+                "string": "everything is a remix,\nso don\u2019t worry about\nbeing \u201coriginal\u201d",
+                "uid": "YB-0hsI6i"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782826,
+                "edit-time": 1716231782826,
+                "string": "Everything is vague to a\ndegree you do not\nrealize until you attempt\nto make it precise.",
+                "uid": "K9i-TswFs"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782828,
+                "edit-time": 1716231782828,
+                "string": "**Have stuff to look\nforward to.** You can\u2019t\nengineer happiness,\nbut you sure can\nengineer excitement.",
+                "uid": "6lYN_-P-U"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782830,
+                "edit-time": 1716231782830,
+                "string": "**Learn project\nmanagement.**\nEverything is a\nproject.",
+                "uid": "120oZ7yrc"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782832,
+                "edit-time": 1716231782832,
+                "string": "**The main thing\nholding you back\nis the way that\nyou\u2019re thinking.**",
+                "uid": "5GeUEQlSR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782834,
+                "edit-time": 1716231782834,
+                "string": "**Have fun. **You were born\ncrying. You should die\nlaughing.",
+                "uid": "-KtTGxQIL"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782837,
+                "edit-time": 1716231782837,
+                "string": "**Take notes.** Keeping a journal of your\nown thoughts, ideas and beliefs over\ntime will teach you things about yourself\nyou cannot learn any other way.",
+                "uid": "wwrZF4PLq"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782839,
+                "edit-time": 1716231782839,
+                "string": "**It\u2019s not about you.**",
+                "uid": "supGw3Wdy"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782840,
+                "edit-time": 1716231782840,
+                "string": "**Prioritize.**\nThere\u2019s an\ninfinite set of\nthings to do.\nWhat\u2019s the\nmost important\nthing? Do that.",
+                "uid": "fpGjWd_2S"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782842,
+                "edit-time": 1716231782842,
+                "string": "**Do not be afraid of\nbeing sad or wrong.**",
+                "uid": "9HhySfsOF"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782844,
+                "edit-time": 1716231782844,
+                "string": "the point of strength\nis to nourish others.",
+                "uid": "_e9FkOl_G"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782847,
+                "edit-time": 1716231782847,
+                "string": "**Strategize**. You have\nlimited time and limited\nresources.",
+                "uid": "58W6O9ASi"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782849,
+                "edit-time": 1716231782849,
+                "string": "**Continue.** Life will kick\nyour ass. Dont\u2019 give up,\ndon\u2019t give in. Get up and\ntry again.",
+                "uid": "uE551_boC"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782851,
+                "edit-time": 1716231782851,
+                "string": "**Be so prolific you don\u2019t\nrecognize yourself.** This is\nthe most effective way to\ndevelop your ability to gratify\nyour own taste.",
+                "uid": "mkXBI48yR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782853,
+                "edit-time": 1716231782853,
+                "string": "**Be Economically Useful.**\nThe world is not kind to\nthose who cannot create\nvalue in the marketplace.",
+                "uid": "zexRoGbI8"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782855,
+                "edit-time": 1716231782855,
+                "string": "**Seek to learn &\nunderstand\neverything.** It can\nnever be done, but\nit\u2019s always worth\ntrying.",
+                "uid": "gefNOFist"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782860,
+                "edit-time": 1716231782860,
+                "string": "**Make Friends.** It is\ndangerous to go alone.\nYou heal yourself by\nhelping others. Be kind\nand serve others. We can\ndo more together than we\ncan do alone.",
+                "uid": "YfNWjFpG9"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782864,
+                "edit-time": 1716231782864,
+                "string": "**One must imagine Sisyphus\nLOL-ing.** Existence is absurd, and\nlaughter is the only reasonable\nresponse to an absurd universe.",
+                "uid": "fmOAbIohz"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782867,
+                "edit-time": 1716231782867,
+                "string": "**Articulate your\nassumptions and\nquestion them.** If you\nidentify a bad one, you\ncan get rid of it and have\na marginally better life,\ninstantly",
+                "uid": "qvgBDsrxN"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782870,
+                "edit-time": 1716231782870,
+                "string": "the tool should\nfit the user",
+                "uid": "kgILJQ5_q"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782873,
+                "edit-time": 1716231782873,
+                "string": "Narcissists ruin\nself-love for the\nrest of us.",
+                "uid": "7CtWHvMoD"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782880,
+                "edit-time": 1716231782880,
+                "string": "**Fiddle with it.**\nMess around.\nIt\u2019s the most\nnatural way of\nlearning\nthings.",
+                "uid": "0GC6lPpzu"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782882,
+                "edit-time": 1716231782882,
+                "string": "all advice is context dependent to a\ndegree most do not realize until\nthey encounter a different context",
+                "uid": "lV_BHppiB"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782884,
+                "edit-time": 1716231782884,
+                "string": "**We all want to be loved.**",
+                "uid": "YPcyUzxy-"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782886,
+                "edit-time": 1716231782886,
+                "string": "**Indulge your curiosity.**\nFollowing your nose will lead\nyou to interesting places, and\nin the process you will become\nan interesting person.",
+                "uid": "e2ks9XN05"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782889,
+                "edit-time": 1716231782889,
+                "string": "safe spaces are for\nnurturing, not coddling.",
+                "uid": "yPCDp2ShR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231782891,
+                "edit-time": 1716231782891,
+                "string": "**Ask clarifying questions.**",
+                "uid": "89nIudhFX"
+              }
+            ],
+            "create-time": 1716231625930,
+            "edit-time": 1716231782766,
+            "props": {
+              "rf-diagram": {
+                "overridden-data-defaults": {
+                  "block": {
+                    "block-border-color": "#3DCC91"
+                  },
+                  "edge": {
+                    "edge-stroke-color": "rgb(0,0,0)"
+                  }
+                }
+              }
+            },
+            "string": "{{diagram:@visakan's Memex}}",
+            "uid": "W2TFg6OpO"
+          },
+          {
+            ":block/props": {
+              ":rf-diagram": {
+                ":overridden-data-defaults": {
+                  ":edge": {
+                    ":edge-stroke-color": "#F2B824"
+                  }
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077659,
+                "edit-time": 1716231077659,
+                "string": "**Song Choice:**\n{{spotify:https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=4b5d9203093c477d}}",
+                "uid": "VcQ9x5YwK"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077666,
+                "edit-time": 1716231077666,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2F2kWC_stVi3.jpg?alt=media&token=6f73cf37-983e-4a49-8804-331baa109167)",
+                "uid": "GfZ2nXaav"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077669,
+                "edit-time": 1716231077669,
+                "string": "Pigmented cheekbones",
+                "uid": "l9xI7E-b_"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077673,
+                "edit-time": 1716231077673,
+                "string": "Scorpion Pose",
+                "uid": "_f8sdUA6Y"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077675,
+                "edit-time": 1716231077675,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FDXBH9ePVjN.jpeg?alt=media&token=c36faa4f-09bd-4506-8c31-f602d1bb4d4b)",
+                "uid": "lgpR1s0pf"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077678,
+                "edit-time": 1716231077678,
+                "string": "No Hands Middle Split",
+                "uid": "mS75kdpaL"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077681,
+                "edit-time": 1716231077681,
+                "string": "Full-release single twist",
+                "uid": "za9uyZ6OZ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077683,
+                "edit-time": 1716231077683,
+                "string": "Russian Climb",
+                "uid": "Eu1zBXLui"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077690,
+                "edit-time": 1716231077690,
+                "string": "Triple Twist Open Drop",
+                "uid": "MBdAutg5U"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "2h9V-FtAO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077695,
+                "edit-time": 1716231077695,
+                "refs": [
+                  {
+                    "uid": "2h9V-FtAO"
+                  }
+                ],
+                "string": "**Vibe:**\n{{[[video]]: https://www.youtube.com/watch?v=_ZtHxP4EMV0}}",
+                "uid": "TREfKwWP_"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077698,
+                "edit-time": 1716231077698,
+                "string": "Bright eyeshadow: orange, blue, red",
+                "uid": "91_DWnFVk"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077706,
+                "edit-time": 1716231077706,
+                "string": "Croissant Climb",
+                "uid": "EKjwVX03h"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077710,
+                "edit-time": 1716231077710,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FhzWOXy0k14.jpeg?alt=media&token=f3e95937-f339-474f-84a5-f0a040e9fe8f)",
+                "uid": "_REmZk1bk"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077714,
+                "edit-time": 1716231077714,
+                "string": "Double-Sided Knee Climb",
+                "uid": "QjKNVJi9N"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077718,
+                "edit-time": 1716231077718,
+                "string": "Thinner, bold lips",
+                "uid": "thj0eJDWW"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077721,
+                "edit-time": 1716231077721,
+                "string": "Funky Climbs",
+                "uid": "4bDt127Bj"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077723,
+                "edit-time": 1716231077723,
+                "string": "Flexible Poses",
+                "uid": "txqf4WnbM"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077726,
+                "edit-time": 1716231077726,
+                "string": "Makeup",
+                "uid": "4wXvqn_AU"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077729,
+                "edit-time": 1716231077729,
+                "string": "S-Wrap Bridge Pose",
+                "uid": "vgC1x1R1O"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077731,
+                "edit-time": 1716231077731,
+                "string": "Helicopter",
+                "uid": "dyVl7Lhr9"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077733,
+                "edit-time": 1716231077733,
+                "string": "Full-release Front Salto",
+                "uid": "PODJdZEIV"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231077735,
+                "edit-time": 1716231077735,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FXvnX0lRJYZ.jpeg?alt=media&token=be0f3cba-2c20-40da-a7cc-e147aca2ffe8)",
+                "uid": "BkvoZR1i2"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231213845,
+                "edit-time": 1716231215244,
+                "string": "Possible Aerial Silk Colors",
+                "uid": "AlpsKDn31"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231246586,
+                "edit-time": 1716231253022,
+                "string": "Costumes",
+                "uid": "UMp0QXtI7"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231276132,
+                "edit-time": 1716231277295,
+                "string": "Dynamic Elements",
+                "uid": "SzMV3U8gj"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231288565,
+                "edit-time": 1716231289201,
+                "string": "Sequence on the Silks",
+                "uid": "mQ98P1_0x"
+              }
+            ],
+            "create-time": 1716230892754,
+            "edit-time": 1716231345077,
+            "props": {
+              "rf-diagram": {
+                "overridden-data-defaults": {
+                  "edge": {
+                    "edge-stroke-color": "#F2B824"
+                  }
+                }
+              }
+            },
+            "string": "{{diagram: David Bowie: Aerial Silk Act - Moodboard}}",
+            "uid": "SWtnQQQ24"
+          },
+          {
+            ":block/props": {
+              ":rf-diagram": {
+                ":overridden-data-defaults": {
+                  ":edge": {
+                    ":edge-stroke-color": "#AD99FF"
+                  }
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065040994,
+                "edit-time": 1716230208416,
+                "string": "Cause Areas",
+                "uid": "7XL3mEMcJ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065052656,
+                "edit-time": 1716230208416,
+                "string": "Nuclear Warfare",
+                "uid": "62aQjyPUj"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065067172,
+                "edit-time": 1716230208416,
+                "string": "Existential Risk",
+                "uid": "BJ7UXG5sY"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065088869,
+                "edit-time": 1716230208416,
+                "string": "Global Health",
+                "uid": "KgrQJnjqc"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065101167,
+                "edit-time": 1716230208416,
+                "string": "Vaccine Development",
+                "uid": "k3iSWJr8o"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065105617,
+                "edit-time": 1716230208416,
+                "string": "Malaria",
+                "uid": "DTPxY0WHt"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065118445,
+                "edit-time": 1716230208416,
+                "string": "AI Existential Risk",
+                "uid": "SH_FC_EVk"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065127236,
+                "edit-time": 1716230208416,
+                "string": "Misalignment",
+                "uid": "yaSl04szh"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065144076,
+                "edit-time": 1716230208416,
+                "string": "Losing Control of AGI",
+                "uid": "HRHnmS_51"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065159049,
+                "edit-time": 1716230208416,
+                "string": "Animal Welfare",
+                "uid": "r2kdvkzda"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065181727,
+                "edit-time": 1716230208416,
+                "string": "Wildlife Welfare",
+                "uid": "kQSU6gUy4"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065192154,
+                "edit-time": 1716230208416,
+                "string": "Animal Abuse",
+                "uid": "sT2M50daT"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065194888,
+                "edit-time": 1716230208416,
+                "string": "Zoos",
+                "uid": "vejKLVFJ6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065205903,
+                "edit-time": 1716230208416,
+                "string": "Factory Farming",
+                "uid": "yqVm1wmuF"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065212411,
+                "edit-time": 1716230208416,
+                "string": "Animal Testing",
+                "uid": "rrEaII0yx"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065219835,
+                "edit-time": 1716230208416,
+                "string": "Biosecurity",
+                "uid": "c7DVTE9yk"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065225071,
+                "edit-time": 1716230208416,
+                "string": "Bioweapons",
+                "uid": "G1H_RQXPR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065227792,
+                "edit-time": 1716230208416,
+                "string": "Pandemics",
+                "uid": "oGBYqe4d3"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065241156,
+                "edit-time": 1716230208416,
+                "string": "Poverty",
+                "uid": "-G4e2Y7mf"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065248489,
+                "edit-time": 1716230208416,
+                "string": "Climate Change",
+                "uid": "aTOvS9r6a"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065261581,
+                "edit-time": 1716230208416,
+                "string": "Eliminating Conflict",
+                "uid": "9PmqE-e9l"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065275212,
+                "edit-time": 1716230208416,
+                "string": "EA",
+                "uid": "LwWRzN1k7"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065284017,
+                "edit-time": 1716230208416,
+                "string": "Short Termism",
+                "uid": "8LoU3thxZ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065290579,
+                "edit-time": 1716230208416,
+                "string": "Longtermism",
+                "uid": "e3Rxg17mj"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065315679,
+                "edit-time": 1716230208416,
+                "string": "ITN Framework",
+                "uid": "jA-DWyy8q"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065336865,
+                "edit-time": 1716230208416,
+                "string": "Neglectedness",
+                "uid": "xwoWgzWYn"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065364616,
+                "edit-time": 1716230208416,
+                "string": "Impact",
+                "uid": "pgcVwpLhR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065381661,
+                "edit-time": 1716230208416,
+                "string": "Cost effectiveness/\ntangible",
+                "uid": "iycrM6B9f"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065423385,
+                "edit-time": 1716230208416,
+                "string": "Policy",
+                "uid": "AaTGP7cKR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065438779,
+                "edit-time": 1716230208416,
+                "string": "EA Literature",
+                "uid": "Y3eN0S-j2"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065539865,
+                "edit-time": 1716230208416,
+                "string": "LessWrong",
+                "uid": "j9hzZcZ6o"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065549193,
+                "edit-time": 1716230208416,
+                "string": "Do Good Better",
+                "uid": "REO0tA9yV"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065558790,
+                "edit-time": 1716230208416,
+                "string": "Twitter",
+                "uid": "iQJbntvs3"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065567345,
+                "edit-time": 1716230208416,
+                "string": "The Precipice",
+                "uid": "wqCjB7Oah"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065580547,
+                "edit-time": 1716230208416,
+                "string": "Eliezer Yudkowsky",
+                "uid": "nqlKFIOpX"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065591545,
+                "edit-time": 1716230208416,
+                "string": "Eigenrobot",
+                "uid": "6dAgugUDr"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065611230,
+                "edit-time": 1716230208416,
+                "string": "Slate Star Codex",
+                "uid": "Y53x9i5rb"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716065685488,
+                "edit-time": 1716230208416,
+                "string": "Gwern",
+                "uid": "y9NJvPI-S"
+              }
+            ],
+            "create-time": 1716230041797,
+            "edit-time": 1716230653711,
+            "props": {
+              "rf-diagram": {
+                "overridden-data-defaults": {
+                  "edge": {
+                    "edge-stroke-color": "#AD99FF"
+                  }
+                }
+              }
+            },
+            "string": "{{diagram: EA Memespace}}",
+            "uid": "7xmYe-QTb"
+          }
+        ],
+        "create-time": 1716230036832,
+        "edit-time": 1716230041805,
+        "refs": [
+          {
+            "uid": "-77Q9kDnv"
+          }
+        ],
+        "string": "Examples::",
+        "uid": "9eL4OG8Mv"
       },
       {
         ":block/refs": [
@@ -10768,6 +12200,9 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "Y61WIJQKq"
+              },
+              {
                 ":block/uid": "sB0yQf6IR"
               }
             ],
@@ -10775,40 +12210,19 @@
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
             },
-            "children": [
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "Y61WIJQKq"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1615273543574,
-                "edit-time": 1615273548225,
-                "refs": [
-                  {
-                    "uid": "Y61WIJQKq"
-                  }
-                ],
-                "string": "#Diagram",
-                "uid": "ova33oLZh"
-              }
-            ],
             "create-time": 1614781712655,
-            "edit-time": 1615273543594,
+            "edit-time": 1716229956253,
             "refs": [
+              {
+                "uid": "Y61WIJQKq"
+              },
               {
                 "uid": "sB0yQf6IR"
               }
             ],
-            "string": "[How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [[Anne-Laure Le Cunff]]",
+            "string": "[How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [[Anne-Laure Le Cunff]] #Diagram",
             "uid": "R3JgC9IiB"
           }
         ],
@@ -13779,6 +15193,29 @@
                 ],
                 "string": "[[Kanban]]",
                 "uid": "8p5UnViHt"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "Y61WIJQKq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716229733873,
+                "edit-time": 1716229738558,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "Y61WIJQKq"
+                  }
+                ],
+                "string": "[[Diagram]]",
+                "uid": "O6tulk3ms"
               },
               {
                 ":block/refs": [
@@ -100421,5 +101858,17 @@
     "edit-time": 1716216941664,
     "title": "Zapier Integration",
     "uid": "rQV5KEoFk"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+    },
+    ":edit/user": {
+      ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+    },
+    "create-time": 1716229514361,
+    "edit-time": 1716229514361,
+    "title": "Maya Kristoff",
+    "uid": "D-KzWj3bZ"
   }
 ]
