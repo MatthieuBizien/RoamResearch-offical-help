@@ -177,7 +177,42 @@ an interesting person.
         - safe spaces are for
 nurturing, not coddling.
         - **Ask clarifying questions.**
-    - 
+    - {{diagram:Dune Mindmap: Paul Atreides}}
+        - Fate and Prophecy
+        - Survival
+        - Secondary Plots
+        - Kaitain
+        - Planets
+        - Lady Jessica
+        - Betrayal of House Atreides
+        - Primary Plots
+        - Baron Vladimir Harkonnen
+        - Caladan
+        - Themes
+        - House Corrino
+        - Duncan Idaho
+        - Atreides' Move to Arrakis
+        - Characters
+        - House Harkonnen
+        - Stilgar
+        - The Spice Melange Trade
+        - Paul's Fremen Integration
+        - Fremen Rebellion
+        - Jessica's Bene Gesserit Agenda
+        - Houses
+        - Duke Leto Atreides
+        - Rise of Paul Atreides
+        - Giedi Prime
+        - House Atreides
+        - Religion and Mysticism
+        - Plots
+        - Gurney Halleck
+        - Power and Politics
+        - Paul Atreides
+        - House Vernius
+        - Chani
+        - Arrakis
+        - Ecology and Environment
     - {{diagram: David Bowie: Aerial Silk Act - Moodboard}}
         - **Song Choice:**
 {{spotify:https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=4b5d9203093c477d}}

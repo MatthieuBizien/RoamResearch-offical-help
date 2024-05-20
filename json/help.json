@@ -11211,6 +11211,446 @@
           },
           {
             ":block/props": {
+              ":rf-diagram": {}
+            },
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986958,
+                "edit-time": 1716231986958,
+                "string": "Fate and Prophecy",
+                "uid": "0i-VdoJHX"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986962,
+                "edit-time": 1716231986962,
+                "string": "Survival",
+                "uid": "WllZCBgpT"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986965,
+                "edit-time": 1716231986965,
+                "string": "Secondary Plots",
+                "uid": "hxT9OvsVx"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986968,
+                "edit-time": 1716231986968,
+                "string": "Kaitain",
+                "uid": "Qg7he4l0e"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986970,
+                "edit-time": 1716231986970,
+                "string": "Planets",
+                "uid": "6ZfvF7yHt"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986973,
+                "edit-time": 1716231986973,
+                "string": "Lady Jessica",
+                "uid": "Vjorkxl1n"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986975,
+                "edit-time": 1716231986975,
+                "string": "Betrayal of House Atreides",
+                "uid": "nO0H5P8wq"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986978,
+                "edit-time": 1716231986978,
+                "string": "Primary Plots",
+                "uid": "05Mj87Vfn"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986981,
+                "edit-time": 1716231986981,
+                "string": "Baron Vladimir Harkonnen",
+                "uid": "_RxyrLg7u"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986983,
+                "edit-time": 1716231986983,
+                "string": "Caladan",
+                "uid": "nvVvChCRa"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986985,
+                "edit-time": 1716231986985,
+                "string": "Themes",
+                "uid": "yPbwp_XOU"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986987,
+                "edit-time": 1716231986987,
+                "string": "House Corrino",
+                "uid": "Qg2Run0c7"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986990,
+                "edit-time": 1716231986990,
+                "string": "Duncan Idaho",
+                "uid": "n13_1m1iA"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986992,
+                "edit-time": 1716231986992,
+                "string": "Atreides' Move to Arrakis",
+                "uid": "N5YgVdhBV"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986994,
+                "edit-time": 1716231986994,
+                "string": "Characters",
+                "uid": "PDl0_Mb_y"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986996,
+                "edit-time": 1716231986996,
+                "string": "House Harkonnen",
+                "uid": "hFVCjeOWR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231986998,
+                "edit-time": 1716231986998,
+                "string": "Stilgar",
+                "uid": "J0nSC3XaW"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987001,
+                "edit-time": 1716231987001,
+                "string": "The Spice Melange Trade",
+                "uid": "0NMc5p8jg"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987003,
+                "edit-time": 1716231987003,
+                "string": "Paul's Fremen Integration",
+                "uid": "bfKo8KOom"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987005,
+                "edit-time": 1716231987005,
+                "string": "Fremen Rebellion",
+                "uid": "239MRMsjG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987007,
+                "edit-time": 1716231987007,
+                "string": "Jessica's Bene Gesserit Agenda",
+                "uid": "vARbFXjWT"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987009,
+                "edit-time": 1716231987009,
+                "string": "Houses",
+                "uid": "7xsiwHhue"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987012,
+                "edit-time": 1716231987012,
+                "string": "Duke Leto Atreides",
+                "uid": "3Uf7x_rVM"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987014,
+                "edit-time": 1716231987014,
+                "string": "Rise of Paul Atreides",
+                "uid": "0h8jVsvP5"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987016,
+                "edit-time": 1716231987016,
+                "string": "Giedi Prime",
+                "uid": "nHIVP5uF8"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987018,
+                "edit-time": 1716231987018,
+                "string": "House Atreides",
+                "uid": "fKBGdd3yB"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987020,
+                "edit-time": 1716231987020,
+                "string": "Religion and Mysticism",
+                "uid": "Q5YER7mIC"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987022,
+                "edit-time": 1716231987022,
+                "string": "Plots",
+                "uid": "gHKGMmaV6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987024,
+                "edit-time": 1716231987024,
+                "string": "Gurney Halleck",
+                "uid": "pVmVHYNlM"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987026,
+                "edit-time": 1716231987026,
+                "string": "Power and Politics",
+                "uid": "nTrnuG73E"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987028,
+                "edit-time": 1716231987028,
+                "string": "Paul Atreides",
+                "uid": "kW0W12ktO"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987030,
+                "edit-time": 1716231987030,
+                "string": "House Vernius",
+                "uid": "7NjMLD7MA"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987032,
+                "edit-time": 1716231987032,
+                "string": "Chani",
+                "uid": "CGRGbIDiT"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987034,
+                "edit-time": 1716231987034,
+                "string": "Arrakis",
+                "uid": "ClJIUb_Ms"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716231987036,
+                "edit-time": 1716231987036,
+                "string": "Ecology and Environment",
+                "uid": "EGFlM6fvU"
+              }
+            ],
+            "create-time": 1716231980186,
+            "edit-time": 1716231995608,
+            "props": {
+              "rf-diagram": {}
+            },
+            "string": "{{diagram:Dune Mindmap: Paul Atreides}}",
+            "uid": "ClZME4Eaz"
+          },
+          {
+            ":block/props": {
               ":rf-diagram": {
                 ":overridden-data-defaults": {
                   ":edge": {
@@ -101870,5 +102310,17 @@
     "edit-time": 1716229514361,
     "title": "Maya Kristoff",
     "uid": "D-KzWj3bZ"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1716235531567,
+    "edit-time": 1716235531567,
+    "title": "Matthieu Bizien",
+    "uid": "loWR_Tku5"
   }
 ]
