@@ -50,7 +50,7 @@
 - [Articles](<Articles.md>)
 
 ## [Diagram](<Diagram.md>)
-#[Version Control](<Version Control.md>) | #[Diagram](<Diagram.md>)
+#[Diagram](<Diagram.md>)
 - **[Articles](<Articles.md>):**
 
 ## [Features](<Features.md>)

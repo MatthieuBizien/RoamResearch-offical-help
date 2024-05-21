@@ -283,17 +283,20 @@ tangible
         - Slate Star Codex
         - Gwern
 - **[Roam Team Videos](<Roam Team Videos.md>):**
-    - Diagrams in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
-        - {{[video](<video.md>): https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
-#[Diagram](<Diagram.md>)
     - Mermaid diagrams combined with version control in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=UF22iK8fX-A&t}}
 #[Version Control](<Version Control.md>) | #[Diagram](<Diagram.md>)
+    - Archived⬇️ (old version of the diagram feature)
+        - Diagrams in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
+            - {{[video](<video.md>): https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
+#[Diagram](<Diagram.md>)
 - **[Articles](<Articles.md>):**
-    - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) [Diagram](<Diagram.md>)
+    - Archived⬇️ (old version of the diagram feature)
+        - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) [Diagram](<Diagram.md>)
 - **[Community Videos](<Community Videos.md>):**
-    - Drawing and Diagrams in Roam Research by [Chester](<Chester.md>)
-        - {{[video](<video.md>): https://www.youtube.com/watch?v=-q5JRaZbcrA}}
+    - Archived⬇️ (old version of the diagram feature)
+        - Drawing and Diagrams in Roam Research by [Chester](<Chester.md>)
+            - {{[video](<video.md>): https://www.youtube.com/watch?v=-q5JRaZbcrA}}
 - **[Key Commands](<Key Commands.md>):**
     - `/diagram`
     - `{{mermaid}}`
@@ -306,9 +309,9 @@ tangible
 #[Version Control](<Version Control.md>) | #[Diagram](<Diagram.md>)
 
 ## [Diagram](<Diagram.md>)
-#[Diagram](<Diagram.md>)
-
 #[Version Control](<Version Control.md>) | #[Diagram](<Diagram.md>)
+
+#[Diagram](<Diagram.md>)
 
 ## [Features](<Features.md>)
 - ### [Diagram](<Diagram.md>)

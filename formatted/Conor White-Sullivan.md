@@ -16,9 +16,9 @@
 - Scheduling with Roam by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 ## [Diagram](<Diagram.md>)
-- Diagrams in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
-
 - Mermaid diagrams combined with version control in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
+
+- Diagrams in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 ## [Excel](<Excel.md>)
 - How is Roam like Excel by [Conor White-Sullivan](<Conor White-Sullivan.md>)

@@ -283,17 +283,20 @@ tangible
         - Slate Star Codex
         - Gwern
 - Roam Team Videos::
-    - Diagrams in Roam Research by [[Conor White-Sullivan]]
-        - {{[[video]]: https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
-#[[Diagram]]
     - Mermaid diagrams combined with version control in Roam Research by [[Conor White-Sullivan]]
         - {{[[video]]: https://www.youtube.com/watch?v=UF22iK8fX-A&t}}
 #[[Version Control]] | #[[Diagram]]
+    - Archived⬇️ (old version of the diagram feature)
+        - Diagrams in Roam Research by [[Conor White-Sullivan]]
+            - {{[[video]]: https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
+#[[Diagram]]
 - Articles::
-    - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [[Anne-Laure Le Cunff]] #Diagram
+    - Archived⬇️ (old version of the diagram feature)
+        - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [[Anne-Laure Le Cunff]] #Diagram
 - Community Videos::
-    - Drawing and Diagrams in Roam Research by [[Chester]]
-        - {{[[video]]: https://www.youtube.com/watch?v=-q5JRaZbcrA}}
+    - Archived⬇️ (old version of the diagram feature)
+        - Drawing and Diagrams in Roam Research by [[Chester]]
+            - {{[[video]]: https://www.youtube.com/watch?v=-q5JRaZbcrA}}
 - Key Commands::
     - `/diagram`
     - `{{mermaid}}`
