@@ -101569,6 +101569,108 @@
     ":edit/user": {
       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1716320727839,
+            "edit-time": 1716320727841,
+            "string": "An Official Capture Shortcut, built by the Roam team!",
+            "uid": "JDwP8fEm-"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1716320727839,
+            "edit-time": 1716320805929,
+            "string": "https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d",
+            "uid": "2E598vrOx"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1716320727839,
+            "edit-time": 1716320727841,
+            "string": "For issue reports or enhancement requests, please email us at support@roamresearch.com",
+            "uid": "6bzVps4v9"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1716320727839,
+                "edit-time": 1716320756496,
+                "string": "1. We now support both encrypted graphs and unencrypted graphs",
+                "uid": "CgHqQsSox"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1716320727839,
+                "edit-time": 1716320727841,
+                "string": "2. If no Page title passed in, captures to Daily Notes Page for today by default",
+                "uid": "_jaI03W4o"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1716320727839,
+                "edit-time": 1716320727841,
+                "string": "3. More resilient to shortcut failure (If shortcut fails, you can find the recordings in Files in `Shortcuts/SpeakToRoam/FailedRecordings`. If it suceeds, you can find them in `Shortcuts/SpeakToRoam/HandledRecordings`. Behavior slightly different on Apple Watch)",
+                "uid": "4IAbLV9ZH"
+              }
+            ],
+            "create-time": 1716320727839,
+            "edit-time": 1716320727841,
+            "string": "Changes from 1.2.0 -> 1.3.0",
+            "uid": "QwQDSryIa"
+          }
+        ],
+        "create-time": 1716320727839,
+        "edit-time": 1716320809975,
+        "string": "**Speak to Roam v1.3.0** Apple Shortcut",
+        "uid": "somrZeuY4"
+      }
+    ],
     "create-time": 1705901442875,
     "edit-time": 1705901442877,
     "title": "Apple Shortcuts/Speak to Roam",
@@ -102350,6 +102452,30 @@
             "edit-time": 1716219329534,
             "string": "Get API Token (linked elsewhere)",
             "uid": "53YoFEPO1"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "ATGddUcq2JgXbbj0JqevL9Slgeo1"
+            },
+            ":edit/user": {
+              ":user/uid": "ATGddUcq2JgXbbj0JqevL9Slgeo1"
+            },
+            "create-time": 1716275980626,
+            "edit-time": 1716276087776,
+            "string": "Then you can use the credentials to connect your Roam graph to Zapier!",
+            "uid": "YIoAIMQ-f"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "ATGddUcq2JgXbbj0JqevL9Slgeo1"
+            },
+            ":edit/user": {
+              ":user/uid": "ATGddUcq2JgXbbj0JqevL9Slgeo1"
+            },
+            "create-time": 1716276089693,
+            "edit-time": 1716276094620,
+            "string": "TODO: Better documentation",
+            "uid": "Ss1f3W5h0"
           }
         ],
         "create-time": 1716216944313,
@@ -102395,9 +102521,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1716318357804,
-    "edit-time": 1716318357805,
+    "create-time": 1716321983318,
+    "edit-time": 1716321983318,
     "title": "Matthieu Bizien",
-    "uid": "DRm6QyDpD"
+    "uid": "jN-hzAoS3"
   }
 ]

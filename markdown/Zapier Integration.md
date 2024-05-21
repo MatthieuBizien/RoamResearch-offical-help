@@ -25,3 +25,5 @@
                     - In the case of the Zapier integration, this means that you can only use the "Actions"s, but not the "Trigger"s
         4. In the next screen, click on the "Clipboard" icon 📋 to copy the token to your clipboard. It will start with "roam-graph-token-"
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtnYMdlay_y.png?alt=media&token=e49cdfbc-872e-44b6-bc01-4b0c0b22a386)
+    4. Then you can use the credentials to connect your Roam graph to Zapier!
+    5. TODO: Better documentation
