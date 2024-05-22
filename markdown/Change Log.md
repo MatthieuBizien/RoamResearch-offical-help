@@ -2,11 +2,19 @@
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
     - [[May 22nd, 2024]]
-        - [[Apple Shortcuts/Speak to Roam]] v1.3.0 available with support for encrypted graphs, capture to daily note support, and more
-            - Link to install the newest version: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
-                - Please checkout the [[Getting started]] guide too
-            - Improvements:
-                - {{embed-children: ((fN7d1A_eA))}}
+        - ### Improved [Speak to Roam Apple Shortcut]([[Apple Shortcuts/Speak to Roam]]) with support for encrypted graphs, capture to daily note, and more!! ✨✨
+            - Link to install the newest version **v1.3.0**: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
+                - Please checkout the [[Getting started]] guide to get started
+            - **Improvements**
+                1. We now support both encrypted graphs and unencrypted graphs
+                    - On encrypted graphs, you can create an "append-only" token!
+                2. Captures to today's Daily Notes Page by default
+                    - Captures are stored under a block/capture group `[[Speak to Roam]] Captures`
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FHju0azD0Rk.png?alt=media&token=0aeb4cfa-8d59-45d0-bc34-e498769a94b1)
+                    - If you do not want to capture to DNP, you can alternatively pass an input page to capture underneath!
+                3. More resilient to shortcut failure (If shortcut fails, you can find the recordings in Files in `Shortcuts/SpeakToRoam/FailedRecordings`. If it suceeds, you can find them in `Shortcuts/SpeakToRoam/HandledRecordings`. Behavior slightly different on Apple Watch)
+                4. Shortcut is now available on the Share Sheet without extra configuration
+                    - You can use this to share recordings from the Voice Memos app to Roam via the shortcut!
             - **Requirements**
                 - apple devices only (iphone, ipad, mac, apple watch, etc.)
                 - Need an OpenAI API key for transcription & optional post-processing. 

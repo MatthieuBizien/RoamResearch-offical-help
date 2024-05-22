@@ -1,6 +1,5 @@
 - An Official Capture [[Apple Shortcut]], built by the Roam team!
-- Link to install latest version: 
-v1.3.0: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
+- Link to install latest version: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
 - For issue reports or enhancement requests, please email us at support@roamresearch.com
 - [[Getting started]] guide
     - **Requirements**
@@ -9,8 +8,7 @@ v1.3.0: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
             - if you do not have one, [we go through how to create one in the steps below](((aDWglI-Kc)))
     - **Steps**
         1. Follow this link for the shortcut: 
-            - Link to install latest version: 
-v1.3.0: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
+            - Link to install latest version: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
         2. Click on "Set up Shortcut" & Enter your graph's name to get started
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F4NhOVxidxj.png?alt=media&token=584eebcc-f599-4161-ae57-7780b93edbad)
         3. Get an "append-only" Roam API token
@@ -39,7 +37,7 @@ https://platform.openai.com/api-keys > create new secret key
         9. Congrats! Now you can speak to your graph!
 - [[Change Log]]
     - v1.3.0: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
-        - Changes
+        - **Improvements**
             1. We now support both encrypted graphs and unencrypted graphs
                 - On encrypted graphs, you can create an "append-only" token!
             2. Captures to today's Daily Notes Page by default

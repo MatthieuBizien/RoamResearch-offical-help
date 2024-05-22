@@ -44936,19 +44936,19 @@
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
                         "create-time": 1716361425425,
-                        "edit-time": 1716361437261,
+                        "edit-time": 1716361970360,
                         "refs": [
                           {
                             "uid": "uvaQLqW-p"
                           }
                         ],
-                        "string": "Please checkout the ((uvaQLqW-p)) too",
+                        "string": "Please checkout the ((uvaQLqW-p)) to get started",
                         "uid": "z4PN0Evxt"
                       }
                     ],
                     "create-time": 1716361402522,
-                    "edit-time": 1716361425344,
-                    "string": "Link to install the newest version: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d",
+                    "edit-time": 1716361920262,
+                    "string": "Link to install the newest version **v1.3.0**: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d",
                     "uid": "QKQv3e62u"
                   },
                   {
@@ -44960,64 +44960,199 @@
                     },
                     "children": [
                       {
-                        ":block/refs": [
-                          {
-                            ":block/uid": "fN7d1A_eA"
-                          }
-                        ],
                         ":create/user": {
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
                         ":edit/user": {
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
-                        "create-time": 1716361337625,
-                        "edit-time": 1716361352744,
-                        "refs": [
+                        "children": [
                           {
-                            "uid": "fN7d1A_eA"
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716359331207,
+                            "edit-time": 1716359345429,
+                            "string": "On encrypted graphs, you can create an \"append-only\" token!",
+                            "uid": "iD-mpV68j"
                           }
                         ],
-                        "string": "{{embed-children: ((fN7d1A_eA))}}",
-                        "uid": "zF0y9_zzU"
+                        "create-time": 1716320727839,
+                        "edit-time": 1716359313371,
+                        "string": "We now support both encrypted graphs and unencrypted graphs",
+                        "uid": "CgHqQsSox"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1716359809308,
+                                "edit-time": 1716360068338,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FHju0azD0Rk.png?alt=media&token=0aeb4cfa-8d59-45d0-bc34-e498769a94b1)",
+                                "uid": "-rGyOhcek"
+                              }
+                            ],
+                            "create-time": 1716359787442,
+                            "edit-time": 1716359807046,
+                            "string": "Captures are stored under a block/capture group `[[Speak to Roam]] Captures`",
+                            "uid": "QIJ07Q0Dh"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716359986592,
+                            "edit-time": 1716361131812,
+                            "string": "If you do not want to capture to DNP, you can alternatively pass an input page to capture underneath!",
+                            "uid": "TgdvNEcOu"
+                          }
+                        ],
+                        "create-time": 1716320727839,
+                        "edit-time": 1716360008739,
+                        "string": "Captures to today's Daily Notes Page by default",
+                        "uid": "_jaI03W4o"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1716320727839,
+                        "edit-time": 1716359318639,
+                        "string": "More resilient to shortcut failure (If shortcut fails, you can find the recordings in Files in `Shortcuts/SpeakToRoam/FailedRecordings`. If it suceeds, you can find them in `Shortcuts/SpeakToRoam/HandledRecordings`. Behavior slightly different on Apple Watch)",
+                        "uid": "4IAbLV9ZH"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716359901625,
+                            "edit-time": 1716359933518,
+                            "string": "You can use this to share recordings from the Voice Memos app to Roam via the shortcut!",
+                            "uid": "Nd5dja9Ko"
+                          }
+                        ],
+                        "create-time": 1716359875792,
+                        "edit-time": 1716359901631,
+                        "string": "Shortcut is now available on the Share Sheet without extra configuration",
+                        "uid": "JkOIZYZvk"
                       }
                     ],
-                    "create-time": 1716361396686,
-                    "edit-time": 1716361400535,
-                    "string": "Improvements",
-                    "uid": "3ThjXShnu"
+                    "create-time": 1716359954868,
+                    "edit-time": 1716361951900,
+                    "string": "**Improvements**",
+                    "uid": "fN7d1A_eA"
                   },
                   {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "kBxam4Ni6"
-                      }
-                    ],
                     ":create/user": {
                       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
                     ":edit/user": {
                       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
-                    "create-time": 1716361540001,
-                    "edit-time": 1716361546032,
-                    "refs": [
+                    "children": [
                       {
-                        "uid": "kBxam4Ni6"
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1716360134185,
+                        "edit-time": 1716361550790,
+                        "string": "apple devices only (iphone, ipad, mac, apple watch, etc.)",
+                        "uid": "4PVKTa2s4"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "aDWglI-Kc"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716361455200,
+                            "edit-time": 1716361529883,
+                            "refs": [
+                              {
+                                "uid": "aDWglI-Kc"
+                              }
+                            ],
+                            "string": "if you do not have one, [we go through how to create one in the steps below](((aDWglI-Kc)))",
+                            "uid": "Fttey4jrv"
+                          }
+                        ],
+                        "create-time": 1716360176819,
+                        "edit-time": 1716360176819,
+                        "string": "Need an OpenAI API key for transcription & optional post-processing. ",
+                        "uid": "L2qXLtH0c"
                       }
                     ],
-                    "string": "{{embed: ((kBxam4Ni6))}}",
-                    "uid": "6E-UyDkGb"
+                    "create-time": 1716360125721,
+                    "edit-time": 1716361040636,
+                    "string": "**Requirements**",
+                    "uid": "kBxam4Ni6"
                   }
                 ],
                 "create-time": 1716361316678,
-                "edit-time": 1716361386740,
+                "edit-time": 1716361998858,
+                "heading": 3,
                 "refs": [
                   {
                     "uid": "C8Y_cGdHM"
                   }
                 ],
-                "string": "[[Apple Shortcuts/Speak to Roam]] v1.3.0 available with support for encrypted graphs, capture to daily note support, and more",
+                "string": "Improved [Speak to Roam Apple Shortcut]([[Apple Shortcuts/Speak to Roam]]) with support for encrypted graphs, capture to daily note, and more!! \u2728\u2728",
                 "uid": "l-E_9lmp_"
               }
             ],
@@ -101735,11 +101870,6 @@
         "uid": "somrZeuY4"
       },
       {
-        ":block/refs": [
-          {
-            ":block/uid": "XNouBAGuD"
-          }
-        ],
         ":create/user": {
           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
         },
@@ -101747,13 +101877,8 @@
           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
         },
         "create-time": 1716320727839,
-        "edit-time": 1716360223495,
-        "refs": [
-          {
-            "uid": "XNouBAGuD"
-          }
-        ],
-        "string": "Link to install latest version: \n((XNouBAGuD))",
+        "edit-time": 1716361583037,
+        "string": "Link to install latest version: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d",
         "uid": "2E598vrOx"
       },
       {
@@ -101782,66 +101907,26 @@
         },
         "children": [
           {
+            ":block/refs": [
+              {
+                ":block/uid": "kBxam4Ni6"
+              }
+            ],
             ":create/user": {
               ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
             },
             ":edit/user": {
               ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
             },
-            "children": [
+            "create-time": 1716361540001,
+            "edit-time": 1716361902152,
+            "refs": [
               {
-                ":create/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                },
-                ":edit/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                },
-                "create-time": 1716360134185,
-                "edit-time": 1716360140975,
-                "string": "apple devices only (iphone, ipad, mac, apple watch, etc.) all linked through icloud",
-                "uid": "4PVKTa2s4"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                },
-                ":edit/user": {
-                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                },
-                "children": [
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "aDWglI-Kc"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    "create-time": 1716361455200,
-                    "edit-time": 1716361529883,
-                    "refs": [
-                      {
-                        "uid": "aDWglI-Kc"
-                      }
-                    ],
-                    "string": "if you do not have one, [we go through how to create one in the steps below](((aDWglI-Kc)))",
-                    "uid": "Fttey4jrv"
-                  }
-                ],
-                "create-time": 1716360176819,
-                "edit-time": 1716360176819,
-                "string": "Need an OpenAI API key for transcription & optional post-processing. ",
-                "uid": "L2qXLtH0c"
+                "uid": "kBxam4Ni6"
               }
             ],
-            "create-time": 1716360125721,
-            "edit-time": 1716361040636,
-            "string": "**Requirements**",
-            "uid": "kBxam4Ni6"
+            "string": "{{embed: ((kBxam4Ni6))}}",
+            "uid": "6E-UyDkGb"
           },
           {
             ":create/user": {
@@ -102388,134 +102473,26 @@
             },
             "children": [
               {
+                ":block/refs": [
+                  {
+                    ":block/uid": "fN7d1A_eA"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
                 ":edit/user": {
                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
-                "children": [
+                "create-time": 1716361937336,
+                "edit-time": 1716361961597,
+                "refs": [
                   {
-                    ":create/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    "children": [
-                      {
-                        ":create/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                        },
-                        "create-time": 1716359331207,
-                        "edit-time": 1716359345429,
-                        "string": "On encrypted graphs, you can create an \"append-only\" token!",
-                        "uid": "iD-mpV68j"
-                      }
-                    ],
-                    "create-time": 1716320727839,
-                    "edit-time": 1716359313371,
-                    "string": "We now support both encrypted graphs and unencrypted graphs",
-                    "uid": "CgHqQsSox"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    "children": [
-                      {
-                        ":create/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                        },
-                        "children": [
-                          {
-                            ":create/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            "create-time": 1716359809308,
-                            "edit-time": 1716360068338,
-                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FHju0azD0Rk.png?alt=media&token=0aeb4cfa-8d59-45d0-bc34-e498769a94b1)",
-                            "uid": "-rGyOhcek"
-                          }
-                        ],
-                        "create-time": 1716359787442,
-                        "edit-time": 1716359807046,
-                        "string": "Captures are stored under a block/capture group `[[Speak to Roam]] Captures`",
-                        "uid": "QIJ07Q0Dh"
-                      },
-                      {
-                        ":create/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                        },
-                        "create-time": 1716359986592,
-                        "edit-time": 1716361131812,
-                        "string": "If you do not want to capture to DNP, you can alternatively pass an input page to capture underneath!",
-                        "uid": "TgdvNEcOu"
-                      }
-                    ],
-                    "create-time": 1716320727839,
-                    "edit-time": 1716360008739,
-                    "string": "Captures to today's Daily Notes Page by default",
-                    "uid": "_jaI03W4o"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    "create-time": 1716320727839,
-                    "edit-time": 1716359318639,
-                    "string": "More resilient to shortcut failure (If shortcut fails, you can find the recordings in Files in `Shortcuts/SpeakToRoam/FailedRecordings`. If it suceeds, you can find them in `Shortcuts/SpeakToRoam/HandledRecordings`. Behavior slightly different on Apple Watch)",
-                    "uid": "4IAbLV9ZH"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    "children": [
-                      {
-                        ":create/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                        },
-                        "create-time": 1716359901625,
-                        "edit-time": 1716359933518,
-                        "string": "You can use this to share recordings from the Voice Memos app to Roam via the shortcut!",
-                        "uid": "Nd5dja9Ko"
-                      }
-                    ],
-                    "create-time": 1716359875792,
-                    "edit-time": 1716359901631,
-                    "string": "Shortcut is now available on the Share Sheet without extra configuration",
-                    "uid": "JkOIZYZvk"
+                    "uid": "fN7d1A_eA"
                   }
                 ],
-                "create-time": 1716359954868,
-                "edit-time": 1716359956608,
-                "string": "Changes",
-                "uid": "fN7d1A_eA"
+                "string": "{{embed: ((fN7d1A_eA))}}",
+                "uid": "hJD3NLWio"
               }
             ],
             "create-time": 1716359408555,
@@ -103514,17 +103491,5 @@
     "edit-time": 1716361307599,
     "title": "May 22nd, 2024",
     "uid": "05-22-2024"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1716361542549,
-    "edit-time": 1716361542550,
-    "title": "Matthieu Bizien",
-    "uid": "Il2Ort3lP"
   }
 ]
