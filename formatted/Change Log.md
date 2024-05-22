@@ -1,6 +1,16 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [May 22nd, 2024](<May 22nd, 2024.md>)
+        - [Apple Shortcuts/Speak to Roam](<Apple Shortcuts/Speak to Roam.md>) v1.3.0 available with support for encrypted graphs, capture to daily note support, and more
+            - Link to install the newest version: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
+                - Please checkout the [Getting started](<Getting started.md>) guide too
+            - Improvements:
+                - {{embed-children: ((fN7d1A_eA))}}
+            - **Requirements**
+                - apple devices only (iphone, ipad, mac, apple watch, etc.)
+                - Need an OpenAI API key for transcription & optional post-processing. 
+                    - if you do not have one, [we go through how to create one in the steps below](((aDWglI-Kc)))
     - [May 17th, 2024](<May 17th, 2024.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - [Linked References](<Linked References.md>) now searches through the children of references and opens the tree up down to the match
@@ -1592,6 +1602,9 @@ graph TD
                 - * not for beta users
 
 # Backlinks
+## [Apple Shortcuts/Speak to Roam](<Apple Shortcuts/Speak to Roam.md>)
+- [Change Log](<Change Log.md>)
+
 ## [FAQ](<FAQ.md>)
 - Please check our [Change Log](<Change Log.md>)
 
