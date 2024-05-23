@@ -1,6 +1,11 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[May 23rd, 2024]]
+        - [[Desktop App]] Update (0.0.21)
+            - Security updates, no new features
+                - For some users, if you were having persistent slowness with the desktop app, this might make it faster
+            - We dropped support for windows 7 and 8, both of which reached microsoft's end of life over a year ago
     - [[May 22nd, 2024]]
         - ### Improved [Speak to Roam Apple Shortcut]([[Apple Shortcuts/Speak to Roam]]) with support for encrypted graphs, capture to daily note, and more!! ✨✨
             - Link to install the newest version **v1.3.0**: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d

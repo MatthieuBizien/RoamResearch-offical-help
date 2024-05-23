@@ -44892,6 +44892,92 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "05-23-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "hyL5OPFah"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1716489553604,
+                        "edit-time": 1716489586768,
+                        "string": "For some users, if you were having persistent slowness with the desktop app, this might make it faster",
+                        "uid": "kEK7PArtl"
+                      }
+                    ],
+                    "create-time": 1716489317918,
+                    "edit-time": 1716489398569,
+                    "string": "Security updates, no new features",
+                    "uid": "I-08qxby2"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1716489398562,
+                    "edit-time": 1716489472530,
+                    "string": "We dropped support for windows 7 and 8, both of which reached microsoft's end of life over a year ago",
+                    "uid": "zlIzoeggN"
+                  }
+                ],
+                "create-time": 1716489297117,
+                "edit-time": 1716489362477,
+                "refs": [
+                  {
+                    "uid": "hyL5OPFah"
+                  }
+                ],
+                "string": "[[Desktop App]] Update (0.0.21)",
+                "uid": "ch4Z2wrWr"
+              }
+            ],
+            "create-time": 1716489288739,
+            "edit-time": 1716489297130,
+            "refs": [
+              {
+                "uid": "05-23-2024"
+              }
+            ],
+            "string": "[[May 23rd, 2024]]",
+            "uid": "uUfqUvXP0"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "05-22-2024"
               }
             ],
@@ -56037,7 +56123,7 @@
                         "uid": "h_pvMVa7e"
                       }
                     ],
-                    "string": "[[New Features]] \ud83d\ude80",
+                    "string": "[[New Features]] \ufffd\ufffd",
                     "uid": "HIXwfUJRJ"
                   }
                 ],
@@ -103494,26 +103580,14 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1716487599747,
-    "edit-time": 1716487599747,
-    "title": "Matthieu Bizien",
-    "uid": "sXZDI_pRJ"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1716487599756,
-    "create-time": 1716487599757,
-    "edit-time": 1716487599757,
+    ":log/id": 1716489282418,
+    "create-time": 1716489282419,
+    "edit-time": 1716489282419,
     "title": "May 23rd, 2024",
     "uid": "05-23-2024"
   }
