@@ -41,7 +41,6 @@
                         - Big thanks to [hyc](<hyc.md>) for their work on the initial version of this extension 🙏
                         - P.S. Users of the older versions of the Raycast extension will need to add their graph(s) again. Sorry for the inconvenience, this should only be a one time thing
         3. [Roam Append API](<Roam Append API.md>): https://roamresearch.com/#/app/developer-documentation/page/eb8OVhaFC
-            - in Alpha right now
             - difference from the Backend API is that this can be used by [Encrypted Graphs](<Encrypted Graphs.md>) too
             - Other convenience features for writes/captures
 

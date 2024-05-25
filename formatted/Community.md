@@ -1,4 +1,4 @@
-- [Roam Slack ](<Roam Slack .md>)
+- [Roam Slack](<Roam Slack.md>)
     - [Join us on Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw) to learn new workflows, get tips and tricks from your fellow Roamans, and much more!
 - [Twitter](<Twitter.md>)
     - Join the [[roamcult](<roamcult.md>)](https://twitter.com/search?q=%23roamcult&src=typeahead_click) and keep up to date with all the latest and greatest in Roam

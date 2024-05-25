@@ -1,6 +1,21 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[May 25th, 2024]]
+        - ## [[New Features]] 🚀
+            - ### The New [[Roam Append API]] is out now!
+                - This allows you to capture stuff to your unencrypted & **encrypted** graphs!
+                - **If you’re not a dev**, 
+                    - just know that this opens up a lot of possibilities for capture to your roam graphs.
+                        - The [recent improved Speak to Roam apple shortcut](((l-E_9lmp_))) uses this, for example. 
+                        - We also have a couple more use-cases/integrations which will be dropping soon!
+                            - In particular, a Zapier Integration, which would allow you to do things like:
+                                - Automatically save Google Form/typeform responses to a page in your graph
+                                - Add Slack saved messages to your graph
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FFhgiLlDqKX.png?alt=media&token=c84dc8a0-f03e-43d8-8655-02db813bbbd2)
+                                - etc
+                - **If you’re a dev**, please checkout our developer-documentation graph for the docs: https://roamresearch.com/#/app/developer-documentation/page/eb8OVhaFC
+                    - ![a quick peek at the cURL request](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FRgioQ_1trU.png?alt=media&token=346445ff-c254-48ba-b06a-08bf1e14c494)
     - [[May 23rd, 2024]]
         - [[Desktop App]] Update (0.0.21)
             - Security updates, no new features

@@ -3810,14 +3810,14 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "rRBuTswLd"
+            ":block/uid": "NqnrgiOLb"
           }
         ],
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         ":edit/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
         },
         "children": [
           {
@@ -3834,13 +3834,13 @@
           }
         ],
         "create-time": 1616208390857,
-        "edit-time": 1660322515817,
+        "edit-time": 1716611202036,
         "refs": [
           {
-            "uid": "rRBuTswLd"
+            "uid": "NqnrgiOLb"
           }
         ],
-        "string": "[[Roam Slack ]]",
+        "string": "[[Roam Slack]]",
         "uid": "9Om9vA9wX"
       },
       {
@@ -27608,76 +27608,6 @@
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
-    "children": [
-      {
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "create-time": 1616554820140,
-        "edit-time": 1616554820140,
-        "heading": 1,
-        "string": "We have a thriving community on Slack! ",
-        "text-align": "left",
-        "uid": "gpxMqyhRh"
-      },
-      {
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-        },
-        "create-time": 1616208482887,
-        "edit-time": 1641651692545,
-        "heading": 1,
-        "string": "Join via [this link](https://join.slack.com/t/roamresearch/shared_invite/zt-xy0pd90x-c0KDkgh1BeLKyi0iUlJ1CA)",
-        "text-align": "left",
-        "uid": "jyuam4XJT"
-      },
-      {
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "create-time": 1614649943764,
-        "edit-time": 1616398396113,
-        "heading": 2,
-        "string": "We've got a curated graph of content of important things, accessible [here](https://roamresearch.com/#/app/roam-slack)",
-        "text-align": "left",
-        "uid": "9xfPCOYsZ"
-      },
-      {
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "create-time": 1614649934190,
-        "edit-time": 1616554773284,
-        "heading": 3,
-        "string": "If you'd like access to the archive, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc8SpE4UOr2UynEqk-2Ob9TZECQaYGNO6XksphxqVPH2HosmQ/viewform)",
-        "text-align": "left",
-        "uid": "QLn5cB9-U"
-      }
-    ],
-    "create-time": 1614649950398,
-    "edit-time": 1616554833071,
-    "title": "Roam Slack ",
-    "uid": "rRBuTswLd"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
     "create-time": 1614649956026,
     "edit-time": 1616568924816,
     "title": "Roam Book Club",
@@ -44892,6 +44822,246 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "05-25-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "wV83zeWbM"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1716610901840,
+                        "edit-time": 1716611689826,
+                        "string": "This allows you to capture stuff to your unencrypted &\u00a0**encrypted** graphs!",
+                        "uid": "WH-x4QwcM"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "l-E_9lmp_"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1716611239914,
+                                "edit-time": 1716611239914,
+                                "refs": [
+                                  {
+                                    "uid": "l-E_9lmp_"
+                                  }
+                                ],
+                                "string": "The\u00a0[recent improved Speak to Roam apple shortcut](((l-E_9lmp_)))\u00a0uses this, for example. ",
+                                "uid": "eNz-ZzQvo"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "children": [
+                                      {
+                                        ":create/user": {
+                                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                        },
+                                        "create-time": 1716611381114,
+                                        "edit-time": 1716611441606,
+                                        "string": "Automatically save Google Form/typeform responses to a page in your graph",
+                                        "uid": "fT3CLJJ7v"
+                                      },
+                                      {
+                                        ":create/user": {
+                                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                        },
+                                        "children": [
+                                          {
+                                            ":create/user": {
+                                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                            },
+                                            "create-time": 1716611461847,
+                                            "edit-time": 1716611666120,
+                                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FFhgiLlDqKX.png?alt=media&token=c84dc8a0-f03e-43d8-8655-02db813bbbd2)",
+                                            "uid": "VBkFJrPWq"
+                                          }
+                                        ],
+                                        "create-time": 1716611442441,
+                                        "edit-time": 1716611461798,
+                                        "string": "Add Slack saved messages to your graph",
+                                        "uid": "IiXqBBwCz"
+                                      },
+                                      {
+                                        ":create/user": {
+                                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                        },
+                                        "create-time": 1716611707292,
+                                        "edit-time": 1716611709311,
+                                        "string": "etc",
+                                        "uid": "-JKk5udHo"
+                                      }
+                                    ],
+                                    "create-time": 1716611366762,
+                                    "edit-time": 1716611705605,
+                                    "string": "In particular, a Zapier Integration, which would allow you to do things like:",
+                                    "uid": "NEeGvoF-i"
+                                  }
+                                ],
+                                "create-time": 1716610941294,
+                                "edit-time": 1716611239917,
+                                "string": "We also have a\u00a0couple more\u00a0use-cases/integrations which will be dropping soon!",
+                                "uid": "g0uGnatFF"
+                              }
+                            ],
+                            "create-time": 1716611235304,
+                            "edit-time": 1716611363928,
+                            "string": "just know that this opens up a lot of possibilities for capture to your roam graphs.",
+                            "uid": "zWRb1uaPJ"
+                          }
+                        ],
+                        "create-time": 1716610946464,
+                        "edit-time": 1716610946464,
+                        "string": "**If you\u2019re not a dev**, ",
+                        "uid": "zqAfEV1Fq"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1716611043804,
+                            "edit-time": 1716611273782,
+                            "string": "![a quick peek at the cURL request](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FRgioQ_1trU.png?alt=media&token=346445ff-c254-48ba-b06a-08bf1e14c494)",
+                            "uid": "20blHvuwF"
+                          }
+                        ],
+                        "create-time": 1716610952404,
+                        "edit-time": 1716610960881,
+                        "string": "**If you\u2019re a dev**, please checkout our developer-documentation graph for the docs:\u00a0https://roamresearch.com/#/app/developer-documentation/page/eb8OVhaFC",
+                        "uid": "dWYiG7ScM"
+                      }
+                    ],
+                    "create-time": 1716610880472,
+                    "edit-time": 1716610974190,
+                    "heading": 3,
+                    "refs": [
+                      {
+                        "uid": "wV83zeWbM"
+                      }
+                    ],
+                    "string": "The New [[Roam Append API]] is out now!",
+                    "uid": "grFcOhuV8"
+                  }
+                ],
+                "create-time": 1716610846195,
+                "edit-time": 1716610890717,
+                "heading": 2,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80",
+                "uid": "oqUKBB6Xr"
+              }
+            ],
+            "create-time": 1716610840751,
+            "edit-time": 1716610846205,
+            "refs": [
+              {
+                "uid": "05-25-2024"
+              }
+            ],
+            "string": "[[May 25th, 2024]]",
+            "uid": "u8QqSOEWJ"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "05-23-2024"
               }
             ],
@@ -56123,7 +56293,7 @@
                         "uid": "h_pvMVa7e"
                       }
                     ],
-                    "string": "[[New Features]] \ufffd\ufffd",
+                    "string": "[[New Features]] \ud83d\ude80",
                     "uid": "HIXwfUJRJ"
                   }
                 ],
@@ -101851,18 +102021,6 @@
                 },
                 "children": [
                   {
-                    ":create/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                    },
-                    "create-time": 1705902043025,
-                    "edit-time": 1705902049496,
-                    "string": "in Alpha right now",
-                    "uid": "kbM9jdeGl"
-                  },
-                  {
                     ":block/refs": [
                       {
                         ":block/uid": "DTR1FMubL"
@@ -102722,6 +102880,50 @@
     ":edit/user": {
       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "NqnrgiOLb"
+              },
+              {
+                ":block/uid": "cKvTeiFwK"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1716611079368,
+            "edit-time": 1716611129145,
+            "refs": [
+              {
+                "uid": "NqnrgiOLb"
+              },
+              {
+                "uid": "cKvTeiFwK"
+              }
+            ],
+            "string": "Please report any issues in the #developers channel in the [[Roam Slack]] or via email to [support@roamrsearch.com](mailto:support@roamresearch.com)",
+            "uid": "y4YNwQ1B5"
+          }
+        ],
+        "create-time": 1716611046421,
+        "edit-time": 1716611074999,
+        "string": "Please checkout the documentation in the our developer-documentation graph: https://roamresearch.com/#/app/developer-documentation/page/eb8OVhaFC",
+        "uid": "Mj9GCw04i"
+      }
+    ],
     "create-time": 1705902038303,
     "edit-time": 1705902038303,
     "title": "Roam Append API",
@@ -103593,15 +103795,98 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    "create-time": 1716609974065,
-    "edit-time": 1716609974065,
-    "title": "Matthieu Bizien",
-    "uid": "rtVlVooSu"
+    ":log/id": 1716610833675,
+    "create-time": 1716610833676,
+    "edit-time": 1716610833676,
+    "title": "May 25th, 2024",
+    "uid": "05-25-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "create-time": 1616554820140,
+        "edit-time": 1616554820140,
+        "heading": 1,
+        "string": "We have a thriving community on Slack! ",
+        "text-align": "left",
+        "uid": "gpxMqyhRh"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "create-time": 1616208482887,
+        "edit-time": 1716611180910,
+        "heading": 1,
+        "string": "Join via [this link](https://join.slack.com/t/roamresearch/shared_invite/zt-1x2y9jkx1-KkSjlsWeTdfXy5H8hMB7tg)",
+        "text-align": "left",
+        "uid": "jyuam4XJT"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "create-time": 1614649943764,
+        "edit-time": 1616398396113,
+        "heading": 2,
+        "string": "We've got a curated graph of content of important things, accessible [here](https://roamresearch.com/#/app/roam-slack)",
+        "text-align": "left",
+        "uid": "9xfPCOYsZ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "create-time": 1614649934190,
+        "edit-time": 1616554773284,
+        "heading": 3,
+        "string": "If you'd like access to the archive, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc8SpE4UOr2UynEqk-2Ob9TZECQaYGNO6XksphxqVPH2HosmQ/viewform)",
+        "text-align": "left",
+        "uid": "QLn5cB9-U"
+      }
+    ],
+    "create-time": 1716611113394,
+    "edit-time": 1716611113396,
+    "title": "Roam Slack",
+    "uid": "NqnrgiOLb"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1716611113394,
+    "edit-time": 1716611113396,
+    "title": "developers",
+    "uid": "cKvTeiFwK"
   },
   {
     ":create/user": {
@@ -103610,10 +103895,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1716609974074,
-    "create-time": 1716609974075,
-    "edit-time": 1716609974075,
-    "title": "May 25th, 2024",
-    "uid": "05-25-2024"
+    "create-time": 1716613540090,
+    "edit-time": 1716613540090,
+    "title": "Matthieu Bizien",
+    "uid": "zt2knJW-e"
   }
 ]
