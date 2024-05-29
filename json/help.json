@@ -103889,27 +103889,9 @@
     "uid": "cKvTeiFwK"
   },
   {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1716995141186,
-    "edit-time": 1716995141186,
-    "title": "Matthieu Bizien",
-    "uid": "cuASmobos"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1716995141194,
-    "create-time": 1716995141195,
-    "edit-time": 1716995141195,
+    ":log/id": 1716998801187,
+    "create-time": 1716998801187,
+    "edit-time": 1716998801187,
     "title": "May 29th, 2024",
     "uid": "05-29-2024"
   }
