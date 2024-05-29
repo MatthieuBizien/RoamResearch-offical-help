@@ -1,11 +1,10 @@
+- Also see [[Mermaid Diagrams]]
 - Diagrams let you represent content in a more visual manner (such as creating mindmaps and flow charts), there are a few diagrams you can create with Roam
     - The default diagram
         - {{[[diagram]]}}
             - Hello
                 - How are you
             - This is me
-    - The mermaid diagram
-        - {{mermaid}}
 - Examples::
     - {{diagram:@visakan's Memex}}
         - **Introspect.** If you don’t
@@ -283,9 +282,6 @@ tangible
         - Slate Star Codex
         - Gwern
 - Roam Team Videos::
-    - Mermaid diagrams combined with version control in Roam Research by [[Conor White-Sullivan]]
-        - {{[[video]]: https://www.youtube.com/watch?v=UF22iK8fX-A&t}}
-#[[Version Control]] | #[[Diagram]]
     - Archived⬇️ (old version of the diagram feature)
         - Diagrams in Roam Research by [[Conor White-Sullivan]]
             - {{[[video]]: https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
@@ -299,4 +295,3 @@ tangible
             - {{[[video]]: https://www.youtube.com/watch?v=-q5JRaZbcrA}}
 - Key Commands::
     - `/diagram`
-    - `{{mermaid}}`

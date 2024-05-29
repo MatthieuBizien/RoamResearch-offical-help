@@ -11,9 +11,9 @@
 
 #[Version Control](<Version Control.md>)
 
-## [Diagram](<Diagram.md>)
-#[Version Control](<Version Control.md>)
-
 ## [Longform writing](<Longform writing.md>)
 - #[Tags](<Tags.md>) | #[Filter](<Filter.md>) | #[Version Control](<Version Control.md>)
+
+## [Mermaid Diagrams](<Mermaid Diagrams.md>)
+#[Version Control](<Version Control.md>)
 

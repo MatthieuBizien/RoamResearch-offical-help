@@ -16,8 +16,6 @@
 - Scheduling with Roam by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 ## [Diagram](<Diagram.md>)
-- Mermaid diagrams combined with version control in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
-
 - Diagrams in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 ## [Excel](<Excel.md>)
@@ -32,6 +30,9 @@
 - ### Taking Notes on 1:1s by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 - {{[video](<video.md>): https://www.youtube.com/watch?v=otoF_ane688&ab_channel=ConorWhite-Sullivan}} #[Conor White-Sullivan](<Conor White-Sullivan.md>)
+
+## [Mermaid Diagrams](<Mermaid Diagrams.md>)
+- Mermaid diagrams combined with version control in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 ## [Research](<Research.md>)
 - ### Roam for Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)

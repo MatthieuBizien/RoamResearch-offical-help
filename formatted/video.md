@@ -118,8 +118,6 @@
 
 - {{[video](<video.md>):
 
-- {{[video](<video.md>):
-
 ## [Encrypted Graphs](<Encrypted Graphs.md>)
 - {{[video](<video.md>):
 
@@ -183,6 +181,9 @@
 - {{[video](<video.md>):
 
 ## [Mentions](<Mentions.md>)
+- {{[video](<video.md>):
+
+## [Mermaid Diagrams](<Mermaid Diagrams.md>)
 - {{[video](<video.md>):
 
 ## [Page References](<Page References.md>)

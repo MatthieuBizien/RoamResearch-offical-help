@@ -5,6 +5,10 @@
                 - **[Examples](<Examples.md>):**
 
 ## [Diagram](<Diagram.md>)
+- This is me
+- **[Examples](<Examples.md>):**
+
+## [Mermaid Diagrams](<Mermaid Diagrams.md>)
 - {{mermaid}}
 - **[Examples](<Examples.md>):**
 

@@ -10469,11 +10469,33 @@
     },
     "children": [
       {
+        ":block/refs": [
+          {
+            ":block/uid": "nzZgnkbII"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "create-time": 1717005593423,
+        "edit-time": 1717005604441,
+        "refs": [
+          {
+            "uid": "nzZgnkbII"
+          }
+        ],
+        "string": "Also see [[Mermaid Diagrams]]",
+        "uid": "Beuqg8Gft"
+      },
+      {
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         ":edit/user": {
-          ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
         },
         "children": [
           {
@@ -10597,36 +10619,10 @@
             "edit-time": 1615285650377,
             "string": "The default diagram",
             "uid": "O-XBFTPQ-"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1615285589141,
-                "edit-time": 1615285592378,
-                "string": "{{mermaid}}",
-                "uid": "dK8WjbyMQ"
-              }
-            ],
-            "create-time": 1615285656242,
-            "edit-time": 1615285656242,
-            "string": "The mermaid diagram",
-            "uid": "vX_Iq5L9i"
           }
         ],
         "create-time": 1614781711124,
-        "edit-time": 1716229943405,
+        "edit-time": 1717005593429,
         "string": "Diagrams let you represent content in a more visual manner (such as creating mindmaps and flow charts), there are a few diagrams you can create with Roam",
         "uid": "XjN0v6fUL"
       },
@@ -12522,52 +12518,6 @@
         },
         "children": [
           {
-            ":block/refs": [
-              {
-                ":block/uid": "nK1SOByAn"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "children": [
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "RZwG8gQAG"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1615285562474,
-                "edit-time": 1615285562474,
-                "refs": [
-                  {
-                    "uid": "RZwG8gQAG"
-                  }
-                ],
-                "string": "((RZwG8gQAG))",
-                "uid": "ILchXVJFg"
-              }
-            ],
-            "create-time": 1615273609683,
-            "edit-time": 1615273613491,
-            "refs": [
-              {
-                "uid": "nK1SOByAn"
-              }
-            ],
-            "string": "((nK1SOByAn))",
-            "uid": "e91LYV2h6"
-          },
-          {
             ":create/user": {
               ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
             },
@@ -12818,18 +12768,6 @@
             "edit-time": 1615274256041,
             "string": "`/diagram`",
             "uid": "TXGA4FxPZ"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "create-time": 1615285601787,
-            "edit-time": 1615285609929,
-            "string": "`{{mermaid}}`",
-            "uid": "7ur4c5CQ3"
           }
         ],
         "create-time": 1614781712655,
@@ -103890,27 +103828,399 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1717002331707,
-    "edit-time": 1717002331707,
-    "title": "Matthieu Bizien",
-    "uid": "Bnl2sKk4u"
+    ":log/id": 1717004514403,
+    "create-time": 1717004514403,
+    "edit-time": 1717004514404,
+    "title": "May 29th, 2024",
+    "uid": "05-29-2024"
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    ":log/id": 1717002331718,
-    "create-time": 1717002331719,
-    "edit-time": 1717002331719,
-    "title": "May 29th, 2024",
-    "uid": "05-29-2024"
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1717005714385,
+            "edit-time": 1717005726924,
+            "string": "To read more about Mermaid syntax see https://mermaid.js.org/intro/",
+            "uid": "qzhkkTZtt"
+          }
+        ],
+        "create-time": 1717005680477,
+        "edit-time": 1717005712236,
+        "string": "An embedded version of MermaidJS, create mermaid diagrams inside of Roam!",
+        "uid": "Rk15PQ0HO"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1615285601787,
+            "edit-time": 1717005775262,
+            "string": "type or copy and paste`{{mermaid}}` into a new block",
+            "uid": "7ur4c5CQ3"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1717005775712,
+            "edit-time": 1717005782416,
+            "string": "It will look like below",
+            "uid": "kVsCppgnN"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1615285589141,
+            "edit-time": 1615285592378,
+            "string": "{{mermaid}}",
+            "uid": "dK8WjbyMQ"
+          }
+        ],
+        "create-time": 1615285656242,
+        "edit-time": 1717005762655,
+        "string": "To create a mermaid diagram",
+        "uid": "vX_Iq5L9i"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "-77Q9kDnv"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "YEDSWbbnb"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1717005885695,
+                        "edit-time": 1717005896168,
+                        "string": "A --> C",
+                        "uid": "eOVbWc3GS"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1717005889214,
+                        "edit-time": 1717005897796,
+                        "string": "A --> D",
+                        "uid": "pENPvnTWW"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1717005893149,
+                        "edit-time": 1717005899114,
+                        "string": "B --> C",
+                        "uid": "MPS4nvvRe"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1717005872339,
+                        "edit-time": 1717005893151,
+                        "string": "B --> D",
+                        "uid": "J62-G0Mu1"
+                      }
+                    ],
+                    "create-time": 1717005880671,
+                    "edit-time": 1717005903903,
+                    "string": "flowchart TB",
+                    "uid": "uLeE_A_4i"
+                  }
+                ],
+                "create-time": 1717005865140,
+                "edit-time": 1717005954627,
+                "refs": [
+                  {
+                    "uid": "YEDSWbbnb"
+                  }
+                ],
+                "string": "{{[[mermaid]]}}",
+                "uid": "E03bstDJe"
+              }
+            ],
+            "create-time": 1717005911181,
+            "edit-time": 1717005913489,
+            "string": "Flowchart",
+            "uid": "GVQ3tMuCT"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "YEDSWbbnb"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1717005975776,
+                        "edit-time": 1717005975776,
+                        "string": "Alice->>John: Hello John, how are you?",
+                        "uid": "eVAghESIM"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1717005979230,
+                        "edit-time": 1717005979230,
+                        "string": "John-->>Alice: Great!",
+                        "uid": "2HKduGAdq"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1717005942862,
+                        "edit-time": 1717005979232,
+                        "string": "Alice-)John: See you later!",
+                        "uid": "jP9XaNy5_"
+                      }
+                    ],
+                    "create-time": 1717005972360,
+                    "edit-time": 1717005972360,
+                    "string": "sequenceDiagram",
+                    "uid": "6DEZ-FIfj"
+                  }
+                ],
+                "create-time": 1717005938164,
+                "edit-time": 1717005961640,
+                "refs": [
+                  {
+                    "uid": "YEDSWbbnb"
+                  }
+                ],
+                "string": "{{[[mermaid]]}}",
+                "uid": "GnCyAKN4r"
+              }
+            ],
+            "create-time": 1717005915554,
+            "edit-time": 1717005938172,
+            "string": "Sequence Diagram",
+            "uid": "X0xSmYfQM"
+          }
+        ],
+        "create-time": 1717005862132,
+        "edit-time": 1717005865145,
+        "refs": [
+          {
+            "uid": "-77Q9kDnv"
+          }
+        ],
+        "string": "Examples::",
+        "uid": "e6Dda9gQe"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "oEhVJ0Eaw"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "nK1SOByAn"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "RZwG8gQAG"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "create-time": 1615285562474,
+                "edit-time": 1615285562474,
+                "refs": [
+                  {
+                    "uid": "RZwG8gQAG"
+                  }
+                ],
+                "string": "((RZwG8gQAG))",
+                "uid": "ILchXVJFg"
+              }
+            ],
+            "create-time": 1615273609683,
+            "edit-time": 1615273613491,
+            "refs": [
+              {
+                "uid": "nK1SOByAn"
+              }
+            ],
+            "string": "((nK1SOByAn))",
+            "uid": "e91LYV2h6"
+          }
+        ],
+        "create-time": 1717005625649,
+        "edit-time": 1717005627228,
+        "refs": [
+          {
+            "uid": "oEhVJ0Eaw"
+          }
+        ],
+        "string": "Roam Team Videos::",
+        "uid": "IGfcvNIHW"
+      }
+    ],
+    "create-time": 1717005585774,
+    "edit-time": 1717005585774,
+    "title": "Mermaid Diagrams",
+    "uid": "nzZgnkbII"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1717005954628,
+    "edit-time": 1717005954629,
+    "title": "mermaid",
+    "uid": "YEDSWbbnb"
   }
 ]

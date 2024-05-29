@@ -24,6 +24,10 @@
 - It doesn't matter what [page]([Pages](<Pages.md>)) you've written a note on, if you mention an idea, every place where you mentioned that idea will get collected underneath that page in the [Linked References](<Linked References.md>) section when you turn turn that idea into a [page reference]([Page References](<Page References.md>))
         - **[Roam Team Videos](<Roam Team Videos.md>):**
 
+## [Mermaid Diagrams](<Mermaid Diagrams.md>)
+- Alice-)John: See you later!
+- **[Roam Team Videos](<Roam Team Videos.md>):**
+
 ## [Page References](<Page References.md>)
 - You can transform any mention of a page to a page reference by opening up the [Unlinked References](<Unlinked References.md>) underneath where you can see and link all the mentions of a page that haven't been linked yet
 - **[Roam Team Videos](<Roam Team Videos.md>):**
