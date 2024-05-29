@@ -1,10 +1,8 @@
-- Also see [Mermaid Diagrams](<Mermaid Diagrams.md>)
-- Diagrams let you represent content in a more visual manner (such as creating mindmaps and flow charts), there are a few diagrams you can create with Roam
-    - The default diagram
-        - {{[diagram](<diagram.md>)}}
-            - Hello
-                - How are you
-            - This is me
+- Diagrams are an extra dimension of the blocks in your graph. You can lay your thoughts out in a 2D infinite canvas, group and connect ideas. Every node (or group) in the diagram corresponds to a block in your graph. Any blocks used in a diagram will show up in references section for that block.
+    - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FV_WiYRS5RY.mov?alt=media&token=161c5af3-9e45-44a8-8575-907c3abfc023}}
+- To create a diagram
+    - Type `/` then search for `diagram` and hit enter
+    - Alternatively you can type or copy and paste`{{diagram}}` into a new block
 - **[Examples](<Examples.md>):**
     - {{diagram:@visakan's Memex}}
         - **Introspect.** If you don’t
@@ -282,19 +280,18 @@ tangible
         - Slate Star Codex
         - Gwern
 - **[Roam Team Videos](<Roam Team Videos.md>):**
-    - Archived⬇️ (old version of the diagram feature)
+    - Archived ⬇️ (old version of the diagram feature)
         - Diagrams in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
             - {{[video](<video.md>): https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
 #[Diagram](<Diagram.md>)
 - **[Articles](<Articles.md>):**
-    - Archived⬇️ (old version of the diagram feature)
+    - Archived ⬇️ (old version of the diagram feature)
         - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) [Diagram](<Diagram.md>)
 - **[Community Videos](<Community Videos.md>):**
-    - Archived⬇️ (old version of the diagram feature)
+    - Archived ⬇️ (old version of the diagram feature)
         - Drawing and Diagrams in Roam Research by [Chester](<Chester.md>)
             - {{[video](<video.md>): https://www.youtube.com/watch?v=-q5JRaZbcrA}}
-- **[Key Commands](<Key Commands.md>):**
-    - `/diagram`
+- Also see [Mermaid Diagrams](<Mermaid Diagrams.md>)
 
 # Backlinks
 ## [ Commands](< Commands.md>)

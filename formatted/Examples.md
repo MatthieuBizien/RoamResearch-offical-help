@@ -5,7 +5,7 @@
                 - **[Examples](<Examples.md>):**
 
 ## [Diagram](<Diagram.md>)
-- This is me
+- Alternatively you can type or copy and paste`{{diagram}}` into a new block
 - **[Examples](<Examples.md>):**
 
 ## [Mermaid Diagrams](<Mermaid Diagrams.md>)

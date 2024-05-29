@@ -25,7 +25,7 @@
         - **[Roam Team Videos](<Roam Team Videos.md>):**
 
 ## [Mermaid Diagrams](<Mermaid Diagrams.md>)
-- Alice-)John: See you later!
+Add another diagram to demo page    :48h
 - **[Roam Team Videos](<Roam Team Videos.md>):**
 
 ## [Page References](<Page References.md>)

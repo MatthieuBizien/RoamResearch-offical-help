@@ -52,10 +52,6 @@ Turn key commands instruction on with custom components like this
 #[Date picker](<Date picker.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Tags](<Tags.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Query](<Query.md>)
 - **[Key Commands](<Key Commands.md>):**
 
-## [Diagram](<Diagram.md>)
-- {{[video](<video.md>): https://www.youtube.com/watch?v=-q5JRaZbcrA}}
-- **[Key Commands](<Key Commands.md>):**
-
 ## [Features](<Features.md>)
 - [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals) by [Maggie Appleton](<Maggie Appleton.md>)
         - **[Key Commands](<Key Commands.md>):**
