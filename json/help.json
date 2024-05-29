@@ -44652,6 +44652,281 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "05-29-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Y61WIJQKq"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2h9V-FtAO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1716252791684,
+                        "edit-time": 1717011455072,
+                        "refs": [
+                          {
+                            "uid": "2h9V-FtAO"
+                          }
+                        ],
+                        "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FpN9-ApURme.mov?alt=media&token=4d87d6a5-10be-47b9-bcbd-45707162182f}}",
+                        "uid": "M_cEsh52Q"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1716252791684,
+                            "edit-time": 1717011455072,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FcO8743btPn.mov?alt=media&token=cbeb5a9a-6fb7-4945-9dba-3ddb87eb2def}}",
+                            "uid": "6jYbSGWSa"
+                          }
+                        ],
+                        "create-time": 1716252791684,
+                        "edit-time": 1717011738086,
+                        "string": "Create one with /diagram -> click to expand -> name your mindmap",
+                        "uid": "n9aJd16vx"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1716252791684,
+                            "edit-time": 1717011455072,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2F0TOQ2WZC3D.mov?alt=media&token=f404d8db-459a-4966-ae98-cc55d1af85d5}}",
+                            "uid": "BrwN4dcBI"
+                          }
+                        ],
+                        "create-time": 1716252791684,
+                        "edit-time": 1717011746172,
+                        "string": "To add a new block/node, double click the space \u2014 then align them",
+                        "uid": "HkRyabNnx"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1716252791684,
+                            "edit-time": 1717011455072,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FDzvqF9twDX.mov?alt=media&token=4e3c2ca8-ead7-4d83-893f-419fe10800f7}}",
+                            "uid": "1GXD3NhaB"
+                          }
+                        ],
+                        "create-time": 1716252791684,
+                        "edit-time": 1717011455072,
+                        "string": "Play around with multiple resizable groups, move them around!",
+                        "uid": "pnehFh9MV"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1716252791684,
+                            "edit-time": 1717011455072,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FZ7M8D7S0rJ.MOV?alt=media&token=075a029e-0af2-498d-8622-b4d097b03244}}",
+                            "uid": "KODLUokj8"
+                          }
+                        ],
+                        "create-time": 1716252791684,
+                        "edit-time": 1717011455072,
+                        "string": "Connect your block by holding \u2325 (on mac) or ALT (windows) on the block and dragging your mouse to the connecting node. Infinite possibilities...",
+                        "uid": "qS0aS8yxB"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1716252791684,
+                            "edit-time": 1717011455072,
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FQtYQA1vTf4.mov?alt=media&token=8f354d26-e94e-44a3-a6a1-59dea851af76}}",
+                            "uid": "EsB14Ay0g"
+                          }
+                        ],
+                        "create-time": 1716252791684,
+                        "edit-time": 1717011455072,
+                        "string": "Now, create a diagram inside another diagram! Select blocks or a block group > right-click > Move to subdiagram",
+                        "uid": "ys15EEOqe"
+                      }
+                    ],
+                    "create-time": 1717011369216,
+                    "edit-time": 1717011386021,
+                    "refs": [
+                      {
+                        "uid": "Y61WIJQKq"
+                      }
+                    ],
+                    "string": "[[Diagram]]s got a makeover!",
+                    "uid": "-7JLp3LLC"
+                  }
+                ],
+                "create-time": 1717011355412,
+                "edit-time": 1717011365147,
+                "heading": 2,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80",
+                "uid": "5Kp-hAwop"
+              }
+            ],
+            "create-time": 1717011353116,
+            "edit-time": 1717011355253,
+            "refs": [
+              {
+                "uid": "05-29-2024"
+              }
+            ],
+            "string": "[[May 29th, 2024]]",
+            "uid": "qt7wOnNrt"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "05-25-2024"
               }
             ],
@@ -104220,9 +104495,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1717009535633,
-    "edit-time": 1717009535633,
+    "create-time": 1717013144749,
+    "edit-time": 1717013144749,
     "title": "Matthieu Bizien",
-    "uid": "991VE4Vrd"
+    "uid": "tfq9Z764p"
   }
 ]

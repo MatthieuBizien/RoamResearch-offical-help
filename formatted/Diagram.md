@@ -300,6 +300,9 @@ tangible
 ## [Block Context Menu](<Block Context Menu.md>)
 #[Version Control](<Version Control.md>) | #[Diagram](<Diagram.md>)
 
+## [Change Log](<Change Log.md>)
+- [Diagram](<Diagram.md>)s
+
 ## [Diagram](<Diagram.md>)
 #[Diagram](<Diagram.md>)
 

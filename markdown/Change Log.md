@@ -1,6 +1,20 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[May 29th, 2024]]
+        - ## [[New Features]] 🚀
+            - [[Diagram]]s got a makeover!
+                - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FpN9-ApURme.mov?alt=media&token=4d87d6a5-10be-47b9-bcbd-45707162182f}}
+                - Create one with /diagram -> click to expand -> name your mindmap
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FcO8743btPn.mov?alt=media&token=cbeb5a9a-6fb7-4945-9dba-3ddb87eb2def}}
+                - To add a new block/node, double click the space — then align them
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2F0TOQ2WZC3D.mov?alt=media&token=f404d8db-459a-4966-ae98-cc55d1af85d5}}
+                - Play around with multiple resizable groups, move them around!
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FDzvqF9twDX.mov?alt=media&token=4e3c2ca8-ead7-4d83-893f-419fe10800f7}}
+                - Connect your block by holding ⌥ (on mac) or ALT (windows) on the block and dragging your mouse to the connecting node. Infinite possibilities...
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FZ7M8D7S0rJ.MOV?alt=media&token=075a029e-0af2-498d-8622-b4d097b03244}}
+                - Now, create a diagram inside another diagram! Select blocks or a block group > right-click > Move to subdiagram
+                    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FQtYQA1vTf4.mov?alt=media&token=8f354d26-e94e-44a3-a6a1-59dea851af76}}
     - [[May 25th, 2024]]
         - ## [[New Features]] 🚀
             - ### The New [[Roam Append API]] is out now!
