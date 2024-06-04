@@ -104500,30 +104500,5 @@
     "edit-time": 1717035133565,
     "title": "May 30th, 2024",
     "uid": "05-30-2024"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1717531544845,
-    "edit-time": 1717531544845,
-    "title": "Matthieu Bizien",
-    "uid": "ik_hVhU-p"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1717531544854,
-    "create-time": 1717531544856,
-    "edit-time": 1717531544856,
-    "title": "June 4th, 2024",
-    "uid": "06-04-2024"
   }
 ]
