@@ -1,6 +1,20 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [June 6th, 2024](<June 6th, 2024.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
+            - ### Crosswords
+                - A new extension by [Mark Lavercombe](<Mark Lavercombe.md>)!
+                - Import, render and complete a random New York Times crossword in Roam Research
+                - Screenshot
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-N63QwsV72.png?alt=media&token=b9b7198f-71df-45ca-ae18-645b85acce75)
+                - You can import a crossword using:
+                    - command palette command 'Random crossword from New York Times'
+                    - using a SmartBlock as shown:
+                        - [SmartBlock](<SmartBlock.md>) crossword
+                            - `<%NYTCROSSWORD%>`
+                        - `{{NYTCrossword:SmartBlock:crossword}}`
+                - Your guessed letters are saved in your graph, so you can come back on another device or at another time and complete the puzzle. Good luck!
     - [May 29th, 2024](<May 29th, 2024.md>)
         - ## [New Features](<New Features.md>) 🚀
             - [Diagram](<Diagram.md>)s got a makeover!
@@ -139,7 +153,7 @@
         - Fix setting custom hotkeys on [mobile](<mobile.md>) web
     - [January 27th, 2024](<January 27th, 2024.md>)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
-            - # [Speech to Roam](https://github.com/fbgallet/roam-extension-speech-to-roam)
+            - # [Live AI Assistant (former Speech-to-Roam)](https://github.com/fbgallet/roam-extension-speech-to-roam)
                 - Speak instead of having to type into Roam. 
 Additionally, you can speak to a GPT model (providing context to the model from your Roam graph by selecting blocks before calling the command!), or even do translations to English
                 - ## Features

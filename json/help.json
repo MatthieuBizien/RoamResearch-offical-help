@@ -44652,6 +44652,245 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-06-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "qB16_f-M3"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1717655227695,
+                        "edit-time": 1717655237209,
+                        "refs": [
+                          {
+                            "uid": "qB16_f-M3"
+                          }
+                        ],
+                        "string": "A new extension by [[Mark Lavercombe]]!",
+                        "uid": "Y9jvmjfo6"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1717655208686,
+                        "edit-time": 1717655223516,
+                        "string": "Import, render and complete a random New York Times crossword in Roam Research",
+                        "uid": "80OiXHwJM"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-N63QwsV72.png?alt=media&token=b9b7198f-71df-45ca-ae18-645b85acce75": {
+                                  ":height": null,
+                                  ":width": 394
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1717655223866,
+                            "edit-time": 1717655266822,
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-N63QwsV72.png?alt=media&token=b9b7198f-71df-45ca-ae18-645b85acce75": {
+                                  "height": null,
+                                  "width": 394
+                                }
+                              }
+                            },
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F-N63QwsV72.png?alt=media&token=b9b7198f-71df-45ca-ae18-645b85acce75)",
+                            "uid": "_kuaiirX3"
+                          }
+                        ],
+                        "create-time": 1717655269510,
+                        "edit-time": 1717655272128,
+                        "string": "Screenshot",
+                        "uid": "MTDQvzUv0"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1717655281994,
+                            "edit-time": 1717655281994,
+                            "string": "command palette command 'Random crossword from New York Times'",
+                            "uid": "7VSjkw7YD"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "fqX_kn4k-"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1717655281994,
+                                    "edit-time": 1717655290099,
+                                    "string": "`<%NYTCROSSWORD%>`",
+                                    "uid": "D93sEeE0r"
+                                  }
+                                ],
+                                "create-time": 1717655281994,
+                                "edit-time": 1717655281994,
+                                "refs": [
+                                  {
+                                    "uid": "fqX_kn4k-"
+                                  }
+                                ],
+                                "string": "#SmartBlock crossword",
+                                "uid": "gLnLZMRwz"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1717655281994,
+                                "edit-time": 1717655288101,
+                                "string": "`{{NYTCrossword:SmartBlock:crossword}}`",
+                                "uid": "inH3AWAiA"
+                              }
+                            ],
+                            "create-time": 1717655281994,
+                            "edit-time": 1717655281994,
+                            "string": "using a SmartBlock as shown:",
+                            "uid": "_K8biV90g"
+                          }
+                        ],
+                        "create-time": 1717655281994,
+                        "edit-time": 1717655281994,
+                        "string": "You can import a crossword using:",
+                        "uid": "KzJCbeWEo"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1717655281994,
+                        "edit-time": 1717655281994,
+                        "string": "Your guessed letters are saved in your graph, so you can come back on another device or at another time and complete the puzzle. Good luck!",
+                        "uid": "twBjrn7Y8"
+                      }
+                    ],
+                    "create-time": 1717655111706,
+                    "edit-time": 1717655208691,
+                    "heading": 3,
+                    "string": "Crosswords",
+                    "uid": "6RwMI9_MC"
+                  }
+                ],
+                "create-time": 1717654979395,
+                "edit-time": 1717655111713,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "Arz-l7eLG"
+              }
+            ],
+            "create-time": 1717654969114,
+            "edit-time": 1717654972338,
+            "refs": [
+              {
+                "uid": "06-06-2024"
+              }
+            ],
+            "string": "[[June 6th, 2024]]",
+            "uid": "nXMCPxX9c"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "05-29-2024"
               }
             ],
@@ -47432,9 +47671,9 @@
                       }
                     ],
                     "create-time": 1706329297635,
-                    "edit-time": 1706329311918,
+                    "edit-time": 1717654957453,
                     "heading": 1,
-                    "string": "[Speech to Roam](https://github.com/fbgallet/roam-extension-speech-to-roam)",
+                    "string": "[Live AI Assistant (former Speech-to-Roam)](https://github.com/fbgallet/roam-extension-speech-to-roam)",
                     "uid": "5pSgJR_GN"
                   }
                 ],
@@ -104516,15 +104755,28 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    "create-time": 1717654045137,
-    "edit-time": 1717654045137,
-    "title": "Matthieu Bizien",
-    "uid": "lhC0Tk0vm"
+    ":log/id": 1717654817804,
+    "create-time": 1717654817804,
+    "edit-time": 1717654817804,
+    "title": "June 6th, 2024",
+    "uid": "06-06-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "create-time": 1717655237211,
+    "edit-time": 1717655237212,
+    "title": "Mark Lavercombe",
+    "uid": "qB16_f-M3"
   },
   {
     ":create/user": {
@@ -104533,10 +104785,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1717654045146,
-    "create-time": 1717654045149,
-    "edit-time": 1717654045149,
-    "title": "June 6th, 2024",
-    "uid": "06-06-2024"
+    "create-time": 1717657599292,
+    "edit-time": 1717657599292,
+    "title": "Matthieu Bizien",
+    "uid": "VgVpZCmnY"
   }
 ]
