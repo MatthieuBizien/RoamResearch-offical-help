@@ -104777,30 +104777,5 @@
     "edit-time": 1717655237212,
     "title": "Mark Lavercombe",
     "uid": "qB16_f-M3"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1717729599241,
-    "edit-time": 1717729599241,
-    "title": "Matthieu Bizien",
-    "uid": "c7sST7dHE"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1717729599249,
-    "create-time": 1717729599251,
-    "edit-time": 1717729599251,
-    "title": "June 7th, 2024",
-    "uid": "06-07-2024"
   }
 ]
