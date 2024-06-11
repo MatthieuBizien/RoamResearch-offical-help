@@ -4,6 +4,56 @@
     - Type `/` then search for `diagram` and hit enter
     - Alternatively you can type or copy and paste`{{diagram}}` into a new block
 - Examples::
+    - {{diagram: How to Do Great Work by Paul Graham (mapped by @jasonshen)}}
+        - Superlinear returns
+        - At least it'll be on a fascinating topic
+        - Show up in successive versions
+        - Develop your own taste
+        - **Work on a project of one's own**
+        - Don't wait for a "big break"
+        - Have the confidence to cut
+        - **Work hard**
+        - Break rules
+        - Lots of work is hard
+        - Fear of failure
+        - Deep interest/curiosity
+        - Fear of hard work
+        - Prerequisites
+        - Avoid per-project procrastiation
+        - Optimize for interestingness
+        - Chase outlier ideas
+        - Gatekeeper rejection is not great work
+        - just try to do something amazing
+        - Make things YOU want
+        - Your best job → distinctiveness
+        - Who have surprising insights
+        - Don't worry about "style"
+        - "If at first you don't succeed: either try again, or backtrack and try again
+        - Learn fundamentals
+        - Natural aptitude
+        - doing something important so well that you expand people's ideas of what's possible
+        - Notice gaps in the field
+        - **Nurture your morale**
+        - Laying the groundwork
+        - **Great work:**
+        - So what
+        - Modesty
+        - Very ambitions
+        - **Do work that compounds**
+        - What holds people back
+        - Scope to do great work
+        - Are novel yet obvious
+        - Don't burn out
+        - "Am I working on what I most want to work on?"
+        - Get to the frontiers
+        - Good ideas
+        - No precise definition
+        - Come from prolificness
+        - Don't have to tell people your intentions
+        - Extraordinary growth may justify extraordinary effort
+        - "Stay upwind"
+        - **Seek out the best colleagues**
+        - **Make things people want**
     - {{diagram:@visakan's Memex}}
         - **Introspect.** If you don’t
 know what you want, your

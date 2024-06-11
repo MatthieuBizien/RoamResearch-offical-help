@@ -10547,6 +10547,614 @@
         "children": [
           {
             ":block/props": {
+              ":rf-diagram": {}
+            },
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Superlinear returns",
+                "uid": "5pkOqp18i"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "At least it'll be on a fascinating topic",
+                "uid": "kgXtmaA2c"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Show up in successive versions",
+                "uid": "0jNSu35qb"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Develop your own taste",
+                "uid": "J0HdgedH6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "**Work on a project of one's own**",
+                "uid": "ddoxANjBu"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Don't wait for a \"big break\"",
+                "uid": "zqJxWNmjx"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Have the confidence to cut",
+                "uid": "p3BxyjDwo"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "**Work hard**",
+                "uid": "sdltd-Ozn"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Break rules",
+                "uid": "6lks_Epje"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Lots of work is hard",
+                "uid": "m8YvYfnrk"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Fear of failure",
+                "uid": "R0ANVpSEo"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Deep interest/curiosity",
+                "uid": "wDTU8aP0l"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Fear of hard work",
+                "uid": "pKGNXr8CR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Prerequisites",
+                "uid": "bNkE7Rh5K"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Avoid per-project procrastiation",
+                "uid": "g3gn2RNZs"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Optimize for interestingness",
+                "uid": "ny8jckn5W"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Chase outlier ideas",
+                "uid": "hDYHtpiVR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Gatekeeper rejection is not great work",
+                "uid": "D1O9BW8zb"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "just try to do something amazing",
+                "uid": "PbZqRonjr"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Make things YOU want",
+                "uid": "vnXqbGDo0"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Your best job \u2192 distinctiveness",
+                "uid": "KHMwv_6CQ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Who have surprising insights",
+                "uid": "CjS__St97"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Don't worry about \"style\"",
+                "uid": "D9d_BaBHN"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "\"If at first you don't succeed: either try again, or backtrack and try again",
+                "uid": "7CK19D4RN"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Learn fundamentals",
+                "uid": "nXP2D1Xos"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Natural aptitude",
+                "uid": "9QXtgmJyG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "doing something important so well that you expand people's ideas of what's possible",
+                "uid": "hjeXRM8Wj"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Notice gaps in the field",
+                "uid": "9oBeGEXsb"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "**Nurture your morale**",
+                "uid": "eEq9aIAPV"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Laying the groundwork",
+                "uid": "NRKnAWlNA"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "**Great work:**",
+                "uid": "N-_EWQN4R"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "So what",
+                "uid": "8Ij80m73C"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Modesty",
+                "uid": "_-f9c9qmM"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Very ambitions",
+                "uid": "nInIzlra5"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "**Do work that compounds**",
+                "uid": "i_oKTJh6b"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "What holds people back",
+                "uid": "Hl-EU3K7d"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Scope to do great work",
+                "uid": "uxm2r5Ew5"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Are novel yet obvious",
+                "uid": "yUMtSsZfH"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Don't burn out",
+                "uid": "kyNPk0DKM"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "\"Am I working on what I most want to work on?\"",
+                "uid": "67NToZXK0"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Get to the frontiers",
+                "uid": "AZTbtq4-_"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Good ideas",
+                "uid": "49OU2F3Nd"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "No precise definition",
+                "uid": "rKtkHNhQj"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Come from prolificness",
+                "uid": "n6mHuh6Yz"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Don't have to tell people your intentions",
+                "uid": "xScvfcs7S"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "Extraordinary growth may justify extraordinary effort",
+                "uid": "a-4MYIcIr"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "\"Stay upwind\"",
+                "uid": "iZrWy8H2X"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "**Seek out the best colleagues**",
+                "uid": "m7A6gLv1z"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1718141022515,
+                "edit-time": 1718141022515,
+                "string": "**Make things people want**",
+                "uid": "t9EiPU35M"
+              }
+            ],
+            "create-time": 1718140983369,
+            "edit-time": 1718141022515,
+            "props": {
+              "rf-diagram": {}
+            },
+            "string": "{{diagram: How to Do Great Work by Paul Graham (mapped by @jasonshen)}}",
+            "uid": "Yf362AzOj"
+          },
+          {
+            ":block/props": {
               ":rf-diagram": {
                 ":overridden-data-defaults": {
                   ":block": {
@@ -36747,29 +37355,29 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "3VEv-jR5D"
+                        ":block/uid": "Y61WIJQKq"
                       },
                       {
-                        ":block/uid": "3Cz7N71ZV"
+                        ":block/uid": "3VEv-jR5D"
                       }
                     ],
                     ":create/user": {
                       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                     },
                     ":edit/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                      ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                     },
                     "create-time": 1617137848516,
-                    "edit-time": 1617137848516,
+                    "edit-time": 1718140980724,
                     "refs": [
                       {
-                        "uid": "3VEv-jR5D"
+                        "uid": "Y61WIJQKq"
                       },
                       {
-                        "uid": "3Cz7N71ZV"
+                        "uid": "3VEv-jR5D"
                       }
                     ],
-                    "string": "{{[[TODO]]}} [Example [[Diagrams]] of decision tree/matrix] ",
+                    "string": "{{[[TODO]]}} [Example [[Diagram]] of decision tree/matrix] ",
                     "uid": "O1DI9L9tH"
                   }
                 ],
@@ -44649,6 +45257,66 @@
           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
         },
         "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "06-11-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "fQyPj9yfg"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1718140183098,
+                    "edit-time": 1718140205118,
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpZIJQdU0Wz.png?alt=media&token=0ea9af98-42d6-4a92-a20e-e7389684e576)",
+                    "uid": "h-Ts1R3bY"
+                  }
+                ],
+                "create-time": 1718140170505,
+                "edit-time": 1718140183104,
+                "refs": [
+                  {
+                    "uid": "fQyPj9yfg"
+                  }
+                ],
+                "string": "[[Delete Account]] option in account settings",
+                "uid": "2ickqdjWL"
+              }
+            ],
+            "create-time": 1718140168404,
+            "edit-time": 1718140170521,
+            "refs": [
+              {
+                "uid": "06-11-2024"
+              }
+            ],
+            "string": "[[June 11th, 2024]]",
+            "uid": "6fOonoK0M"
+          },
           {
             ":block/refs": [
               {
@@ -91090,18 +91758,6 @@
     ":edit/user": {
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
-    "create-time": 1617137848758,
-    "edit-time": 1617137848759,
-    "title": "Diagrams",
-    "uid": "3Cz7N71ZV"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-    },
-    ":edit/user": {
-      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-    },
     "create-time": 1617137915427,
     "edit-time": 1617137915428,
     "title": "source",
@@ -104804,5 +105460,29 @@
     "edit-time": 1718122550206,
     "title": "June 11th, 2024",
     "uid": "06-11-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1718140179280,
+    "edit-time": 1718140179281,
+    "title": "Delete Account",
+    "uid": "fQyPj9yfg"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1718143544253,
+    "edit-time": 1718143544253,
+    "title": "Matthieu Bizien",
+    "uid": "yJjY37hIe"
   }
 ]

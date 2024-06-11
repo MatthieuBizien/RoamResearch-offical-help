@@ -1,6 +1,5 @@
-- 
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
-- [June 11th, 2024](<June 11th, 2024.md>)
+- [Delete Account](<Delete Account.md>)
 

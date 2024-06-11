@@ -1,6 +1,9 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [June 11th, 2024](<June 11th, 2024.md>)
+        - [Delete Account](<Delete Account.md>) option in account settings
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpZIJQdU0Wz.png?alt=media&token=0ea9af98-42d6-4a92-a20e-e7389684e576)
     - [June 6th, 2024](<June 6th, 2024.md>)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ### Crosswords
