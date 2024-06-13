@@ -45260,6 +45260,124 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-13-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "PwoE6qnIL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1718294517166,
+                    "edit-time": 1718294521553,
+                    "string": "Added `{{video}}` components",
+                    "uid": "Lceq2oNPn"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1718294517166,
+                    "edit-time": 1718294517166,
+                    "string": "Fixed bug with checking todos inside of a block ref",
+                    "uid": "GMWMs-ytk"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1718294517166,
+                    "edit-time": 1718294517166,
+                    "string": "Fixed bug with drag and drop reordering when dragging a block down in the list",
+                    "uid": "2VgtU6xEb"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1718294517166,
+                    "edit-time": 1718294517166,
+                    "string": "Fixed bug with deleting blocks and replacing references with the block text",
+                    "uid": "C6OVlyDgS"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fQyPj9yfg"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1718294517166,
+                    "edit-time": 1718294548811,
+                    "refs": [
+                      {
+                        "uid": "fQyPj9yfg"
+                      }
+                    ],
+                    "string": "Added [[Delete Account]]",
+                    "uid": "Eb3xHKFWM"
+                  }
+                ],
+                "create-time": 1718294468972,
+                "edit-time": 1718294532555,
+                "refs": [
+                  {
+                    "uid": "PwoE6qnIL"
+                  }
+                ],
+                "string": "[[Mobile Beta]] 1.0.93",
+                "uid": "D7U_kiIUN"
+              }
+            ],
+            "create-time": 1718294463480,
+            "edit-time": 1718294468874,
+            "refs": [
+              {
+                "uid": "06-13-2024"
+              }
+            ],
+            "string": "[[June 13th, 2024]]",
+            "uid": "i7HnKix1a"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-12-2024"
               }
             ],
@@ -105886,9 +106004,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1718291147059,
-    "edit-time": 1718291147059,
+    "create-time": 1718294795063,
+    "edit-time": 1718294795064,
     "title": "Matthieu Bizien",
-    "uid": "5u8RduE2U"
+    "uid": "duuUNn2tn"
   }
 ]

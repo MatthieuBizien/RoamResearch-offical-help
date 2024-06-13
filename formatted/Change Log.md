@@ -1,6 +1,13 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [June 13th, 2024](<June 13th, 2024.md>)
+        - [Mobile Beta](<Mobile Beta.md>) 1.0.93
+            - Added `{{video}}` components
+            - Fixed bug with checking todos inside of a block ref
+            - Fixed bug with drag and drop reordering when dragging a block down in the list
+            - Fixed bug with deleting blocks and replacing references with the block text
+            - Added [Delete Account](<Delete Account.md>)
     - [June 12th, 2024](<June 12th, 2024.md>)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - ## Block Share Card Extension
