@@ -1,6 +1,30 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[June 12th, 2024]]
+        - [[Roam Depot Extensions]]
+            - ## Block Share Card Extension
+                - The Block Share Card extension for Roam Research enables users to effortlessly share the currently zoomed-in block as an image, tailored for optimal viewing on mobile and desktop devices.
+                - This extension enhances the user experience by simplifying the sharing process and ensuring content is easily readable on any device.
+                - ### [[Screenshots]]
+                    - Desktop View
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FmsUODwW92l.png?alt=media&token=9d65ce6d-de13-4a51-968a-af3fbe0deefa)
+                    - Mobile View
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Flx7cv0rJKd.png?alt=media&token=dd84b142-3643-4b5f-ad67-0e44e16c6eee)
+                - ### Features
+                    - **Instant Block Sharing:** Quickly share any zoomed-in block from your Roam Research page with a single click.
+                    - **Mobile and Desktop Optimization:** Choose from two image export options designed for different device displays:
+                        - **Mobile:** Creates a narrower image, perfect for viewing on mobile devices.
+                        - **Desktop:** Generates a wider image, ideal for desktop screens.
+                - ### Usage
+                    - Once the extension is installed, you'll find a new sharing icon in the Roam Research toolbar. To use the extension:
+                        1. Zoom into the block that you wish to share.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Ftpf8Fggg_i.png?alt=media&token=9ba35cf2-7d09-4334-816e-b19beaff869d)
+                        2. Click the sharing icon from the Block Share Card extension.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FXRdVCQfL5r.png?alt=media&token=8a080b18-f631-4995-b0b7-e074e6365bb4)
+                        3. Select "Mobile" or "Desktop" based on your preference for the image format.
+                        4. After selection, the image will be automatically downloaded to a specified folder, allowing you to easily access and share it across platforms.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fw2h9sEgquB.png?alt=media&token=4d43ddd3-7d0f-4dae-914d-603bb66495ba)
     - [[June 11th, 2024]]
         - [[Delete Account]] option in account settings
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FpZIJQdU0Wz.png?alt=media&token=0ea9af98-42d6-4a92-a20e-e7389684e576)

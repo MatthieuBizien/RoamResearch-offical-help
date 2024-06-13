@@ -45260,6 +45260,386 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-12-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1718253128014,
+                        "edit-time": 1718253128014,
+                        "string": "The Block Share Card extension for Roam Research enables users to effortlessly share the currently zoomed-in block as an image, tailored for optimal viewing on mobile and desktop devices.",
+                        "uid": "vke_QVcnD"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1718253128014,
+                        "edit-time": 1718253128014,
+                        "string": "This extension enhances the user experience by simplifying the sharing process and ensuring content is easily readable on any device.",
+                        "uid": "lwkZIKZQf"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Aa7fywYAg"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FmsUODwW92l.png?alt=media&token=9d65ce6d-de13-4a51-968a-af3fbe0deefa": {
+                                      ":height": null,
+                                      ":width": 447
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1718253200368,
+                                "edit-time": 1718253442786,
+                                "props": {
+                                  "image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FmsUODwW92l.png?alt=media&token=9d65ce6d-de13-4a51-968a-af3fbe0deefa": {
+                                      "height": null,
+                                      "width": 447
+                                    }
+                                  }
+                                },
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FmsUODwW92l.png?alt=media&token=9d65ce6d-de13-4a51-968a-af3fbe0deefa)",
+                                "uid": "xrF98OOja"
+                              }
+                            ],
+                            "create-time": 1718253192791,
+                            "edit-time": 1718253197270,
+                            "string": "Desktop View",
+                            "uid": "iFQCQRGLr"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Flx7cv0rJKd.png?alt=media&token=dd84b142-3643-4b5f-ad67-0e44e16c6eee": {
+                                      ":height": null,
+                                      ":width": 194
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1718253210602,
+                                "edit-time": 1718253314676,
+                                "props": {
+                                  "image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Flx7cv0rJKd.png?alt=media&token=dd84b142-3643-4b5f-ad67-0e44e16c6eee": {
+                                      "height": null,
+                                      "width": 194
+                                    }
+                                  }
+                                },
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Flx7cv0rJKd.png?alt=media&token=dd84b142-3643-4b5f-ad67-0e44e16c6eee)",
+                                "uid": "--MCHQiaV"
+                              }
+                            ],
+                            "create-time": 1718253197313,
+                            "edit-time": 1718253200016,
+                            "string": "Mobile View",
+                            "uid": "F5WwziE8P"
+                          }
+                        ],
+                        "create-time": 1718253129812,
+                        "edit-time": 1718253464237,
+                        "heading": 3,
+                        "refs": [
+                          {
+                            "uid": "Aa7fywYAg"
+                          }
+                        ],
+                        "string": "[[Screenshots]]",
+                        "uid": "DVaRqn7NK"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1718253244864,
+                            "edit-time": 1718253244864,
+                            "string": "**Instant Block Sharing:**\u00a0Quickly share any zoomed-in block from your Roam Research page with a single click.",
+                            "uid": "4LvApAo5a"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1718253244864,
+                                "edit-time": 1718253244864,
+                                "string": "**Mobile:**\u00a0Creates a narrower image, perfect for viewing on mobile devices.",
+                                "uid": "y_GQWO5YV"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1718253244864,
+                                "edit-time": 1718253244864,
+                                "string": "**Desktop:**\u00a0Generates a wider image, ideal for desktop screens.",
+                                "uid": "5W0R5VXkC"
+                              }
+                            ],
+                            "create-time": 1718253244864,
+                            "edit-time": 1718253244864,
+                            "string": "**Mobile and Desktop Optimization:**\u00a0Choose from two image export options designed for different device displays:",
+                            "uid": "84TEzC20R"
+                          }
+                        ],
+                        "create-time": 1718253244864,
+                        "edit-time": 1718253399454,
+                        "heading": 3,
+                        "string": "Features",
+                        "uid": "QHmTWqBCC"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1718253285833,
+                                    "edit-time": 1718253292516,
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Ftpf8Fggg_i.png?alt=media&token=9ba35cf2-7d09-4334-816e-b19beaff869d)",
+                                    "uid": "BGk2rhtdi"
+                                  }
+                                ],
+                                "create-time": 1718253267215,
+                                "edit-time": 1718253267215,
+                                "string": "Zoom into the block that you wish to share.",
+                                "uid": "vycq1g4te"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1718253291493,
+                                    "edit-time": 1718253298354,
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FXRdVCQfL5r.png?alt=media&token=8a080b18-f631-4995-b0b7-e074e6365bb4)",
+                                    "uid": "vqhCCcG7S"
+                                  }
+                                ],
+                                "create-time": 1718253267215,
+                                "edit-time": 1718253267215,
+                                "string": "Click the sharing icon from the Block Share Card extension.",
+                                "uid": "H88PMXjQ1"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1718253267215,
+                                "edit-time": 1718253267215,
+                                "string": "Select \"Mobile\" or \"Desktop\" based on your preference for the image format.",
+                                "uid": "t6Hk--onY"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "children": [
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    "create-time": 1718253308107,
+                                    "edit-time": 1718253315303,
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fw2h9sEgquB.png?alt=media&token=4d43ddd3-7d0f-4dae-914d-603bb66495ba)",
+                                    "uid": "7hxmVY_Ca"
+                                  }
+                                ],
+                                "create-time": 1718253267215,
+                                "edit-time": 1718253267215,
+                                "string": "After selection, the image will be automatically downloaded to a specified folder, allowing you to easily access and share it across platforms.",
+                                "uid": "y8uT9SWDD"
+                              }
+                            ],
+                            "create-time": 1718253267215,
+                            "edit-time": 1718253267215,
+                            "string": "Once the extension is installed, you'll find a new sharing icon in the Roam Research toolbar. To use the extension:",
+                            "uid": "MZuzy-gdj"
+                          }
+                        ],
+                        "create-time": 1718253267215,
+                        "edit-time": 1718253267215,
+                        "heading": 3,
+                        "string": "Usage",
+                        "uid": "Y5jO53L23"
+                      }
+                    ],
+                    "create-time": 1718253109337,
+                    "edit-time": 1718253118735,
+                    "heading": 2,
+                    "string": "Block Share Card Extension",
+                    "uid": "XopgqopUp"
+                  }
+                ],
+                "create-time": 1718253108350,
+                "edit-time": 1718253109340,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "vYl0o7KY8"
+              }
+            ],
+            "create-time": 1718253095754,
+            "edit-time": 1718253101716,
+            "refs": [
+              {
+                "uid": "06-12-2024"
+              }
+            ],
+            "string": "[[June 12th, 2024]]",
+            "uid": "wBWW38E0A"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-11-2024"
               }
             ],
@@ -105488,14 +105868,27 @@
   },
   {
     ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1718150400000,
+    "create-time": 1718253101719,
+    "edit-time": 1718253101723,
+    "title": "June 12th, 2024",
+    "uid": "06-12-2024"
+  },
+  {
+    ":create/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1718251586829,
-    "edit-time": 1718251586830,
+    "create-time": 1718255226256,
+    "edit-time": 1718255226257,
     "title": "Matthieu Bizien",
-    "uid": "iO1yq9Y3d"
+    "uid": "Kkceb7iPY"
   }
 ]
