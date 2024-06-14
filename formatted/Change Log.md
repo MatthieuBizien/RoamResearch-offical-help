@@ -3,11 +3,13 @@
 - ## **New Changes**
     - [June 14th, 2024](<June 14th, 2024.md>)
         - ## [New Features](<New Features.md>) 🚀
-            1. ### Alt/Opt click on a daily note page ref to change the date
-                - If you're a fellow procrastinator, you can use this to snooze any tasks for a future date!
-                - Example task
-                    - [ ] Release the new feature [June 14th, 2024](<June 14th, 2024.md>)
-                        - 
+            1. ### Alt-click (or opt-click) on a daily note page link to change the date
+                - If you're a fellow procrastinator, you can use this to snooze any tasks for a future date! 😅
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FizI6dbMQOx.gif?alt=media&token=8329d5c1-9d63-4878-ab8f-f88357de53e1)
+                - Some common use cases:
+                    - (these are also showcased in the [GIF above](((K2Uz10VHo))))
+                    - If you have a task you'd planned for this week but will not be able to get it done, snooze it to start of next week
+                    - When you find old/overdue tasks, assign them to today so you do not forget about them
             2. ### Pin/Stick sidebar windows to the top!
                 - Long press on the pin button to pin a sidebar window to the top
                 - The window will then have a red pin button

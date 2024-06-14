@@ -45299,9 +45299,17 @@
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
                         "create-time": 1718341353867,
-                        "edit-time": 1718341469360,
-                        "string": "If you're a fellow procrastinator, you can use this to snooze any tasks for a future date!",
+                        "edit-time": 1718341801938,
+                        "string": "If you're a fellow procrastinator, you can use this to snooze any tasks for a future date! \ud83d\ude05",
                         "uid": "QFdTyOcoH"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "edit-time": 1718342659187,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FizI6dbMQOx.gif?alt=media&token=8329d5c1-9d63-4878-ab8f-f88357de53e1)",
+                        "uid": "K2Uz10VHo"
                       },
                       {
                         ":create/user": {
@@ -45314,10 +45322,7 @@
                           {
                             ":block/refs": [
                               {
-                                ":block/uid": "3VEv-jR5D"
-                              },
-                              {
-                                ":block/uid": "06-14-2024"
+                                ":block/uid": "K2Uz10VHo"
                               }
                             ],
                             ":create/user": {
@@ -45326,44 +45331,51 @@
                             ":edit/user": {
                               ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                             },
-                            "children": [
-                              {
-                                ":create/user": {
-                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                                },
-                                ":edit/user": {
-                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                                },
-                                "create-time": 1718341524526,
-                                "edit-time": 1718341524526,
-                                "string": "",
-                                "uid": "BLLFKYlpm"
-                              }
-                            ],
-                            "create-time": 1718341401424,
-                            "edit-time": 1718341522595,
+                            "create-time": 1718342712812,
+                            "edit-time": 1718343261630,
                             "refs": [
                               {
-                                "uid": "3VEv-jR5D"
-                              },
-                              {
-                                "uid": "06-14-2024"
+                                "uid": "K2Uz10VHo"
                               }
                             ],
-                            "string": "{{[[TODO]]}} Release the new feature [[June 14th, 2024]]",
-                            "uid": "vVmQ2vCyM"
+                            "string": "(these are also showcased in the [GIF above](((K2Uz10VHo))))",
+                            "uid": "wv4uQoWvu"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1718342673527,
+                            "edit-time": 1718342709372,
+                            "string": "If you have a task you'd planned for this week but will not be able to get it done, snooze it to start of next week",
+                            "uid": "RRr2ZPwjP"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1718342710514,
+                            "edit-time": 1718342749166,
+                            "string": "When you find old/overdue tasks, assign them to today so you do not forget about them",
+                            "uid": "g6XoFj3s0"
                           }
                         ],
-                        "create-time": 1718341392473,
-                        "edit-time": 1718341398731,
-                        "string": "Example task",
-                        "uid": "MT9dF0WQ_"
+                        "create-time": 1718342632832,
+                        "edit-time": 1718342673531,
+                        "string": "Some common use cases:",
+                        "uid": "N5OQyV2U3"
                       }
                     ],
                     "create-time": 1718341302976,
-                    "edit-time": 1718341353873,
+                    "edit-time": 1718341780902,
                     "heading": 3,
-                    "string": "Alt/Opt click on a daily note page ref to change the date",
+                    "string": "Alt-click (or opt-click) on a daily note page link to change the date",
                     "uid": "Eas_kLhJ8"
                   },
                   {
@@ -106222,6 +106234,20 @@
       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":log/id": 1718339543193,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "create-time": 1718341650163,
+        "edit-time": 1718341650163,
+        "string": "",
+        "uid": "w3pl5CVvV"
+      }
+    ],
     "create-time": 1718339543193,
     "edit-time": 1718339543193,
     "title": "June 14th, 2024",
@@ -106242,14 +106268,67 @@
   },
   {
     ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1718582400000,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "create-time": 1718342248086,
+        "edit-time": 1718342248086,
+        "string": "",
+        "uid": "FtvkyZkW6"
+      }
+    ],
+    "create-time": 1718341954962,
+    "edit-time": 1718341954966,
+    "title": "June 17th, 2024",
+    "uid": "06-17-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1718928000000,
+    "create-time": 1718341964747,
+    "edit-time": 1718341964748,
+    "title": "June 21st, 2024",
+    "uid": "06-21-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1717200000000,
+    "create-time": 1718342065927,
+    "edit-time": 1718342065929,
+    "title": "June 1st, 2024",
+    "uid": "06-01-2024"
+  },
+  {
+    ":create/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1718341544712,
-    "edit-time": 1718341544712,
+    "create-time": 1718345249230,
+    "edit-time": 1718345249230,
     "title": "Matthieu Bizien",
-    "uid": "lURPwT9Jt"
+    "uid": "a0MbPfodk"
   }
 ]
