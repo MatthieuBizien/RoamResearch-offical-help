@@ -45370,6 +45370,18 @@
                         "edit-time": 1718342673531,
                         "string": "Some common use cases:",
                         "uid": "N5OQyV2U3"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1718361269857,
+                        "edit-time": 1718361273992,
+                        "string": "Btw, the \u201cComing Monday\u201d in the date shortcuts gets set to \u201cComing Sunday\u201d or other day of the week depending upon the \u201cFirst day of the week\u201d setting in Settings > User > International",
+                        "uid": "_KpwHsdGH"
                       }
                     ],
                     "create-time": 1718341302976,
@@ -106390,9 +106402,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1718359533997,
-    "edit-time": 1718359533997,
+    "create-time": 1718363122478,
+    "edit-time": 1718363122478,
     "title": "Matthieu Bizien",
-    "uid": "hGP2yXgsV"
+    "uid": "fBG6yeZ9h"
   }
 ]

@@ -10,6 +10,7 @@
                     - (these are also showcased in the [GIF above](((K2Uz10VHo))))
                     - If you have a task you'd planned for this week but will not be able to get it done, snooze it to start of next week
                     - When you find old/overdue tasks, assign them to today so you do not forget about them
+                - Btw, the “Coming Monday” in the date shortcuts gets set to “Coming Sunday” or other day of the week depending upon the “First day of the week” setting in Settings > User > International
             2. ### Pin/Stick sidebar windows to the top!
                 - Long press on the pin button to pin a sidebar window to the top
                 - The window will then have a red pin button
