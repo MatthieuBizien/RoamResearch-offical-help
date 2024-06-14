@@ -7,6 +7,8 @@
 
 - ## [New Features](<New Features.md>)
 
+- ## [New Features](<New Features.md>)
+
 - [Mobile Beta](<Mobile Beta.md>) [New Features](<New Features.md>)
 
 - [New Features](<New Features.md>)

@@ -1,6 +1,20 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[June 14th, 2024]]
+        - ## [[New Features]] 🚀
+            1. ### Alt/Opt click on a daily note page ref to change the date
+                - If you're a fellow procrastinator, you can use this to snooze any tasks for a future date!
+                - Example task
+                    - {{[[TODO]]}} Release the new feature [[June 14th, 2024]]
+                        - 
+            2. ### Pin/Stick sidebar windows to the top!
+                - Long press on the pin button to pin a sidebar window to the top
+                - The window will then have a red pin button
+                - New windows will appear below the pinned-to-top window
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcMTUy-_bkg.gif?alt=media&token=d754ba68-f0eb-4fc1-8cb3-ddfc13d32bb6)
+                - If you're a developer ...
+                    - ... and want to access this programmatically, please check it out in [our frontend api changelog here](https://roamresearch.com/#/app/developer-documentation/page/rmWKYSSUh)
     - [[June 13th, 2024]]
         - [[Mobile Beta]] 1.0.93
             - Added `{{video}}` components

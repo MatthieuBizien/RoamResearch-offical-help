@@ -45260,6 +45260,223 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-14-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1718341353867,
+                        "edit-time": 1718341469360,
+                        "string": "If you're a fellow procrastinator, you can use this to snooze any tasks for a future date!",
+                        "uid": "QFdTyOcoH"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "3VEv-jR5D"
+                              },
+                              {
+                                ":block/uid": "06-14-2024"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1718341524526,
+                                "edit-time": 1718341524526,
+                                "string": "",
+                                "uid": "BLLFKYlpm"
+                              }
+                            ],
+                            "create-time": 1718341401424,
+                            "edit-time": 1718341522595,
+                            "refs": [
+                              {
+                                "uid": "3VEv-jR5D"
+                              },
+                              {
+                                "uid": "06-14-2024"
+                              }
+                            ],
+                            "string": "{{[[TODO]]}} Release the new feature [[June 14th, 2024]]",
+                            "uid": "vVmQ2vCyM"
+                          }
+                        ],
+                        "create-time": 1718341392473,
+                        "edit-time": 1718341398731,
+                        "string": "Example task",
+                        "uid": "MT9dF0WQ_"
+                      }
+                    ],
+                    "create-time": 1718341302976,
+                    "edit-time": 1718341353873,
+                    "heading": 3,
+                    "string": "Alt/Opt click on a daily note page ref to change the date",
+                    "uid": "Eas_kLhJ8"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1718340196788,
+                        "edit-time": 1718340398418,
+                        "string": "Long press on the pin button to pin a sidebar window to the top",
+                        "uid": "prB5BZVcq"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1718340410308,
+                        "edit-time": 1718340422158,
+                        "string": "The window will then have a red pin button",
+                        "uid": "0VYJZgU0J"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1718339616453,
+                        "edit-time": 1718340430811,
+                        "string": "New windows will appear below the pinned-to-top window",
+                        "uid": "5QdtcH7yJ"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "edit-time": 1718340372676,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcMTUy-_bkg.gif?alt=media&token=d754ba68-f0eb-4fc1-8cb3-ddfc13d32bb6)",
+                        "uid": "8pX-arxVb"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1718340693891,
+                            "edit-time": 1718340767156,
+                            "string": "... and want to access this programmatically, please check it out in [our frontend api changelog here](https://roamresearch.com/#/app/developer-documentation/page/rmWKYSSUh)",
+                            "uid": "4QFZy7Yrd"
+                          }
+                        ],
+                        "create-time": 1718340760858,
+                        "edit-time": 1718340764191,
+                        "string": "If you're a developer ...",
+                        "uid": "bqULzTOzw"
+                      }
+                    ],
+                    "create-time": 1718339603988,
+                    "edit-time": 1718340834969,
+                    "heading": 3,
+                    "string": "Pin/Stick sidebar windows to the top!",
+                    "uid": "O55VasxQJ"
+                  }
+                ],
+                "create-time": 1718339626782,
+                "edit-time": 1718339627323,
+                "heading": 2,
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] \ud83d\ude80",
+                "uid": "NLTQdQhEZ"
+              }
+            ],
+            "create-time": 1718339596243,
+            "edit-time": 1718339603996,
+            "refs": [
+              {
+                "uid": "06-14-2024"
+              }
+            ],
+            "string": "[[June 14th, 2024]]",
+            "uid": "pvpf684I7"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-13-2024"
               }
             ],
@@ -105999,15 +106216,29 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    "create-time": 1718337974527,
-    "edit-time": 1718337974527,
-    "title": "Matthieu Bizien",
-    "uid": "Y23Ejl1Rw"
+    ":log/id": 1718339543193,
+    "create-time": 1718339543193,
+    "edit-time": 1718339543193,
+    "title": "June 14th, 2024",
+    "uid": "06-14-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1718409600000,
+    "create-time": 1718341414427,
+    "edit-time": 1718341414431,
+    "title": "June 15th, 2024",
+    "uid": "06-15-2024"
   },
   {
     ":create/user": {
@@ -106016,10 +106247,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1718337974536,
-    "create-time": 1718337974537,
-    "edit-time": 1718337974537,
-    "title": "June 14th, 2024",
-    "uid": "06-14-2024"
+    "create-time": 1718341544712,
+    "edit-time": 1718341544712,
+    "title": "Matthieu Bizien",
+    "uid": "lURPwT9Jt"
   }
 ]
