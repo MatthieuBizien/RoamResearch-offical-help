@@ -23,6 +23,10 @@
                     - Now they will not resurrect.
                     - To make sure closing pinned windows does not happen accidentally, a new confirmation dialog has been added
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FM-A4Ya7m4t.png?alt=media&token=eb6c11e9-2e67-46a9-8752-f2937a024508)
+        - [[Roam Depot Extensions]]
+            - # [Full Calendar](https://github.com/fbgallet/roam-extension-calendar)
+                - ### A comprehensive calendar to get an overview of your tasks and activities spread over numerous Daily Notes Pages.
+                - ![Full calendar gif demo 1](https://private-user-images.githubusercontent.com/74436347/336171065-81e22cb5-9d4c-45c9-9f6f-36160d7e7631.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNzcyNjUsIm5iZiI6MTcxODM3Njk2NSwicGF0aCI6Ii83NDQzNjM0Ny8zMzYxNzEwNjUtODFlMjJjYjUtOWQ0Yy00NWM5LTlmNmYtMzYxNjBkN2U3NjMxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE0VDE0NTYwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5OGQwODUyY2JhNzA3MmM1ZDY1NTUxZmIzZmU4NTJmODE1MTExN2Y4ZDIzNDkzZDZkNjAxMWMyZDYzMDBmM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.H66fCwiuSnG05q2gnwnHMLbbIPvPwrZW3CNKpmYHedM)
     - [[June 13th, 2024]]
         - [[Mobile Beta]] 1.0.93
             - Added `{{video}}` components
