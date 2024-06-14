@@ -45455,6 +45455,70 @@
                         "edit-time": 1718340764191,
                         "string": "If you're a developer ...",
                         "uid": "bqULzTOzw"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1718351146766,
+                            "edit-time": 1718351154102,
+                            "string": "Previously they used to come back/resurrect",
+                            "uid": "__9-dblZh"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1718351112502,
+                            "edit-time": 1718351158022,
+                            "string": "Now they will not resurrect.",
+                            "uid": "dwbbnO54V"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "create-time": 1718351200458,
+                                "edit-time": 1718351204246,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FM-A4Ya7m4t.png?alt=media&token=eb6c11e9-2e67-46a9-8752-f2937a024508)",
+                                "uid": "XksorWXZ-"
+                              }
+                            ],
+                            "create-time": 1718351158016,
+                            "edit-time": 1718351200154,
+                            "string": "To make sure closing pinned windows does not happen accidentally, a new confirmation dialog has been added",
+                            "uid": "2zYBnJHNM"
+                          }
+                        ],
+                        "create-time": 1718351145439,
+                        "edit-time": 1718351214413,
+                        "string": "__Related change__ to how closing pinned sidebar windows works",
+                        "uid": "_EmTZ7Qwz"
                       }
                     ],
                     "create-time": 1718339603988,
@@ -106318,17 +106382,5 @@
     "edit-time": 1718342065929,
     "title": "June 1st, 2024",
     "uid": "06-01-2024"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    "create-time": 1718348786290,
-    "edit-time": 1718348786290,
-    "title": "Matthieu Bizien",
-    "uid": "EHsTXsROV"
   }
 ]

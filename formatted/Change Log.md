@@ -17,6 +17,11 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcMTUy-_bkg.gif?alt=media&token=d754ba68-f0eb-4fc1-8cb3-ddfc13d32bb6)
                 - If you're a developer ...
                     - ... and want to access this programmatically, please check it out in [our frontend api changelog here](https://roamresearch.com/#/app/developer-documentation/page/rmWKYSSUh)
+                - __Related change__ to how closing pinned sidebar windows works
+                    - Previously they used to come back/resurrect
+                    - Now they will not resurrect.
+                    - To make sure closing pinned windows does not happen accidentally, a new confirmation dialog has been added
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FM-A4Ya7m4t.png?alt=media&token=eb6c11e9-2e67-46a9-8752-f2937a024508)
     - [June 13th, 2024](<June 13th, 2024.md>)
         - [Mobile Beta](<Mobile Beta.md>) 1.0.93
             - Added `{{video}}` components
