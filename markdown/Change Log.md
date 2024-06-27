@@ -3,9 +3,11 @@
 - ## **New Changes**
     - [[June 27th, 2024]]
         - ### [[Quality of Life Improvements]]
-            - New switcher to switch between different embed types: `embed`, `embed-path` and `embed-children`
+            1. New switcher to switch between different embed types: `embed`, `embed-path` and `embed-children`
                 - Checkout GIF below to see the different block embed types in action!
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FV8ug0xdOsW.gif?alt=media&token=53f4ea0f-71be-4573-b8fb-e2a2c1afade7)
+            2. More comprehensive right-click context menu for page references  
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FSOxjx-xsvx.png?alt=media&token=51d70fa8-e6ce-4dd4-ad1e-18ce86523dc0)
     - [[June 14th, 2024]]
         - ## [[New Features]] 🚀
             1. ### Alt-click (or opt-click) on a daily note page link to change the date
@@ -31,7 +33,7 @@
         - [[Roam Depot Extensions]]
             - # [Full Calendar](https://github.com/fbgallet/roam-extension-calendar)
                 - ### A comprehensive calendar to get an overview of your tasks and activities spread over numerous Daily Notes Pages.
-                - ![Full calendar gif demo 1](https://private-user-images.githubusercontent.com/74436347/336171065-81e22cb5-9d4c-45c9-9f6f-36160d7e7631.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNzcyNjUsIm5iZiI6MTcxODM3Njk2NSwicGF0aCI6Ii83NDQzNjM0Ny8zMzYxNzEwNjUtODFlMjJjYjUtOWQ0Yy00NWM5LTlmNmYtMzYxNjBkN2U3NjMxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE0VDE0NTYwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5OGQwODUyY2JhNzA3MmM1ZDY1NTUxZmIzZmU4NTJmODE1MTExN2Y4ZDIzNDkzZDZkNjAxMWMyZDYzMDBmM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.H66fCwiuSnG05q2gnwnHMLbbIPvPwrZW3CNKpmYHedM)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FAWO10afP6z.gif?alt=media&token=ca3bd4a5-8a1b-45d6-ab2d-00bb2a652fa0)
     - [[June 13th, 2024]]
         - [[Mobile Beta]] 1.0.93
             - Added `{{video}}` components

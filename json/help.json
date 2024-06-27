@@ -45316,6 +45316,48 @@
                     "edit-time": 1719463510442,
                     "string": "New switcher to switch between different embed types: `embed`, `embed-path` and `embed-children`",
                     "uid": "7GBQubHJb"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FSOxjx-xsvx.png?alt=media&token=51d70fa8-e6ce-4dd4-ad1e-18ce86523dc0": {
+                              ":height": null,
+                              ":width": 397
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1719469917189,
+                        "edit-time": 1719469980596,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FSOxjx-xsvx.png?alt=media&token=51d70fa8-e6ce-4dd4-ad1e-18ce86523dc0": {
+                              "height": null,
+                              "width": 397
+                            }
+                          }
+                        },
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FSOxjx-xsvx.png?alt=media&token=51d70fa8-e6ce-4dd4-ad1e-18ce86523dc0)",
+                        "uid": "3bvD3Nz0J"
+                      }
+                    ],
+                    "create-time": 1719469925146,
+                    "edit-time": 1719469971985,
+                    "string": "More comprehensive right-click context menu for page references  ",
+                    "uid": "Dn4PREkL-"
                   }
                 ],
                 "create-time": 1719463452314,
@@ -45387,10 +45429,26 @@
                         "uid": "QFdTyOcoH"
                       },
                       {
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FizI6dbMQOx.gif?alt=media&token=8329d5c1-9d63-4878-ab8f-f88357de53e1": {
+                              ":height": null,
+                              ":width": 474
+                            }
+                          }
+                        },
                         ":edit/user": {
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
-                        "edit-time": 1718342659187,
+                        "edit-time": 1719470458085,
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FizI6dbMQOx.gif?alt=media&token=8329d5c1-9d63-4878-ab8f-f88357de53e1": {
+                              "height": null,
+                              "width": 474
+                            }
+                          }
+                        },
                         "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FizI6dbMQOx.gif?alt=media&token=8329d5c1-9d63-4878-ab8f-f88357de53e1)",
                         "uid": "K2Uz10VHo"
                       },
@@ -45669,16 +45727,12 @@
                         "uid": "KYCRImoiZ"
                       },
                       {
-                        ":create/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                        },
                         ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
-                        "create-time": 1718377050267,
-                        "edit-time": 1718377169060,
-                        "string": "![Full calendar gif demo 1](https://private-user-images.githubusercontent.com/74436347/336171065-81e22cb5-9d4c-45c9-9f6f-36160d7e7631.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNzcyNjUsIm5iZiI6MTcxODM3Njk2NSwicGF0aCI6Ii83NDQzNjM0Ny8zMzYxNzEwNjUtODFlMjJjYjUtOWQ0Yy00NWM5LTlmNmYtMzYxNjBkN2U3NjMxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE0VDE0NTYwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5OGQwODUyY2JhNzA3MmM1ZDY1NTUxZmIzZmU4NTJmODE1MTExN2Y4ZDIzNDkzZDZkNjAxMWMyZDYzMDBmM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.H66fCwiuSnG05q2gnwnHMLbbIPvPwrZW3CNKpmYHedM)",
-                        "uid": "o9OO2OimF"
+                        "edit-time": 1719470419941,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FAWO10afP6z.gif?alt=media&token=ca3bd4a5-8a1b-45d6-ab2d-00bb2a652fa0)",
+                        "uid": "UNzuhUEqh"
                       }
                     ],
                     "create-time": 1718377050267,
@@ -106588,9 +106642,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    "create-time": 1719468452161,
-    "edit-time": 1719468452161,
+    "create-time": 1719471951465,
+    "edit-time": 1719471951465,
     "title": "Matthieu Bizien",
-    "uid": "bRPaqQvfb"
+    "uid": "v6tC7roTJ"
   }
 ]
