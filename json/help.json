@@ -45260,6 +45260,89 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "06-27-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1719463567319,
+                        "edit-time": 1719463587879,
+                        "string": "Checkout GIF below to see the different block embed types in action!",
+                        "uid": "Y_3PKDsdo"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "edit-time": 1719463522737,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FV8ug0xdOsW.gif?alt=media&token=53f4ea0f-71be-4573-b8fb-e2a2c1afade7)",
+                        "uid": "Wej2xlGXb"
+                      }
+                    ],
+                    "create-time": 1719463471056,
+                    "edit-time": 1719463510442,
+                    "string": "New switcher to switch between different embed types: `embed`, `embed-path` and `embed-children`",
+                    "uid": "7GBQubHJb"
+                  }
+                ],
+                "create-time": 1719463452314,
+                "edit-time": 1719463458958,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]]",
+                "uid": "wwp6O4Mkq"
+              }
+            ],
+            "create-time": 1719463443406,
+            "edit-time": 1719463452322,
+            "refs": [
+              {
+                "uid": "06-27-2024"
+              }
+            ],
+            "string": "[[June 27th, 2024]]",
+            "uid": "J4alTGM9X"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-14-2024"
               }
             ],
@@ -106487,15 +106570,16 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    "create-time": 1719461238240,
-    "edit-time": 1719461238240,
-    "title": "Matthieu Bizien",
-    "uid": "a61IGTLym"
+    ":log/id": 1719463390340,
+    "create-time": 1719463390341,
+    "edit-time": 1719463390341,
+    "title": "June 27th, 2024",
+    "uid": "06-27-2024"
   },
   {
     ":create/user": {
@@ -106504,10 +106588,9 @@
     ":edit/user": {
       ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
     },
-    ":log/id": 1719461238248,
-    "create-time": 1719461238251,
-    "edit-time": 1719461238251,
-    "title": "June 27th, 2024",
-    "uid": "06-27-2024"
+    "create-time": 1719464751132,
+    "edit-time": 1719464751132,
+    "title": "Matthieu Bizien",
+    "uid": "udCrowiUo"
   }
 ]

@@ -1,6 +1,11 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[June 27th, 2024]]
+        - ### [[Quality of Life Improvements]]
+            - New switcher to switch between different embed types: `embed`, `embed-path` and `embed-children`
+                - Checkout GIF below to see the different block embed types in action!
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FV8ug0xdOsW.gif?alt=media&token=53f4ea0f-71be-4573-b8fb-e2a2c1afade7)
     - [[June 14th, 2024]]
         - ## [[New Features]] 🚀
             1. ### Alt-click (or opt-click) on a daily note page link to change the date
