@@ -45260,6 +45260,132 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "07-07-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1720341604031,
+                            "edit-time": 1720341612421,
+                            "string": "other than the blocks created on the daily note itself",
+                            "uid": "zWWOXGXpX"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "create-time": 1720341668303,
+                            "edit-time": 1720341762937,
+                            "string": "You can think of it as a complement to the daily note",
+                            "uid": "Ce4qfEw7n"
+                          }
+                        ],
+                        "create-time": 1720341546210,
+                        "edit-time": 1720341604046,
+                        "string": "This view shows the pages and blocks created on the day",
+                        "uid": "GkUc6kf49"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1720341201199,
+                        "edit-time": 1720341783542,
+                        "string": "Trigger it via right-clicking the title for a Daily Note and then \"View created on ...\"",
+                        "uid": "T54ei2tRD"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1720341280640,
+                        "edit-time": 1720341548376,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fq3uoRWuNv-.png?alt=media&token=5f27e129-752e-4c9c-909f-279c4ad3e4f3)",
+                        "uid": "1zPp5u-rM"
+                      }
+                    ],
+                    "create-time": 1720341177751,
+                    "edit-time": 1720341746113,
+                    "heading": 3,
+                    "string": "A better **\"Created on day\"** sidebar window",
+                    "uid": "2upCHQbkX"
+                  }
+                ],
+                "create-time": 1720341160123,
+                "edit-time": 1720341175121,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]]",
+                "uid": "NF62HtGSB"
+              }
+            ],
+            "create-time": 1720341156456,
+            "edit-time": 1720341160039,
+            "refs": [
+              {
+                "uid": "07-07-2024"
+              }
+            ],
+            "string": "[[July 7th, 2024]]",
+            "uid": "JRT6WwpN1"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "06-27-2024"
               }
             ],
@@ -106647,5 +106773,30 @@
     "edit-time": 1720196485448,
     "title": "July 5th, 2024",
     "uid": "07-05-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1720341148944,
+    "create-time": 1720341148945,
+    "edit-time": 1720341148945,
+    "title": "July 7th, 2024",
+    "uid": "07-07-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1720343145560,
+    "edit-time": 1720343145560,
+    "title": "Matthieu Bizien",
+    "uid": "prb7OrTPJ"
   }
 ]
