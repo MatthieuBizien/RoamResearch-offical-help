@@ -45353,8 +45353,8 @@
                               ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                             },
                             "create-time": 1720341604031,
-                            "edit-time": 1720341612421,
-                            "string": "other than the blocks created on the daily note itself",
+                            "edit-time": 1720349130187,
+                            "string": "(other than the blocks created on the daily note itself)",
                             "uid": "zWWOXGXpX"
                           },
                           {
@@ -105442,8 +105442,8 @@
           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
         },
         "create-time": 1716226180040,
-        "edit-time": 1716226204348,
-        "string": "Link to test the official Roam Research <-> Zapier integration: https://zapier.com/developer/public-invite/204502/af5c17efb79c4f536eb213eb63503b4f/",
+        "edit-time": 1721369585511,
+        "string": "Link for the official Roam Research <-> Zapier integration: https://zapier.com/apps/roam-research/integrations",
         "uid": "gaJIkCAbV"
       },
       {
@@ -106845,5 +106845,26 @@
     "edit-time": 1720804232907,
     "title": "July 12th, 2024",
     "uid": "07-12-2024"
+  },
+  {
+    ":log/id": 1720415607748,
+    "create-time": 1720415607748,
+    "edit-time": 1720415607748,
+    "title": "July 8th, 2024",
+    "uid": "07-08-2024"
+  },
+  {
+    ":log/id": 1720462504507,
+    "create-time": 1720462504523,
+    "edit-time": 1720462504523,
+    "title": "July 9th, 2024",
+    "uid": "07-09-2024"
+  },
+  {
+    ":log/id": 1720548909800,
+    "create-time": 1720548909814,
+    "edit-time": 1720548909814,
+    "title": "July 10th, 2024",
+    "uid": "07-10-2024"
   }
 ]

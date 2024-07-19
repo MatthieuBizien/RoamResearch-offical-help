@@ -7,7 +7,7 @@
         - ### [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - ### A better **"Created on day"** sidebar window
                 - This view shows the pages and blocks created on the day
-                    - other than the blocks created on the daily note itself
+                    - (other than the blocks created on the daily note itself)
                     - You can think of it as a complement to the daily note
                 - Trigger it via right-clicking the title for a Daily Note and then "View created on ..."
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fq3uoRWuNv-.png?alt=media&token=5f27e129-752e-4c9c-909f-279c4ad3e4f3)

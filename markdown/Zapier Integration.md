@@ -1,4 +1,4 @@
-- Link to test the official Roam Research <-> Zapier integration: https://zapier.com/developer/public-invite/204502/af5c17efb79c4f536eb213eb63503b4f/
+- Link for the official Roam Research <-> Zapier integration: https://zapier.com/apps/roam-research/integrations
 - **Setup Process**
     1. Open the graph you want to access via Zapier
     2. Please make sure you have the latest version of Roam (via ... > Check for updates)
