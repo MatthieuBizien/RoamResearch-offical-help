@@ -1,6 +1,8 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [July 22nd, 2024](<July 22nd, 2024.md>)
+        - Internal updates
     - [July 12th, 2024](<July 12th, 2024.md>)
         - Fix [Desktop App](<Desktop App.md>) sign in not working when not on the all graphs page
     - [July 7th, 2024](<July 7th, 2024.md>)

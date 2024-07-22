@@ -45260,6 +45260,42 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "07-22-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1721666711004,
+                "edit-time": 1721666740666,
+                "string": "Internal updates",
+                "uid": "vOJ5ZDZuz"
+              }
+            ],
+            "create-time": 1721666708815,
+            "edit-time": 1721666711017,
+            "refs": [
+              {
+                "uid": "07-22-2024"
+              }
+            ],
+            "string": "[[July 22nd, 2024]]",
+            "uid": "JGoL_xpy0"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "07-12-2024"
               }
             ],
@@ -106869,26 +106905,14 @@
   },
   {
     ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
     ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
-    "create-time": 1721664378935,
-    "edit-time": 1721664378935,
-    "title": "Matthieu Bizien",
-    "uid": "z4p87nYkJ"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":edit/user": {
-      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
-    },
-    ":log/id": 1721664378944,
-    "create-time": 1721664378946,
-    "edit-time": 1721664378946,
+    ":log/id": 1721666698706,
+    "create-time": 1721666698707,
+    "edit-time": 1721666698707,
     "title": "July 22nd, 2024",
     "uid": "07-22-2024"
   }
