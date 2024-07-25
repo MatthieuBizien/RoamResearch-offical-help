@@ -45260,6 +45260,222 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "07-25-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "7NcTb9GoQ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1721929106913,
+                "edit-time": 1721929160657,
+                "refs": [
+                  {
+                    "uid": "7NcTb9GoQ"
+                  }
+                ],
+                "string": "Fixed issue with [[Graph Overview]] explore mode where if a page was selected but then deleted it would cause an infinite loading spinner",
+                "uid": "NUMC5YYwh"
+              }
+            ],
+            "create-time": 1721929069128,
+            "edit-time": 1721929071962,
+            "refs": [
+              {
+                "uid": "07-25-2024"
+              }
+            ],
+            "string": "[[July 25th, 2024]]",
+            "uid": "-wxLrTSKW"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "07-24-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1721929062315,
+                "edit-time": 1721929094273,
+                "string": "Update password requirements to be more secure",
+                "uid": "tnVRQKz4n"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "T-dlqxU3e"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1721929202339,
+                        "edit-time": 1721929202339,
+                        "string": "Over the past two weeks we have been working to defend against a DDOS/credential stuffing attack. Credential stuffing is where the attackers have a list of emails and possible passwords (from the dark web) and they attempt to log in to Roam with each one. For those who are technical, you can read\u00a0[this article](https://medium.com/swlh/google-firebase-authentication-vulnerability-245050cb7ceb)\u00a0that explains the vulnerability of our auth provider in more depth.",
+                        "uid": "xB6nvK0pF"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1721929208032,
+                        "edit-time": 1721929208032,
+                        "string": "This has been a very sophisticated attack, we think they have access to millions of different computers (they rotate IP addresses very quickly) and millions of email addresses they are attempting to log into. For awhile we had managed to slow them down and stop them, but they adapted and resumed the attack.",
+                        "uid": "aeGUldbiw"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1721929211672,
+                        "edit-time": 1721929211672,
+                        "string": "The attackers have unfortunately gained access to some accounts this way.",
+                        "uid": "ijqpAWzKL"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1721929235737,
+                        "edit-time": 1721929235737,
+                        "string": "I want to be clear that Roam did not leak these emails and passwords, we never directly have access to your password, we use Google/Firebase to manage them. Most accounts are unaffected and the attackers are mostly trying emails which don\u2019t have accounts with Roam. The only way a Roam account could be affected by this attack is IF you had reused your Roam password somewhere else AND that service leaked your password. This attack also\u00a0**does not affect those who use google or apple sign in only**, and it does not affect encrypted graphs, unless the encrypted graph password was used in another service and leaked there.",
+                        "uid": "owEtB4ygK"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1721929241855,
+                        "edit-time": 1721929241855,
+                        "string": "I recommend everyone visits\u00a0https://haveibeenpwned.com/\u00a0to see if your email/password has been involved in a data breach. It\u2019s likely that if it has, then this attacker has tried to sign into Roam with it.We are still working with our authentication provider\u2019s support (Google) to see if there is something we can do to stop attacks like this, but it increasingly looks like there is not.",
+                        "uid": "GRYkHlUwj"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1721929258142,
+                        "edit-time": 1721929258142,
+                        "string": "We are taking this very seriously and trying to do everything we can to protect the security of your Roam accounts. Therefore, we have decided to\u00a0**change our password requirements to be more secure, and force all users to reset their passwords**. As soon as you sign out, you will not be able to sign back in until you reset your password. Eventually we will force everyone to sign out as well. We may also build more security features like multi-factor authentication in the future.",
+                        "uid": "nl17QYwmB"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1721929270206,
+                        "edit-time": 1721929270206,
+                        "string": "When setting a new password, we highly recommend using a unique one you have not used anywhere else. This is because, at the end of the day, if someone has your email and password, there is not that much we can do.",
+                        "uid": "Wvm7Mpjae"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1721929191840,
+                        "edit-time": 1721929286341,
+                        "string": "If you have any difficulty resetting your password, please email\u00a0[support@roamresearch.com](mailto:support@roamresearch.com). I am very sorry for any inconvenience this might have caused.",
+                        "uid": "N2Nm845JT"
+                      }
+                    ],
+                    "create-time": 1721929185310,
+                    "edit-time": 1721929190977,
+                    "refs": [
+                      {
+                        "uid": "T-dlqxU3e"
+                      }
+                    ],
+                    "string": "Reasoning::",
+                    "uid": "1FVii-SW9"
+                  }
+                ],
+                "create-time": 1721929094265,
+                "edit-time": 1721930564269,
+                "string": "Force all users to reset their passwords (sign in with google/apple not affected)",
+                "uid": "DYSaLQUmI"
+              }
+            ],
+            "create-time": 1721929059527,
+            "edit-time": 1721929062328,
+            "refs": [
+              {
+                "uid": "07-24-2024"
+              }
+            ],
+            "string": "[[July 24th, 2024]]",
+            "uid": "SGMce__NB"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "07-22-2024"
               }
             ],
@@ -45278,8 +45494,8 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "create-time": 1721666711004,
-                "edit-time": 1721666740666,
-                "string": "Internal updates",
+                "edit-time": 1721929167980,
+                "string": "Internal security updates",
                 "uid": "vOJ5ZDZuz"
               }
             ],
@@ -106941,5 +107157,17 @@
     "edit-time": 1721844905603,
     "title": "July 25th, 2024",
     "uid": "07-25-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "create-time": 1721929190978,
+    "edit-time": 1721929190979,
+    "title": "Reasoning",
+    "uid": "T-dlqxU3e"
   }
 ]

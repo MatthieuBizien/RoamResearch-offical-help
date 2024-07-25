@@ -1,8 +1,22 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[July 25th, 2024]]
+        - Fixed issue with [[Graph Overview]] explore mode where if a page was selected but then deleted it would cause an infinite loading spinner
+    - [[July 24th, 2024]]
+        - Update password requirements to be more secure
+        - Force all users to reset their passwords (sign in with google/apple not affected)
+            - Reasoning::
+                - Over the past two weeks we have been working to defend against a DDOS/credential stuffing attack. Credential stuffing is where the attackers have a list of emails and possible passwords (from the dark web) and they attempt to log in to Roam with each one. For those who are technical, you can read [this article](https://medium.com/swlh/google-firebase-authentication-vulnerability-245050cb7ceb) that explains the vulnerability of our auth provider in more depth.
+                - This has been a very sophisticated attack, we think they have access to millions of different computers (they rotate IP addresses very quickly) and millions of email addresses they are attempting to log into. For awhile we had managed to slow them down and stop them, but they adapted and resumed the attack.
+                - The attackers have unfortunately gained access to some accounts this way.
+                - I want to be clear that Roam did not leak these emails and passwords, we never directly have access to your password, we use Google/Firebase to manage them. Most accounts are unaffected and the attackers are mostly trying emails which don’t have accounts with Roam. The only way a Roam account could be affected by this attack is IF you had reused your Roam password somewhere else AND that service leaked your password. This attack also **does not affect those who use google or apple sign in only**, and it does not affect encrypted graphs, unless the encrypted graph password was used in another service and leaked there.
+                - I recommend everyone visits https://haveibeenpwned.com/ to see if your email/password has been involved in a data breach. It’s likely that if it has, then this attacker has tried to sign into Roam with it.We are still working with our authentication provider’s support (Google) to see if there is something we can do to stop attacks like this, but it increasingly looks like there is not.
+                - We are taking this very seriously and trying to do everything we can to protect the security of your Roam accounts. Therefore, we have decided to **change our password requirements to be more secure, and force all users to reset their passwords**. As soon as you sign out, you will not be able to sign back in until you reset your password. Eventually we will force everyone to sign out as well. We may also build more security features like multi-factor authentication in the future.
+                - When setting a new password, we highly recommend using a unique one you have not used anywhere else. This is because, at the end of the day, if someone has your email and password, there is not that much we can do.
+                - If you have any difficulty resetting your password, please email [support@roamresearch.com](mailto:support@roamresearch.com). I am very sorry for any inconvenience this might have caused.
     - [[July 22nd, 2024]]
-        - Internal updates
+        - Internal security updates
     - [[July 12th, 2024]]
         - Fix [[Desktop App]] sign in not working when not on the all graphs page
     - [[July 7th, 2024]]
