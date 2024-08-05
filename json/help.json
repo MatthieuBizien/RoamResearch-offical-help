@@ -107171,9 +107171,15 @@
     "uid": "T-dlqxU3e"
   },
   {
-    ":log/id": 1722881217095,
-    "create-time": 1722881217097,
-    "edit-time": 1722881217097,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1722884648972,
+    "create-time": 1722884648972,
+    "edit-time": 1722884648972,
     "title": "August 5th, 2024",
     "uid": "08-05-2024"
   }
