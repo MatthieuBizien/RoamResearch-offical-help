@@ -3,6 +3,75 @@
 - ## **New Changes**
     - [[August 6th, 2024]]
         - [[Roam Depot Extensions]]
+            - ## [Automatic DNP](https://github.com/mlava/auto-DNP)
+                - Roam CRM turns your graph into a __Relationship Management__ tool. Inspired by [Sivers](https://sive.rs/hundreds), and David Rockefeller's collection of [200,000 index cards](https://archive.is/zxbCA), Roam CRM keeps people and dates important to you top of mind.
+                - ## Usage Example
+                    - **NOTE**
+                    - There are certain tags and templates that Roam CRM relies on; **Tags:: #people** and **#Agenda** are the most vital. While these are not currently customizable they may be in the future.
+                - ## Setup
+                    - Roam CRM is built on top of several Roam extensions. Please install them on Roam Depot:
+                        - [Google](https://github.com/dvargas92495/roamjs-google) by David Vargas
+                            - Install Google extension from Roam Depot
+                            - Add your google accounts and calendar by following that extension's README
+                            - You can now automatically pull events into Daily Note
+                        - [Workbench](https://github.com/dvargas92495/roamjs-workbench) by David Vargas
+                            - Install Workbench extension and enable the Attribute Select feature
+                            - Navigate to the newly created page in your graph [[roam/js/attribute-select]]
+                            - Add the attribute Contact Frequency
+                            - Add these five options
+                                - #[[A List]]: Contact every two weeks
+                                - #[[B List]]: Contact every two months
+                                - #[[C List]]: Contact every six months
+                                - #[[D List]]: Contact once a year
+                                - #[[F List]]: Never contact
+                            - This is for convenience when switching a person's contact frequency. These durations are customizable in the Roam CRM settings.
+                        - [Query Builder](https://github.com/dvargas92495/roamjs-query-builder) by David Vargas
+                            - Install Query Builder extension
+                            - Import Call Rollup Queries from
+                - ## Features
+                    - ### Metadata
+                        - Roam CRM creates metadata for each Tags::#people page inspired by [Matt Mochary](https://docs.google.com/spreadsheets/d/1Ti_xaV9IVvj-bklxOjNY-IeGsC-YqcgvB03qvfFQrnI/). This metadata and its structure is important, **without this structure Roam CRM will not work.**
+                        - Each person page must have metadata structure which looks like this. You can use the **Person Metadata Template** button in the Roam CRM settings to import a quick Roam template for this metadata structure ![](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/metadata.png)[🔗](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/metadata.png)
+                        - At the bare minimum a person page must have this metadata for it to be recoginzed by Roam CRM ![](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/metadataMinimum.png)[🔗](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/metadataMinimum.png)
+                    - ### Agenda Addr
+                        - Inefficient leaders waste a lot of time reaching out about or responding to one-off issues in real time. A much more efficient method is to batch your issues and discuss them all at once.
+                            - Make a block anywhere that has as persons name ([[Bill Gates]] for example) and a hashtag #Agenda
+                            - Roam CRM will automatically nest a block ref on Bill's page under an agenda attribute
+                            - Use a hashtag to have the extension hide the name in the Agenda, e.g. #[[Bill Gates]]
+                            - Next time you talk, you'll remember everything you wanted to tell Bill
+                            - ![](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/agendaAddr.gif)[🔗](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/agendaAddr.gif)
+                    - ### Contact Reminders
+                        - Set contact frequency reminders for each person. This can be customized in the settings. A modal will pop up reminding you to contact them.
+                            - #[[A List]]: Contact every two weeks
+                            - #[[B List]]: Contact every two months
+                            - #[[C List]]: Contact every six months
+                            - #[[D List]]: Contact once a year
+                            - #[[F List]]: Never contact
+                        - Within the modal you can type a quick message to each person to stay in flow. This message will be nested on their page for future reference.
+                            - ![](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/modal%20message.png)[🔗](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/modal%20message.png)
+                    - ### Birthday Reminders
+                        - Birthday reminders happen 14 days before, and on the day of. They remind you that 'Bill Gates turned 46 today.' A and B listers birthday reminders show up in the modal 14 & 7 days before as well as on the day of.
+                            - ![](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/modal%20birthdays.png)[🔗](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/modal%20birthdays.png)
+                        - C and B lister birthdays only show up on the day-of as a block ref on the DNP
+                            - ![](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/birthdayRef.png)[🔗](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/birthdayRef.png)
+                        - D and F listers do now show up at all
+                    - ### Full Page CRM UI
+                        - Easially accessable through the (optional) left sidebar button or via the modal toolbar the CRM Workspace is the central hub for all your contacts and your timeline of events.
+                            - People
+                                - A sortable list of all contacts together in one place
+                            - Events
+                                - Birthdays, calls, meetings, and any mentions are all shown in chronological order (sorted by either the DNP they show up on or the block's creation date)
+                            - Home
+                                - Coming soon, this will be a homepage for quick access to all CRM functionality. If you have ideas or wants for this space do reach out!
+                        - ![](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/workplace.gif)[🔗](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/workplace.gif)
+                    - ### Google Calendar Sync
+                        - Via the Google extension RoamCRM, has the ability (toggable in settings) to connect to a google calendar and sync upcoming events to your graph. When enabled events in the next 7 days with more than 1 guest/attendee will be synced to your graph on the Daily Notes Page coresponding with the event date. If the event attendees, date, or details change Roam CRM will update the graph block accordingly.
+                        - ![](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/event.png)[🔗](https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/event.png)
+                    - ### Hotkeys
+                        - Roam CRM adds quality of life hotkeys for a variety of tasks including:
+                            - Interacting with the right sidebar
+                            - Showing the Reminder Modal as well as the Full Page CRM Workplace
+                        - All hotkeys are configurable in settings
             - ## [Sheet Music](https://github.com/mlava/sheet-music)
                 - For music lovers, sheet music in Roam Research is finally available!
                 - Create your own music using [abc notation](https://abcnotation.com/wiki/abc:standard) or paste and render sheet music for music you find on the internet.
@@ -316,260 +385,261 @@ Additionally, you can speak to a GPT model (providing context to the model from 
             - Apple users might want to check out **[Speak to Roam]([[Apple Shortcuts/Speak to Roam]])** Apple Shortcut (speak and send transcript to your Roam graph)
             - A number of small fixes and improvements on the backend API. If you're interested, please checkout [the docs in the developer-documentation graph](https://roamresearch.com/#/app/developer-documentation/page/W4Po8pcHQ)
                 - more info: [[Developer Documentation]]
-    - [[September 26th, 2023]]
-        - Fix issues with pages and blocks having more than 1000 children
-        - Fix issues with broken references sometimes linking to the wrong block, references starting with numbers like `((88lsljdkf))` could create links if that uid didn't already exist in the graph
-    - [[September 19th, 2023]]
-        - ## [[New Features]] 🚀 #[[mobile]]
-            - We are excited to announce the first beta release of our redesigned mobile app! Our focus has been on ensuring quick access, eliminating "graph is too large" errors, and giving the app a more native feel. We're rolling out to believers first to stress test the system.
-            - To enable, visit the settings tab at the bottom, flip the switch and open a graph.
-            - The app is currently in "read only" mode. The capability to edit will be rolled out in the coming weeks.
-            - An active internet connection is required. It's possible we may add limited offline capability in the future.
-            - Unfortunately, encrypted graphs are not supported since it relies on our new backend API
-            - This release also includes some improvements for everyone 
-                - Dark mode and new light theme colors to match the web app
-                - Fixed issues with sharing to the app
-                - Added graphs with read only access to the graph list
-                - Decreased size of the bottom navigation bar
-    - [[September 12th, 2023]]
-        - Improve keypress performance
-        - Fix x.com ([[Twitter]]) link embeds
-            - Added a user setting to not auto expand the embeds
-    - [[August 30th, 2023]]
-        - Added links to our [slack](https://join.slack.com/t/roamresearch/shared_invite/zt-21yynf99v-39t09XesqSiIsz_1VFmwtA) and [developer documentation](https://roamresearch.com/#/app/developer-documentation) to the help section (?) in the top right
-            - Also rewrote a lot of the clojurescript and roam/render documentation in the dev graph
-    - [[August 28th, 2023]]
-        - `{{embed-children: ((block ref))}}`
-            - like [[embed]], but it only displays the children of the block
-            - Example::
-                - A
-                    - 1
-                    - 2
-                - B
-                    - {{[[embed-children]]: ((fkAyo3B0v))}}
-    - [[August 23rd, 2023]]
-        - Button to reload graph and disable all extensions
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnOcedJDFG9.png?alt=media&token=1b2ce47e-b8e5-41a3-8236-a20426ea7a95)
-            - Useful if you are having an issue with Roam and think it might be one of your extensions
-    - [[August 21st, 2023]]
-        - [[Performance Improvement]] reduce the amount of work done per user action by 50% (update block, create new block, etc..), Roam should feel a little bit more snappy, especially with more content on the screen.
-        - Fix [[query]] updating sometimes when it shouldn't
-    - [[August 18th, 2023]]
-        - Small fixes for [[Video Timestamps]]
-            - If there are two or more of the same videos on screen, play the last used one
-            - Scroll video into view if it's not visible
-    - [[August 15th, 2023]]
-        - Small fixes to [[Graph Overview]]
-            - Saves last used settings locally
-            - Fix selected pages not always being highlighted
-            - Rename "Connect Selected Pages" to "Show links between" to clarify that it does not change your graph
-    - [[August 14th, 2023]]
-        - ### New and Updated [[Raycast]] extension for Roam!!
-            - MacOS users, watch the demo video below to get a sense of the power of having your Roam graph (or graphs 😉) at your fingertips:
-                - {{[[video]]: https://www.loom.com/share/3fa11c532cb44822a047caecc638e47f}}
-            - Features::
-                1. Search across all your installed graphs or in one specific graph
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtIlPw_oQ-a.png?alt=media&token=3c666344-8de3-4595-8947-55a216095a2e)
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fv3emRcKcRu.png?alt=media&token=59421ab9-6b29-4b13-b3ee-10ca03ed503d)
-                2. Quick capture notes to your Roam graph without leaving your keyboard
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fj8GEmEGAx8.png?alt=media&token=f65dc849-dfa1-4ce3-b820-659036a49151)
-                3. View a random block from your roam graph
-                4. Easily create Raycast quicklinks to open Roam graphs or specific pages in the graph even faster
-... and more features baking in the oven!
-            - Getting Started Guide
-                1. Install [[Raycast]] from https://raycast.com
-                2. Then install the Roam Extension from: https://raycast.com/roamresearch/roam-research
-                3. Follow the loom video below to add a graph
-                    - {{[[video]]: https://www.loom.com/share/31ada35f7c8b4f44a2ba537b15237854}}
-            - If you run into any issues, drop us a message at support@roamresearch.com or via Intercom and we will get on it immediately.  
-            - Big thanks to [[hyc]] for their work on the initial version of this extension 🙏
-            - P.S. Users of the older versions of the Raycast extension will need to add their graph(s) again. Sorry for the inconvenience, this should only be a one time thing
-        - [[Roam Depot Extensions]]
-            - # [Send To Graph](https://github.com/8bitgentleman/roam-depot-send-to-graph)
-                - A Roam Research extension to send blocks from one graph to another. The destination graph does not need to be open. This is a one-way push. The blocks are added to the new graph as if you had created them manually yourself.
-                - ## Features
-                    - Send blocks to another graph with a simple right-click command or via hotkey.
-                    - Configure multiple graphs to send blocks to.
-                    - Option to nest sent blocks under a parent block (for example an __#inbox__ tag) in the destination graph.
-                - ## Setup
-                    - This extension uses the new Roam backend API to allow sending of blocks to graphs that you do not have open. Note: only the creator of a graph can create new API tokens.
-                        - In your destination graph go to the Graph Settings page and select New API Token
-                            - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-1.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-1.png)
-                        - Name the token however you want but make sure to set the Access Scope to Edit Access. This gives the extention edit permissions to the graph.
-                            - Note: When sending blocks I __ONLY__ add to the destination graph. There is no code to modify or delete __ANYTHING__.
-                            - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-2.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-2.png)
-                        - Select Create to generate your unique graph API token. Make sure to save the generated token before navigating away as it is not possible to see the token again once you have navigated away.
-                        - Open up the Source Graph and navigate to the Send To Graph settings page.
-                        - Add the Graph name and Edit Access token for the destination graph to the settings panel and hit the plus symbol. If either of these is incorrect in any way blocks you attempt to send will not go through. You can add as many graphs as you like.
-                            - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-3.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-3.png)
-                - ## Usage
-                    - There are 2 ways of using the Send-To-Graph extension:
-                        - Right-click on a block and select "Send to Graph". If you have multiple graphs configured, you will be asked to select the destination graph.
-                        - Alternatively, assign a hotkey via the settings panel to send the currently focused block to another graph.
-                - ## Example
-                    - {{video: https://github.com/8bitgentleman/roam-depot-send-to-graph/assets/4028391/fee66356-1a15-4432-9b73-52ece2c4d6d9}}
-    - [[August 8th, 2023]]
-        - [[New Features]]
-            - New [[Graph Overview]]
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FHu0-7f3pv7.png?alt=media&token=9c4cf03c-01c9-418c-b449-1488d18346c4)
-                - Graph overview now works with very large graphs!
-                - New "Explore" Feature
-                    - Add pages to see how they connect, what other pages link into them, or what pages they link to.
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FokRLHhG1iU.png?alt=media&token=c8939b2f-7f21-4ede-b99b-d9a2d19ab906)
-                - The default layout is now a force directed layout, we unfortunetly had to remove the dagre and cose layouts (which only worked with very small graphs anyway)
-        - [[Roam Depot Extensions]]
-            - # Graph Radar
-                - A Roam Research component to show the last edited pages in a graph. Useful for multiplayer graph or graphs not visited often.
-                - ## Example
-                    - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif)
-                - ## Setup
-                    - First make sure that **User code** is enabled in your settings. This allows custom components in your graph.
-                    - ![](https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/settings.png)[🔗](https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/settings.png)
-                - ## Usage
-                    - Easiest way to insert the component is though Roam's native template menu. Simply type ;; and look for **EXTENSION NAME HERE**
-                    - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/template.png)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/template.png)
-                    - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png)
-            - # Marco Polo - CJK Symbols Converter
-                - Automatically pair the following CJK(Chinese, Japanese, and Korean) brackets and quotation marks entered when the CJK input methods are activated.
-                    - "【"
-                    - "（"
-                    - "「"
-                    - "『"
-                - Convert following consecutive inputs CJK(Chinese, Japanese, and Korean) brackets and quotation marks - a usage which does not exist in these languages - into corresponding Roam Research citation brackets or symbols when the CJK input methods are activated.
-                    - "【【】】": "[[]]"
-                    - "（（））": "(())"
-                    - "『「』」": "{{}}"
-                    - "「『」』": "{{}}"
-                    - "『『』』": "{{}}"
-                    - "「「」」": "{{}}"
-    - [[August 7th, 2023]]
-        - [[Roam Depot Extensions]]
-            - # Paste from PDF
-                - When some text copied from a PDF is in the clipboard, the command Paste PDF text from clipboard, removing undue line breaks replace line breaks by space and paste the text in the current block, at the current cursor position.
-                - Provide also the corresponding SmartBlocks command: REPLACENEWLINEBYSPACE with the text to paste as first argument. You can use it with the following SmartBlock (it can also be installed from the SmartBlocks Store).
-                - - #SmartBlock Paste text from pdf (replace new line by space)
-    - <%SET:cbText,<%CLIPBOARDPASTETEXT%>%><%REPLACENEWLINEBYSPACE:<%GET:cbText%>%>
-                - ### [🔗](https://github.com/fbgallet/roam-extension-paste-from-pdf/tree/d52fd10913df564c6b9d3df45b90753912cbc1a5#for-any-question-or-suggestion-dm-me-on-twitter-and-follow-me-to-be-informed-of-updates-and-new-extensions--fbgallet)For any question or suggestion, DM me on **Twitter** and follow me to be informed of updates and new extensions : [@fbgallet](https://twitter.com/fbgallet).
-            - # Roam Tabs
-                - Manage your working pages with tabs.
-                - ![image](https://user-images.githubusercontent.com/23192045/246862057-8423abe5-8697-4b9e-949d-cd707711a4b6.png)[🔗](https://user-images.githubusercontent.com/23192045/246862057-8423abe5-8697-4b9e-949d-cd707711a4b6.png)
-                - ## Open Page In a New Tab
-                    - You can open the switch palette by pressing Ctrl or the Meta key and clicking the link (page or block reference). This will open a new tab.
-                    - You can enable the "Auto" mode, after which just **clicking** will open a tab (if the page tab exists, it will focus on that tab).
-                    - ![image](https://user-images.githubusercontent.com/23192045/246862399-08b26378-8358-43fa-8924-4ae6c23975bf.png)[🔗](https://user-images.githubusercontent.com/23192045/246862399-08b26378-8358-43fa-8924-4ae6c23975bf.png)
-                - ## Switch Tab
-                    - ![image](https://user-images.githubusercontent.com/23192045/249030317-820e8902-0532-4a6e-ab3b-4d1f2d4f123a.png)[🔗](https://user-images.githubusercontent.com/23192045/249030317-820e8902-0532-4a6e-ab3b-4d1f2d4f123a.png)
-                    - You can open the switch palette by
-                        - Command Pallete ![image](https://user-images.githubusercontent.com/23192045/249029975-212bdf80-1c5c-4da3-b545-9db90b8a405d.png)[🔗](https://user-images.githubusercontent.com/23192045/249029975-212bdf80-1c5c-4da3-b545-9db90b8a405d.png)
-                        - custom hotkeys ![image](https://user-images.githubusercontent.com/23192045/249029837-5fe48402-a157-490e-b408-3b57e35bbb25.png)[🔗](https://user-images.githubusercontent.com/23192045/249029837-5fe48402-a157-490e-b408-3b57e35bbb25.png)
-                - ## Remember scroll position
-                    - Each tab can remember your scroll position and reback to it when you switch back to the tab
-                    - ![remember tab position](https://user-images.githubusercontent.com/23192045/249031404-d2413b24-8859-429e-a7a8-44241897aedc.gif)[🔗](https://user-images.githubusercontent.com/23192045/249031404-d2413b24-8859-429e-a7a8-44241897aedc.gif)
-                - ## Open Tab in Sidebar
-                    - **Shift** + click on tabs
-            - # Auto Hide
-                - Auto Hide is a module for [Roam Research](https://roamresearch.com/) that hides the topbar when you scroll down.
-                - ## Main Features
-                    - Hides the topbar when you scroll down and shows it when you hover with the mouse on the original location.
-                    - Offers a setting to show the topbar when you scroll up
-                    - Offers a setting for setting the topbar background color to match your personal theme. Not needed for Roam Studio.
-                - ## If you want to support my work
-                    - [Become a GitHub Sponsor](https://github.com/sponsors/rcvd)
-                    - [Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)
-                    - [Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)
-                    - [Flattr](https://flattr.com/@rcvd)
-                    - [Paypal](https://paypal.me/rcvd)
-            - # Save Scrollbar Position
-                - A simple Roam Research extension that saves the position of the scrollbar on each page, and when you return to this page, it reverts to the position you last viewed.
-                - It just saves the position of the scrollbar in the browser's memory, so when you refresh the browser, the last saved data will be cleared.
-                - Demo1: ![demo1](https://github.com/studyduck/roam-save-scrollbar-position/raw/main/demo1.gif)[🔗](https://github.com/studyduck/roam-save-scrollbar-position/blob/main/demo1.gif)
-                - Demo2: ![demo2](https://github.com/studyduck/roam-save-scrollbar-position/raw/main/demo2.gif)[🔗](https://github.com/studyduck/roam-save-scrollbar-position/blob/main/demo2.gif)
-    - [[August 1st, 2023]]
-        - [[Quality of Life Improvements]]
-            - Changes to `{{video}}` `{{video-timestamp}}` #[[Video Timestamps]]
-                - Video timestamps now include a block reference to the video they belong to
-                    - They can be dragged anywhere in Roam, and you can see all of the timestamps of a video from the linked references
-                    - Old video timestamps will still work, but they are not auto updated to include the block reference
-                - Fixed a bug where timestamps would play a video hidden in the zoom path
-                - Inserting a timestamp now automatically adds a space after the timestamp
-            - Templates will now apply the state of `{{sliders}}`, `{{excalidraw}}`, `{{diagram}}` and other `{{}}` components
-                - You can also now reference templates inside themselves to track the usage of them
-                    - Example::
-                        - #roam/templates Daily mood template that tracks itself
-                            - How is my mood? [*](((t92PqcryG)))
-                                - {{[[slider]]}}
-            - When selecting a block with shift-arrow up or down, scroll the block into view
-    - [[June 26th, 2023]]
-        - Changes to the block context menu
-            - New button and key command for copying embed
-                - Original button still works to copy the block ref
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FywRWXjCVNW.png?alt=media&token=630eaa4f-819e-433c-96ba-a0735c5cdb51)
-    - [[June 20th, 2023]]
-        - [[Bug Fixes]]
-            - Fix filtering `{{mentions}}` and `{{children-mentions}}` components
-    - [[June 15th, 2023]]
-        - [[Experimental]] [[New Feature]]
-            - `{{children-mentions: [[page]]}}`
-                - Like linked references but it also collects the linked references from all of the children blocks of `[[page]]`. you can also use it with a block reference
-    - [[June 12th, 2023]]
-        - ### [[Quality of Life Improvements]] ✨
-            - [[Performance Improvements]] and new search feature for [[Linked References]]
-                - Linked references now load lazily, which means it should open __much__ faster than before.
-                - The downside is that you can no longer search through them with `cmd-f` or `ctrl-f`, you need to use the built in search component.
-                - The new search looks through all of the references, the paths of the references, or the children if the children are open.
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F58Rma4DQAw.png?alt=media&token=542425e8-6a9d-422e-a06b-dcce8f8c1b61)
-        - [[Roam Depot Extensions]]
-            - ## [Magic Tags](https://github.com/rcvd/magic-tags)
-                - Magic Tags by [[Alexander Rink]] transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.
-                - ![Demo of magic tags in action](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)
-                - ### How does it work
-                    - Select the Icon Theme. [Blueprint](https://blueprintjs.com/docs/versions/3/#icons) is the default for Roam Research. Roam Studio provides [Feather Icons](https://feathericons.com/).
-                    - Select the first magic word - this is the name of the tag (e.g., if your tag is #love, your magic word is "love")
-                    - Select an icon from the predefined list
-                    - Select a color from the predefined list
-                    - Select the lightness of the color
-                    - **Notes** You can use the same icon for multiple tags - with different colors if you like. An example of this would be a marker for high and critical tasks, which both would use the alert icon, but in yellow for high and red for critical.
-                    - ![Settings showing tags using the same icon but different colors](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)
-                - ### Feature Requests, Bugs, and Feedback
-                    - If you need an additional icon, have an idea for a new feature, or find a bug, file it under [Issues](https://github.com/rcvd/MagicTags/issues) with a short description and a screenshot. If you have any additional comments or suggestions, please send them to [alex@goedel.io](mailto:alex@goedel.io).
-                - ### If you want to support Alex's work
-                    - [Become a GitHub Sponsor](https://github.com/sponsors/rcvd)
-                    - [Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)
-                    - [Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)
-                    - [Flattr](https://flattr.com/@rcvd)
-                    - [Paypal](https://paypal.me/rcvd)
-            - ## [roam-depot-todo-progress-bar](https://github.com/8bitgentleman/roam-depot-todo-progress-bar)
-                - Roam Research progress bar component for visually tracking TODOs in a list.
-                - ### Example
-                    - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/example.gif)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/example.gif)
-                - ### Setup
-                    - First make sure that **User code** is enabled in your settings. This allows custom components in your graph.
-                    - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/settings.png)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/settings.png)
-                - ### Usage
-                    - Easiest way to insert the component is though Roam's native template menu. Simply type ;; and look for **TODO Progress Bar**
-                    - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/template.png)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/template.png)
-            - ## [oblique-strategies](https://github.com/mlava/oblique-strategies)
-                - Overcome creative block by using an Oblique Strategy.
-                - Originally create by Brian Eno and Peter Schmidt as a way to encourage lateral thinking, Oblique Strategies were originally available as a stack of cards from which you would draw a random card which held a simple prompt. See also: https://en.wikipedia.org/wiki/Oblique_Strategies for more information.
-                - ![image](https://user-images.githubusercontent.com/6857790/238811874-8d73b616-2bc1-49c4-89b0-f3755ed1a5a3.png)[🔗](https://user-images.githubusercontent.com/6857790/238811874-8d73b616-2bc1-49c4-89b0-f3755ed1a5a3.png)
-                - There have been six editions. This extension for Roam Research provides the ability to draw from any of the first five editions, or a combined list containing all of the prompts from the first five editions. The prompts were sourced from https://github.com/noaoh/oblique-stratagems with thanks.
-                - An Oblique Strategy prompt can be obtained using a Command Palette command or Roam Research Hotkey.
-                - The following commands are available:
-                - Random Oblique Strategy Random Oblique Strategy - 1st Edition Random Oblique Strategy - 2nd Edition Random Oblique Strategy - 3rd Edition Random Oblique Strategy - 4th Edition Random Oblique Strategy - 5th Edition
-            - ## [Roam Power Previewer](https://github.com/dragonforce2010/roam-power-previewer)
-                - Allows you to preview a website in a side drawer, without having to go out of Roam!
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FjnZuhSGODA.gif?alt=media&token=02e9465f-5ab4-4da7-847d-0d2f6691c23f)
-                - Usage
-                    - After installing the extension from Roam Depot, just click on a link
-                    - Please note that If you don't want to preview the website content in the sidedrawer or sometimes the website you are tring to preview has a iframe securty policy which forbids to do so, then you can simply press the following keys(ctrl, meta, shift) when click the link, to view the website in a new tab in browser
-            - ## [Automatic DNP](https://github.com/mlava/auto-DNP)
-                - Automatically paste in your preferred daily note page template when you open your DNP for the first time each day.
-                - This extension allows you to define templates for every day of the week, or for weekdays and weekends if you prefer to keep it simple.
-                - Usage
-                    - Use the Roam Depot settings panel to choose either Daily or Weekday/Weekend for Preferred Mode.
-                    - Then, paste in the block reference of a template to the corresponding fields in the Roam Depot settings screen. The example below shows the configuration for Weekday/Weekend mode:
-                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774)
     - ### [[2023]]
+        - [[September 26th, 2023]]
+            - Fix issues with pages and blocks having more than 1000 children
+            - Fix issues with broken references sometimes linking to the wrong block, references starting with numbers like `((88lsljdkf))` could create links if that uid didn't already exist in the graph
+        - [[September 19th, 2023]]
+            - ## [[New Features]] 🚀 #[[mobile]]
+                - We are excited to announce the first beta release of our redesigned mobile app! Our focus has been on ensuring quick access, eliminating "graph is too large" errors, and giving the app a more native feel. We're rolling out to believers first to stress test the system.
+                - To enable, visit the settings tab at the bottom, flip the switch and open a graph.
+                - The app is currently in "read only" mode. The capability to edit will be rolled out in the coming weeks.
+                - An active internet connection is required. It's possible we may add limited offline capability in the future.
+                - Unfortunately, encrypted graphs are not supported since it relies on our new backend API
+                - This release also includes some improvements for everyone 
+                    - Dark mode and new light theme colors to match the web app
+                    - Fixed issues with sharing to the app
+                    - Added graphs with read only access to the graph list
+                    - Decreased size of the bottom navigation bar
+        - [[September 12th, 2023]]
+            - Improve keypress performance
+            - Fix x.com ([[Twitter]]) link embeds
+                - Added a user setting to not auto expand the embeds
+        - [[August 30th, 2023]]
+            - Added links to our [slack](https://join.slack.com/t/roamresearch/shared_invite/zt-21yynf99v-39t09XesqSiIsz_1VFmwtA) and [developer documentation](https://roamresearch.com/#/app/developer-documentation) to the help section (?) in the top right
+                - Also rewrote a lot of the clojurescript and roam/render documentation in the dev graph
+        - [[August 28th, 2023]]
+            - `{{embed-children: ((block ref))}}`
+                - like [[embed]], but it only displays the children of the block
+                - Example::
+                    - A
+                        - 1
+                        - 2
+                    - B
+                        - {{[[embed-children]]: ((fkAyo3B0v))}}
+        - [[August 23rd, 2023]]
+            - Button to reload graph and disable all extensions
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnOcedJDFG9.png?alt=media&token=1b2ce47e-b8e5-41a3-8236-a20426ea7a95)
+                - Useful if you are having an issue with Roam and think it might be one of your extensions
+        - [[August 21st, 2023]]
+            - [[Performance Improvement]] reduce the amount of work done per user action by 50% (update block, create new block, etc..), Roam should feel a little bit more snappy, especially with more content on the screen.
+            - Fix [[query]] updating sometimes when it shouldn't
+        - [[August 18th, 2023]]
+            - Small fixes for [[Video Timestamps]]
+                - If there are two or more of the same videos on screen, play the last used one
+                - Scroll video into view if it's not visible
+        - [[August 15th, 2023]]
+            - Small fixes to [[Graph Overview]]
+                - Saves last used settings locally
+                - Fix selected pages not always being highlighted
+                - Rename "Connect Selected Pages" to "Show links between" to clarify that it does not change your graph
+        - [[August 14th, 2023]]
+            - ### New and Updated [[Raycast]] extension for Roam!!
+                - MacOS users, watch the demo video below to get a sense of the power of having your Roam graph (or graphs 😉) at your fingertips:
+                    - {{[[video]]: https://www.loom.com/share/3fa11c532cb44822a047caecc638e47f}}
+                - Features::
+                    1. Search across all your installed graphs or in one specific graph
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtIlPw_oQ-a.png?alt=media&token=3c666344-8de3-4595-8947-55a216095a2e)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fv3emRcKcRu.png?alt=media&token=59421ab9-6b29-4b13-b3ee-10ca03ed503d)
+                    2. Quick capture notes to your Roam graph without leaving your keyboard
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fj8GEmEGAx8.png?alt=media&token=f65dc849-dfa1-4ce3-b820-659036a49151)
+                    3. View a random block from your roam graph
+                    4. Easily create Raycast quicklinks to open Roam graphs or specific pages in the graph even faster
+... and more features baking in the oven!
+                - Getting Started Guide
+                    1. Install [[Raycast]] from https://raycast.com
+                    2. Then install the Roam Extension from: https://raycast.com/roamresearch/roam-research
+                    3. Follow the loom video below to add a graph
+                        - {{[[video]]: https://www.loom.com/share/31ada35f7c8b4f44a2ba537b15237854}}
+                - If you run into any issues, drop us a message at support@roamresearch.com or via Intercom and we will get on it immediately.  
+                - Big thanks to [[hyc]] for their work on the initial version of this extension 🙏
+                - P.S. Users of the older versions of the Raycast extension will need to add their graph(s) again. Sorry for the inconvenience, this should only be a one time thing
+            - [[Roam Depot Extensions]]
+                - # [Send To Graph](https://github.com/8bitgentleman/roam-depot-send-to-graph)
+                    - A Roam Research extension to send blocks from one graph to another. The destination graph does not need to be open. This is a one-way push. The blocks are added to the new graph as if you had created them manually yourself.
+                    - ## Features
+                        - Send blocks to another graph with a simple right-click command or via hotkey.
+                        - Configure multiple graphs to send blocks to.
+                        - Option to nest sent blocks under a parent block (for example an __#inbox__ tag) in the destination graph.
+                    - ## Setup
+                        - This extension uses the new Roam backend API to allow sending of blocks to graphs that you do not have open. Note: only the creator of a graph can create new API tokens.
+                            - In your destination graph go to the Graph Settings page and select New API Token
+                                - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-1.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-1.png)
+                            - Name the token however you want but make sure to set the Access Scope to Edit Access. This gives the extention edit permissions to the graph.
+                                - Note: When sending blocks I __ONLY__ add to the destination graph. There is no code to modify or delete __ANYTHING__.
+                                - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-2.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-2.png)
+                            - Select Create to generate your unique graph API token. Make sure to save the generated token before navigating away as it is not possible to see the token again once you have navigated away.
+                            - Open up the Source Graph and navigate to the Send To Graph settings page.
+                            - Add the Graph name and Edit Access token for the destination graph to the settings panel and hit the plus symbol. If either of these is incorrect in any way blocks you attempt to send will not go through. You can add as many graphs as you like.
+                                - ![](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-3.png)[🔗](https://github.com/8bitgentleman/roam-depot-send-to-graph/raw/main/assets/api-3.png)
+                    - ## Usage
+                        - There are 2 ways of using the Send-To-Graph extension:
+                            - Right-click on a block and select "Send to Graph". If you have multiple graphs configured, you will be asked to select the destination graph.
+                            - Alternatively, assign a hotkey via the settings panel to send the currently focused block to another graph.
+                    - ## Example
+                        - {{video: https://github.com/8bitgentleman/roam-depot-send-to-graph/assets/4028391/fee66356-1a15-4432-9b73-52ece2c4d6d9}}
+        - [[August 8th, 2023]]
+            - [[New Features]]
+                - New [[Graph Overview]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FHu0-7f3pv7.png?alt=media&token=9c4cf03c-01c9-418c-b449-1488d18346c4)
+                    - Graph overview now works with very large graphs!
+                    - New "Explore" Feature
+                        - Add pages to see how they connect, what other pages link into them, or what pages they link to.
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FokRLHhG1iU.png?alt=media&token=c8939b2f-7f21-4ede-b99b-d9a2d19ab906)
+                    - The default layout is now a force directed layout, we unfortunetly had to remove the dagre and cose layouts (which only worked with very small graphs anyway)
+            - [[Roam Depot Extensions]]
+                - # Graph Radar
+                    - A Roam Research component to show the last edited pages in a graph. Useful for multiplayer graph or graphs not visited often.
+                    - ## Example
+                        - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif)
+                    - ## Setup
+                        - First make sure that **User code** is enabled in your settings. This allows custom components in your graph.
+                        - ![](https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/settings.png)[🔗](https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/settings.png)
+                    - ## Usage
+                        - Easiest way to insert the component is though Roam's native template menu. Simply type ;; and look for **EXTENSION NAME HERE**
+                        - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/template.png)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/template.png)
+                        - ![](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png)[🔗](https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png)
+                - # Marco Polo - CJK Symbols Converter
+                    - Automatically pair the following CJK(Chinese, Japanese, and Korean) brackets and quotation marks entered when the CJK input methods are activated.
+                        - "【"
+                        - "（"
+                        - "「"
+                        - "『"
+                    - Convert following consecutive inputs CJK(Chinese, Japanese, and Korean) brackets and quotation marks - a usage which does not exist in these languages - into corresponding Roam Research citation brackets or symbols when the CJK input methods are activated.
+                        - "【【】】": "[[]]"
+                        - "（（））": "(())"
+                        - "『「』」": "{{}}"
+                        - "「『」』": "{{}}"
+                        - "『『』』": "{{}}"
+                        - "「「」」": "{{}}"
+        - [[August 7th, 2023]]
+            - [[Roam Depot Extensions]]
+                - # Paste from PDF
+                    - When some text copied from a PDF is in the clipboard, the command Paste PDF text from clipboard, removing undue line breaks replace line breaks by space and paste the text in the current block, at the current cursor position.
+                    - Provide also the corresponding SmartBlocks command: REPLACENEWLINEBYSPACE with the text to paste as first argument. You can use it with the following SmartBlock (it can also be installed from the SmartBlocks Store).
+                    - - #SmartBlock Paste text from pdf (replace new line by space)
+    - <%SET:cbText,<%CLIPBOARDPASTETEXT%>%><%REPLACENEWLINEBYSPACE:<%GET:cbText%>%>
+                    - ### [🔗](https://github.com/fbgallet/roam-extension-paste-from-pdf/tree/d52fd10913df564c6b9d3df45b90753912cbc1a5#for-any-question-or-suggestion-dm-me-on-twitter-and-follow-me-to-be-informed-of-updates-and-new-extensions--fbgallet)For any question or suggestion, DM me on **Twitter** and follow me to be informed of updates and new extensions : [@fbgallet](https://twitter.com/fbgallet).
+                - # Roam Tabs
+                    - Manage your working pages with tabs.
+                    - ![image](https://user-images.githubusercontent.com/23192045/246862057-8423abe5-8697-4b9e-949d-cd707711a4b6.png)[🔗](https://user-images.githubusercontent.com/23192045/246862057-8423abe5-8697-4b9e-949d-cd707711a4b6.png)
+                    - ## Open Page In a New Tab
+                        - You can open the switch palette by pressing Ctrl or the Meta key and clicking the link (page or block reference). This will open a new tab.
+                        - You can enable the "Auto" mode, after which just **clicking** will open a tab (if the page tab exists, it will focus on that tab).
+                        - ![image](https://user-images.githubusercontent.com/23192045/246862399-08b26378-8358-43fa-8924-4ae6c23975bf.png)[🔗](https://user-images.githubusercontent.com/23192045/246862399-08b26378-8358-43fa-8924-4ae6c23975bf.png)
+                    - ## Switch Tab
+                        - ![image](https://user-images.githubusercontent.com/23192045/249030317-820e8902-0532-4a6e-ab3b-4d1f2d4f123a.png)[🔗](https://user-images.githubusercontent.com/23192045/249030317-820e8902-0532-4a6e-ab3b-4d1f2d4f123a.png)
+                        - You can open the switch palette by
+                            - Command Pallete ![image](https://user-images.githubusercontent.com/23192045/249029975-212bdf80-1c5c-4da3-b545-9db90b8a405d.png)[🔗](https://user-images.githubusercontent.com/23192045/249029975-212bdf80-1c5c-4da3-b545-9db90b8a405d.png)
+                            - custom hotkeys ![image](https://user-images.githubusercontent.com/23192045/249029837-5fe48402-a157-490e-b408-3b57e35bbb25.png)[🔗](https://user-images.githubusercontent.com/23192045/249029837-5fe48402-a157-490e-b408-3b57e35bbb25.png)
+                    - ## Remember scroll position
+                        - Each tab can remember your scroll position and reback to it when you switch back to the tab
+                        - ![remember tab position](https://user-images.githubusercontent.com/23192045/249031404-d2413b24-8859-429e-a7a8-44241897aedc.gif)[🔗](https://user-images.githubusercontent.com/23192045/249031404-d2413b24-8859-429e-a7a8-44241897aedc.gif)
+                    - ## Open Tab in Sidebar
+                        - **Shift** + click on tabs
+                - # Auto Hide
+                    - Auto Hide is a module for [Roam Research](https://roamresearch.com/) that hides the topbar when you scroll down.
+                    - ## Main Features
+                        - Hides the topbar when you scroll down and shows it when you hover with the mouse on the original location.
+                        - Offers a setting to show the topbar when you scroll up
+                        - Offers a setting for setting the topbar background color to match your personal theme. Not needed for Roam Studio.
+                    - ## If you want to support my work
+                        - [Become a GitHub Sponsor](https://github.com/sponsors/rcvd)
+                        - [Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)
+                        - [Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)
+                        - [Flattr](https://flattr.com/@rcvd)
+                        - [Paypal](https://paypal.me/rcvd)
+                - # Save Scrollbar Position
+                    - A simple Roam Research extension that saves the position of the scrollbar on each page, and when you return to this page, it reverts to the position you last viewed.
+                    - It just saves the position of the scrollbar in the browser's memory, so when you refresh the browser, the last saved data will be cleared.
+                    - Demo1: ![demo1](https://github.com/studyduck/roam-save-scrollbar-position/raw/main/demo1.gif)[🔗](https://github.com/studyduck/roam-save-scrollbar-position/blob/main/demo1.gif)
+                    - Demo2: ![demo2](https://github.com/studyduck/roam-save-scrollbar-position/raw/main/demo2.gif)[🔗](https://github.com/studyduck/roam-save-scrollbar-position/blob/main/demo2.gif)
+        - [[August 1st, 2023]]
+            - [[Quality of Life Improvements]]
+                - Changes to `{{video}}` `{{video-timestamp}}` #[[Video Timestamps]]
+                    - Video timestamps now include a block reference to the video they belong to
+                        - They can be dragged anywhere in Roam, and you can see all of the timestamps of a video from the linked references
+                        - Old video timestamps will still work, but they are not auto updated to include the block reference
+                    - Fixed a bug where timestamps would play a video hidden in the zoom path
+                    - Inserting a timestamp now automatically adds a space after the timestamp
+                - Templates will now apply the state of `{{sliders}}`, `{{excalidraw}}`, `{{diagram}}` and other `{{}}` components
+                    - You can also now reference templates inside themselves to track the usage of them
+                        - Example::
+                            - #roam/templates Daily mood template that tracks itself
+                                - How is my mood? [*](((t92PqcryG)))
+                                    - {{[[slider]]}}
+                - When selecting a block with shift-arrow up or down, scroll the block into view
+        - [[June 26th, 2023]]
+            - Changes to the block context menu
+                - New button and key command for copying embed
+                    - Original button still works to copy the block ref
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FywRWXjCVNW.png?alt=media&token=630eaa4f-819e-433c-96ba-a0735c5cdb51)
+        - [[June 20th, 2023]]
+            - [[Bug Fixes]]
+                - Fix filtering `{{mentions}}` and `{{children-mentions}}` components
+        - [[June 15th, 2023]]
+            - [[Experimental]] [[New Feature]]
+                - `{{children-mentions: [[page]]}}`
+                    - Like linked references but it also collects the linked references from all of the children blocks of `[[page]]`. you can also use it with a block reference
+        - [[June 12th, 2023]]
+            - ### [[Quality of Life Improvements]] ✨
+                - [[Performance Improvements]] and new search feature for [[Linked References]]
+                    - Linked references now load lazily, which means it should open __much__ faster than before.
+                    - The downside is that you can no longer search through them with `cmd-f` or `ctrl-f`, you need to use the built in search component.
+                    - The new search looks through all of the references, the paths of the references, or the children if the children are open.
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F58Rma4DQAw.png?alt=media&token=542425e8-6a9d-422e-a06b-dcce8f8c1b61)
+            - [[Roam Depot Extensions]]
+                - ## [Magic Tags](https://github.com/rcvd/magic-tags)
+                    - Magic Tags by [[Alexander Rink]] transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.
+                    - ![Demo of magic tags in action](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)
+                    - ### How does it work
+                        - Select the Icon Theme. [Blueprint](https://blueprintjs.com/docs/versions/3/#icons) is the default for Roam Research. Roam Studio provides [Feather Icons](https://feathericons.com/).
+                        - Select the first magic word - this is the name of the tag (e.g., if your tag is #love, your magic word is "love")
+                        - Select an icon from the predefined list
+                        - Select a color from the predefined list
+                        - Select the lightness of the color
+                        - **Notes** You can use the same icon for multiple tags - with different colors if you like. An example of this would be a marker for high and critical tasks, which both would use the alert icon, but in yellow for high and red for critical.
+                        - ![Settings showing tags using the same icon but different colors](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)
+                    - ### Feature Requests, Bugs, and Feedback
+                        - If you need an additional icon, have an idea for a new feature, or find a bug, file it under [Issues](https://github.com/rcvd/MagicTags/issues) with a short description and a screenshot. If you have any additional comments or suggestions, please send them to [alex@goedel.io](mailto:alex@goedel.io).
+                    - ### If you want to support Alex's work
+                        - [Become a GitHub Sponsor](https://github.com/sponsors/rcvd)
+                        - [Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)
+                        - [Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)
+                        - [Flattr](https://flattr.com/@rcvd)
+                        - [Paypal](https://paypal.me/rcvd)
+                - ## [roam-depot-todo-progress-bar](https://github.com/8bitgentleman/roam-depot-todo-progress-bar)
+                    - Roam Research progress bar component for visually tracking TODOs in a list.
+                    - ### Example
+                        - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/example.gif)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/example.gif)
+                    - ### Setup
+                        - First make sure that **User code** is enabled in your settings. This allows custom components in your graph.
+                        - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/settings.png)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/settings.png)
+                    - ### Usage
+                        - Easiest way to insert the component is though Roam's native template menu. Simply type ;; and look for **TODO Progress Bar**
+                        - ![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/template.png)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/template.png)
+                - ## [oblique-strategies](https://github.com/mlava/oblique-strategies)
+                    - Overcome creative block by using an Oblique Strategy.
+                    - Originally create by Brian Eno and Peter Schmidt as a way to encourage lateral thinking, Oblique Strategies were originally available as a stack of cards from which you would draw a random card which held a simple prompt. See also: https://en.wikipedia.org/wiki/Oblique_Strategies for more information.
+                    - ![image](https://user-images.githubusercontent.com/6857790/238811874-8d73b616-2bc1-49c4-89b0-f3755ed1a5a3.png)[🔗](https://user-images.githubusercontent.com/6857790/238811874-8d73b616-2bc1-49c4-89b0-f3755ed1a5a3.png)
+                    - There have been six editions. This extension for Roam Research provides the ability to draw from any of the first five editions, or a combined list containing all of the prompts from the first five editions. The prompts were sourced from https://github.com/noaoh/oblique-stratagems with thanks.
+                    - An Oblique Strategy prompt can be obtained using a Command Palette command or Roam Research Hotkey.
+                    - The following commands are available:
+                    - Random Oblique Strategy Random Oblique Strategy - 1st Edition Random Oblique Strategy - 2nd Edition Random Oblique Strategy - 3rd Edition Random Oblique Strategy - 4th Edition Random Oblique Strategy - 5th Edition
+                - ## [Automatic DNP](https://github.com/mlava/auto-DNP)
+                    - Automatically paste in your preferred daily note page template when you open your DNP for the first time each day.
+                    - This extension allows you to define templates for every day of the week, or for weekdays and weekends if you prefer to keep it simple.
+                    - Usage
+                        - Use the Roam Depot settings panel to choose either Daily or Weekday/Weekend for Preferred Mode.
+                        - Then, paste in the block reference of a template to the corresponding fields in the Roam Depot settings screen. The example below shows the configuration for Weekday/Weekend mode:
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774)
+                - ## [Roam Power Previewer](https://github.com/dragonforce2010/roam-power-previewer)
+                    - Allows you to preview a website in a side drawer, without having to go out of Roam!
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FjnZuhSGODA.gif?alt=media&token=02e9465f-5ab4-4da7-847d-0d2f6691c23f)
+                    - Usage
+                        - After installing the extension from Roam Depot, just click on a link
+                        - Please note that If you don't want to preview the website content in the sidedrawer or sometimes the website you are tring to preview has a iframe securty policy which forbids to do so, then you can simply press the following keys(ctrl, meta, shift) when click the link, to view the website in a new tab in browser
+                - 
         - [[June 9th, 2023]]
             - [[Bug Fixes]]
                 - Editing `{{excalidraw}}` drawings or `{{slider}}`s also updates the last edited time

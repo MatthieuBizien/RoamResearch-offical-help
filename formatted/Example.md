@@ -9,10 +9,10 @@
                 - **[Example](<Example.md>):**
 
 - like [embed](<embed.md>), but it only displays the children of the block
-            - **[Example](<Example.md>):**
+                - **[Example](<Example.md>):**
 
 - You can also now reference templates inside themselves to track the usage of them
-                    - **[Example](<Example.md>):**
+                        - **[Example](<Example.md>):**
 
 - Fixed double digit numbered lists inside of the `{{search: }}` component
                     - **[Example](<Example.md>):**

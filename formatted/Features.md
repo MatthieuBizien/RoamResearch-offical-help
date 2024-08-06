@@ -54,7 +54,7 @@
 
 ## [Change Log](<Change Log.md>)
 - {{[video](<video.md>): https://www.loom.com/share/3fa11c532cb44822a047caecc638e47f}}
-            - **[Features](<Features.md>):**
+                - **[Features](<Features.md>):**
 
 ## [Developer Documentation](<Developer Documentation.md>)
 - {{[video](<video.md>): https://www.loom.com/share/3fa11c532cb44822a047caecc638e47f}}
