@@ -1,6 +1,23 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[August 6th, 2024]]
+        - [[Roam Depot Extensions]]
+            - ## [Sheet Music](https://github.com/mlava/sheet-music)
+                - For music lovers, sheet music in Roam Research is finally available!
+                - Create your own music using [abc notation](https://abcnotation.com/wiki/abc:standard) or paste and render sheet music for music you find on the internet.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcYbkazDa8-.png?alt=media&token=27a878ba-3f8c-401f-9721-cbcc0fe2a283)
+                - There are two options available at present:
+                    - Paste music in the abc notation directly into your graph using the command palette option 'Paste sheet music in ABC notation'
+                    - Create music in abc notation within your graph. Start with a blank template by using the command palette option 'Create sheet music in ABC notation'
+                - You can find examples of music in abc notation at:
+                    - https://abcnotation.com/examples
+                    - https://thesession.org/
+                    - https://www.montrealsession.ca/index.html
+                - Standard abc notation applies - you can find a key to the notation at [abc notation](https://abcnotation.com/wiki/abc:standard).
+                - **Notes:**
+                    - In this first iteration, only one piece of music can be rendered on a page. I am working on a fix to allow multiple pieces to render correctly.
+                    - At present, dragging notes in the rendered music will change the child block in RR but not the textarea box. I am working on a fix. In the meantime, you can click the pencil icon at top right to re-render the music and the changes you've made will be picked up.
     - [[July 25th, 2024]]
         - Fixed issue with [[Graph Overview]] explore mode where if a page was selected but then deleted it would cause an infinite loading spinner
     - [[July 24th, 2024]]

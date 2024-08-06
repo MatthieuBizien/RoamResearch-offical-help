@@ -45260,6 +45260,243 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-06-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1722969584414,
+                        "edit-time": 1722969584414,
+                        "string": "For music lovers, sheet music in Roam Research is finally available!",
+                        "uid": "W6kj00-UJ"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1722969584414,
+                        "edit-time": 1722969584414,
+                        "string": "Create your own music using\u00a0[abc notation](https://abcnotation.com/wiki/abc:standard)\u00a0or paste and render sheet music for music you find on the internet.",
+                        "uid": "H73HHVopG"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1722969592551,
+                        "edit-time": 1722969608042,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FcYbkazDa8-.png?alt=media&token=27a878ba-3f8c-401f-9721-cbcc0fe2a283)",
+                        "uid": "uacR815Vj"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1722969584414,
+                            "edit-time": 1722969584414,
+                            "string": "Paste music in the abc notation directly into your graph using the command palette option 'Paste sheet music in ABC notation'",
+                            "uid": "xrSng3vrH"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1722969584414,
+                            "edit-time": 1722969584414,
+                            "string": "Create music in abc notation within your graph. Start with a blank template by using the command palette option 'Create sheet music in ABC notation'",
+                            "uid": "Db7dJzT4L"
+                          }
+                        ],
+                        "create-time": 1722969584414,
+                        "edit-time": 1722969584414,
+                        "string": "There are two options available at present:",
+                        "uid": "BQ1HIGIdQ"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1722969584414,
+                            "edit-time": 1722969584414,
+                            "string": "https://abcnotation.com/examples",
+                            "uid": "IHymqCnlS"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1722969584414,
+                            "edit-time": 1722969584414,
+                            "string": "https://thesession.org/",
+                            "uid": "Z_NOGqAaM"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1722969584414,
+                            "edit-time": 1722969584414,
+                            "string": "https://www.montrealsession.ca/index.html",
+                            "uid": "mQp2OoWGQ"
+                          }
+                        ],
+                        "create-time": 1722969584414,
+                        "edit-time": 1722969584414,
+                        "string": "You can find examples of music in abc notation at:",
+                        "uid": "PS47ZVaQx"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1722969584414,
+                        "edit-time": 1722969584414,
+                        "string": "Standard abc notation applies - you can find a key to the notation at\u00a0[abc notation](https://abcnotation.com/wiki/abc:standard).",
+                        "uid": "s9yf5VSK3"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1722969584414,
+                            "edit-time": 1722969584414,
+                            "string": "In this first iteration, only one piece of music can be rendered on a page. I am working on a fix to allow multiple pieces to render correctly.",
+                            "uid": "5KTaqLjNV"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1722969584414,
+                            "edit-time": 1722969584414,
+                            "string": "At present, dragging notes in the rendered music will change the child block in RR but not the textarea box. I am working on a fix. In the meantime, you can click the pencil icon at top right to re-render the music and the changes you've made will be picked up.",
+                            "uid": "zCr-ulSPh"
+                          }
+                        ],
+                        "create-time": 1722969584414,
+                        "edit-time": 1722969584414,
+                        "string": "**Notes:**",
+                        "uid": "BnFMV_WVO"
+                      }
+                    ],
+                    "create-time": 1722969581310,
+                    "edit-time": 1722969631010,
+                    "heading": 2,
+                    "string": "[Sheet Music](https://github.com/mlava/sheet-music)",
+                    "uid": "0mNAd4PGB"
+                  }
+                ],
+                "create-time": 1722969575034,
+                "edit-time": 1722969581317,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "XOJ2fVQjh"
+              }
+            ],
+            "create-time": 1722969573062,
+            "edit-time": 1722969575047,
+            "refs": [
+              {
+                "uid": "08-06-2024"
+              }
+            ],
+            "string": "[[August 6th, 2024]]",
+            "uid": "0mNMi8n3r"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "07-25-2024"
               }
             ],
@@ -107184,9 +107421,15 @@
     "uid": "08-05-2024"
   },
   {
-    ":log/id": 1722967693089,
-    "create-time": 1722967693091,
-    "edit-time": 1722967693091,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1722969564098,
+    "create-time": 1722969564100,
+    "edit-time": 1722969564100,
     "title": "August 6th, 2024",
     "uid": "08-06-2024"
   }
