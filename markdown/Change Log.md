@@ -1,6 +1,68 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[August 8th, 2024]]
+        - [[Roam Depot Extensions]]
+            - ## [Semantic Scholar](https://github.com/mlava/semantic-scholar)
+                - Access the scientific literature right within your Roam Research graph.
+                - This extension allows you to get data from the 214 Million Papers, 2.49 Billion Citations and 79 Million Authors in the Semantic Scholar database.
+                - There are a number of ways to access the data:
+                    - Article title search
+                    - Article Id search
+                    - Author name search
+                    - Author Id search
+                    - Recommended articles using one article as the prompt
+                    - Relevant articles for a search term
+                - All six options can have Roam Research hotkeys enabled to make searching for new data as quick as a keystroke!
+                - **Notes:**
+                    - Please note that Semantic Scholar offers an API key by application, however this extension DOES NOT need an API key to work. Without an API key, Semantic Scholar limits calls to their API, and you might receive an error message that you are trying to import data too often. I have implemented a retry mechanism that will attempt up to ten times at ten second intervals, and will provide feedback about what is happening.
+                    - You can apply for an API key at https://www.semanticscholar.org/product/api#api-key. If you are approved, you can enter the token in the Roam Depot settings for this extension, under the 'Set Here' or 'Home' tab.
+                    - I successfully applied for an API key by stating that I was accessing the data for personal usage and would not be downloading any individual articles/papers in bulk, but one at a time.
+                    - Rest assured that unless Semantic Scholar changes their access provisions, this extension will work without an API key. It might just be a bit slower, and give you warnings from time-to-time.
+                - To import a specific article, you can use IDs from Semantic Scholar (Corpus Id or Paper Id), DOI, Association for Computational Linguistics ID (ACL), arXiv ID, Microsoft Academic Graph ID (MAG), PubMed ID or PubMed Central ID. You can control which data is retrieved for an individual article by setting your preferences in the Roam Depot settings in the Article tab.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FUAske22vHg.png?alt=media&token=6ad48487-ffbc-4672-be54-686d685b89e8)
+                - You can decide what data you want to see for an article, and the order in which it is output. These options include Journal data, Article Type, Authors, References, Citations, Influential Citations, External Sources and Abstract.
+                - If an article is Open Access and/or has an Open Access PDF, links to these sources will be displayed with the Article metadata.
+                - Author metadata can be imported using the Semantic Scholar Author ID. Again, the data types you wish to retrieve for an author can be set in the Author tab in the Roam Depot settings.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDuUdBz8kaa.png?alt=media&token=97c7fb5c-2319-469f-bb57-7894d9b5cce1)
+                - You can also decide what data you want to see for an author, and the order in which it is output. These options include Affiliations, Home Page, Citation Count, h-Index and Publications.
+                - You can choose to hide certain types of data from Article or Author import, and this will prevent that data being called from the Semantic Scholar API. This will reduce data transfer.
+                - You can search for a paper by title, and Semantic Scholar will only return a single result. Of course, you can filter the search to limit to particular Fields of Study, years of publication, venue of publication, minimum citation count, Open Access status and the availability of an Open Access PDF.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrtcySieB8n.png?alt=media&token=ca41b36a-63ef-4d0f-8232-747690925e6a)
+                - Or, search for an author by name and Semantic Scholar will return a list of authors. You can define how many you want to retrieve in the Author tab in settings.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCojEFm7Lrd.png?alt=media&token=d270bd83-427f-47f0-8589-28bc13358394)
+                - Semantic Scholar uses a machine learning algorithm to determine relationships between articles, and you can access this feature in two ways. The first is to search for articles using the Relevance Search feature. You can enter a search term and a variety of filters to find the most accurate results.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fahehr8z8In.png?alt=media&token=cd50dbd9-26bf-4dbc-9a60-d3b46a41c83e)
+                - Or, search for recommended articles related to a specific article using the article Paper Id from Semantic Scholar.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Ffd34_MhZl2.png?alt=media&token=88b610c2-6620-4276-9c48-28b8767c2ed2)
+                - You can define how many results to obtain for Recommended or Relevance searches in the appropriate tab in Roam Depot settings.
+                - Semantic Scholar classifies their data using the following Fields of Study:
+                    - Computer Science
+                    - Medicine
+                    - Chemistry
+                    - Biology
+                    - Materials Science
+                    - Physics
+                    - Geology
+                    - Psychology
+                    - Art
+                    - History
+                    - Geography
+                    - Sociology
+                    - Business
+                    - Political Science
+                    - Economics
+                    - Philosophy
+                    - Mathematics
+                    - Engineering
+                    - Environmental Science
+                    - Agricultural and Food Sciences
+                    - Education
+                    - Law
+                    - Linguistics
+                - You can set your preferred Fields of Study in the Roam Depot settings for this extension as comma-separated list. e.g. Medicine,Biology,Business
+                - The best features are enabled if you also have the SmartBlocks extension installed. When you install this extension, a new page will be created in your graph entitled 'Semantic Scholar Configuration'. This has all of the required SmartBlocks so that you won't need to create anything yourself.
+                - When you import any data from Semantic Scholar, a SmartBlock button will be placed after all article titles, author names, and search results. You can click that SmartBlock button to import the data for that item to your graph as well. For lists of Recommended or Relevant Article searches, or Author Name searches, you will be presented with both Refresh and Import More SmartBlock buttons. If you import 5 authors, for example, the Import More button will import another five authors. Refresh will update the data if there has been new publications become available.
     - [[August 6th, 2024]]
         - [[Roam Depot Extensions]]
             - ## [Automatic DNP](https://github.com/mlava/auto-DNP)

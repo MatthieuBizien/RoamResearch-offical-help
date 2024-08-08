@@ -45260,6 +45260,783 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-08-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "Access the scientific literature right within your Roam Research graph.",
+                        "uid": "Zsp3rd6nt"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "This extension allows you to get data from the 214 Million Papers, 2.49 Billion Citations and 79 Million Authors in the Semantic Scholar database.",
+                        "uid": "0BmPHOgal"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Article title search",
+                            "uid": "t9L7dfuoQ"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Article Id search",
+                            "uid": "qggXYV5hD"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Author name search",
+                            "uid": "r4coI-9dY"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Author Id search",
+                            "uid": "BlbPLAo0A"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Recommended articles using one article as the prompt",
+                            "uid": "ov6IgN8YC"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Relevant articles for a search term",
+                            "uid": "hpW7Bnalk"
+                          }
+                        ],
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "There are a number of ways to access the data:",
+                        "uid": "B0_1Gu4Uu"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "All six options can have Roam Research hotkeys enabled to make searching for new data as quick as a keystroke!",
+                        "uid": "PeZOrx7en"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Please note that Semantic Scholar offers an API key by application, however this extension DOES NOT need an API key to work. Without an API key, Semantic Scholar limits calls to their API, and you might receive an error message that you are trying to import data too often. I have implemented a retry mechanism that will attempt up to ten times at ten second intervals, and will provide feedback about what is happening.",
+                            "uid": "Hj43SjqzU"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "You can apply for an API key at\u00a0https://www.semanticscholar.org/product/api#api-key. If you are approved, you can enter the token in the Roam Depot settings for this extension, under the 'Set Here' or 'Home' tab.",
+                            "uid": "S4MJJ8oWP"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "I successfully applied for an API key by stating that I was accessing the data for personal usage and would not be downloading any individual articles/papers in bulk, but one at a time.",
+                            "uid": "ScZbH92cc"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Rest assured that unless Semantic Scholar changes their access provisions, this extension will work without an API key. It might just be a bit slower, and give you warnings from time-to-time.",
+                            "uid": "otF8aLVQ1"
+                          }
+                        ],
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "**Notes:**",
+                        "uid": "RKubqhNme"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "To import a specific article, you can use IDs from Semantic Scholar (Corpus Id or Paper Id), DOI, Association for Computational Linguistics ID (ACL), arXiv ID, Microsoft Academic Graph ID (MAG), PubMed ID or PubMed Central ID. You can control which data is retrieved for an individual article by setting your preferences in the Roam Depot settings in the Article tab.",
+                        "uid": "7fX1JGv6j"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149501986,
+                        "edit-time": 1723149504656,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FUAske22vHg.png?alt=media&token=6ad48487-ffbc-4672-be54-686d685b89e8)",
+                        "uid": "JsYUcL_5Q"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "You can decide what data you want to see for an article, and the order in which it is output. These options include Journal data, Article Type, Authors, References, Citations, Influential Citations, External Sources and Abstract.",
+                        "uid": "YwsG3gKU2"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "If an article is Open Access and/or has an Open Access PDF, links to these sources will be displayed with the Article metadata.",
+                        "uid": "UepemzCbI"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "Author metadata can be imported using the Semantic Scholar Author ID. Again, the data types you wish to retrieve for an author can be set in the Author tab in the Roam Depot settings.",
+                        "uid": "WOOEDo7Fx"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149509282,
+                        "edit-time": 1723149517767,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDuUdBz8kaa.png?alt=media&token=97c7fb5c-2319-469f-bb57-7894d9b5cce1)",
+                        "uid": "CUla9-MxV"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "You can also decide what data you want to see for an author, and the order in which it is output. These options include Affiliations, Home Page, Citation Count, h-Index and Publications.",
+                        "uid": "aNY_8112J"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "You can choose to hide certain types of data from Article or Author import, and this will prevent that data being called from the Semantic Scholar API. This will reduce data transfer.",
+                        "uid": "_NdY0Oi9Q"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "You can search for a paper by title, and Semantic Scholar will only return a single result. Of course, you can filter the search to limit to particular Fields of Study, years of publication, venue of publication, minimum citation count, Open Access status and the availability of an Open Access PDF.",
+                        "uid": "F74Yw7Icw"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149521502,
+                        "edit-time": 1723149534850,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrtcySieB8n.png?alt=media&token=ca41b36a-63ef-4d0f-8232-747690925e6a)",
+                        "uid": "5AigwFrpG"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "Or, search for an author by name and Semantic Scholar will return a list of authors. You can define how many you want to retrieve in the Author tab in settings.",
+                        "uid": "ul2Jnv7qA"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149538603,
+                        "edit-time": 1723149547210,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCojEFm7Lrd.png?alt=media&token=d270bd83-427f-47f0-8589-28bc13358394)",
+                        "uid": "5V8YT-XFR"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "Semantic Scholar uses a machine learning algorithm to determine relationships between articles, and you can access this feature in two ways. The first is to search for articles using the Relevance Search feature. You can enter a search term and a variety of filters to find the most accurate results.",
+                        "uid": "R0dxFklik"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149550610,
+                        "edit-time": 1723149557312,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fahehr8z8In.png?alt=media&token=cd50dbd9-26bf-4dbc-9a60-d3b46a41c83e)",
+                        "uid": "HBwCkzjAy"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "Or, search for recommended articles related to a specific article using the article Paper Id from Semantic Scholar.",
+                        "uid": "Pc0wnwdFR"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149571362,
+                        "edit-time": 1723149572590,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Ffd34_MhZl2.png?alt=media&token=88b610c2-6620-4276-9c48-28b8767c2ed2)",
+                        "uid": "JVX44UkC-"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "You can define how many results to obtain for Recommended or Relevance searches in the appropriate tab in Roam Depot settings.",
+                        "uid": "eAzv-Jb-Z"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Computer Science",
+                            "uid": "Ct7V-KafQ"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Medicine",
+                            "uid": "linjKARGF"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Chemistry",
+                            "uid": "M8md6OQbA"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Biology",
+                            "uid": "2LeVPPqQL"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Materials Science",
+                            "uid": "OZRnljL-Y"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Physics",
+                            "uid": "FHcp2OBwY"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Geology",
+                            "uid": "LYYlB7lRh"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Psychology",
+                            "uid": "d_U1AcSSX"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Art",
+                            "uid": "jpe1c1VcY"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "History",
+                            "uid": "JGSuHOkQU"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Geography",
+                            "uid": "TD9anBHK7"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Sociology",
+                            "uid": "Fdlzw8ix3"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Business",
+                            "uid": "IfA34kcG1"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Political Science",
+                            "uid": "6CvdId4oa"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Economics",
+                            "uid": "6pBNSwghP"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Philosophy",
+                            "uid": "SJTNrvu88"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Mathematics",
+                            "uid": "AYWH3ZwnY"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Engineering",
+                            "uid": "GA4bu3Rt_"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Environmental Science",
+                            "uid": "QBqvV-4Vn"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Agricultural and Food Sciences",
+                            "uid": "KevGdk5p6"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Education",
+                            "uid": "GqBtSbOpG"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Law",
+                            "uid": "T_33qfK5V"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1723149476603,
+                            "edit-time": 1723149476603,
+                            "string": "Linguistics",
+                            "uid": "wcMl9HowA"
+                          }
+                        ],
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "Semantic Scholar classifies their data using the following Fields of Study:",
+                        "uid": "Hm_J4ZOdP"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "You can set your preferred Fields of Study in the Roam Depot settings for this extension as comma-separated list. e.g. Medicine,Biology,Business",
+                        "uid": "p0Co7s3oB"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "The best features are enabled if you also have the SmartBlocks extension installed. When you install this extension, a new page will be created in your graph entitled 'Semantic Scholar Configuration'. This has all of the required SmartBlocks so that you won't need to create anything yourself.",
+                        "uid": "R548fbFfo"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1723149476603,
+                        "edit-time": 1723149476603,
+                        "string": "When you import any data from Semantic Scholar, a SmartBlock button will be placed after all article titles, author names, and search results. You can click that SmartBlock button to import the data for that item to your graph as well. For lists of Recommended or Relevant Article searches, or Author Name searches, you will be presented with both Refresh and Import More SmartBlock buttons. If you import 5 authors, for example, the Import More button will import another five authors. Refresh will update the data if there has been new publications become available.",
+                        "uid": "Uhy71g5x2"
+                      }
+                    ],
+                    "create-time": 1723149374738,
+                    "edit-time": 1723149458685,
+                    "heading": 2,
+                    "string": "[Semantic Scholar](https://github.com/mlava/semantic-scholar)",
+                    "uid": "OZPEAmv8S"
+                  }
+                ],
+                "create-time": 1723149370561,
+                "edit-time": 1723149374745,
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                "uid": "M3b4o8AMc"
+              }
+            ],
+            "create-time": 1723149367616,
+            "edit-time": 1723149370577,
+            "refs": [
+              {
+                "uid": "08-08-2024"
+              }
+            ],
+            "string": "[[August 8th, 2024]]",
+            "uid": "X5vXNQinu"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-06-2024"
               }
             ],
@@ -108667,9 +109444,15 @@
     "uid": "uDyBTmTCK"
   },
   {
-    ":log/id": 1723147617376,
-    "create-time": 1723147617377,
-    "edit-time": 1723147617378,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1723149271531,
+    "create-time": 1723149271532,
+    "edit-time": 1723149271532,
     "title": "August 8th, 2024",
     "uid": "08-08-2024"
   }
