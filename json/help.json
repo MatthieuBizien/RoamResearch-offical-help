@@ -109457,9 +109457,15 @@
     "uid": "08-08-2024"
   },
   {
-    ":log/id": 1723172787694,
-    "create-time": 1723172787696,
-    "edit-time": 1723172787696,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1723176000824,
+    "create-time": 1723176000825,
+    "edit-time": 1723176000825,
     "title": "August 9th, 2024",
     "uid": "08-09-2024"
   }
