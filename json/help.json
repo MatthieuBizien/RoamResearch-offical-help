@@ -45260,6 +45260,66 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-28-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1724872806316,
+                    "edit-time": 1724872859688,
+                    "string": "update emojis to unicode 15 and small changes to the emoji display",
+                    "uid": "pOSHyhGNL"
+                  }
+                ],
+                "create-time": 1724872797500,
+                "edit-time": 1724872806324,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]]",
+                "uid": "aN9LWyR5n"
+              }
+            ],
+            "create-time": 1724872795373,
+            "edit-time": 1724872797517,
+            "refs": [
+              {
+                "uid": "08-28-2024"
+              }
+            ],
+            "string": "[[August 28th, 2024]]",
+            "uid": "DN5Q06kCm"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-08-2024"
               }
             ],
@@ -109470,9 +109530,15 @@
     "uid": "08-09-2024"
   },
   {
-    ":log/id": 1724871950908,
-    "create-time": 1724871950911,
-    "edit-time": 1724871950911,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1724872789959,
+    "create-time": 1724872789960,
+    "edit-time": 1724872789960,
     "title": "August 28th, 2024",
     "uid": "08-28-2024"
   }

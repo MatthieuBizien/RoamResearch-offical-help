@@ -1,6 +1,9 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[August 28th, 2024]]
+        - [[Quality of Life Improvements]]
+            - update emojis to unicode 15 and small changes to the emoji display
     - [[August 8th, 2024]]
         - [[Roam Depot Extensions]]
             - ## [Semantic Scholar](https://github.com/mlava/semantic-scholar)
