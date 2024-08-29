@@ -8,7 +8,8 @@
             - Added the ability to change heading and text align
             - Added support for emoji reactions
         - [Bug Fixes](<Bug Fixes.md>)
-            - Fix 
+            - Fixed [roam/render](<roam/render.md>) code blocks showing up in search
+            - Fixed queries and other large UI elements showing up in search 
     - [August 28th, 2024](<August 28th, 2024.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - update emojis to unicode 15 and small changes to the emoji display

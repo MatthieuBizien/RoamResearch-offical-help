@@ -381,6 +381,9 @@ function main() {
  					    :markdown-key-command [markdown-key-command-view function])))]))]]]))))```
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- Fixed [roam/render](<../roam/render.md>)
+
 ## [Features](<Features.md>)
 - ### [roam/render](<../roam/render.md>)
 

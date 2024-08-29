@@ -45356,6 +45356,11 @@
                 },
                 "children": [
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "X7Mhc3nU8"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
@@ -45363,9 +45368,26 @@
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
                     "create-time": 1724943747102,
-                    "edit-time": 1724943748832,
-                    "string": "Fix ",
+                    "edit-time": 1724944093240,
+                    "refs": [
+                      {
+                        "uid": "X7Mhc3nU8"
+                      }
+                    ],
+                    "string": "Fixed [[roam/render]] code blocks showing up in search",
                     "uid": "b2Dt5Elou"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1724944081221,
+                    "edit-time": 1724944105545,
+                    "string": "Fixed queries and other large UI elements showing up in search ",
+                    "uid": "05JaxuENu"
                   }
                 ],
                 "create-time": 1724943743790,
