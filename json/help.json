@@ -45260,6 +45260,138 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-29-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "PwoE6qnIL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1724943710371,
+                    "edit-time": 1724943710371,
+                    "string": "Drag and drop multiple blocks at once, scroll when at the edge of the screen when dragging and many more small fixes to DnD",
+                    "uid": "t5Su-GOLg"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1724943710371,
+                    "edit-time": 1724943710371,
+                    "string": "Fixed pasting the correct formatting into Roam from the web and many other apps",
+                    "uid": "wAL6eqYpV"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1724943710371,
+                    "edit-time": 1724943710371,
+                    "string": "Added the ability to change heading and text align",
+                    "uid": "qqVyBNwSj"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1724943710371,
+                    "edit-time": 1724943710371,
+                    "string": "Added support for emoji reactions",
+                    "uid": "yMq8oLP6i"
+                  }
+                ],
+                "create-time": 1724943441294,
+                "edit-time": 1724943510791,
+                "refs": [
+                  {
+                    "uid": "PwoE6qnIL"
+                  }
+                ],
+                "string": "[[Mobile Beta]] 1.0.96",
+                "uid": "5i8opNy1g"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1724943747102,
+                    "edit-time": 1724943748832,
+                    "string": "Fix ",
+                    "uid": "b2Dt5Elou"
+                  }
+                ],
+                "create-time": 1724943743790,
+                "edit-time": 1724943747109,
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]]",
+                "uid": "eZ7ZluttP"
+              }
+            ],
+            "create-time": 1724943438752,
+            "edit-time": 1724943441164,
+            "refs": [
+              {
+                "uid": "08-29-2024"
+              }
+            ],
+            "string": "[[August 29th, 2024]]",
+            "uid": "VMzSQSCB5"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-28-2024"
               }
             ],
@@ -109543,9 +109675,15 @@
     "uid": "08-28-2024"
   },
   {
-    ":log/id": 1724940409070,
-    "create-time": 1724940409072,
-    "edit-time": 1724940409072,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1724943421293,
+    "create-time": 1724943421294,
+    "edit-time": 1724943421294,
     "title": "August 29th, 2024",
     "uid": "08-29-2024"
   }

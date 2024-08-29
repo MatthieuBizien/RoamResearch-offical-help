@@ -1,6 +1,14 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [August 29th, 2024](<August 29th, 2024.md>)
+        - [Mobile Beta](<Mobile Beta.md>) 1.0.96
+            - Drag and drop multiple blocks at once, scroll when at the edge of the screen when dragging and many more small fixes to DnD
+            - Fixed pasting the correct formatting into Roam from the web and many other apps
+            - Added the ability to change heading and text align
+            - Added support for emoji reactions
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fix 
     - [August 28th, 2024](<August 28th, 2024.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - update emojis to unicode 15 and small changes to the emoji display
