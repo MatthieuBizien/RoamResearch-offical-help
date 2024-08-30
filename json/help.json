@@ -109710,9 +109710,15 @@
     "uid": "08-29-2024"
   },
   {
-    ":log/id": 1725005270331,
-    "create-time": 1725005270333,
-    "edit-time": 1725005270333,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1725008718725,
+    "create-time": 1725008718725,
+    "edit-time": 1725008718725,
     "title": "August 30th, 2024",
     "uid": "08-30-2024"
   }
