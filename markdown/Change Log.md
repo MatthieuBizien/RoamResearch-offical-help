@@ -1,8 +1,11 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[August 30th, 2024]]
+        - [[Mobile Beta]]
+            - Fix issue with [last release](((5i8opNy1g))) on samsung [[android]] 14 which broke quick capture and the regular view
     - [[August 29th, 2024]]
-        - [[Mobile Beta]] 1.0.96
+        - [[Mobile Beta]]
             - Drag and drop multiple blocks at once, scroll when at the edge of the screen when dragging and many more small fixes to DnD
             - Fixed pasting the correct formatting into Roam from the web and many other apps
             - Added the ability to change heading and text align

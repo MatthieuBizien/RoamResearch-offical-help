@@ -45260,6 +45260,82 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "08-30-2024"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "PwoE6qnIL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "LK8cfW7Xh"
+                      },
+                      {
+                        ":block/uid": "5i8opNy1g"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1725037708346,
+                    "edit-time": 1725037747874,
+                    "refs": [
+                      {
+                        "uid": "LK8cfW7Xh"
+                      },
+                      {
+                        "uid": "5i8opNy1g"
+                      }
+                    ],
+                    "string": "Fix issue with [last release](((5i8opNy1g))) on samsung [[android]] 14 which broke quick capture and the regular view",
+                    "uid": "mTjNKDq7d"
+                  }
+                ],
+                "create-time": 1725037700866,
+                "edit-time": 1725037708352,
+                "refs": [
+                  {
+                    "uid": "PwoE6qnIL"
+                  }
+                ],
+                "string": "[[Mobile Beta]]",
+                "uid": "UKbhmVzIR"
+              }
+            ],
+            "create-time": 1725037698331,
+            "edit-time": 1725037700411,
+            "refs": [
+              {
+                "uid": "08-30-2024"
+              }
+            ],
+            "string": "[[August 30th, 2024]]",
+            "uid": "Y46-_yWUH"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "08-29-2024"
               }
             ],
@@ -45333,13 +45409,13 @@
                   }
                 ],
                 "create-time": 1724943441294,
-                "edit-time": 1724943510791,
+                "edit-time": 1725037705403,
                 "refs": [
                   {
                     "uid": "PwoE6qnIL"
                   }
                 ],
-                "string": "[[Mobile Beta]] 1.0.96",
+                "string": "[[Mobile Beta]]",
                 "uid": "5i8opNy1g"
               },
               {
