@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Fixed copy and paste issues caused by the last release on [android](<android.md>)
+
 - Fix issue with [last release](((5i8opNy1g))) on samsung [android](<android.md>)
 
 - [mobile](<mobile.md>) [iOS](<iOS.md>) and [android](<android.md>)

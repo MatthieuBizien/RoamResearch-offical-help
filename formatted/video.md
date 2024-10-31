@@ -100,6 +100,18 @@
 
 - {{[video](<video.md>):
 
+- {{[video](<video.md>):
+
+- {{[video](<video.md>):
+
+- {{[video](<video.md>):
+
+- {{[video](<video.md>):
+
+- {{[video](<video.md>):
+
+- {{[video](<video.md>):
+
 ## [Chinese](<Chinese.md>)
 - {{[video](<video.md>):
 
@@ -211,6 +223,9 @@
 ## [Personal CRM](<Personal CRM.md>)
 - {{[video](<video.md>):
 
+- {{[video](<video.md>):
+
+## [Pipedream Workflows](<Pipedream Workflows.md>)
 - {{[video](<video.md>):
 
 ## [Pomodoro timer](<Pomodoro timer.md>)
@@ -332,6 +347,9 @@
 - {{[video](<video.md>):
 
 ## [Wiki](<Wiki.md>)
+- {{[video](<video.md>):
+
+## [Zapier Integration](<Zapier Integration.md>)
 - {{[video](<video.md>):
 
 ## [Zettelkasten](<Zettelkasten.md>)

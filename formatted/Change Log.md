@@ -1,6 +1,140 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [October 12th, 2024](<October 12th, 2024.md>)
+        - ### ✨ [Quality of Life Improvements](<Quality of Life Improvements.md>) for [queries](<queries.md>)
+            - **New query option "Nest under parent results"**
+                - For queries which have a lot of results, you can use this option to reduce clutter
+                    - mostly useful for queries for tasks/TODOs or if you use extensions like [Abhay](<Abhay.md>)'s Autotag
+                - **Quick Start:** In a query's settings (the ⚙️ icon), enable the setting "Nest under parent results"
+                    - Then, 
+                        - for a block tree like 
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FrHyvJvwsMQ.png?alt=media&token=ae433692-7e25-4de0-9bfc-605d9817e5fa)
+                        - which previously showed up in a query like
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FImERogHlJO.png?alt=media&token=b3dab56e-1bad-4ade-af30-de3be594cd33)
+                        - it will instead show up as 
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FZzfI1ZGNYE.png?alt=media&token=1ca9df39-95d5-4fb9-9594-a9b6b9424d85)
+                - **Demo Video**
+                    - {{[video](<video.md>): https://www.loom.com/share/6a5d555e70f2477ca3a3bb305c95290e}}
+                - **Description & Example (If you do not want to watch the video above)**
+                    - Lets say you have todos like this
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FrHyvJvwsMQ.png?alt=media&token=ae433692-7e25-4de0-9bfc-605d9817e5fa)
+                    - then a TODOs query looks like this
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FImERogHlJO.png?alt=media&token=b3dab56e-1bad-4ade-af30-de3be594cd33)
+                    - Note that above is pretty cluttered and it is difficult to find the main info (which generally is just the topmost match i.e. " {{TODO}} Main task")
+                    - If you turn on "Nest under parent results" option from the query settings, then you will see just the topmost result and then have the option to see nested results if you want
+                        - turn on
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2F3i-dHoEJyb.png?alt=media&token=2379ddfb-b4f9-4164-84c6-3eb7eba53979)
+                        - after turning it on
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FZzfI1ZGNYE.png?alt=media&token=1ca9df39-95d5-4fb9-9594-a9b6b9424d85)
+                        - When viewing the nested matches, they show up in a flattened list in the order they appear in the outline
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FyRF42GllBt.png?alt=media&token=62733fb9-61ef-460e-98ab-9d214a6b86d3)
+                        - Alternatively you can also view them via long pressing on the caret to the left of the parent result. The nested results are highlighted by a golden outline (another example below)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FwGL5FyUPPZ.png?alt=media&token=caf13984-e419-442d-873a-2110fc2f9ad8)
+    - [October 9th, 2024](<October 9th, 2024.md>)
+        - [Roam Depot Extensions](<Roam Depot Extensions.md>)
+            - ## Block Distributor
+                - Block Sender is a Roam Research extension that automates the creation of block references based on user-defined tag rules.
+                - ## 🎬 Example
+                    - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FQypfHsYp4w.mp4?alt=media&token=4eec5e8c-8055-4693-ac0d-439036d2979e}}
+                - ## ✨ How It Works
+                    - When a block is tagged with a watched tag, Block Sender detects the change
+                    - A block reference is created at the specified destination
+                    - The original tag is removed from the source block
+                    - The original block remains in its original location
+                - ## 🚀 Usage
+                    - Install the extension in your Roam Research graph
+                    - Navigate to the extension settings
+                    - Create rules by specifying:
+                        - A tag to watch
+                        - A destination type (block, page, or block UID)
+                        - The specific destination
+                    - Block Sender will now monitor your graph and create block references according to your rules
+                - ## 💡 Benefits
+                    - Enhance information connectivity in your Roam graph
+                    - Automate cross-referencing and reduce manual block referencing
+                    - Maintain clean, tag-free blocks while creating new connections
+                    - Preserve original context while distributing information
+            - ## Tag Painter
+                - Want to create tag styles but don't know CSS? Tag Painter allows you to easily customize the appearance of your tags within Roam.
+                - ![](https://github.com/8bitgentleman/roam-depot-tag-painter/raw/main/screenshot.png)[🔗](https://github.com/8bitgentleman/roam-depot-tag-painter/raw/main/screenshot.png)
+                - ## Features
+                    - Customize tag colors, backgrounds, borders, and more
+                    - Add content before or after tags
+                    - Saved styles persist across sessions
+                    - Search functionality for quick access to CSS properties
+                    - Toggle tag editing mode on/off with a convenient topbar button
+                - ## Usage
+                    - Click the style icon (paintbrush) in the Roam Research topbar to activate Tag Painter.
+                    - When active, the button will be highlighted, indicating that tag editing is enabled.
+                    - Hover over any tag in your Roam graph to open the Tag Painter menu.
+                    - Use the search bar to find CSS properties you want to apply.
+                    - Select properties and adjust their values using the provided inputs.
+                    - Changes are applied and saved automatically.
+                    - Click the style icon again to deactivate Tag Painter and return to normal tag behavior.
+    - [October 1st, 2024](<October 1st, 2024.md>)
+        - [New Feature](<New Feature.md>) [Graph History](<Graph History.md>)
+            - Travel back to any previous version of your Roam with **Graph History **to** **__access previous states of your notes__ or __recover accidentally deleted data__
+            - Settings! -> Graph History: pick date+time! -> Go!
+            - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FPsILnyDDvo.mp4?alt=media&token=883e4371-b19c-415f-95fb-2d3a6b1d7994}}
+    - [September 30th, 2024](<September 30th, 2024.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>) for the [Auto Backups](<Auto Backups.md>)
+            - New setting: "Create a backup **every week**"
+                - previously, the only options were "every day" or "every hour"
+                - We feel like a weekly backup makes more sense in a lot of cases
+            - For local graphs, if you do not have auto backups turned on, alerts every time you open the graph
+                - We are strongly pushing towards setting up local graphs because they are stored in browser's local storage and so are lost if you clear browsing history/data
+                    - ### **Where are local graphs stored?**
+                        - Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you [set up daily automatic backups](((xUCBFCJ02))).
+                - Also please note that since we have [Encrypted Graphs](<Encrypted Graphs.md>), if possible, we recommend using those instead of local graphs.
+            - Better error handling when running into any errors during backup (for example, browser permission errors)
+            - Please note that we [previously changed auto backups to use the new export format:](((o5_i3F7Fs))) [MessagePack](<MessagePack.md>) (for faster exporting & reduction in file size)
+    - [September 25th, 2024](<September 25th, 2024.md>)
+        - ### 📡 The [Roam x Zapier integration]([Zapier Integration](<Zapier Integration.md>)) is now live!
+            - Automate your workflow by connecting Slack, Gmail, and more straight to Roam. Set up Zaps to have everything flow directly into your graph
+            - Pick your trigger in Zapier, set Roam as the destination, or vice-versa & done 🚀
+            - No clutter, no manual work 🦾
+            - Link: https://zapier.com/apps/roam-research/integrations
+            - Some examples of things you can do:
+                - 🔗 First up: Slack -> Roam
+                    - In the middle of an important Slack convo and there’s something you want to keep for later? Just save the message, and Zapier will drop it right into Roam, organized & ready to link up👇
+(Also, you can add the Zapier app to Slack if you want to add an extra comment!)
+                        - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FGrjkq5vnMB.mp4?alt=media&token=043ce47a-05c6-46d7-9598-e33ecf3b33a2}}
+                - ⭐️ Next: Starred emails -> Roam
+                    - You star an email, and Zapier pulls it into Roam automatically. No more hunting through your inbox. It’s right there, ready to tag, link, or archive 📥
+                        - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZNWCIlE2nW.mp4?alt=media&token=18108178-6a2d-45a3-bbbf-9e75534f96df}}
+                - 📄 Bonus: Google Forms -> Roam
+                    - Need to collect top-secret mission briefings (or regular info) through a form? You can set up a Zap to send responses directly into Roam. No need to copy-paste—just let the answers show up where you need them 🎯
+                        - {{[video](<video.md>): https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fn5NU-83WFa.mp4?alt=media&token=b7a67469-d56c-488d-a814-1af118497aec}}
+            - Here is a **Walkthrough Video** showing how to connect your Roam graph to Zapier:
+                - {{embed-children: ((lY8H7b5WN))}}
+            - More details in the [Zapier Integration](<Zapier Integration.md>) page
+    - [September 11th, 2024](<September 11th, 2024.md>)
+        - [Mobile Beta](<Mobile Beta.md>)
+            - Fixed copy and paste issues caused by the last release on [android](<android.md>)
+    - [September 9th, 2024](<September 9th, 2024.md>)
+        - Small [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Better [File Manager](<File Manager.md>)
+                - Download button to be able to easily download media
+                    - this works in encrypted graphs too
+                    - Downloaded file name extra info:
+                        - Filename for the downloaded media reflects the **graph name**, the **id of the file in the roam graph**, and the **original filename**
+                            - New filename is 
+`graph-name` + "-" + `file-id-in-graph` + "-" + `original-file-name`
+            - Fixed issue where reference counter for blocks in linked references would get split up into two lines 
+    - [September 3rd, 2024](<September 3rd, 2024.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - [MessagePack](<MessagePack.md>) (.msgpack) export and restore format
+                - MessagePack format is much more efficient than [EDN](<EDN.md>)
+                    - ~4x faster at exporting
+                    - ~4-10x less memory usage
+                    - 30% reduction in size of the file (more important for [Auto Backups](<Auto Backups.md>) than anything else)
+            - Changed [Auto Backups](<Auto Backups.md>) to use [MessagePack](<MessagePack.md>) format
+            - Changed [Export all](<Export all.md>) [EDN](<EDN.md>) and [MessagePack](<MessagePack.md>) formats to not download a zip file
+        - [Mobile Beta](<Mobile Beta.md>)
+            - Fixed current day not being created automatically
+            - Fixed search graph search icon not aligned
+            - Fixed calendar not matching the theme
     - [August 30th, 2024](<August 30th, 2024.md>)
         - [Mobile Beta](<Mobile Beta.md>)
             - Fix issue with [last release](((5i8opNy1g))) on samsung [android](<android.md>) 14 which broke quick capture and the regular view

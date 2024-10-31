@@ -36,6 +36,16 @@ https://platform.openai.com/api-keys > create new secret key
             - 
         9. Congrats! Now you can speak to your graph!
 - [[Change Log]]
+    - small change to the behavior for capturing to Daily Note pages [[October 26th, 2024]] - **no action needed on your side!**
+        - It turns out that Apple broke some shortcut-related behavior in iOS 18 and that caused this Apple Shortcut to fail if it was set up to save to the daily note page.
+        - We made a backend change and it should be working now (abeit with some difference in how the captured text looks like)
+        - **tldr; ** No action needed on your side. The shortcut should work for all iOS, ipadOS and MacOS versions 
+        - The difference in how the captured text looks like:
+            - **What it looked like previously**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDkfchB8dQC.png?alt=media&token=e42425a2-ad96-495f-91e4-5db849cfb44f)
+            - **What it looks like now**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FPHs713Dv43.png?alt=media&token=effeaae6-dfea-4b06-a8b7-3ccc3f4695c2)
+        - We will be releasing a new version soon-ish that fixes this change (and have a few new features), but this was the only way we could make the current and older versions of the Apple Shortcut to still work on the new OS
     - v1.3.0: https://www.icloud.com/shortcuts/ae1ae833cada4999b44d9ac5dda2dc6d
         - **Improvements**
             1. We now support both encrypted graphs and unencrypted graphs

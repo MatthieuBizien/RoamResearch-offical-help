@@ -1,29 +1,48 @@
-- Link for the official Roam Research <-> Zapier integration: https://zapier.com/apps/roam-research/integrations
-- **Setup Process**
-    1. Open the graph you want to access via Zapier
-    2. Please make sure you have the latest version of Roam (via ... > Check for updates)
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FweI5_7pLPu.png?alt=media&token=21bf5ce3-5e7c-465e-a09b-febed83acc65)
-    3. Get API Token (linked elsewhere)
-        1. Open your settings via ... > Settings, then go to the "Graph" tab
-            -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfagWR_XbE7.png?alt=media&token=0d1d5156-d91b-4078-ad2f-e35db1ceb8ba)
-        2. In the "Graph" tab in settings, click on the green "+ New API Token" button
-            - Do note that you need to be the owner/admin of the graph in order to create API tokens
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvLvpJCRi36.png?alt=media&token=7cc08bb8-f684-4537-ba15-0f76c07e30d1)
-        3. After clicking the button, please enter a clear description of expected usage. In the access scope, select **read & edit access** for unencrypted graphs and **append-only access** for encrypted graphs. More regarding scope below
-            - More details regarding scopes for API tokens below:
-                - **read-only access**
-                    - (only available for unencrypted graphs)
-                    - This scope only allows access to read to your graph.
-                    - In the case of the Zapier integration, this means that you can only use the "Trigger"s, but not the "Action"s
-                - **read & edit access**
-                    - (only available for unencrypted graphs)
-                    - this scope is the most permissive one. It allows the service to both read your graph and edit/add stuff to it. 
-                    - In the case of the Zapier integration, this means that you can use both the "Trigger"s and the "Action"s
-                - **append-only access**
-                    - (available for **both** encrypted & unencrypted graphs)
-                    - this access only provides the service ability to __add__ stuff to your graph
-                    - In the case of the Zapier integration, this means that you can only use the "Actions"s, but not the "Trigger"s
-        4. In the next screen, click on the "Clipboard" icon 📋 to copy the token to your clipboard. It will start with "roam-graph-token-"
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtnYMdlay_y.png?alt=media&token=e49cdfbc-872e-44b6-bc01-4b0c0b22a386)
-    4. Then you can use the credentials to connect your Roam graph to Zapier!
-    5. TODO: Better documentation
+- [Zapier](https://zapier.com/apps/roam-research/integrations) lets you connect Roam Research to 6,000+ other web services. Automated connections called Zaps, set up in minutes with no coding, can automate your day-to-day tasks and build workflows between apps that otherwise wouldn't be possible.
+- Link: https://zapier.com/apps/roam-research/integrations
+- ### **Getting Started**
+    - **Walkthrough Video** showing how to connect your Roam graph to Zapier
+        - {{[video](<video.md>): https://www.loom.com/share/0434049965254f3e86ae8909a368ca52}}
+        - apart from the setup process, this video also demonstrates how to use Zap templates, in particular, [one that adds new starred emails in Gmail to Roam daily note page](https://zapier.com/apps/gmail/integrations/roam-research/255568759/add-new-starred-emails-in-gmail-to-your-daily-note-pages-in-roam-research)
+    - **[Steps](<Steps.md>):**
+        1. Open the graph you want to link with Zapier
+        2. Create a new API Token
+            - {{embed-children: ((te_tiD1jQ))}}
+        3. Then setting up the graph in Zapier:
+            - **Walkthrough GIF**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fn6-ucfieHt.gif?alt=media&token=d0a1c875-e76c-493f-a070-484d648a3372)
+            - **Steps** (if you prefer following text instead)
+                1. (First of all, you need a Zapier account)
+                2. Go to https://zapier.com/apps/roam-research/integrations
+                3. Click on "Connect Roam Research to 6000+ apps" button
+                4. In the zap that opens, click on the "Sign In" button in the "Account" section in the right sidebar
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FlHPogGN6D_.png?alt=media&token=d10531d7-f19e-423a-b55a-a260573ac29a)
+                5. A popup window will then appear. There you have to enter three things: the name of your graph, whether it is encrypted or not, and the API token you got from [the previous step](((GRtcyAgHh))). 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FUQUYqJcb0R.png?alt=media&token=2c814c19-6e81-4f62-bde0-f75ed51cbacd)
+                6. You can now disregard the zap and start instead from one of our zap templates: https://zapier.com/apps/roam-research/integrations[zap-template-list](<zap-template-list.md>) 
+- Details
+    - **More info on Zapier terminology, and what Roam building blocks you can use**
+        - Each Zap has one app as the **Trigger**, where your information comes from and which causes one or more **Actions** in other apps, where your data gets sent automatically.
+        - For now, the Roam Zapier Integration has **2 triggers**, **3 write actions** and **1 search action**
+            - **2 triggers**
+                1. New Linked Reference for a Page/Block
+                2. New or modified Linked Reference for a Page/Block
+            - **3 write actions**
+                1. Add Content to a Daily Note Page
+                2. Add Content to a Page
+                3. Add Content underneath an existing Block in Your Graph
+            - **1 search action**
+                1. Get Data for a Page / Block
+        - If you're using an **unencrypted graph**, you can use all of the building blocks above
+        - If you're using an **encrypted graph**, you cannot do any reads from the graph (due to it being end to end encrypted), so the only primitives you can use are the **3 write actions**
+            - In other words, you can only append/add stuff to the graph. This is also suggested by the fact that the only kind of API tokens you can create for encrypted graphs is **append-only access**
+
+# Backlinks
+## [Change Log](<Change Log.md>)
+- ### 📡 The [Roam x Zapier integration]([Zapier Integration](<Zapier Integration.md>))
+
+- More details in the [Zapier Integration](<Zapier Integration.md>)
+
+## [Pipedream Workflows](<Pipedream Workflows.md>)
+- In other words, it is similar to [Zapier]([Zapier Integration](<Zapier Integration.md>))
+

@@ -1,5 +1,10 @@
 
 # Backlinks
+## [Change Log](<Change Log.md>)
+- MessagePack format is much more efficient than [EDN](<EDN.md>)
+
+- Changed [Export all](<Export all.md>) [EDN](<EDN.md>)
+
 ## [Export](<Export.md>)
 - ### [EDN](<EDN.md>)
 

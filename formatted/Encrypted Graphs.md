@@ -39,6 +39,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Also please note that since we have [Encrypted Graphs](<Encrypted Graphs.md>),
+
 - Change [Encrypted Graphs](<Encrypted Graphs.md>)
 
 - [Encrypted Graphs](<Encrypted Graphs.md>)

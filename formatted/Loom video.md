@@ -6,3 +6,6 @@
 ## [Developer Documentation](<Developer Documentation.md>)
 - [Loom video](<Loom video.md>)s
 
+## [Pipedream Workflows](<Pipedream Workflows.md>)
+- **[Loom video](<Loom video.md>)
+
