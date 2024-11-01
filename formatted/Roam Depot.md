@@ -8,6 +8,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- ✨ [Quality of Life Improvements](<Quality of Life Improvements.md>) for [Roam Depot](<Roam Depot.md>)
+
 - Released fixes for issues related to [Roam Depot](<Roam Depot.md>)
 
 - You can now sort [Roam Depot](<Roam Depot.md>)

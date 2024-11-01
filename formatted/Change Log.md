@@ -1,6 +1,13 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [November 1st, 2024](<November 1st, 2024.md>)
+        - ✨ [Quality of Life Improvements](<Quality of Life Improvements.md>) for [Roam Depot](<Roam Depot.md>)
+            - Admins can now enable extensions for all users which are invited to the graph
+            - All of the admin's settings will be copied and used by other users in the graph (be careful if your settings have sensitive information like API keys)
+            - Just click on the globe icon next to the extension to turn on for other users
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FqyktBIi2zh.png?alt=media&token=296e8aeb-524c-4504-b6a6-359855004c61)
+                - You can also __disable__ extensions for other users in your graph, preventing them from installing them
     - [October 12th, 2024](<October 12th, 2024.md>)
         - ### ✨ [Quality of Life Improvements](<Quality of Life Improvements.md>) for [queries](<queries.md>)
             - **New query option "Nest under parent results"**
