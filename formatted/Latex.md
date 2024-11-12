@@ -5,5 +5,7 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Added the [mhchecm](https://mhchem.github.io/MathJax-mhchem/) extension for [KaTeX](<KaTeX.md>)/[Latex](<Latex.md>)
+
 - [Latex](<Latex.md>)
 

@@ -1,6 +1,19 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[November 12th, 2024]]
+        - [[Quality of Life Improvements]]
+            - Added the [mhchecm](https://mhchem.github.io/MathJax-mhchem/) extension for [[KaTeX]]/[[Latex]]
+                - This adds two functions for 
+                    - chemical equations
+                        - `/ce`
+                            - $$\ce{CO2 + C -> 2 CO}$$
+                            - $$\ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-}$$
+                            - $$C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}$$
+                    - physical units
+                        - `/pu`
+                            - $$\pu{123 kJ/mol}$$
+                            - $$\pu{1.2E3 kJ}$$
     - [[November 4th, 2024]]
         - [[Roam Depot Extensions]]
             - # [Blueprint](https://github.com/rcvd/blueprint)
