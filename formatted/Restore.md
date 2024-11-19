@@ -3,5 +3,7 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Improved memory usage for [Restore](<Restore.md>)
+
 - Fix bug with [Restore](<Restore.md>)
 

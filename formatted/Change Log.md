@@ -1,6 +1,23 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [November 19th, 2024](<November 19th, 2024.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed lots of bugs when [importing]([Import](<Import.md>)) markdown (or pasting from a plain text source)
+                - Fixed an issue with multiline blocks, we previously didn't export multiline blocks with proper spacing for the new line, causing the new line to be interpreted as a new block at the wrong depth
+                    - Previously exported markdown files will still be broken but newly exported markdown files will work correctly with the new import
+                    - This also fixes import/export of code blocks
+                - We now convert `*italics*` into Roam syntax `__italics__`
+                    - The only exception from regular markdown now is `__italics__`, which normally means bold, but passes through as italics so that Roam exports work correctly
+                - In general, we should parse markdown from other sources a lot better now
+            - Fixed lots of long standing bugs with copy and paste from other websites
+                - Fixed pasting code blocks and inline code
+                - Fixed pasting numbered lists
+                - Fixed pasting from logseq losing data in the paste
+                - We now better preserve whitespace when pasting
+            - Fixed import bug when the daily log for today doesn't exist yet
+            - Improved memory usage for [Restore](<Restore.md>) graph. It's now much less likely to cause out of memory and crash the page
+            - Fixed a memory leak that could occur if Roam stayed open for a long time without restarting
     - [November 18th, 2024](<November 18th, 2024.md>)
         - [Roam Depot Extensions](<Roam Depot Extensions.md>)
             - # [Learn English in RR (Roam Research)](https://github.com/qcrao/learn-english-in-RR/tree/main[learn-english-in-rr-roam-research](<learn-english-in-rr-roam-research.md>))

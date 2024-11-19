@@ -7,6 +7,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Fixed lots of bugs when [importing]([Import](<Import.md>))
+
 - Prevent clicking out of [Import](<Import.md>)
 
 - [Import](<Import.md>)
