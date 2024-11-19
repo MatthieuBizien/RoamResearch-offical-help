@@ -12,9 +12,9 @@
         2. Hit `enter`
 - ## Roam Team Videos::
     - {{[[video]]: https://www.youtube.com/watch?v=3aCl7dCYVqA&t=6s&ab_channel=ConorWhite-Sullivan}}
-#[[TODO/DONE]] | #[[Daily Notes]] | #[[Filter]] | #[[Linked References]] | #[[Block Embed]] | #[[Current time]] | #[[Block References]]
+      #[[TODO/DONE]] | #[[Daily Notes]] | #[[Filter]] | #[[Linked References]] | #[[Block Embed]] | #[[Current time]] | #[[Block References]]
     - {{[[video]]: https://www.youtube.com/watch?v=asQ4RSjjCu4&ab_channel=ConorWhite-Sullivan}}
-#[[TODO/DONE]] | #[[Linked References]] 
+      #[[TODO/DONE]] | #[[Linked References]] 
     - ## Team GIFs::
         - ### Cycling state in one block
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FWXFUMcf7Ou.gif?alt=media&token=dc1f0c12-74c1-4ed9-bd32-41129b0654dc)
@@ -31,16 +31,16 @@
 - ## Community Videos::
     - ### Roam Research: TODOs by [[Les Kristofs]]
         - {{[[video]]: https://www.youtube.com/watch?v=3taL1v-IKXg}}
-#[[TODO/DONE]] | #[[Linked References]] | #[[/ Commands]]
+          #[[TODO/DONE]] | #[[Linked References]] | #[[/ Commands]]
     - ### Roam: How to Make a Master Task List on Roam by [[Shu Omi]]
         - {{[[video]]: https://www.youtube.com/watch?v=mIEgS0JkJBo&t=5s&ab_channel=ShuOmi}}
-#[[TODO/DONE]] | #[[Page References]] | #[[Filter]] | #[[Daily Notes]] 
+          #[[TODO/DONE]] | #[[Page References]] | #[[Filter]] | #[[Daily Notes]] 
     - ### Plan Your Day With The Magic List (Roam Research Task Management) by [[Daniel Wirtz]]
         - {{[[video]]: https://www.youtube.com/watch?v=5U62cEE7QsM&t=6s&ab_channel=DanielWirtz}}
-#[[TODO/DONE]] | #[[Query]] | #[[Page References]] | #[[Daily Notes]] | #[[Block References]] 
+          #[[TODO/DONE]] | #[[Query]] | #[[Page References]] | #[[Daily Notes]] | #[[Block References]] 
     - ### Todoist to Roam Research - Advanced Task Management in Roam by [[Matt Goldenberg]]
         - {{[[video]]: https://www.youtube.com/watch?v=xOTTyLtgqpM}}
-#[[roam/css]] | #[[Extensions]] | #[[roam/js]] | #[[Sidebar]] | #[[TODO/DONE]] | #[[Query]]
+          #[[roam/css]] | #[[Extensions]] | #[[roam/js]] | #[[Sidebar]] | #[[TODO/DONE]] | #[[Query]]
 - ## Articles::
     - ### [Using Roam Research for GTD-Style Task Management – The Sweet Setup](https://thesweetsetup.com/using-roam-research-for-gtd-style-task-management/)
         - #[[Daily Notes]] | #[[TODO/DONE]] | #[[Page References]] | #[[Query]] | #[[Linked References]] 

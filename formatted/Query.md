@@ -3,26 +3,26 @@
         - ### **and**
             - Find all blocks matching multiple conditions – i.e. blocks or their parents containing multiple page or block references.
             - `{{query: {and: [page A](<page A.md>) [page B](<page B.md>) }}}
-{{query: {and: [articles](<articles.md>) ((block)) }}}
-{{query: {and: [Tyler Cowen](<Tyler Cowen.md>) ((block)) [econ](<econ.md>) }}}
-`
+              {{query: {and: [articles](<articles.md>) ((block)) }}}
+              {{query: {and: [Tyler Cowen](<Tyler Cowen.md>) ((block)) [econ](<econ.md>) }}}
+              `
         - ### **or**
             - Find all blocks matching any of a number of conditions – i.e. blocks or their parents containing any of the selected page or block references.
-
+              
             - `{{query: {or: [page A](<page A.md>) [page B](<page B.md>) }}}
-{{query: {or: [Zen](<Zen.md>) [Buddhism](<Buddhism.md>) }}}
-{{query: {or: [Utah](<Utah.md>) [Idaho](<Idaho.md>) [Montana](<Montana.md>) }}}
-`
+              {{query: {or: [Zen](<Zen.md>) [Buddhism](<Buddhism.md>) }}}
+              {{query: {or: [Utah](<Utah.md>) [Idaho](<Idaho.md>) [Montana](<Montana.md>) }}}
+              `
         - ### **not**
             - Exclude blocks matching any of the page or block references selected.
             - `{{query: {and: [page A](<page A.md>) {not: [page B](<page B.md>) }}}}
-{{query: {and: [Slate Star Codex](<Slate Star Codex.md>) {not: [psychiatry](<psychiatry.md>) }}}}`
+              {{query: {and: [Slate Star Codex](<Slate Star Codex.md>) {not: [psychiatry](<psychiatry.md>) }}}}`
         - ### **between**
             - Finds all blocks on daily pages and blocks mentioning a date between two days. ^^**This only works on Daily Notes page**^^.
             - You can use the following as a shorthand: [today](<today.md>), [tomorrow](<tomorrow.md>), [yesterday](<yesterday.md>), [last week](<last week.md>), [next week](<next week.md>), [last month](<last month.md>), and [next month](<next month.md>). 
             - `{{query: {between: [January 1st, 2021](<January 1st, 2021.md>) [today](<today.md>) }}
-{{query: {and: [mistakes](<mistakes.md>) {between: [January 1st, 2020](<January 1st, 2020.md>) [December 31st, 2020](<December 31st, 2020.md>) }}}}
-{{query: {and: [TODO](<TODO.md>) {between: [last week](<last week.md>) [today](<today.md>) }}}}`
+              {{query: {and: [mistakes](<mistakes.md>) {between: [January 1st, 2020](<January 1st, 2020.md>) [December 31st, 2020](<December 31st, 2020.md>) }}}}
+              {{query: {and: [TODO](<TODO.md>) {between: [last week](<last week.md>) [today](<today.md>) }}}}`
     - **[## Community Videos](<## Community Videos.md>):**
         - ### Query syntax and logic: how to ask Roam questions with queries by [Robert Haisfield](<Robert Haisfield.md>)
             - {{[video](<video.md>): https://www.youtube.com/watch?v=LJZBGJOzhUY&t=20s&ab_channel=RobertHaisfield}}

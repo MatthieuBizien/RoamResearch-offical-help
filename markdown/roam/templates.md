@@ -131,7 +131,7 @@
                 - #[[Action List]]
                     - {{[[TODO]]}}  Process Linked and Unlinked Mentions
                     -  {{[[query]]: {and: [[TODO]] [[Action]] {not: {or: [[query]] [[Subtask:]]}}}}}
-#[[Upcoming]]
+                      #[[Upcoming]]
                     - {{[[query]]: {and: [[TODO]] [[Scheduled]] {not: {or: [[query]] [[Action]]}} {between: [[Today's Date]] [[+2 Weeks]]}}}}
             - #[[Evening Review]]
                 - {{[[TODO]]}} #[[Evening Pages]]
@@ -256,7 +256,7 @@
         - Code::
             - {{[[roam/css]]}}
                 - ```css
-```
+                  ```
 - Plugin
     - `plugin_name`
         - Info::

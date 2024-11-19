@@ -53,7 +53,7 @@
 - ### ![Image](https://www.fillmurray.com/75/75)
     - [Images](<Images.md>)
         - You can embed an image by placing a link inside an alias with a `!` in front like this:
-`![alt-text](https://www.fillmurray.com/50/50)`
+          `![alt-text](https://www.fillmurray.com/50/50)`
 - ### Headings
     - You can make a header by using the Markdown formatting by typing `#`, `##`, and `###` at the start of a line for H1, H2, and H3 respectively
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FCzCS7AMEXp.gif?alt=media&token=e2888dab-0ed6-4625-9e83-c432df314846)

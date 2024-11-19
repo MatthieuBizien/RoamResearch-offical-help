@@ -15,4 +15,4 @@
 - Community Videos::
     - Roam Research: Useful Hacks (No Add Ons Required). Pomodoro, Timer, Calculator, KanBan & More. by [[The Upgraded Brain]]
         - {{[[video]]: https://www.youtube.com/watch?v=u_iIWQTIuIE}}
-#[[Pomodoro timer]] | #[[Calculator]] | #[[Kanban]] | #[[Diagram]] | #[[Slider]] | #[[Word count]] | #[[Options]] | [[Table]] | [[Calculator]]
+          #[[Pomodoro timer]] | #[[Calculator]] | #[[Kanban]] | #[[Diagram]] | #[[Slider]] | #[[Word count]] | #[[Options]] | [[Table]] | [[Calculator]]

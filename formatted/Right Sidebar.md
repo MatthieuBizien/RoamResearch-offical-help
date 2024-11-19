@@ -1,11 +1,11 @@
 - **[Roam Team Videos](<Roam Team Videos.md>):**
     - ### Sidebar in Roam by [Conor White-Sullivan](<Conor White-Sullivan.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=7dASSNABtIo}}
-#[Right Sidebar](<Right Sidebar.md>) | #[Linked References](<Linked References.md>) | #[TODO/DONE](<TODO/DONE.md>)
+          #[Right Sidebar](<Right Sidebar.md>) | #[Linked References](<Linked References.md>) | #[TODO/DONE](<TODO/DONE.md>)
 - **[Community Videos](<Community Videos.md>):**
     - ### Roam Research: Right Sidebar and Block References by [Les Kristofs](<Les Kristofs.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=rorHyn0BBb4}}
-#[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)
+          #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)
 - **[Team GIFs](<Team GIFs.md>):**
     - ### Opening and closing sidebar
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Foh12rmm8uU.gif?alt=media&token=12d7561b-9dc4-4d0b-b7f0-00e035f8262b)

@@ -31,7 +31,7 @@
 - Roam Team Videos::
     - Mermaid diagrams combined with version control in Roam Research by [[Conor White-Sullivan]]
         - {{[[video]]: https://www.youtube.com/watch?v=UF22iK8fX-A&t}}
-#[[Version Control]] | #[[Diagram]]
+          #[[Version Control]] | #[[Diagram]]
 - Articles::
     - [Programming your attention with Roam Research and ∆](https://elaptics.co.uk/journal/roam-research-programmable-attention/) by [[Elaptics]]
         - #[[Delta]] | #[[Spaced Repetition]] | #[[Programmable Attention]]
@@ -43,12 +43,12 @@
 - Community Videos::
     - Roam Research: Delta Feature by [[Les Kristofs]]
         - {{[[video]]: https://www.youtube.com/watch?v=2DkzqmidG54}}
-#[[Delta]]
+          #[[Delta]]
     - Concept of using Delta and Kanban for Time Management by [[RoamHacker]]
         - {{[[video]]: https://www.youtube.com/watch?v=sCGnWMqLteE}}
-#[[Delta]] | #[[Kanban]]
+          #[[Delta]] | #[[Kanban]]
     - Versions: Fundamentals of Roam Research by [[R.J. Nestor]]
         - {{[[video]]: https://www.youtube.com/watch?v=ryU0bMAz1zo}}
-#[[Version Control]] 
+          #[[Version Control]] 
 - Key Commands::
     - `⬅ Right click on the circle bullet`

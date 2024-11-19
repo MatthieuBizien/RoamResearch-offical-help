@@ -4,7 +4,7 @@
 - **[Community Videos](<Community Videos.md>):**
     - How To Use Roam Research Basics: Mentions and Using It With Daily To Dos or Task Management by [The Upgraded Brain](<The Upgraded Brain.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=5zC0EEeeMX0}}
-#[Task Management](<Task Management.md>) | #[Mentions](<Mentions.md>) | #[Task Management](<Task Management.md>)
+          #[Task Management](<Task Management.md>) | #[Mentions](<Mentions.md>) | #[Task Management](<Task Management.md>)
 - **[Articles](<Articles.md>):**
     - [What are page mentions and block mentions in Roam?](https://www.roamtips.com/home/page-mentions-and-block-mentions-roam) by [Roam Tips](<Roam Tips.md>)
         - #[/ Commands](</ Commands.md>) | #[Mentions](<Mentions.md>)

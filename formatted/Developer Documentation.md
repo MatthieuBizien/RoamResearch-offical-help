@@ -31,7 +31,7 @@
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fj8GEmEGAx8.png?alt=media&token=f65dc849-dfa1-4ce3-b820-659036a49151)
                             3. View a random block from your roam graph
                             4. Easily create Raycast quicklinks to open Roam graphs or specific pages in the graph even faster
-... and more features baking in the oven!
+                               ... and more features baking in the oven!
                         - Getting Started Guide
                             1. Install [Raycast](<Raycast.md>) from https://raycast.com
                             2. Then install the Roam Extension from: https://raycast.com/roamresearch/roam-research

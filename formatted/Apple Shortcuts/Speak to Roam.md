@@ -23,7 +23,7 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FekZcU5SwMo.png?alt=media&token=256b5341-8a1c-42be-b17f-59bb3c897ac5)
         5. In the next screen, leave empty if you want to capture to the daily note, otherwise, enter the title of the page you want to ✨speak to✨
         6. create your OpenAI API keys: 
-https://platform.openai.com/api-keys > create new secret key
+           https://platform.openai.com/api-keys > create new secret key
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FOXQWJaiNIU.png?alt=media&token=04e3ec26-2598-4e5c-9ae2-b3f9619e65fd)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FO9lLlQUoZK.png?alt=media&token=12407bea-2bd1-4399-87cf-4cbfcca13e28)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F7smKjTiyq7.png?alt=media&token=6f05159b-19f6-4aac-ac43-50a8d70dc860)

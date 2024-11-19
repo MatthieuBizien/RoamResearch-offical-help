@@ -3,11 +3,11 @@
 - **[Roam Team Videos](<Roam Team Videos.md>):**
     - Scheduling with Roam by [Conor White-Sullivan](<Conor White-Sullivan.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=ByiFhtlI66A}}
-#[Linked References](<Linked References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Date picker](<Date picker.md>)
+          #[Linked References](<Linked References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Date picker](<Date picker.md>)
 - **[Community Videos](<Community Videos.md>):**
     - How to Build a Weekly Schedule in Roam by [Dalton Mabery](<Dalton Mabery.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=E8GW5QhY9VY}}
-#[Date picker](<Date picker.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Tags](<Tags.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Query](<Query.md>)
+          #[Date picker](<Date picker.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Tags](<Tags.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Query](<Query.md>)
 - **[Key Commands](<Key Commands.md>):**
     - `/date`
 

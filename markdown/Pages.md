@@ -18,4 +18,4 @@
 - ## Community Videos::
     - ### Page-Level block filters & Merging two page contents by [[Roam Tips]] 
         - {{[[video]]: https://www.youtube.com/watch?v=_AZGz94Uv-c}}
-#[[Pages]] | #[[Filter]]
+          #[[Pages]] | #[[Filter]]

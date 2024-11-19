@@ -12,24 +12,25 @@
             - All code should be in the same Roam Graph as the working demo.
             - {{[[roam/render]]: ((uP_2barEP)) ((cpgzSMTye))}}
                 - ```clojure
-(ns starting-point-for-custom-roam
-  (:require
-   [reagent.core :as r]
-   [datascript.core :as d]
-   [roam.datascript.reactive :as dr]))
-
-(defn x [{b :block-uid} x]
-  	[:div.bp3-card 
-     [:ul
-     [:li (pr-str @(dr/pull '[:block/string {:block/children ...}
-                              :block/uid 
-                              ] x))]
-      [:li [:h3"Schema" ]
-       (pr-str @(dr/q 
-                     '[:find [?a ...]
-                       :where [_ ?a _]]))]
-     [:li (pr-str (keys @(dr/pull '[*] [:block/uid b])))]]]
-  )```
+                  (ns starting-point-for-custom-roam
+                    (:require
+                     [reagent.core :as r]
+                     [datascript.core :as d]
+                     [roam.datascript.reactive :as dr]))
+                  
+                  (defn x [{b :block-uid} x]
+                    	[:div.bp3-card 
+                       [:ul
+                       [:li (pr-str @(dr/pull '[:block/string {:block/children ...}
+                                                :block/uid 
+                                                ] x))]
+                        [:li [:h3"Schema" ]
+                         (pr-str @(dr/q 
+                                       '[:find [?a ...]
+                                         :where [_ ?a _]]))]
+                       [:li (pr-str (keys @(dr/pull '[*] [:block/uid b])))]]]
+                    )
+                  ```
             - This item
                 - Has children
                     - A

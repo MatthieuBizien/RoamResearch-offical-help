@@ -5,4 +5,4 @@ https://twitter.com/Conaw/status/1198399750032232449?s=20a
 Community Videos::
     - ### Exploring Networked Thought: The Story of Roam Research by [[Futurism]]
         - {{[[video]]: https://www.youtube.com/watch?v=EqyJweIHaeg}}
-#[[Bidirectional linking]]
+          #[[Bidirectional linking]]

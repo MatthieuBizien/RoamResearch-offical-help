@@ -15,10 +15,10 @@
     - ## Community Videos::
         - ### Filters: Fundamentals of Roam Research by [[R.J. Nestor]]
             - {{[[video]]: https://www.youtube.com/watch?v=wBqUySIvUZc}}
-#[[Attributes]] | #[[Filter]] | #[[Linked References]] | #[[Tags]]
+              #[[Attributes]] | #[[Filter]] | #[[Linked References]] | #[[Tags]]
         - ### How to use filters in Roam Research by [[Mickey Mellen]]
             - {{[[video]]: https://www.youtube.com/watch?v=hx9AmzNUCZY}}
-#[[Attributes]] | #[[Filter]] | #[[Linked References]] | #[[Tags]]
+              #[[Attributes]] | #[[Filter]] | #[[Linked References]] | #[[Tags]]
     - ## Articles::
         - ### [How to use filters in Roam](https://www.roamtips.com/home/how-to-use-filters-in-roam) by [[Roam Tips and Hacks]]
         - ### [Using Roam Research for GTD-Style Task Management](https://thesweetsetup.com/using-roam-research-for-gtd-style-task-management/) by [[Mike Schmitz]]

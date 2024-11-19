@@ -1,12 +1,12 @@
 - ## Community Videos::
     - ### Managing tasks and projects with Roam Research by [[Mickey Mellen]]
-
+      
         - {{[[video]]: https://www.youtube.com/watch?v=NoNebWRn9ZQ&ab_channel=MickeyMellen}}
-#[[TODO/DONE]] | #[[Page References]] | #[[Daily Notes]] | #[[Linked References]] | #[[Date picker]] | #[[Filter]] 
+          #[[TODO/DONE]] | #[[Page References]] | #[[Daily Notes]] | #[[Linked References]] | #[[Date picker]] | #[[Filter]] 
     - ### PARA in Roam Reserach, Managing projects and tasks by [[Praveen Anuraj]]
-
+      
         - {{[[video]]: https://www.youtube.com/watch?v=SQ71uG1q79g&ab_channel=PraveenAnuraj}}
-#[[Page References]] | #[[TODO/DONE]] | #[[Query]] | #[[Date picker]] 
+          #[[Page References]] | #[[TODO/DONE]] | #[[Query]] | #[[Date picker]] 
 - ## Articles::
     - ### [How I’m using Roam Research to Document a Sales Project | by Eran Boodnero | Medium](https://medium.com/@eboodnero/how-i-became-a-productivity-power-house-9da20ba728c0)
         - #[[Page References]] | #[[TODO/DONE]] | #[[Block References]] | #[[Daily Notes]] 

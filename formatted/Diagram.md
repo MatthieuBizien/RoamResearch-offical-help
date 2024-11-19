@@ -56,173 +56,173 @@
         - **Make things people want**
     - {{diagram:@visakan's Memex}}
         - **Introspect.** If you don’t
-know what you want, your
-wants will be decided for
-you, by people and forces
-who don’t have your best
-interests at heart.
+          know what you want, your
+          wants will be decided for
+          you, by people and forces
+          who don’t have your best
+          interests at heart.
         - **Beware assholes.** Learn to
-identify assholes, and to lead
-people in coordinating
-effectively to diminish the
-costs of their actions.
+          identify assholes, and to lead
+          people in coordinating
+          effectively to diminish the
+          costs of their actions.
         - **Develop your taste.** Taste is the most
-precious and important thing in the world.
-People with great taste create a
-disproportionate amount of value in the
-world, but the world we live in
-disincentivizes the development of taste.
+          precious and important thing in the world.
+          People with great taste create a
+          disproportionate amount of value in the
+          world, but the world we live in
+          disincentivizes the development of taste.
         - **Do not dehumanize
-people**. People are
-people. Do not demonize
-or pedestalize them.
+          people**. People are
+          people. Do not demonize
+          or pedestalize them.
         - **Be honest
-about what
-you don’t
-know.**
+          about what
+          you don’t
+          know.**
         - **Be kind.**
         - **Own your shit and fix
-it.** You will never be
-perfect, but you can
-always be better than
-you were yesterday.
+          it.** You will never be
+          perfect, but you can
+          always be better than
+          you were yesterday.
         - Aggressively seek
-out agreements,
-particularly with
-outgroup.
+          out agreements,
+          particularly with
+          outgroup.
         - everything is connected
         - **Be more sensitive.** In
-every sense. It helps
-with everything.
+          every sense. It helps
+          with everything.
         - If you don’t decide,
-you’re letting
-somebody else
-decide.
+          you’re letting
+          somebody else
+          decide.
         - Real progress
-happens at the
-bottlenecks.
+          happens at the
+          bottlenecks.
         - The public is insufficiently
-educated on how to be a good
-public.
+          educated on how to be a good
+          public.
         - **Confront your fears headon.** Most fears are outdated,
-obsolete, and can be
-dismantled with a little work
+          obsolete, and can be
+          dismantled with a little work
         - **Find out how you are
-fucked up.** “They fuck you
-up your mom and dad, they
-don’t mean to but they do…”
-You inherited all sorts of
-bullshit that you don’t even
-know.
+          fucked up.** “They fuck you
+          up your mom and dad, they
+          don’t mean to but they do…”
+          You inherited all sorts of
+          bullshit that you don’t even
+          know.
         - **Appreciate
-incentives.**
+          incentives.**
         - **Recognize that
-your mental
-models are
-flawed.** Everybody
-inherits a flawed,
-imperfect system.
+          your mental
+          models are
+          flawed.** Everybody
+          inherits a flawed,
+          imperfect system.
         - everything is a remix,
-so don’t worry about
-being “original”
+          so don’t worry about
+          being “original”
         - Everything is vague to a
-degree you do not
-realize until you attempt
-to make it precise.
+          degree you do not
+          realize until you attempt
+          to make it precise.
         - **Have stuff to look
-forward to.** You can’t
-engineer happiness,
-but you sure can
-engineer excitement.
+          forward to.** You can’t
+          engineer happiness,
+          but you sure can
+          engineer excitement.
         - **Learn project
-management.**
-Everything is a
-project.
+          management.**
+          Everything is a
+          project.
         - **The main thing
-holding you back
-is the way that
-you’re thinking.**
+          holding you back
+          is the way that
+          you’re thinking.**
         - **Have fun. **You were born
-crying. You should die
-laughing.
+          crying. You should die
+          laughing.
         - **Take notes.** Keeping a journal of your
-own thoughts, ideas and beliefs over
-time will teach you things about yourself
-you cannot learn any other way.
+          own thoughts, ideas and beliefs over
+          time will teach you things about yourself
+          you cannot learn any other way.
         - **It’s not about you.**
         - **Prioritize.**
-There’s an
-infinite set of
-things to do.
-What’s the
-most important
-thing? Do that.
+          There’s an
+          infinite set of
+          things to do.
+          What’s the
+          most important
+          thing? Do that.
         - **Do not be afraid of
-being sad or wrong.**
+          being sad or wrong.**
         - the point of strength
-is to nourish others.
+          is to nourish others.
         - **Strategize**. You have
-limited time and limited
-resources.
+          limited time and limited
+          resources.
         - **Continue.** Life will kick
-your ass. Dont’ give up,
-don’t give in. Get up and
-try again.
+          your ass. Dont’ give up,
+          don’t give in. Get up and
+          try again.
         - **Be so prolific you don’t
-recognize yourself.** This is
-the most effective way to
-develop your ability to gratify
-your own taste.
+          recognize yourself.** This is
+          the most effective way to
+          develop your ability to gratify
+          your own taste.
         - **Be Economically Useful.**
-The world is not kind to
-those who cannot create
-value in the marketplace.
+          The world is not kind to
+          those who cannot create
+          value in the marketplace.
         - **Seek to learn &
-understand
-everything.** It can
-never be done, but
-it’s always worth
-trying.
+          understand
+          everything.** It can
+          never be done, but
+          it’s always worth
+          trying.
         - **Make Friends.** It is
-dangerous to go alone.
-You heal yourself by
-helping others. Be kind
-and serve others. We can
-do more together than we
-can do alone.
+          dangerous to go alone.
+          You heal yourself by
+          helping others. Be kind
+          and serve others. We can
+          do more together than we
+          can do alone.
         - **One must imagine Sisyphus
-LOL-ing.** Existence is absurd, and
-laughter is the only reasonable
-response to an absurd universe.
+          LOL-ing.** Existence is absurd, and
+          laughter is the only reasonable
+          response to an absurd universe.
         - **Articulate your
-assumptions and
-question them.** If you
-identify a bad one, you
-can get rid of it and have
-a marginally better life,
-instantly
+          assumptions and
+          question them.** If you
+          identify a bad one, you
+          can get rid of it and have
+          a marginally better life,
+          instantly
         - the tool should
-fit the user
+          fit the user
         - Narcissists ruin
-self-love for the
-rest of us.
+          self-love for the
+          rest of us.
         - **Fiddle with it.**
-Mess around.
-It’s the most
-natural way of
-learning
-things.
+          Mess around.
+          It’s the most
+          natural way of
+          learning
+          things.
         - all advice is context dependent to a
-degree most do not realize until
-they encounter a different context
+          degree most do not realize until
+          they encounter a different context
         - **We all want to be loved.**
         - **Indulge your curiosity.**
-Following your nose will lead
-you to interesting places, and
-in the process you will become
-an interesting person.
+          Following your nose will lead
+          you to interesting places, and
+          in the process you will become
+          an interesting person.
         - safe spaces are for
-nurturing, not coddling.
+          nurturing, not coddling.
         - **Ask clarifying questions.**
     - {{diagram:Dune Mindmap: Paul Atreides}}
         - Fate and Prophecy
@@ -269,7 +269,7 @@ nurturing, not coddling.
         - Russian Climb
         - Triple Twist Open Drop
         - **Vibe:**
-{{[video](<video.md>): https://www.youtube.com/watch?v=_ZtHxP4EMV0}}
+          {{[video](<video.md>): https://www.youtube.com/watch?v=_ZtHxP4EMV0}}
         - Croissant Climb
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FhzWOXy0k14.jpeg?alt=media&token=f3e95937-f339-474f-84a5-f0a040e9fe8f)
         - Double-Sided Knee Climb
@@ -288,7 +288,7 @@ nurturing, not coddling.
         - Pigmented cheekbones
         - Bright eyeshadow: orange, red, blue
         - **Music Choice:**
-{{spotify: https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=2ecb0b31c20d41f3}}
+          {{spotify: https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=2ecb0b31c20d41f3}}
     - {{diagram: EA Memespace}}
         - Cause Areas
         - Nuclear Warfare
@@ -318,7 +318,7 @@ nurturing, not coddling.
         - Neglectedness
         - Impact
         - Cost effectiveness/
-tangible
+          tangible
         - Policy
         - EA Literature
         - LessWrong
@@ -333,7 +333,7 @@ tangible
     - Archived ⬇️ (old version of the diagram feature)
         - Diagrams in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
             - {{[video](<video.md>): https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
-#[Diagram](<Diagram.md>)
+              #[Diagram](<Diagram.md>)
 - **[Articles](<Articles.md>):**
     - Archived ⬇️ (old version of the diagram feature)
         - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) [Diagram](<Diagram.md>)

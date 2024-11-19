@@ -12,9 +12,9 @@
         2. Hit `enter`
 - **[## Roam Team Videos](<../## Roam Team Videos.md>):**
     - {{[video](<../video.md>): https://www.youtube.com/watch?v=3aCl7dCYVqA&t=6s&ab_channel=ConorWhite-Sullivan}}
-#[TODO/DONE](<../TODO/DONE.md>) | #[Daily Notes](<../Daily Notes.md>) | #[Filter](<../Filter.md>) | #[Linked References](<../Linked References.md>) | #[Block Embed](<../Block Embed.md>) | #[Current time](<../Current time.md>) | #[Block References](<../Block References.md>)
+      #[TODO/DONE](<../TODO/DONE.md>) | #[Daily Notes](<../Daily Notes.md>) | #[Filter](<../Filter.md>) | #[Linked References](<../Linked References.md>) | #[Block Embed](<../Block Embed.md>) | #[Current time](<../Current time.md>) | #[Block References](<../Block References.md>)
     - {{[video](<../video.md>): https://www.youtube.com/watch?v=asQ4RSjjCu4&ab_channel=ConorWhite-Sullivan}}
-#[TODO/DONE](<../TODO/DONE.md>) | #[Linked References](<../Linked References.md>) 
+      #[TODO/DONE](<../TODO/DONE.md>) | #[Linked References](<../Linked References.md>) 
     - **[## Team GIFs](<../## Team GIFs.md>):**
         - ### Cycling state in one block
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FWXFUMcf7Ou.gif?alt=media&token=dc1f0c12-74c1-4ed9-bd32-41129b0654dc)
@@ -31,16 +31,16 @@
 - **[## Community Videos](<../## Community Videos.md>):**
     - ### Roam Research: TODOs by [Les Kristofs](<../Les Kristofs.md>)
         - {{[video](<../video.md>): https://www.youtube.com/watch?v=3taL1v-IKXg}}
-#[TODO/DONE](<../TODO/DONE.md>) | #[Linked References](<../Linked References.md>) | #[/ Commands](<..// Commands.md>)
+          #[TODO/DONE](<../TODO/DONE.md>) | #[Linked References](<../Linked References.md>) | #[/ Commands](<..// Commands.md>)
     - ### Roam: How to Make a Master Task List on Roam by [Shu Omi](<../Shu Omi.md>)
         - {{[video](<../video.md>): https://www.youtube.com/watch?v=mIEgS0JkJBo&t=5s&ab_channel=ShuOmi}}
-#[TODO/DONE](<../TODO/DONE.md>) | #[Page References](<../Page References.md>) | #[Filter](<../Filter.md>) | #[Daily Notes](<../Daily Notes.md>) 
+          #[TODO/DONE](<../TODO/DONE.md>) | #[Page References](<../Page References.md>) | #[Filter](<../Filter.md>) | #[Daily Notes](<../Daily Notes.md>) 
     - ### Plan Your Day With The Magic List (Roam Research Task Management) by [Daniel Wirtz](<../Daniel Wirtz.md>)
         - {{[video](<../video.md>): https://www.youtube.com/watch?v=5U62cEE7QsM&t=6s&ab_channel=DanielWirtz}}
-#[TODO/DONE](<../TODO/DONE.md>) | #[Query](<../Query.md>) | #[Page References](<../Page References.md>) | #[Daily Notes](<../Daily Notes.md>) | #[Block References](<../Block References.md>) 
+          #[TODO/DONE](<../TODO/DONE.md>) | #[Query](<../Query.md>) | #[Page References](<../Page References.md>) | #[Daily Notes](<../Daily Notes.md>) | #[Block References](<../Block References.md>) 
     - ### Todoist to Roam Research - Advanced Task Management in Roam by [Matt Goldenberg](<../Matt Goldenberg.md>)
         - {{[video](<../video.md>): https://www.youtube.com/watch?v=xOTTyLtgqpM}}
-#[roam/css](<../roam/css.md>) | #[Extensions](<../Extensions.md>) | #[roam/js](<../roam/js.md>) | #[Sidebar](<../Sidebar.md>) | #[TODO/DONE](<../TODO/DONE.md>) | #[Query](<../Query.md>)
+          #[roam/css](<../roam/css.md>) | #[Extensions](<../Extensions.md>) | #[roam/js](<../roam/js.md>) | #[Sidebar](<../Sidebar.md>) | #[TODO/DONE](<../TODO/DONE.md>) | #[Query](<../Query.md>)
 - **[## Articles](<../## Articles.md>):**
     - ### [Using Roam Research for GTD-Style Task Management – The Sweet Setup](https://thesweetsetup.com/using-roam-research-for-gtd-style-task-management/)
         - #[Daily Notes](<../Daily Notes.md>) | #[TODO/DONE](<../TODO/DONE.md>) | #[Page References](<../Page References.md>) | #[Query](<../Query.md>) | #[Linked References](<../Linked References.md>) 

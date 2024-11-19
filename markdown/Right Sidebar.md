@@ -1,11 +1,11 @@
 - Roam Team Videos::
     - ### Sidebar in Roam by [[Conor White-Sullivan]]
         - {{[[video]]: https://www.youtube.com/watch?v=7dASSNABtIo}}
-#[[Right Sidebar]] | #[[Linked References]] | #[[TODO/DONE]]
+          #[[Right Sidebar]] | #[[Linked References]] | #[[TODO/DONE]]
 - Community Videos::
     - ### Roam Research: Right Sidebar and Block References by [[Les Kristofs]]
         - {{[[video]]: https://www.youtube.com/watch?v=rorHyn0BBb4}}
-#[[Block References]] | #[[Right Sidebar]]
+          #[[Block References]] | #[[Right Sidebar]]
 - Team GIFs::
     - ### Opening and closing sidebar
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Foh12rmm8uU.gif?alt=media&token=12d7561b-9dc4-4d0b-b7f0-00e035f8262b)

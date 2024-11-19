@@ -42,10 +42,10 @@
 - **[## Community Videos](<## Community Videos.md>):**
     - ### What makes Blocks in Roam Research different by [Cortex Futura](<Cortex Futura.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=6VmtiDYjy_k}}
-#[Blocks](<Blocks.md>) | #[Block References](<Block References.md>)
+          #[Blocks](<Blocks.md>) | #[Block References](<Block References.md>)
     - ### Blocks in Roam Research: Part One - What Makes Them Unique by [Lisa-Marie Cabrelli](<Lisa-Marie Cabrelli.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=hGzTuIPXv7I}}
-#[Blocks](<Blocks.md>) | #[Block References](<Block References.md>)
+          #[Blocks](<Blocks.md>) | #[Block References](<Block References.md>)
 
 # Backlinks
 ## [Blocks](<Blocks.md>)

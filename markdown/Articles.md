@@ -23,8 +23,9 @@
             - ### [Implementing Zettelkasten in Roam](https://www.roambrain.com/implementing-zettelkasten-in-roam/) by [[Zakk Fleischmann]]
 - {{[[roam/css]]}} #.h
     - ```css
-.black .rm-alias {
-  color: #202B33 !important;
-}```
+      .black .rm-alias {
+        color: #202B33 !important;
+      }
+      ```
 - 
 - ### **Check us out in the** [News and Press]([[News and Press]])

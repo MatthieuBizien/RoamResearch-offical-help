@@ -1,13 +1,13 @@
 - **[Community Videos](<Community Videos.md>):**
     - ### Roam Research: Notetaking Session for School by [J M](<J M.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=ZOWk76FhwEU&feature=youtu.be&ab_channel=JM}}
-#[Page References](<Page References.md>) | #[Indentation](<Indentation.md>) | #[Right Sidebar](<Right Sidebar.md>) 
+          #[Page References](<Page References.md>) | #[Indentation](<Indentation.md>) | #[Right Sidebar](<Right Sidebar.md>) 
     - ### Roam for Students | How to Take Notes in a Lecture by [Shu Omi](<Shu Omi.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=nWgXBGDP3nI&ab_channel=ShuOmi}}
-#[Page References](<Page References.md>) | #[Indentation](<Indentation.md>)
+          #[Page References](<Page References.md>) | #[Indentation](<Indentation.md>)
     - ### How I use Roam Research for Lecture Notes (for college students) by [Abhinav Kejriwal](<Abhinav Kejriwal.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=gBYwBNY3pNc&ab_channel=AbhinavKejriwal}}
-#[Page References](<Page References.md>) | #[Sidebar](<Sidebar.md>) | #[Block References](<Block References.md>)
+          #[Page References](<Page References.md>) | #[Sidebar](<Sidebar.md>) | #[Block References](<Block References.md>)
 - **[## Articles](<## Articles.md>):**
     - ### [How I Used Roam Research to Study for Medical School](https://toolsforgrowth.substack.com/p/how-i-used-roam-research-to-study)
         - #[Daily Notes](<Daily Notes.md>) | #[Page References](<Page References.md>) | #[Indentation](<Indentation.md>) | #[Linked References](<Linked References.md>)

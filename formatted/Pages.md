@@ -18,7 +18,7 @@
 - **[## Community Videos](<## Community Videos.md>):**
     - ### Page-Level block filters & Merging two page contents by [Roam Tips](<Roam Tips.md>) 
         - {{[video](<video.md>): https://www.youtube.com/watch?v=_AZGz94Uv-c}}
-#[Pages](<Pages.md>) | #[Filter](<Filter.md>)
+          #[Pages](<Pages.md>) | #[Filter](<Filter.md>)
 
 # Backlinks
 ## [Bidirectional linking](<Bidirectional linking.md>)

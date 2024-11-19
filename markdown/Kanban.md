@@ -56,11 +56,11 @@
 - ## Community Videos::
     - ### Roam Research: Kanban Board by [[Les Kristofs]]
         - {{[[video]]: https://www.youtube.com/watch?v=zZIBcCunK-I}}
-#[[Kanban]] | #[[Block References]]
+          #[[Kanban]] | #[[Block References]]
     - ### Roam Research: How to Plan Your Week in Roam by [[Shu Omi]]
         - {{[[video]]: https://www.youtube.com/watch?v=p-hpOG6TmeM}}
-#[[Kanban]] | #[[Templates]]
+          #[[Kanban]] | #[[Templates]]
 - ## Articles::
     - ### [How to create a Kanban board on Roam](https://www.roamtips.com/home/roam-kanban-board) by [[Roam Tips]]
-
+      
 - [[.--]]

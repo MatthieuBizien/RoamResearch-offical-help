@@ -1,10 +1,10 @@
 ## Community Videos::
     - ### Roam: The Best Personal CRM Ever by [Nat Eliason](<Nat Eliason.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=cRDgrdlfYdE&ab_channel=NatEliason}}
-#[Page References](<Page References.md>) | #[Sidebar](<Sidebar.md>) | #[Linked References](<Linked References.md>) | #[Attributes](<Attributes.md>)
+          #[Page References](<Page References.md>) | #[Sidebar](<Sidebar.md>) | #[Linked References](<Linked References.md>) | #[Attributes](<Attributes.md>)
     - ### Mini CRM in Roam Research: Logging Meeting Notes by [R.J. Nestor](<R.J. Nestor.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=CnakhkONQ_g&ab_channel=R.J.Nestor}}
-#[Page References](<Page References.md>) | #[Sidebar](<Sidebar.md>) | #[Daily Notes](<Daily Notes.md>) | #[Tags](<Tags.md>) | #[Indentation](<Indentation.md>) | #[Linked References](<Linked References.md>) | #[Filter](<Filter.md>) | #[Attributes](<Attributes.md>) 
+          #[Page References](<Page References.md>) | #[Sidebar](<Sidebar.md>) | #[Daily Notes](<Daily Notes.md>) | #[Tags](<Tags.md>) | #[Indentation](<Indentation.md>) | #[Linked References](<Linked References.md>) | #[Filter](<Filter.md>) | #[Attributes](<Attributes.md>) 
 ## Articles::
     - ### [Using Roam Research as a Customer Relationship Manager](https://thesweetsetup.com/using-roam-research-as-a-customer-relationship-manager/) by [Josh Ginter](<Josh Ginter.md>)
         - #[Page References](<Page References.md>) | #[Attributes](<Attributes.md>) | #[Templates](<Templates.md>) | #[Daily Notes](<Daily Notes.md>) #[Current time](<Current time.md>) | #[Task Management](<Task Management.md>) | #[Calculator](<Calculator.md>) | #[Pomodoro timer](<Pomodoro timer.md>) | #[Kanban](<Kanban.md>) 

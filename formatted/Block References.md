@@ -88,10 +88,10 @@
 - **[Community Videos](<Community Videos.md>):**
     - Quick Intro to Block References in Roam Research by [Matias Faure](<Matias Faure.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=O413tVCseio}}
-#[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)
+          #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>)
     - Roam Research: Quick access to concepts/definitions using Links and Block References by [Les Kristofs](<Les Kristofs.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=nhGhg0LdgSQ}}
-#[Linked References](<Linked References.md>) | #[Block References](<Block References.md>)
+          #[Linked References](<Linked References.md>) | #[Block References](<Block References.md>)
 - **[Articles](<Articles.md>):**
     - [Roam’s Block Reference Context Menu: A Primer](https://roamstack.com/roam-block-reference-menu/) by [RoamStack](<RoamStack.md>)
         - #[Block References](<Block References.md>) | #[Right Sidebar](<Right Sidebar.md>) | #[Block Embed](<Block Embed.md>) | #[text and alias](<text and alias.md>) | #[Alias](<Alias.md>) 

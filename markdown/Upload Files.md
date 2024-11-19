@@ -8,6 +8,6 @@
 - Community Videos::
     - Roam Research: Adding a File by [[Les Kristofs]]
         - {{[[video]]: https://www.youtube.com/watch?v=JgT_zGrudko}}
-#[[Upload Files]] | #[[/ Commands]]
+          #[[Upload Files]] | #[[/ Commands]]
 - Key Commands::
     - `/upload`

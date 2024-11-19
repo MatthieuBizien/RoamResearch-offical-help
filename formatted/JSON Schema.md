@@ -53,11 +53,12 @@
             - By default is left (as determined by the browser defaults)
 - **Example**
     - ```javascript
-[{:title        "December 10th 2018"
-  :create-email "josh@roamresearch.com"
-  :create-time  1576025237000
-  :children     [{:string   "[Meeting](<Meeting.md>) with [Tim](<Tim.md>)"
-                  :children [{:string "Meeting went well"}]}
-                 {:string "[Call](<Call.md>) with [John](<John.md>)"}]}
- {:title    "December 11th 2018"}]```
+      [{:title        "December 10th 2018"
+        :create-email "josh@roamresearch.com"
+        :create-time  1576025237000
+        :children     [{:string   "[Meeting](<Meeting.md>) with [Tim](<Tim.md>)"
+                        :children [{:string "Meeting went well"}]}
+                       {:string "[Call](<Call.md>) with [John](<John.md>)"}]}
+       {:title    "December 11th 2018"}]
+      ```
     - More (better) examples can be found by exporting roam to json

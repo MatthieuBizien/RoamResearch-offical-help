@@ -1,12 +1,12 @@
 - **[## Community Videos](<## Community Videos.md>):**
     - ### Managing tasks and projects with Roam Research by [Mickey Mellen](<Mickey Mellen.md>)
-
+      
         - {{[video](<video.md>): https://www.youtube.com/watch?v=NoNebWRn9ZQ&ab_channel=MickeyMellen}}
-#[TODO/DONE](<TODO/DONE.md>) | #[Page References](<Page References.md>) | #[Daily Notes](<Daily Notes.md>) | #[Linked References](<Linked References.md>) | #[Date picker](<Date picker.md>) | #[Filter](<Filter.md>) 
+          #[TODO/DONE](<TODO/DONE.md>) | #[Page References](<Page References.md>) | #[Daily Notes](<Daily Notes.md>) | #[Linked References](<Linked References.md>) | #[Date picker](<Date picker.md>) | #[Filter](<Filter.md>) 
     - ### PARA in Roam Reserach, Managing projects and tasks by [Praveen Anuraj](<Praveen Anuraj.md>)
-
+      
         - {{[video](<video.md>): https://www.youtube.com/watch?v=SQ71uG1q79g&ab_channel=PraveenAnuraj}}
-#[Page References](<Page References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Query](<Query.md>) | #[Date picker](<Date picker.md>) 
+          #[Page References](<Page References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Query](<Query.md>) | #[Date picker](<Date picker.md>) 
 - **[## Articles](<## Articles.md>):**
     - ### [How I’m using Roam Research to Document a Sales Project | by Eran Boodnero | Medium](https://medium.com/@eboodnero/how-i-became-a-productivity-power-house-9da20ba728c0)
         - #[Page References](<Page References.md>) | #[TODO/DONE](<TODO/DONE.md>) | #[Block References](<Block References.md>) | #[Daily Notes](<Daily Notes.md>) 

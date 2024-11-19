@@ -42,7 +42,7 @@
 - ## Community Videos::
     - ### What makes Blocks in Roam Research different by [[Cortex Futura]]
         - {{[[video]]: https://www.youtube.com/watch?v=6VmtiDYjy_k}}
-#[[Blocks]] | #[[Block References]]
+          #[[Blocks]] | #[[Block References]]
     - ### Blocks in Roam Research: Part One - What Makes Them Unique by [[Lisa-Marie Cabrelli]]
         - {{[[video]]: https://www.youtube.com/watch?v=hGzTuIPXv7I}}
-#[[Blocks]] | #[[Block References]]
+          #[[Blocks]] | #[[Block References]]

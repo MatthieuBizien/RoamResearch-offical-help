@@ -131,7 +131,7 @@
                 - #[Action List](<../Action List.md>)
                     - [ ] Process Linked and Unlinked Mentions
                     -  {{[query](<../query.md>): {and: [TODO](<../TODO.md>) [Action](<../Action.md>) {not: {or: [query](<../query.md>) [Subtask:](<../Subtask:.md>)}}}}}
-#[Upcoming](<../Upcoming.md>)
+                      #[Upcoming](<../Upcoming.md>)
                     - {{[query](<../query.md>): {and: [TODO](<../TODO.md>) [Scheduled](<../Scheduled.md>) {not: {or: [query](<../query.md>) [Action](<../Action.md>)}} {between: [Today's Date](<../Today's Date.md>) [+2 Weeks](<../+2 Weeks.md>)}}}}
             - #[Evening Review](<../Evening Review.md>)
                 - [ ] #[Evening Pages](<../Evening Pages.md>)
@@ -256,7 +256,7 @@
         - **[Code](<../Code.md>):**
             - {{[roam/css](<../roam/css.md>)}}
                 - ```css
-```
+                  ```
 - Plugin
     - `plugin_name`
         - **[Info](<../Info.md>):**

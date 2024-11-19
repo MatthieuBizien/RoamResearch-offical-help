@@ -205,7 +205,7 @@
             - Some examples of things you can do:
                 - 🔗 First up: Slack -> Roam
                     - In the middle of an important Slack convo and there’s something you want to keep for later? Just save the message, and Zapier will drop it right into Roam, organized & ready to link up👇
-(Also, you can add the Zapier app to Slack if you want to add an extra comment!)
+                      (Also, you can add the Zapier app to Slack if you want to add an extra comment!)
                         - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FGrjkq5vnMB.mp4?alt=media&token=043ce47a-05c6-46d7-9598-e33ecf3b33a2}}
                 - ⭐️ Next: Starred emails -> Roam
                     - You star an email, and Zapier pulls it into Roam automatically. No more hunting through your inbox. It’s right there, ready to tag, link, or archive 📥
@@ -227,7 +227,7 @@
                     - Downloaded file name extra info:
                         - Filename for the downloaded media reflects the **graph name**, the **id of the file in the roam graph**, and the **original filename**
                             - New filename is 
-`graph-name` + "-" + `file-id-in-graph` + "-" + `original-file-name`
+                              `graph-name` + "-" + `file-id-in-graph` + "-" + `original-file-name`
             - Fixed issue where reference counter for blocks in linked references would get split up into two lines 
     - [[September 3rd, 2024]]
         - [[Quality of Life Improvements]]
@@ -652,7 +652,7 @@
         - [[Roam Depot Extensions]]
             - # [Live AI Assistant (former Speech-to-Roam)](https://github.com/fbgallet/roam-extension-speech-to-roam)
                 - Speak instead of having to type into Roam. 
-Additionally, you can speak to a GPT model (providing context to the model from your Roam graph by selecting blocks before calling the command!), or even do translations to English
+                  Additionally, you can speak to a GPT model (providing context to the model from your Roam graph by selecting blocks before calling the command!), or even do translations to English
                 - ## Features
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FxtLDz8oskA.png?alt=media&token=7d96b57a-b6dd-45b9-9c3e-da784e4c5a31)
                         - By default, the controls will be inserted in the left sidebar, after "Daily Notes". It's possible to display them in the topbar (always visible, more convenient on mobile).
@@ -763,7 +763,7 @@ Additionally, you can speak to a GPT model (providing context to the model from 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fj8GEmEGAx8.png?alt=media&token=f65dc849-dfa1-4ce3-b820-659036a49151)
                     3. View a random block from your roam graph
                     4. Easily create Raycast quicklinks to open Roam graphs or specific pages in the graph even faster
-... and more features baking in the oven!
+                       ... and more features baking in the oven!
                 - Getting Started Guide
                     1. Install [[Raycast]] from https://raycast.com
                     2. Then install the Roam Extension from: https://raycast.com/roamresearch/roam-research
@@ -836,7 +836,7 @@ Additionally, you can speak to a GPT model (providing context to the model from 
                     - When some text copied from a PDF is in the clipboard, the command Paste PDF text from clipboard, removing undue line breaks replace line breaks by space and paste the text in the current block, at the current cursor position.
                     - Provide also the corresponding SmartBlocks command: REPLACENEWLINEBYSPACE with the text to paste as first argument. You can use it with the following SmartBlock (it can also be installed from the SmartBlocks Store).
                     - - #SmartBlock Paste text from pdf (replace new line by space)
-    - <%SET:cbText,<%CLIPBOARDPASTETEXT%>%><%REPLACENEWLINEBYSPACE:<%GET:cbText%>%>
+                          - <%SET:cbText,<%CLIPBOARDPASTETEXT%>%><%REPLACENEWLINEBYSPACE:<%GET:cbText%>%>
                     - ### [🔗](https://github.com/fbgallet/roam-extension-paste-from-pdf/tree/d52fd10913df564c6b9d3df45b90753912cbc1a5#for-any-question-or-suggestion-dm-me-on-twitter-and-follow-me-to-be-informed-of-updates-and-new-extensions--fbgallet)For any question or suggestion, DM me on **Twitter** and follow me to be informed of updates and new extensions : [@fbgallet](https://twitter.com/fbgallet).
                 - # Roam Tabs
                     - Manage your working pages with tabs.
@@ -1009,7 +1009,7 @@ Additionally, you can speak to a GPT model (providing context to the model from 
                     - Has a number of different modes: text mode, tag mode, line mode, sidebar mode, latest changes mode. 
                     - Usage
                         - Shortcut to activate the extension is ctrl/cmd + shift + p
-Then, just start typing to search
+                          Then, just start typing to search
                         - You can switch modes by typing `@`, `:`, `r:` or `e:` in the beginning of the search, or you can also set hotkeys which takes you directly to a particular mode
                     - Do checkout the video walkthrough below:
                         - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FzIJm0nHEOh.mp4?alt=media&token=d69cb2b5-8002-459e-9eae-08022a028f70}}
@@ -1095,32 +1095,33 @@ Then, just start typing to search
                 - Theme Authors and [[CSS]] hackers can now target code blocks for specific languages via new CSS classes of the format `.rm-code-block--{lang}`. For example: `.rm-code-block--js` for javascript code blocks, `.rm-code-block--clj` for Clojure code blocks #[[CSS Changes]]
                     - As an example, here are the customized CSS we're using for the new JSON and JSON-LD languages (color scheme inspired from VS Code)
                         - ```css
-.rm-code-block--json, .rm-code-block--json-ld {
-  // colors inspired from VS Code
-  .cmt-propertyName {
-    color: #22509F;
-  }
-  .cmt-bool {
-    color: #0000ff;
-  }
-  .cmt-number {
-    color: #458A64;
-  }
-  .cmt-string {
-    color: #95261F
-  }
-
-}
-
-.rm-code-block--json-ld {
-  // json-ld seems to use cmt-atom for booleans and cmt-meta for property names that begin with @
-  .cmt-atom {
-    color: #0000ff;
-  }
-  .cmt-meta {
-    color: #22509fb6; // a lighter version of cmt-propertyName
-  }
-}```
+                          .rm-code-block--json, .rm-code-block--json-ld {
+                            // colors inspired from VS Code
+                            .cmt-propertyName {
+                              color: #22509F;
+                            }
+                            .cmt-bool {
+                              color: #0000ff;
+                            }
+                            .cmt-number {
+                              color: #458A64;
+                            }
+                            .cmt-string {
+                              color: #95261F
+                            }
+                          
+                          }
+                          
+                          .rm-code-block--json-ld {
+                            // json-ld seems to use cmt-atom for booleans and cmt-meta for property names that begin with @
+                            .cmt-atom {
+                              color: #0000ff;
+                            }
+                            .cmt-meta {
+                              color: #22509fb6; // a lighter version of cmt-propertyName
+                            }
+                          }
+                          ```
             - ### [[Bug Fixes]] 🛠
                 - Released fixes for issues related to [[Roam Depot]] extensions and non-persistence of user settings
                     - If you're still encountering issues after this update, please contact us at support@roamresearch.com
@@ -1214,8 +1215,8 @@ Then, just start typing to search
                                 - `\gdef\matrix#1{\begin{bmatrix}#1\end{bmatrix}}`
                         - katex blocks using the matrix macro defined above
                             - $$
-\matrix{1&2&4\\1&2&3}
-$$
+                              \matrix{1&2&4\\1&2&3}
+                              $$
                                 - `\matrix{1&2&4\\1&2&3}`
                         - [More info on using macros](https://katex.org/docs/supported.html#macros)
                     - If you run into any issues with your latex blocks, please checkout the migration guide: https://katex.org/docs/migration.html
@@ -1387,21 +1388,22 @@ $$
                         - You'll first need to add your personal access token associated with your Oura Ring account to the Token field in your Roam Depot Settings. The extension needs this in order to access your personal data. [Click here](https://cloud.ouraring.com/personal-access-tokens), to generate your own personal access token.
                         - To import your Oura Ring data to your daily note page, open the Command Palette and enter "Import Oura Ring". If the current page is a Daily note page, it will query the day before the page title, since you usually want to track last night's sleep. Otherwise, it will query yesterday's data by default. It will output the following text:
                         - ```javascript
-Bedtime Start:: hh:mm:ss
-Bedtime End:: hh:mm:ss
-Sleep Duration:: hh:mm:ss
-Total Sleep:: hh:mm:ss
-Total Awake:: hh:mm:ss
-Light Sleep:: hh:mm:ss
-Rem Sleep:: hh:mm:ss
-Deep Sleep:: hh:mm:ss
-Day Start:: hh:mm:ss
-Day End:: hh:mm:ss
-Low Activity:: hh:mm:ss
-Medium Activity:: hh:mm:ss
-High Activity:: hh:mm:ss
-Rest Activity:: hh:mm:ss
-Readiness Score:: hh:mm:ss```
+                          Bedtime Start:: hh:mm:ss
+                          Bedtime End:: hh:mm:ss
+                          Sleep Duration:: hh:mm:ss
+                          Total Sleep:: hh:mm:ss
+                          Total Awake:: hh:mm:ss
+                          Light Sleep:: hh:mm:ss
+                          Rem Sleep:: hh:mm:ss
+                          Deep Sleep:: hh:mm:ss
+                          Day Start:: hh:mm:ss
+                          Day End:: hh:mm:ss
+                          Low Activity:: hh:mm:ss
+                          Medium Activity:: hh:mm:ss
+                          High Activity:: hh:mm:ss
+                          Rest Activity:: hh:mm:ss
+                          Readiness Score:: hh:mm:ss
+                          ```
                         - You can also import the data by creating a button by typing `{{import oura ring}}` into a page and clicking the button.
                 - ## Roam native dark theme
                     - ![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)
@@ -1512,7 +1514,7 @@ Readiness Score:: hh:mm:ss```
                             - [[>]] Socrates is a Man
                             - [[>]] Socrates is Mortal
                             - > [[IF]] [[>]] All Men are Mortal [[AND]] [[>]] Socrates is a Man 
-[[THEN]] [[>]] Socrates is Mortal
+                              [[THEN]] [[>]] Socrates is Mortal
         - [[August 17th, 2022]]
             - [[New Features]]  #[[Improvements]]
                 - [[Latex]] now will parse block references, including other latex so you can comp
@@ -1922,12 +1924,13 @@ Readiness Score:: hh:mm:ss```
                     - How it works::
                         1. Write your kroki code in a code/regular block, for instance,
                             - ```plain text
-graph TD
-  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
-  B --> C{ How to contribute? }
-  C --> D[ Reporting bugs ]
-  C --> E[ Sharing ideas ]
-  C --> F[ Advocating ]```
+                              graph TD
+                                A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
+                                B --> C{ How to contribute? }
+                                C --> D[ Reporting bugs ]
+                                C --> E[ Sharing ideas ]
+                                C --> F[ Advocating ]
+                              ```
                         2. Then use the following syntax
                             - `{{[[kroki]]: TYPE_HERE: BLOCK_REF_HERE}}`
                                 - so for instance, `{{[[kroki]]: mermaid:((13fZ8yxDr))}}` will produce:
@@ -2063,13 +2066,13 @@ graph TD
                         - {{[[table]]}}
                             - Before::
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FSX7k6To7rD.png?alt=media&token=4056c63d-e4ba-4bec-a978-dfcefac1dcc9)
-
+                                  
                             - After::
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkXpJm3dgXf.png?alt=media&token=7cd87887-93d4-4c41-8952-db82777e1117)
                         - {{[[table]]}}
                             - Before::
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FbMLzO7q-5M.png?alt=media&token=d3fb0597-9eab-4c3d-a9f0-8ff72ab2f086)
-
+                                  
                             - After::
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FItNe6Dk54D.png?alt=media&token=116c8d07-837a-43f6-9020-a0e9b23f9fe1)
                     - Updated Sharing settings

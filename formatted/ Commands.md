@@ -3,7 +3,7 @@
         - To access / Commands, type `/` + `any of the below keyword` + `enter` (in any block) to access each feature 
     - **[Team GIFs](<Team GIFs.md>):**
         - ![An example of accessing the TODO function via / Commands](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FoebmqUA8lT.gif?alt=media&token=0567d373-7f43-4934-9d92-c5f5030b6e42)
-
+          
 - #.--rm-grid 
     - ### **Functions**
         - [TODO](<TODO.md>)

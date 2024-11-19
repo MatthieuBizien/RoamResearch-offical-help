@@ -15,10 +15,10 @@
     - **[## Community Videos](<## Community Videos.md>):**
         - ### Filters: Fundamentals of Roam Research by [R.J. Nestor](<R.J. Nestor.md>)
             - {{[video](<video.md>): https://www.youtube.com/watch?v=wBqUySIvUZc}}
-#[Attributes](<Attributes.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Tags](<Tags.md>)
+              #[Attributes](<Attributes.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Tags](<Tags.md>)
         - ### How to use filters in Roam Research by [Mickey Mellen](<Mickey Mellen.md>)
             - {{[video](<video.md>): https://www.youtube.com/watch?v=hx9AmzNUCZY}}
-#[Attributes](<Attributes.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Tags](<Tags.md>)
+              #[Attributes](<Attributes.md>) | #[Filter](<Filter.md>) | #[Linked References](<Linked References.md>) | #[Tags](<Tags.md>)
     - **[## Articles](<## Articles.md>):**
         - ### [How to use filters in Roam](https://www.roamtips.com/home/how-to-use-filters-in-roam) by [Roam Tips and Hacks](<Roam Tips and Hacks.md>)
         - ### [Using Roam Research for GTD-Style Task Management](https://thesweetsetup.com/using-roam-research-for-gtd-style-task-management/) by [Mike Schmitz](<Mike Schmitz.md>)

@@ -56,13 +56,13 @@
 - **[## Community Videos](<## Community Videos.md>):**
     - ### Roam Research: Kanban Board by [Les Kristofs](<Les Kristofs.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=zZIBcCunK-I}}
-#[Kanban](<Kanban.md>) | #[Block References](<Block References.md>)
+          #[Kanban](<Kanban.md>) | #[Block References](<Block References.md>)
     - ### Roam Research: How to Plan Your Week in Roam by [Shu Omi](<Shu Omi.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=p-hpOG6TmeM}}
-#[Kanban](<Kanban.md>) | #[Templates](<Templates.md>)
+          #[Kanban](<Kanban.md>) | #[Templates](<Templates.md>)
 - **[## Articles](<## Articles.md>):**
     - ### [How to create a Kanban board on Roam](https://www.roamtips.com/home/roam-kanban-board) by [Roam Tips](<Roam Tips.md>)
-
+      
 - [.--](<.--.md>)
 
 # Backlinks

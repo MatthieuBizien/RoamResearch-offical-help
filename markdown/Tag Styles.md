@@ -4,36 +4,36 @@
             - Try it out
                 - {{[[roam/css]]}}
                     - ```css
-.morning-routine {
- background-image: 
-    linear-gradient(
-      hsla(4,90%,58%,0.42),
-      hsl(45,100%,51%, 0.6)
-    ); 
-}
-
-.break {
-   background-color: #607D8B59;
-}
-
-.increased-emotional-energy {
-  border-right: 4px solid green;
-}
-
-.decreased-emotional-energy {
-    border-right: 4px solid red;
-}
-
-.ramp-up {
-  border-right: 4px solid;
-  border-image: 
-    linear-gradient(
-      to top, 
-      green, 
-      rgba(0, 0, 0, 0)
-    ) 1 100%;
-}
-```
+                      .morning-routine {
+                       background-image: 
+                          linear-gradient(
+                            hsla(4,90%,58%,0.42),
+                            hsl(45,100%,51%, 0.6)
+                          ); 
+                      }
+                      
+                      .break {
+                         background-color: #607D8B59;
+                      }
+                      
+                      .increased-emotional-energy {
+                        border-right: 4px solid green;
+                      }
+                      
+                      .decreased-emotional-energy {
+                          border-right: 4px solid red;
+                      }
+                      
+                      .ramp-up {
+                        border-right: 4px solid;
+                        border-image: 
+                          linear-gradient(
+                            to top, 
+                            green, 
+                            rgba(0, 0, 0, 0)
+                          ) 1 100%;
+                      }
+                      ```
             - [[Example]] Top Level of your Daily Note 
                 - Log
                     - 06:00 - 7:00 #[[.morning-routine]]

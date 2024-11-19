@@ -1,7 +1,7 @@
 - **[## Community Videos](<## Community Videos.md>):**
     - ### Processing Sermon/Bible Notes Using Roam Research by [Mickey Mellen](<Mickey Mellen.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=nplokaE6FKY&ab_channel=MickeyMellen}}
-#[Page References](<Page References.md>) | #[Linked References](<Linked References.md>) | #[Graph Overview](<Graph Overview.md>) | #[Block References](<Block References.md>) | #[Sidebar](<Sidebar.md>)
+          #[Page References](<Page References.md>) | #[Linked References](<Linked References.md>) | #[Graph Overview](<Graph Overview.md>) | #[Block References](<Block References.md>) | #[Sidebar](<Sidebar.md>)
 - **[## Articles](<## Articles.md>):**
     - ### [How I’m Using Roam Research for Bible Study](https://thesweetsetup.com/how-im-using-roam-research-for-bible-study/) by [Josh Ginter](<Josh Ginter.md>)
         - #[Graph Overview](<Graph Overview.md>) | #[Date picker](<Date picker.md>) | #[Upload Files](<Upload Files.md>) | #[Markdown](<Markdown.md>) | #[Page References](<Page References.md>) | #[Block References](<Block References.md>)

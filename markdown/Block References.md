@@ -88,10 +88,10 @@
 - Community Videos::
     - Quick Intro to Block References in Roam Research by [[Matias Faure]]
         - {{[[video]]: https://www.youtube.com/watch?v=O413tVCseio}}
-#[[Block References]] | #[[Right Sidebar]]
+          #[[Block References]] | #[[Right Sidebar]]
     - Roam Research: Quick access to concepts/definitions using Links and Block References by [[Les Kristofs]]
         - {{[[video]]: https://www.youtube.com/watch?v=nhGhg0LdgSQ}}
-#[[Linked References]] | #[[Block References]]
+          #[[Linked References]] | #[[Block References]]
 - Articles::
     - [Roam’s Block Reference Context Menu: A Primer](https://roamstack.com/roam-block-reference-menu/) by [[RoamStack]]
         - #[[Block References]] | #[[Right Sidebar]] | #[[Block Embed]] | #[[text and alias]] | #[[Alias]] 

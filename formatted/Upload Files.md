@@ -8,7 +8,7 @@
 - **[Community Videos](<Community Videos.md>):**
     - Roam Research: Adding a File by [Les Kristofs](<Les Kristofs.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=JgT_zGrudko}}
-#[Upload Files](<Upload Files.md>) | #[/ Commands](</ Commands.md>)
+          #[Upload Files](<Upload Files.md>) | #[/ Commands](</ Commands.md>)
 - **[Key Commands](<Key Commands.md>):**
     - `/upload`
 

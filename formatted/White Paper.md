@@ -47,9 +47,9 @@
         - Even at face value, a nodal network provides a visual aid to problem-solving - a bird’s eye view of the connections between various elements. This may help to identify patterns or clusters which may be counterintuitive or entirely invisible when each piece of the puzzle is examined at the object level.
     - **6.2	Bayesian reasoning**
         - Applying Bayesian reasoning to the knowledge graph makes it a powerful tool for estimating probabilities, testing hypotheses, and making decisions. Bayes’ Theorem is a law of probability that tells us how much we should change our minds about something when we learn a new fact or acquire new evidence. The theorem is stated in the following equation:
-
-        $$P(A|B) =  {P(B|A) P(A) \over P(B)}$$ 
-
+          
+                  $$P(A|B) =  {P(B|A) P(A) \over P(B)}$$ 
+          
             - where A is the proposition of interest, B is the observed evidence, P(A) and P(B) are prior probabilities, and P(A|B) is the posterior probability of A.
         - Suppose a doctor has a patient who is worried about carrying a latent disease, because he belongs to an at-risk group. This is the ‘proposition of interest’ on the left side of the equation. Prior data suggests 4% of the general population are carriers, so $$P(A) = 0.04$$. B is the observed evidence, which is that 32% of the general population are members of the at-risk group. $$P(B) = 0.32$$. The doctor knows that among patients who do carry the disease, 80% belong to the at-risk group: $$B|A = 0.8$$.
             - The doctor applies Bayes’ theorem:

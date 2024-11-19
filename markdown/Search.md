@@ -29,7 +29,7 @@
     - ## Community Videos::
         - ### Top 10 Roam Shortcuts for Beginners by [[Zack Fan]]
             - {{[[video]]: https://www.youtube.com/watch?v=hWeU14NAgyw}}
-#[[Right Sidebar]] | #[[Graph Overview]] | #[[Block Search]] | #[[Find or create page]] | #[[Navigation]]
+              #[[Right Sidebar]] | #[[Graph Overview]] | #[[Block Search]] | #[[Find or create page]] | #[[Navigation]]
 - # [[Tags]]
     - ## Team GIFs::
         - Inline tag search

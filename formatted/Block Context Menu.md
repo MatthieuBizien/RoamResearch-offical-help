@@ -31,7 +31,7 @@
 - **[Roam Team Videos](<Roam Team Videos.md>):**
     - Mermaid diagrams combined with version control in Roam Research by [Conor White-Sullivan](<Conor White-Sullivan.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=UF22iK8fX-A&t}}
-#[Version Control](<Version Control.md>) | #[Diagram](<Diagram.md>)
+          #[Version Control](<Version Control.md>) | #[Diagram](<Diagram.md>)
 - **[Articles](<Articles.md>):**
     - [Programming your attention with Roam Research and ∆](https://elaptics.co.uk/journal/roam-research-programmable-attention/) by [Elaptics](<Elaptics.md>)
         - #[Delta](<Delta.md>) | #[Spaced Repetition](<Spaced Repetition.md>) | #[Programmable Attention](<Programmable Attention.md>)
@@ -43,12 +43,12 @@
 - **[Community Videos](<Community Videos.md>):**
     - Roam Research: Delta Feature by [Les Kristofs](<Les Kristofs.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=2DkzqmidG54}}
-#[Delta](<Delta.md>)
+          #[Delta](<Delta.md>)
     - Concept of using Delta and Kanban for Time Management by [RoamHacker](<RoamHacker.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=sCGnWMqLteE}}
-#[Delta](<Delta.md>) | #[Kanban](<Kanban.md>)
+          #[Delta](<Delta.md>) | #[Kanban](<Kanban.md>)
     - Versions: Fundamentals of Roam Research by [R.J. Nestor](<R.J. Nestor.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=ryU0bMAz1zo}}
-#[Version Control](<Version Control.md>) 
+          #[Version Control](<Version Control.md>) 
 - **[Key Commands](<Key Commands.md>):**
     - `⬅ Right click on the circle bullet`

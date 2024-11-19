@@ -5,9 +5,9 @@
         - Team GIFs::
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fp8y1UIR1C0.gif?alt=media&token=b7b763f2-b5f6-4e37-a015-0053dc0bf63c)
                 - `/upload` to upload from your local computer
-#[[Key Commands]]
+                  #[[Key Commands]]
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fk6NvrFcN0y.gif?alt=media&token=2983eb2f-ccd4-4d0c-beed-a386bfc5a614)
                 - Highlight a word, press `Cmd+k or Ctrl+k`, paste the image link
-#[[Key Commands]]
+                  #[[Key Commands]]
 - Key Commands::
     - `![image](yourimageurl.com)` to pull from the internt
