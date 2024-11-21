@@ -1,6 +1,9 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[November 21st, 2024]]
+        - [[Bug Fixes]]
+            - Fixed pasting [[Table]]s, they now convert into `{{[[table]]}}`
     - [[November 19th, 2024]]
         - [[Bug Fixes]]
             - Fixed lots of bugs when [importing]([[Import]]) markdown (or pasting from a plain text source)

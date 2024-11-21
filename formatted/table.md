@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Change Log](<Change Log.md>)
+- Fixed pasting [Table](<Table.md>)s, they now convert into `{{[table](<table.md>)}
+
 - {{[table](<table.md>)}
 
 - {{[table](<table.md>)}

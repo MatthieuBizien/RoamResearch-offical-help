@@ -18,6 +18,8 @@
 - [Table](<Table.md>)
 
 ## [Change Log](<Change Log.md>)
+- Fixed pasting [Table](<Table.md>)s
+
 - `{{table}}` #[Table](<Table.md>)
 
 ## [Features](<Features.md>)

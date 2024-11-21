@@ -1,6 +1,9 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [November 21st, 2024](<November 21st, 2024.md>)
+        - [Bug Fixes](<Bug Fixes.md>)
+            - Fixed pasting [Table](<Table.md>)s, they now convert into `{{[table](<table.md>)}}`
     - [November 19th, 2024](<November 19th, 2024.md>)
         - [Bug Fixes](<Bug Fixes.md>)
             - Fixed lots of bugs when [importing]([Import](<Import.md>)) markdown (or pasting from a plain text source)
