@@ -1,6 +1,9 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [November 24th, 2024](<November 24th, 2024.md>)
+        - [Quality of Life Improvements](<Quality of Life Improvements.md>)
+            - Add vb and vbscript to [Code Block](<Code Block.md>)s
     - [November 21st, 2024](<November 21st, 2024.md>)
         - [Bug Fixes](<Bug Fixes.md>)
             - Fixed pasting [Table](<Table.md>)s, they now convert into `{{[table](<table.md>)}}`

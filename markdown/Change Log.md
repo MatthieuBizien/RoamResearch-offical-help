@@ -1,6 +1,9 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[November 24th, 2024]]
+        - [[Quality of Life Improvements]]
+            - Add vb and vbscript to [[Code Block]]s
     - [[November 21st, 2024]]
         - [[Bug Fixes]]
             - Fixed pasting [[Table]]s, they now convert into `{{[[table]]}}`

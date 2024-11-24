@@ -42,6 +42,8 @@
 - [Code Block](<Code Block.md>)
 
 ## [Change Log](<Change Log.md>)
+- Add vb and vbscript to [Code Block](<Code Block.md>)s
+
 - Added [xml](<xml.md>) support for [Code Block](<Code Block.md>)s
 
 - Added JSON and JSON-LD [Code Block](<Code Block.md>)
