@@ -1,6 +1,12 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[November 25th, 2024]]
+        - [[Quality of Life Improvements]]
+            - Small speed improvement when opening `(())` search
+        - [[Bug Fixes]]
+            - Fix alignment of bullets in queries
+            - Fix alignment of the outermost | in inline refs
     - [[November 24th, 2024]]
         - [[Quality of Life Improvements]]
             - Add vb and vbscript to [[Code Block]]s
