@@ -1,6 +1,14 @@
 - ## [Updating Roam]([Updating Roam](<Updating Roam.md>))
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [November 26th, 2024](<November 26th, 2024.md>)
+        - [New Features](<New Features.md>)
+            - [query](<query.md>) full text search
+                - You can now use `{search: <search query>}` to search inside of your queries!
+                - {{[query](<query.md>): {and: [Bug Fixes](<Bug Fixes.md>) {search: import}}}}
+                - You can also combine two searches with AND to search across block's paths
+                    - `{{[query](<query.md>): {and: {search: June} {search: mobile}}}}`
+                    - {{[query](<query.md>): {and: {search: June} {search: mobile}}}}
     - [November 25th, 2024](<November 25th, 2024.md>)
         - [Quality of Life Improvements](<Quality of Life Improvements.md>)
             - Small speed improvement when opening `(())` search
