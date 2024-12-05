@@ -1,6 +1,12 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[December 5th, 2024]]
+        - [[Bug Fixes]]
+            - Fixed pasting `{{table}}`s from Microsoft Excel desktop
+            - Fixed some bugs when pasting from Microsoft word desktop
+                - Formatting like bold and italics should copy over now
+                - Paste shouldn't include extra (random) newlines anymore
     - [[November 26th, 2024]]
         - [[New Features]]
             - [[query]] full text search
