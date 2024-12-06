@@ -1,6 +1,12 @@
 - ## [Updating Roam]([[Updating Roam]])
 - ## [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
 - ## **New Changes**
+    - [[December 6th, 2024]]
+        - [[Desktop App]] 0.0.23
+            - Fixed warning when installing on [[Windows]]
+            - Fixed it not working on [[Ubuntu]] >= 24.10
+            - Fixed images in offline graph's [[excalidraw]] not displaying
+            - Fixed images uploaded through offline graph's [[excalidraw]] not having the right file extension
     - [[December 5th, 2024]]
         - [[Bug Fixes]]
             - Fixed pasting `{{table}}`s from Microsoft Excel desktop
